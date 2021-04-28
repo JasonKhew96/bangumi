@@ -1,0 +1,852 @@
+{
+  "status": 0,
+  "startTime": 1616342400,
+  "endTime": 1625414400,
+  "result": [
+    {
+      "title": {
+        "jp": "舞妓さんちのまかないさん",
+        "tw": "舞伎家的料理人",
+        "cn": "舞伎家的料理人",
+        "en": "Kiyo in Kyoto: From the Maiko House"
+      },
+      "premiereTime": {
+        "jp": 1614256200,
+        "anigamer": 1614261600,
+        "bilibiliIntl": 1614261600,
+        "bilibiliMainland": 1614261600,
+        "bilibiliOverseas": 1614261600,
+        "crunchyroll": 1614261600
+      },
+      "releaseEvery": 9999999999,
+      "episodesLength": 12,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 2,
+          "time": {
+            "jp": 1616675400,
+            "anigamer": 1616680800,
+            "bilibiliIntl": 1616680800,
+            "bilibiliMainland": 1616680800,
+            "bilibiliOverseas": 1616680800,
+            "crunchyroll": 1616680800
+          }
+        },
+        {
+          "type": "scheduled",
+          "index": 3,
+          "time": {
+            "jp": 1619094600,
+            "anigamer": 1619100000,
+            "bilibiliIntl": 1619100000,
+            "bilibiliMainland": 1619100000,
+            "bilibiliOverseas": 1619100000,
+            "crunchyroll": 1619100000
+          }
+        },
+        {
+          "type": "scheduled",
+          "index": 4,
+          "time": {
+            "jp": 1622118600,
+            "anigamer": 1622124000,
+            "bilibiliIntl": 1622124000,
+            "bilibiliMainland": 1622124000,
+            "bilibiliOverseas": 1622124000,
+            "crunchyroll": 1622124000
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "jp": "1614472200",
+        "en": "Tropical-Rouge! Precure"
+      },
+      "premiereTime": {
+        "jp": 1614472200,
+        "crunchyroll": 1614475800
+      }
+    },
+    {
+      "title": {
+        "jp": "ドラゴンクエスト ダイの大冒険",
+        "tw": "勇者鬥惡龍 達爾大冒險",
+        "en": "Dragon Quest: The Adventure of Dai"
+      },
+      "premiereTime": {
+        "jp": 1601685000,
+        "anigamer": 1601690400,
+        "crunchyroll": 1601690400
+      }
+    },
+    {
+      "title": {
+        "jp": "蜘蛛ですが、なにか？",
+        "tw": "轉生成蜘蛛又怎樣！",
+        "cn": "转生成蜘蛛又怎样！",
+        "en": "So I'm a Spider, So What?"
+      },
+      "premiereTime": {
+        "jp": 1610112600,
+        "anigamer": 1610112600,
+        "bilibiliIntl": 1610112600,
+        "bilibiliMainland": 1610112600,
+        "bilibiliOverseas": 1610112600,
+        "iqiyiTaiwan": 1610112600,
+        "crunchyroll": 1610112600
+      },
+      "episodesLength": 24,
+      "schedule": [
+        {
+          "type": "delayed_normal",
+          "index": 13
+        }
+      ]
+    },
+    {
+      "title": {
+        "jp": "バック・アロウ",
+        "tw": "BACK ARROW",
+        "cn": "巴克·亚罗/BACK ARROW"
+      },
+      "premiereTime": {
+        "jp": 1610118000,
+        "anigamer": 1610123400,
+        "bilibiliIntl": 1610123400,
+        "bilibiliMainland": 1610123400,
+        "bilibiliOverseas": 1610123400,
+        "funimation": 1610123400
+      }
+    },
+    {
+      "title": {
+        "jp": "僕のヒーローアカデミア 第5期",
+        "tw": "我的英雄學院 第五季",
+        "cn": "我的英雄学院 第五季",
+        "en": "My Hero Academia Season 5"
+      },
+      "premiereTime": {
+        "jp": 1616833800,
+        "anigamer": 1616837400,
+        "bilibiliIntl": 1616837400,
+        "iqiyiTaiwan": 1616837400,
+        "iqiyiAsia": 1616837400,
+        "funimation": 1616837400
+      },
+      "episodesLength": 25
+    },
+    {
+      "title": {
+        "jp": "小林さんちのメイドラゴンS",
+        "en": "Miss Kobayashi's Dragon Maid S Short Animation Series"
+      },
+      "premiereTime": {
+        "crunchyroll": 1617786000
+      }
+    },
+    {
+      "title": {
+        "jp": "SHAMAN KING",
+        "tw": "通靈王",
+        "cn": "通灵王"
+      },
+      "premiereTime": {
+        "jp": 1617267300,
+        "bilibiliMainland": 1617271200
+      },
+      "episodesLength": 52
+    },
+    {
+      "title": {
+        "jp": "ゴジラ シンギュラポイント",
+        "tw": "哥斯拉 奇異點"
+      },
+      "premiereTime": {
+        "jp": 1617283800
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "SSSS.DYNAZENON",
+        "tw": "SSSS.DYNAZENON",
+        "cn": "SSSS.电光机王",
+        "en": "SSSS.DYNAZENON"
+      },
+      "premiereTime": {
+        "jp": 1617368400,
+        "bilibiliIntl": 1617372000,
+        "bilibiliMainland": 1617372000,
+        "bilibiliOverseas": 1617372000,
+        "funimation": 1617397200
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "やくならマグカップも",
+        "tw": "燒窯的話也要馬克杯",
+        "cn": "烧窑的话也要马克杯",
+        "en": "Let's Make a Mug Too"
+      },
+      "premiereTime": {
+        "jp": 1617378900,
+        "anigamer": 1617636600,
+        "bilibiliIntl": 1617633000,
+        "bilibiliMainland": 1617636600,
+        "bilibiliOverseas": 1617636600,
+        "crunchyroll": 1617633000
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "灼熱カバディ",
+        "tw": "灼熱卡巴迪",
+        "en": "Burning Kabaddi"
+      },
+      "premiereTime": {
+        "jp": 1617380580,
+        "anigamer": 1617384180,
+        "crunchyroll": 1617386400
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "ましろのおと",
+        "tw": "真白之音",
+        "cn": "纯白之音",
+        "en": "Those Snow White Notes"
+      },
+      "premiereTime": {
+        "jp": 1617384300,
+        "anigamer": 1617390000,
+        "bilibiliIntl": 1617390000,
+        "bilibiliMainland": 1617390000,
+        "bilibiliOverseas": 1617390000,
+        "crunchyroll": 1617389100
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "どすこいすしずもう",
+        "tw": "壽司大相撲"
+      },
+      "premiereTime": {
+        "jp": 1617402300,
+        "anigamer": 1617402600
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "カードファイト!! ヴァンガード overDress",
+        "tw": "卡片戰鬥!! 先導者 overdress",
+        "en": "CARDFIGHT!! VANGUARD overDress"
+      },
+      "premiereTime": {
+        "jp": 1617404400,
+        "anigamer": 1617463800,
+        "crunchyroll": 1617450000
+      },
+      "episodesLength": 12,
+      "schedule": [
+        {
+          "type": "delayed_normal",
+          "index": 4
+        }
+      ]
+    },
+    {
+      "title": {
+        "jp": "Vivy -Fluorite Eye's Song-",
+        "tw": "Vivy -Fluorite Eye's Song-",
+        "en": "Vivy -Fluorite Eye's Song-"
+      },
+      "premiereTime": {
+        "jp": 1617460200,
+        "anigamer": 1617465600,
+        "funimation": 1617465540
+      },
+      "episodesLength": 13,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 2,
+          "time": {
+            "jp": 1617460200,
+            "anigamer": 1617465600,
+            "funimation": 1617465540
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "jp": "戦闘員、派遣します！",
+        "tw": "戰鬥員派遣中！",
+        "cn": "战斗员派遣中！",
+        "en": "Combatants Will Be Dispatched!"
+      },
+      "premiereTime": {
+        "jp": 1617537600,
+        "anigamer": 1617543000,
+        "bilibiliIntl": 1617543000,
+        "bilibiliOverseas": 1617543000,
+        "funimation": 1617537600
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "憂国のモリアーティ 2クール目",
+        "tw": "憂國的莫里亞蒂 後半季",
+        "cn": "忧国的莫里亚蒂 后半",
+        "en": "Moriarty the Patriot"
+      },
+      "premiereTime": {
+        "jp": 1617543000,
+        "anigamer": 1617548400,
+        "bilibiliMainland": 1617548400,
+        "bilibiliIntl": 1617548400,
+        "bilibiliOverseas": 1617548400,
+        "funimation": 1617544800
+      },
+      "episodeStart": 12,
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "ドラゴン、家を買う。",
+        "tw": "龍先生，想要買個家。",
+        "cn": "龙先生，想要买个家",
+        "en": "Dragon Goes House-Hunting"
+      },
+      "premiereTime": {
+        "jp": 1617541200,
+        "bilibiliIntl": 1617544800,
+        "bilibiliMainland": 1617544800,
+        "bilibiliOverseas": 1617544800,
+        "funimation": 1617544800
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "NOMAD メガロボクス2",
+        "tw": "NOMAD MEGALOBOX 機甲拳擊 第二季",
+        "cn": "装甲重拳/MEGALOBOX 第二季",
+        "en": "MEGALOBOX"
+      },
+      "premiereTime": {
+        "jp": 1617544800,
+        "anigamer": 1617548400,
+        "bilibiliIntl": 1617548400,
+        "bilibiliMainland": 1617548400,
+        "bilibiliOverseas": 1617548400,
+        "funimation": 1617548400
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "さよなら私のクラマー",
+        "tw": "再見了，我的克拉默",
+        "cn": "再见了，我的克拉默",
+        "en": "Farewell, My Dear Cramer"
+      },
+      "premiereTime": {
+        "jp": 1617546600,
+        "anigamer": 1617552000,
+        "bilibiliIntl": 1617552000,
+        "bilibiliOverseas": 1617552000,
+        "crunchyroll": 1617552000
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "黒ギャルになったから親友としてみた。",
+        "tw": "變身成黑辣妹之後就和死黨上床了"
+      },
+      "premiereTime": {
+        "jp": 1617552000,
+        "anigamer": 1617552300
+      },
+      "episodesLength": 8
+    },
+    {
+      "title": {
+        "jp": "セブンナイツ レボリューション -英雄の継承者-",
+        "tw": "七騎士：革命 -英雄的繼承者-",
+        "cn": "七骑士 英雄的继承者",
+        "en": "SEVEN KNIGHTS REVOLUTION: Hero Successor"
+      },
+      "premiereTime": {
+        "jp": 1617552000,
+        "anigamer": 1617553800,
+        "bilibiliIntl": 1617553800,
+        "bilibiliOverseas": 1617553800,
+        "crunchyroll": 1617553800
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "jp": "恋と呼ぶには気持ち悪い",
+        "tw": "如果這叫愛情感覺會很噁心",
+        "cn": "这如果叫作爱情 感觉会很恶心",
+        "en": "Koikimo"
+      },
+      "premiereTime": {
+        "jp": 1617627600,
+        "bilibiliIntl": 1617626700,
+        "bilibiliMainland": 1617626700,
+        "bilibiliOverseas": 1617626700,
+        "crunchyroll": 1617626700
+      },
+      "episodesLength": 12,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 2,
+          "time": {
+            "bilibiliIntl": 1617626700,
+            "bilibiliMainland": 1617626700,
+            "bilibiliOverseas": 1617626700
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "jp": "ひげを剃る。そして女子高生を拾う。",
+        "tw": "刮掉鬍子的我與撿到的女高中生",
+        "cn": "当我刮掉胡子时，会发生什么事",
+        "en": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
+      },
+      "premiereTime": {
+        "jp": 1617629400,
+        "anigamer": 1617634800,
+        "bilibiliIntl": 1617634800,
+        "bilibiliOverseas": 1617634800,
+        "crunchyroll": 1617634800
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "フルーツバスケット The Final",
+        "tw": "魔法水果籃 最終季",
+        "en": "Fruits Basket The Final Season"
+      },
+      "premiereTime": {
+        "jp": 1617640200,
+        "anigamer": 1617643800,
+        "iqiyiAsia": 1617674400,
+        "crunchyroll": 1617644100
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "jp": "MARS RED",
+        "tw": "MARS RED",
+        "cn": "煋红",
+        "en": "MARS RED"
+      },
+      "premiereTime": {
+        "jp": 1617641940,
+        "bilibiliIntl": 1617645600,
+        "bilibiliOverseas": 1617645600,
+        "funimation": 1617645600
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "オッドタクシー",
+        "tw": "ODD TAXI",
+        "en": "ODDTAXI"
+      },
+      "premiereTime": {
+        "jp": 1617642000,
+        "anigamer": 1617645600,
+        "crunchyroll": 1617647400
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "iiiあいすくりん",
+        "tw": "iii icecrin"
+      },
+      "premiereTime": {
+        "jp": 1617661800,
+        "anigamer": 1617663600
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "転生したらスライムだった件 転スラ日記",
+        "tw": "轉生史萊姆日記 關於我轉生變成史萊姆這檔事",
+        "cn": "关于我转生变成史莱姆这档事 转生史莱姆日记",
+        "en": "The Slime Diaries"
+      },
+      "premiereTime": {
+        "jp": 1617717600,
+        "anigamer": 1617723000,
+        "bilibiliIntl": 1617723000,
+        "bilibiliOverseas": 1617723000,
+        "iqiyiTaiwan": 1617723000,
+        "iqiyiAsia": 1617723000,
+        "crunchyroll": 1617721200
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "聖女の魔力は万能です",
+        "tw": "聖女魔力無所不能",
+        "cn": "圣女魔力无所不能",
+        "en": "The Saint's Magic Power is Omnipotent"
+      },
+      "premiereTime": {
+        "jp": 1617719400,
+        "anigamer": 1617724800,
+        "bilibiliIntl": 1617724800,
+        "bilibiliMainland": 1617724800,
+        "bilibiliOverseas": 1617724800,
+        "funimation": 1617748200
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "擾乱　THE PRINCESS OF SNOW AND BLOOD",
+        "tw": "擾亂 THE PRINCESS OF SNOW AND BLOOD",
+        "cn": "扰乱 THE PRINCESS OF SNOW AND BLOOD",
+        "en": "JORAN THE PRINCESS OF SNOW AND BLOOD"
+      },
+      "premiereTime": {
+        "jp": 1617116400,
+        "anigamer": 1617120000,
+        "bilibiliOverseas": 1617120000,
+        "bilibiliIntl": 1617120000,
+        "iqiyiTaiwan": 1617120000,
+        "iqiyiAsia": 1617120000,
+        "crunchyroll": 1617120000
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "究極進化したフルダイブRPGが現実よりもクソゲーだったら",
+        "tw": "如果究極進化的完全沉浸 RPG 比現實還更像垃圾遊戲的話",
+        "cn": "如果究极进化的完全沉浸RPG比现实更垃圾的话",
+        "en": "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!"
+      },
+      "premiereTime": {
+        "jp": 1617802200,
+        "anigamer": 1617805800,
+        "bilibiliIntl": 1617805800,
+        "bilibiliOverseas": 1617805800,
+        "funimation": 1617805740
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "スーパーカブ",
+        "tw": "本田小狼與我",
+        "en": "Super Cub"
+      },
+      "premiereTime": {
+        "jp": 1617804000,
+        "anigamer": 1617809400,
+        "funimation": 1617807600
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "jp": "ヘタリア World★Stars",
+        "tw": "義呆利 World Stars",
+        "cn": "黑塔利亚 World★Stars",
+        "en": "Hetalia"
+      },
+      "premiereTime": {
+        "jp": 1617202800,
+        "anigamer": 1617206700,
+        "bilibiliIntl": 1617206700,
+        "bilibiliOverseas": 1617206700,
+        "funimation": 1617206340
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "Fairy蘭丸～あなたの心お助けします～",
+        "tw": "Fairy蘭丸～讓我來幫助你的心～",
+        "cn": "Fairy兰丸～让我来帮助你的心～",
+        "en": "FAIRY RANMARU"
+      },
+      "premiereTime": {
+        "jp": 1617890400,
+        "bilibiliIntl": 1617894000,
+        "bilibiliOverseas": 1617894000,
+        "crunchyroll": 1617894000
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "ゾンビランドサガ リベンジ",
+        "tw": "佐賀偶像是傳奇 捲土重來",
+        "cn": "佐贺偶像是传奇 卷土重来",
+        "en": "ZOMBIE LAND SAGA REVENGE"
+      },
+      "premiereTime": {
+        "jp": 1617892200,
+        "anigamer": 1617896700,
+        "bilibiliIntl": 1617896700,
+        "bilibiliMainland": 1617896700,
+        "bilibiliOverseas": 1617896700,
+        "iqiyiTaiwan": 1617896700,
+        "iqiyiAsia": 1617896700,
+        "crunchyroll": 1617895800
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "バクテン!!",
+        "tw": "後空翻少年!!"
+      },
+      "premiereTime": {
+        "jp": 1617897300,
+        "anigamer": 1617902700
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "異世界魔王と召喚少女の奴隷魔術Ω",
+        "tw": "異世界魔王與召喚少女的奴隸魔術Ω",
+        "en": "HOW NOT TO SUMMON A DEMON LORD Ω"
+      },
+      "premiereTime": {
+        "jp": 1617899280,
+        "anigamer": 1619161200,
+        "iqiyiTaiwan": 1617951600,
+        "iqiyiAsia": 1617962400,
+        "crunchyroll": 1617907500
+      }
+    },
+    {
+      "title": {
+        "jp": "すばらしきこのせかい The Animation",
+        "tw": "美麗新世界 The Animation",
+        "cn": "美丽新世界 The Animation",
+        "en": "The World Ends with You The Animation"
+      },
+      "premiereTime": {
+        "jp": 1617985500,
+        "anigamer": 1617994500,
+        "bilibiliIntl": 1617994500,
+        "bilibiliMainland": 1617994500,
+        "bilibiliOverseas": 1617994500,
+        "funimation": 1618619100
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "BLUE REFLECTION RAY/澪",
+        "tw": "BLUE REFLECTION : 澪",
+        "cn": "蔚蓝反射 澪",
+        "en": "Blue Reflection Ray"
+      },
+      "premiereTime": {
+        "jp": 1617987300,
+        "anigamer": 1617993000,
+        "bilibiliIntl": 1617993000,
+        "bilibiliMainland": 1617993000,
+        "bilibiliOverseas": 1617993000,
+        "funimation": 1618620900
+      },
+      "episodesLength": 24
+    },
+    {
+      "title": {
+        "jp": "スライム倒して300年、知らないうちにレベルMAXになってました",
+        "tw": "持續狩獵史萊姆三百年，不知不覺就練到 LV MAX",
+        "cn": "打了300年的史莱姆，不知不觉就练到了满级",
+        "en": "I’VE BEEN KILLING SLIMES FOR 300 YEARS AND MAXED OUT MY LEVEL"
+      },
+      "premiereTime": {
+        "jp": 1618056000,
+        "anigamer": 1618061400,
+        "bilibiliIntl": 1618061400,
+        "bilibiliMainland": 1618061400,
+        "bilibiliOverseas": 1618061400,
+        "iqiyiTaiwan": 1618061400,
+        "iqiyiAsia": 1618061400,
+        "crunchyroll": 1618061400
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "86―エイティシックス―",
+        "tw": "86－不存在的戰區－",
+        "cn": "86 -不存在的战区-",
+        "en": "86 EIGHTY SIX"
+      },
+      "premiereTime": {
+        "jp": 1618066800,
+        "anigamer": 1618072200,
+        "bilibiliIntl": 1618072200,
+        "bilibiliOverseas": 1618072200,
+        "iqiyiTaiwan": 1618072200,
+        "iqiyiAsia": 1618072200,
+        "crunchyroll": 1618072200
+      },
+      "episodesLength": 11
+    },
+    {
+      "title": {
+        "jp": "シャドーハウス",
+        "tw": "影宅",
+        "cn": "影宅",
+        "en": "SHADOWS HOUSE"
+      },
+      "premiereTime": {
+        "jp": 1618068600,
+        "anigamer": 1618074000,
+        "bilibiliIntl": 1618074000,
+        "bilibiliOverseas": 1618074000,
+        "funimation": 1618678800
+      },
+      "episodesLength": 13
+    },
+    {
+      "title": {
+        "jp": "イジらないで、長瀞さん",
+        "tw": "不要欺負我，長瀞同學",
+        "en": "DON’T TOY WITH ME, MISS NAGATORO"
+      },
+      "premiereTime": {
+        "jp": 1618070400,
+        "anigamer": 1619281800,
+        "iqiyiTaiwan": 1618072200,
+        "iqiyiAsia": 1618072200,
+        "crunchyroll": 1618070400
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "バトルアスリーテス大運動会Restart!",
+        "tw": "大運動會 ReSTART！",
+        "cn": "大运动会 ReSTART！",
+        "en": "Battle Athletes Victory ReSTART!"
+      },
+      "premiereTime": {
+        "jp": 1618072200,
+        "bilibiliIntl": 1618072200,
+        "bilibiliMainland": 1618072200,
+        "bilibiliOverseas": 1618072200,
+        "funimation": 1618677000
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "jp": "美少年探偵団",
+        "tw": "美少年偵探團",
+        "cn": "美少年侦探团",
+        "en": "Pretty Boy Detective Club"
+      },
+      "premiereTime": {
+        "jp": 1618074000,
+        "bilibiliIntl": 1618079400,
+        "bilibiliOverseas": 1618079400,
+        "funimation": 1618684200
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "jp": "東京卍リベンジャーズ",
+        "tw": "東京復仇者",
+        "cn": "东京卍复仇者",
+        "en": "TOKYO REVENGERS"
+      },
+      "premiereTime": {
+        "jp": 1618074480,
+        "anigamer": 1618079880,
+        "bilibiliIntl": 1618079880,
+        "bilibiliOverseas": 1618079880,
+        "iqiyiTaiwan": 1618079880,
+        "crunchyroll": 1618081200
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "jp": "不滅のあなたへ",
+        "tw": "給不滅的你",
+        "cn": "致不灭的你",
+        "en": "TO YOUR ETERNITY"
+      },
+      "premiereTime": {
+        "jp": 1618235400,
+        "anigamer": 1618245000,
+        "bilibiliIntl": 1618245000,
+        "bilibiliOverseas": 1618245000,
+        "iqiyiTaiwan": 1618245000,
+        "iqiyiAsia": 1618245000,
+        "crunchyroll": 1618245000
+      },
+      "episodesLength": 20
+    },
+    {
+      "title": {
+        "jp": "幼なじみが絶対に負けないラブコメ",
+        "tw": "青梅竹馬絕對不會輸的戀愛喜劇",
+        "cn": "青梅竹马绝对不会输的恋爱喜剧",
+        "en": "OSAMAKE: ROMCOM WHERE THE CHILDHOOD FRIEND WON’T LOSE"
+      },
+      "premiereTime": {
+        "jp": 1618401600,
+        "anigamer": 1618407000,
+        "bilibiliIntl": 1618407000,
+        "bilibiliOverseas": 1618407000,
+        "crunchyroll": 1618405200
+      },
+      "episodesLength": 12
+    },
+    {
+      "title": {
+        "jp": "魔入りました！入間くん 第2シリーズ",
+        "tw": "入間同學入魔了 第二季",
+        "cn": "入间同学入魔了 第二季",
+        "en": "Welcome to Demon School! Iruma-kun"
+      },
+      "premiereTime": {
+        "jp": 1618648500,
+        "anigamer": 1618657200,
+        "bilibiliIntl": 1618657200,
+        "bilibiliOverseas": 1618657200,
+        "crunchyroll": 1618665300
+      },
+      "episodesLength": 21
+    }
+  ]
+}
