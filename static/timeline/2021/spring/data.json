@@ -67,7 +67,8 @@
       "premiereTime": {
         "jp": 1614472200,
         "crunchyroll": 1614475800
-      }
+      },
+      "episodesLength": 0
     },
     {
       "title": {
@@ -79,7 +80,8 @@
         "jp": 1601685000,
         "anigamer": 1601690400,
         "crunchyroll": 1601690400
-      }
+      },
+      "episodesLength": 0
     },
     {
       "title": {
@@ -118,7 +120,8 @@
         "bilibiliMainland": 1610123400,
         "bilibiliOverseas": 1610123400,
         "funimation": 1610123400
-      }
+      },
+      "episodesLength": 24
     },
     {
       "title": {
@@ -646,7 +649,8 @@
         "iqiyiTaiwan": 1617951600,
         "iqiyiAsia": 1617962400,
         "crunchyroll": 1617907500
-      }
+      },
+      "episodesLength": 10
     },
     {
       "title": {
