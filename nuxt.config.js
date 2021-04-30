@@ -40,7 +40,12 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
+      name: 'Bangumi Timeline',
+      short_name: 'BGM TL',
       lang: 'en',
+      background_color: '#17a2b8',
+      theme_color: '#17a2b8',
+      description: 'A Bangumi Timeline!',
     },
   },
 
