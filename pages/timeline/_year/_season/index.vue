@@ -2,29 +2,20 @@
   <div>
     <app-nav-bar />
     <b-container>
-      <b-button-toolbar>
-        <b-button-group>
-          <b-button @click="setLang('jp')">日本語</b-button>
-          <b-button @click="setLang('zh-hant')">繁體中文</b-button>
-          <b-button @click="setLang('zh-hans')">简体中文</b-button>
-          <b-button @click="setLang('en')">English</b-button>
-        </b-button-group>
-      </b-button-toolbar>
-      <b-button-toolbar>
-        <b-button-group>
-          <b-button @click="setTime('jp')">日本</b-button>
-          <b-button @click="setTime('anigamer')">巴哈動畫瘋</b-button>
-          <b-button @click="setTime('bilibiliMainland')">B站 大陆</b-button>
-          <b-button @click="setTime('bilibiliOverseas')">B站 港澳臺</b-button>
-          <b-button @click="setTime('bilibiliIntl')">B站 东南亚</b-button>
-          <b-button @click="setTime('iqiyiTaiwan')">愛奇異 臺灣</b-button>
-          <b-button @click="setTime('iqiyiAsia')">iQIYI Asia</b-button>
-          <b-button @click="setTime('funimation')">Funimation</b-button>
-          <b-button @click="setTime('crunchyroll')">Crunchyroll</b-button>
-        </b-button-group>
-      </b-button-toolbar>
+      <b-form-group label="Language">
+        <b-form-radio-group
+          v-model="inputLang"
+          :options="optsLang"
+        ></b-form-radio-group>
+      </b-form-group>
+      <b-form-group label="Distributor">
+        <b-form-radio-group
+          v-model="inputDistributor"
+          :options="optsDistributor"
+        ></b-form-radio-group>
+      </b-form-group>
     </b-container>
-    <app-timeline :timeline="inputTimeline" />
+    <app-timeline :timeline="inputTimeline" :input-lang="inputLang" />
   </div>
 </template>
 
@@ -44,25 +35,42 @@ export default Vue.extend({
   },
   data() {
     return {
-      inputLang: 'jp',
-      inputTime: 'jp',
+      inputLang: 'ja',
+      inputDistributor: 'ja',
       inputTimeline: [] as TimelineItem[],
       timelineType: 0,
       cacheResp: {},
+      optsLang: [
+        { value: 'ja', text: '日本語' },
+        { value: 'zh-tw', text: '中文繁體(臺灣)' },
+        { value: 'zh-cn', text: '中文简体(中国)' },
+        { value: 'en', text: 'English' },
+      ],
+      optsDistributor: [
+        { value: 'ja', text: '日本' },
+        { value: 'anigamer', text: '巴哈動畫瘋' },
+        { value: 'bilibiliMainland', text: 'B站 大陆' },
+        { value: 'bilibiliOverseas', text: 'B站 港澳臺' },
+        { value: 'bilibiliIntl', text: 'B站 东南亚' },
+        { value: 'iqiyiTaiwan', text: '愛奇異 臺灣' },
+        { value: 'iqiyiAsia', text: 'iQIYI Asia' },
+        { value: 'funimation', text: 'Funimation' },
+        { value: 'crunchyroll', text: 'Crunchyroll' },
+      ],
     }
+  },
+  watch: {
+    inputLang() {
+      this.processBangumi()
+    },
+    inputDistributor() {
+      this.processBangumi()
+    },
   },
   mounted() {
     this.processBangumi()
   },
   methods: {
-    setLang(lang: string) {
-      this.inputLang = lang
-      this.processBangumi()
-    },
-    setTime(time: string) {
-      this.inputTime = time
-      this.processBangumi()
-    },
     processBangumi(): void {
       this.inputTimeline = []
       const data = this.cacheResp as RawTimelineData
@@ -75,7 +83,7 @@ export default Vue.extend({
         let offset: number = 0
         for (let j = 1; j <= epLen; j++) {
           const premiereTime: number = this.handleTimeSwitch(
-            this.inputTime,
+            this.inputDistributor,
             bangumi.premiereTime
           )
           if (premiereTime === 0) continue
@@ -93,7 +101,7 @@ export default Vue.extend({
               switch (filtered[0].type) {
                 case 'scheduled':
                   timestamp = this.handleTimeSwitch(
-                    this.inputTime,
+                    this.inputDistributor,
                     filtered[0].time
                   )
                   offset -= releaseEvery
@@ -127,13 +135,18 @@ export default Vue.extend({
             index: j + epStart - 1,
             isEnd: bangumi.episodesLength === j,
             isSync:
-              this.inputTime === 'jp'
+              this.inputDistributor === 'ja'
                 ? false
-                : bangumi.premiereTime.jp ===
-                  this.handleTimeSwitch(this.inputTime, bangumi.premiereTime),
-            unsyncTime: bangumi.premiereTime.jp
-              ? this.handleTimeSwitch(this.inputTime, bangumi.premiereTime) -
-                bangumi.premiereTime.jp
+                : bangumi.premiereTime.ja ===
+                  this.handleTimeSwitch(
+                    this.inputDistributor,
+                    bangumi.premiereTime
+                  ),
+            unsyncTime: bangumi.premiereTime.ja
+              ? this.handleTimeSwitch(
+                  this.inputDistributor,
+                  bangumi.premiereTime
+                ) - bangumi.premiereTime.ja
               : 0,
           }
           this.inputTimeline.push(obj)
@@ -158,22 +171,22 @@ export default Vue.extend({
     },
     handleTitleSwitch(area: string, title: any): string {
       switch (area) {
-        case 'jp':
-          return title.jp
-        case 'zh-hant':
-          return title.tw || title.jp
-        case 'zh-hans':
-          return title.cn || title.jp
+        case 'ja':
+          return title.ja
+        case 'zh-tw':
+          return title.tw || title.ja
+        case 'zh-cn':
+          return title.cn || title.ja
         case 'en':
-          return title.en || title.jp
+          return title.en || title.ja
         default:
-          return title.jp
+          return title.ja
       }
     },
     handleTimeSwitch(area: string, time: any): number {
       switch (area) {
-        case 'jp':
-          return time.jp || 0
+        case 'ja':
+          return time.ja || 0
         case 'anigamer':
           return time.anigamer || 0
         case 'bilibiliMainland':

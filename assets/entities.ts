@@ -26,14 +26,14 @@ export interface RawTimelineData {
   endTime: number
   result: {
     title: {
-      jp: string
+      ja: string
       tw: string
       cn: string
       en: string
     }
     releaseEvery: number
     premiereTime: {
-      jp: number
+      ja: number
       anigamer: number
       bilibiliIntl: number
       bilibiliMainland: number
@@ -47,7 +47,7 @@ export interface RawTimelineData {
       type: string
       index: number
       time: {
-        jp: number
+        ja: number
         anigamer: number
         bilibiliIntl: number
         bilibiliMainland: number
