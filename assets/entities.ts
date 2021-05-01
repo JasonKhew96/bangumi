@@ -1,5 +1,20 @@
+export interface Title {
+  [key: string]: string
+}
+
+export interface PremiereTime {
+  [key: string]: {
+    releaseEvery: number
+    timestamp: number
+  }
+}
+
+export interface ScheduledTime {
+  [key: string]: number
+}
+
 export interface TimelineItem {
-  title: string
+  title: Title
   timestamp: number
   index: number
   isEnd: boolean
@@ -20,45 +35,21 @@ export interface TimelineDay {
   series: TimelineItem[]
 }
 
+export interface Bangumi {
+  title: Title
+  premiereTime: PremiereTime
+  schedule: {
+    type: string
+    index: number
+    time: ScheduledTime
+  }[]
+  episodesLength: number
+  episodeStart: number
+}
+
 export interface RawTimelineData {
   status: number
   startTime: number
   endTime: number
-  result: {
-    title: {
-      ja: string
-      tw: string
-      cn: string
-      en: string
-    }
-    releaseEvery: number
-    premiereTime: {
-      ja: number
-      anigamer: number
-      bilibiliIntl: number
-      bilibiliMainland: number
-      bilibiliOverseas: number
-      iqiyiTaiwan: number
-      iqiyiAsia: number
-      funimation: number
-      crunchyroll: number
-    }
-    schedule: {
-      type: string
-      index: number
-      time: {
-        ja: number
-        anigamer: number
-        bilibiliIntl: number
-        bilibiliMainland: number
-        bilibiliOverseas: number
-        iqiyiTaiwan: number
-        iqiyiAsia: number
-        funimation: number
-        crunchyroll: number
-      }
-    }[]
-    episodesLength: number
-    episodeStart: number
-  }[]
+  result: Bangumi[]
 }

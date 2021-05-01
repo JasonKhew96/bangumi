@@ -22,7 +22,7 @@
               <b-badge :variant="series.isEnd ? 'danger' : ''">{{
                 series.index
               }}</b-badge>
-              {{ series.title }}
+              {{ getTitle(series.title) }}
               <b-badge v-if="series.isSync" variant="success">SYNC</b-badge>
               <b-badge v-if="series.unsyncTime != 0">{{
                 humanizeSeconds(series.unsyncTime)
@@ -76,7 +76,7 @@
 
 <script lang="ts">
 import Vue, { PropType } from 'vue'
-import { TimelineDay, TimelineItem } from '@/assets/entities'
+import { TimelineDay, TimelineItem, Title } from '@/assets/entities'
 import moment from 'moment'
 
 export default Vue.extend({
@@ -97,13 +97,14 @@ export default Vue.extend({
       scY: 0,
     }
   },
+  computed: {},
   watch: {
     timeline() {
       this.processProp()
     },
     inputLang() {
       moment.locale(this.inputLang)
-      // this.processProp()
+      // this.$forceUpdate()
     },
   },
   mounted() {
@@ -118,6 +119,9 @@ export default Vue.extend({
         top: 0,
         behavior: 'smooth',
       })
+    },
+    getTitle(title: Title): string {
+      return title[this.inputLang] || title.ja
     },
     toToday() {
       const el = document.getElementById('today')

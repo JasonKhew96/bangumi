@@ -21,7 +21,12 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import { RawTimelineData, TimelineItem } from '@/assets/entities'
+import {
+  Bangumi,
+  RawTimelineData,
+  TimelineItem,
+  Title,
+} from '@/assets/entities'
 import AppNavBar from '~/components/AppNavBar.vue'
 import AppTimeline from '~/components/AppTimeline.vue'
 
@@ -56,6 +61,7 @@ export default Vue.extend({
         { value: 'iqiyiAsia', text: 'iQIYI Asia' },
         { value: 'funimation', text: 'Funimation' },
         { value: 'crunchyroll', text: 'Crunchyroll' },
+        { value: 'netflix', text: 'Netflix' },
       ],
     }
   },
@@ -79,14 +85,15 @@ export default Vue.extend({
       result.forEach((bangumi): void => {
         const epStart: number = bangumi.episodeStart || 1
         const epLen: number = bangumi.episodesLength || 25
-        const releaseEvery: number = bangumi.releaseEvery || 86400 * 7
+        if (!(this.inputDistributor in bangumi.premiereTime)) return
+        const premiereTimeArea = bangumi.premiereTime[this.inputDistributor]
+        const releaseEvery: number =
+          premiereTimeArea.releaseEvery === undefined
+            ? 86400 * 7
+            : premiereTimeArea.releaseEvery
         let offset: number = 0
         for (let j = 1; j <= epLen; j++) {
-          const premiereTime: number = this.handleTimeSwitch(
-            this.inputDistributor,
-            bangumi.premiereTime
-          )
-          if (premiereTime === 0) continue
+          const premiereTime: number = premiereTimeArea.timestamp
           let timestamp = premiereTime + (j - 1) * releaseEvery + offset
 
           // unintended schedule
@@ -100,10 +107,8 @@ export default Vue.extend({
             if (filtered.length > 0) {
               switch (filtered[0].type) {
                 case 'scheduled':
-                  timestamp = this.handleTimeSwitch(
-                    this.inputDistributor,
-                    filtered[0].time
-                  )
+                  if (!(this.inputDistributor in filtered[0].time)) continue
+                  timestamp = filtered[0].time[this.inputDistributor]
                   offset -= releaseEvery
                   break
                 case 'delayed_normal':
@@ -125,34 +130,41 @@ export default Vue.extend({
             continue
           }
 
-          const title: string = this.handleTitleSwitch(
-            this.inputLang,
-            bangumi.title
-          )
+          const title: Title = bangumi.title
+
           const obj = {
             title,
             timestamp,
             index: j + epStart - 1,
             isEnd: bangumi.episodesLength === j,
-            isSync:
-              this.inputDistributor === 'ja'
-                ? false
-                : bangumi.premiereTime.ja ===
-                  this.handleTimeSwitch(
-                    this.inputDistributor,
-                    bangumi.premiereTime
-                  ),
-            unsyncTime: bangumi.premiereTime.ja
-              ? this.handleTimeSwitch(
-                  this.inputDistributor,
-                  bangumi.premiereTime
-                ) - bangumi.premiereTime.ja
-              : 0,
+            isSync: this.isSync(bangumi),
+            unsyncTime: this.calcUnsyncTime(bangumi),
           }
           this.inputTimeline.push(obj)
         }
       })
       this.inputTimeline = this.inputTimeline.sort(this.timelineSortFunc)
+    },
+    isSync(bangumi: Bangumi): boolean {
+      if (this.inputDistributor === 'ja') return false
+      if (!(this.inputDistributor in bangumi.premiereTime)) {
+        return false
+      }
+      if (!('ja' in bangumi.premiereTime)) {
+        return false
+      }
+      return (
+        bangumi.premiereTime[this.inputDistributor].timestamp ===
+        bangumi.premiereTime.ja.timestamp
+      )
+    },
+    calcUnsyncTime(bangumi: Bangumi): number {
+      if (!('ja' in bangumi.premiereTime)) return 0
+      if (!(this.inputDistributor in bangumi.premiereTime)) return 0
+      return (
+        bangumi.premiereTime[this.inputDistributor].timestamp -
+        bangumi.premiereTime.ja.timestamp
+      )
     },
     timelineSortFunc(a1: TimelineItem, a2: TimelineItem): number {
       if (a1.timestamp > a2.timestamp) {
@@ -169,43 +181,8 @@ export default Vue.extend({
       }
       return false
     },
-    handleTitleSwitch(area: string, title: any): string {
-      switch (area) {
-        case 'ja':
-          return title.ja
-        case 'zh-tw':
-          return title.tw || title.ja
-        case 'zh-cn':
-          return title.cn || title.ja
-        case 'en':
-          return title.en || title.ja
-        default:
-          return title.ja
-      }
-    },
-    handleTimeSwitch(area: string, time: any): number {
-      switch (area) {
-        case 'ja':
-          return time.ja || 0
-        case 'anigamer':
-          return time.anigamer || 0
-        case 'bilibiliMainland':
-          return time.bilibiliMainland || 0
-        case 'bilibiliOverseas':
-          return time.bilibiliOverseas || 0
-        case 'bilibiliIntl':
-          return time.bilibiliIntl || 0
-        case 'iqiyiTaiwan':
-          return time.iqiyiTaiwan || 0
-        case 'iqiyiAsia':
-          return time.iqiyiAsia || 0
-        case 'funimation':
-          return time.funimation || 0
-        case 'crunchyroll':
-          return time.crunchyroll || 0
-        default:
-          return 0
-      }
+    handleTitleSwitch(area: string, title: Title): string {
+      return title[area] || title.ja || 'UNDEFINED'
     },
   },
 })
