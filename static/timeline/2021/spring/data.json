@@ -1,7 +1,7 @@
 {
   "status": 0,
-  "startTime": 1616342400,
-  "endTime": 1625414400,
+  "startTime": 1615737600,
+  "endTime": 1626278400,
   "result": [
     {
       "title": {
@@ -75,6 +75,36 @@
           }
         }
       ]
+    },
+    {
+      "title": {
+        "ja": "B: The Beginning Succession",
+        "zh-tw": "B: The Beginning Succession",
+        "zh-cn": "B: The Beginning Succession",
+        "en": "B: The Beginning: Succession"
+      },
+      "premiereTime": {
+        "netflix": {
+          "releaseEvery": 0,
+          "timestamp": 1615993200
+        }
+      },
+      "episodesLength": 6
+    },
+    {
+      "title": {
+        "ja": "YASUKE －ヤスケ－",
+        "zh-tw": "武士彌助",
+        "zh-cn": "武士弥助",
+        "en": "Yasuke"
+      },
+      "premiereTime": {
+        "netflix": {
+          "releaseEvery": 0,
+          "timestamp": 1619622000
+        }
+      },
+      "episodesLength": 6
     },
     {
       "title": {
