@@ -170,7 +170,8 @@
       "title": {
         "ja": "バック・アロウ",
         "zh-tw": "BACK ARROW",
-        "zh-cn": "巴克·亚罗/BACK ARROW"
+        "zh-cn": "巴克·亚罗/BACK ARROW",
+        "en": "BACK ARROW"
       },
       "premiereTime": {
         "ja": {
@@ -189,7 +190,7 @@
           "timestamp": 1610123400
         },
         "funimation": {
-          "timestamp": 1610123400
+          "timestamp": 1610119800
         }
       },
       "episodesLength": 24
@@ -283,7 +284,7 @@
           "timestamp": 1617372000
         },
         "funimation": {
-          "timestamp": 1617397200
+          "timestamp": 1617372000
         }
       },
       "episodesLength": 12
@@ -384,7 +385,7 @@
       "title": {
         "ja": "カードファイト!! ヴァンガード overDress",
         "zh-tw": "卡片戰鬥!! 先導者 overdress",
-        "en": "CARDFIGHT!! VANGUARD overDress"
+        "en": "Cardfight!! Vanguard overDress"
       },
       "premiereTime": {
         "ja": {
@@ -392,6 +393,9 @@
         },
         "anigamer": {
           "timestamp": 1617463800
+        },
+        "funimation": {
+          "timestamp": 1617493200
         },
         "crunchyroll": {
           "timestamp": 1617450000
@@ -419,7 +423,7 @@
           "timestamp": 1617465600
         },
         "funimation": {
-          "timestamp": 1617465540
+          "timestamp": 1617465600
         }
       },
       "episodesLength": 13,
@@ -430,7 +434,7 @@
           "time": {
             "ja": 1617460200,
             "anigamer": 1617465600,
-            "funimation": 1617465540
+            "funimation": 1617465600
           }
         }
       ]
@@ -466,7 +470,7 @@
         "ja": "憂国のモリアーティ 2クール目",
         "zh-tw": "憂國的莫里亞蒂 後半季",
         "zh-cn": "忧国的莫里亚蒂 后半",
-        "en": "Moriarty the Patriot"
+        "en": "Moriarty the Patriot Part 2"
       },
       "premiereTime": {
         "ja": {
@@ -522,7 +526,7 @@
         "ja": "NOMAD メガロボクス2",
         "zh-tw": "NOMAD MEGALOBOX 機甲拳擊 第二季",
         "zh-cn": "装甲重拳/MEGALOBOX 第二季",
-        "en": "MEGALOBOX"
+        "en": "MEGALOBOX 2: NOMAD"
       },
       "premiereTime": {
         "ja": {
@@ -811,7 +815,7 @@
           "timestamp": 1617724800
         },
         "funimation": {
-          "timestamp": 1617748200
+          "timestamp": 1617723000
         }
       },
       "episodesLength": 12
@@ -869,7 +873,7 @@
           "timestamp": 1617805800
         },
         "funimation": {
-          "timestamp": 1617805740
+          "timestamp": 1617805800
         }
       },
       "episodesLength": 12
@@ -914,7 +918,7 @@
           "timestamp": 1617206700
         },
         "funimation": {
-          "timestamp": 1617206340
+          "timestamp": 1617206400
         }
       },
       "episodesLength": 12
