@@ -62,6 +62,7 @@ export default Vue.extend({
         { value: 'funimation', text: 'Funimation' },
         { value: 'crunchyroll', text: 'Crunchyroll' },
         { value: 'netflix', text: 'Netflix' },
+        { value: 'netflixjp', text: 'Netflix JP' },
       ],
     }
   },

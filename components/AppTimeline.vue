@@ -104,7 +104,6 @@ export default Vue.extend({
     },
     inputLang() {
       moment.locale(this.inputLang)
-      // this.$forceUpdate()
     },
   },
   mounted() {
