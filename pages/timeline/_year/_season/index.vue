@@ -66,15 +66,21 @@ export default Vue.extend({
     }
   },
   watch: {
-    inputLang() {
-      this.processBangumi()
+    inputLang(newLang: String) {
+      localStorage.inputLang = newLang
     },
-    inputDistributor() {
+    inputDistributor(newDist: String) {
       this.processBangumi()
+      localStorage.inputDistributor = newDist
     },
   },
   mounted() {
-    this.processBangumi()
+    if (localStorage.inputLang) {
+      this.inputLang = localStorage.inputLang
+    }
+    if (localStorage.inputDistributor) {
+      this.inputDistributor = localStorage.inputDistributor
+    }
   },
   methods: {
     processBangumi(): void {
