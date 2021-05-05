@@ -82,6 +82,7 @@ export default Vue.extend({
     if (localStorage.inputDistributor) {
       this.inputDistributor = localStorage.inputDistributor
     }
+    this.processBangumi()
   },
   methods: {
     processBangumi(): void {
