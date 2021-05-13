@@ -26,6 +26,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
+    '@nuxtjs/google-analytics',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -62,5 +63,9 @@ export default {
   config: {
     productionTip: false,
     devtools: true,
+  },
+
+  googleAnalytics: {
+    id: 'G-EVQJ9TVDNP',
   },
 }
