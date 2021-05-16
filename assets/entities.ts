@@ -35,6 +35,17 @@ export interface TimelineDay {
   series: TimelineItem[]
 }
 
+export interface Links {
+  official: string
+  twitter: string
+  bilibiliCN: number
+  bilibiliHK: number
+  bilibiliTW: number
+  bilibiliIntl: number
+  iQIYiTW: string
+  iQIYiSEA: string
+}
+
 export interface Bangumi {
   title: Title
   premiereTime: PremiereTime
