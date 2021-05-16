@@ -2,7 +2,7 @@
   <div>
     <app-nav-bar />
     <b-container>
-      <NuxtLink to="/timeline/2021/spring">2021/spring</NuxtLink>
+      <p><NuxtLink to="/timeline/2021/spring">2021/spring (TEST)</NuxtLink></p>
     </b-container>
   </div>
 </template>
