@@ -6,6 +6,7 @@
           rel="noreferrer"
           target="_blank"
           :href="'https://global.bilibili.com/play/ss' + data.value"
+          :click="$ga.event('bilibili_sea', 'click', 'ss', data.value)"
           >{{ data.value }}</a
         >
       </template>

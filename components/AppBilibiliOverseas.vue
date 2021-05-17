@@ -6,6 +6,7 @@
           rel="noreferrer"
           target="_blank"
           :href="'https://www.bilibili.com/bangumi/media/md' + data.value"
+          :click="$ga.event('bilibili_overseas', 'click', 'md', data.value)"
           >{{ data.value }}</a
         >
       </template>
@@ -14,6 +15,7 @@
           rel="noreferrer"
           target="_blank"
           :href="'https://www.bilibili.com/bangumi/play/ss' + data.value"
+          :click="$ga.event('bilibili_overseas', 'click', 'ss', data.value)"
           >{{ data.value }}</a
         >
       </template>
