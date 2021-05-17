@@ -27,6 +27,7 @@
       "@nuxt/types",
       "@types/node",
       "@nuxt/http",
+      "@nuxtjs/google-analytics",
     ]
   },
   "exclude": [

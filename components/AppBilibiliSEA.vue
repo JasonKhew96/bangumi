@@ -6,7 +6,7 @@
           rel="noreferrer"
           target="_blank"
           :href="'https://global.bilibili.com/play/ss' + data.value"
-          :click="$ga.event('bilibili_sea', 'click', 'ss', data.value)"
+          :click="onLinkClick('ss', data.value)"
           >{{ data.value }}</a
         >
       </template>
@@ -465,6 +465,11 @@ export default Vue.extend({
         { season_id: 1006548, title: '迷你龙小剧场' },
       ],
     }
+  },
+  methods: {
+    onLinkClick(label: string, id: number): void {
+      this.$ga.event('bilibili_sea', 'click', label, id)
+    },
   },
 })
 </script>
