@@ -68,4 +68,9 @@ export default {
   googleAnalytics: {
     id: 'UA-197149634-1',
   },
+
+  bootstrapVue: {
+    // Install the `IconsPlugin` plugin (in addition to `BootstrapVue` plugin)
+    icons: true,
+  },
 }

@@ -9,6 +9,15 @@
           @click="onLinkClick('ss', data.value)"
           >{{ data.value }}</a
         >
+        /
+        <a
+          rel="noreferrer"
+          target="_blank"
+          :href="'https://www.bilibili.com/bangumi/play/ss' + data.value"
+          @click="onLinkClick('ss_fake', data.value)"
+        >
+          <b-icon-unlock-fill></b-icon-unlock-fill>
+        </a>
       </template>
     </b-table>
   </div>
