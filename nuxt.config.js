@@ -66,6 +66,6 @@ export default {
   },
 
   googleAnalytics: {
-    id: 'G-EVQJ9TVDNP',
+    id: 'UA-197149634-1',
   },
 }
