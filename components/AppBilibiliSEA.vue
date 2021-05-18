@@ -372,6 +372,7 @@ export default Vue.extend({
         { season_id: 36718, title: '大人的防具店' },
         { season_id: 36747, title: '五星物语 剧场版' },
         { season_id: 36749, title: '弦音 -风舞高中弓道部-' },
+        { season_id: 36820, title: '青春之旅' },
         { season_id: 36832, title: '玛娜利亚魔法学院' },
         { season_id: 36847, title: '织田肉桂信长' },
         { season_id: 36934, title: '只有我能进入的隐藏地下城' },
@@ -479,6 +480,7 @@ export default Vue.extend({
         { season_id: 1006354, title: ' 喂，看见耳朵啦' },
         { season_id: 1006414, title: '喂，看见耳朵啦 第二季' },
         { season_id: 1006548, title: '迷你龙小剧场' },
+        { season_id: 1006910, title: '镇魂街 第二季' },
       ],
     }
   },
