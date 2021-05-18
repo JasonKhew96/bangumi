@@ -1410,6 +1410,11 @@ export default Vue.extend({
           title: '大運動會 ReSTART！（僅限港澳台地區）',
         },
         {
+          media_id: 28234145,
+          season_id: 38461,
+          title: '教教我吧 北齋！（僅限港澳台地區）',
+        },
+        {
           media_id: 28234146,
           season_id: 38462,
           title: '擾亂 THE PRINCESS OF SNOW AND BLOOD（僅限港澳台地區）',
