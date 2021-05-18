@@ -1,6 +1,13 @@
 <template>
   <div>
-    <b-table striped hover :items="bangumis" :fields="bangumis_fields">
+    <b-table
+      striped
+      hover
+      :items="bangumis"
+      :fields="bangumis_fields"
+      sort-by="media_id"
+      sort-desc
+    >
       <template #cell(media_id)="data">
         <a
           rel="noreferrer"
