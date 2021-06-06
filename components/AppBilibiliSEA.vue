@@ -482,6 +482,7 @@ export default Vue.extend({
         { season_id: 37738, title: '咒术回战' },
         { season_id: 37739, title: '解药' },
         { season_id: 37749, title: '满脑都是○○的我没办法谈恋爱 ' },
+        { season_id: 37817, title: '剧场版 鬼灭之刃 无限列车篇' },
         { season_id: 37928, title: '罪恶王冠' },
         { season_id: 37950, title: '元龙' },
         { season_id: 37951, title: '芯觉' },
