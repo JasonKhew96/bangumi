@@ -124,6 +124,9 @@ export default Vue.extend({
                   timestamp += releaseEvery
                   break
                 case 'delayed_to':
+                  if (!(this.inputDistributor in filtered[0].time)) continue
+                  timestamp = filtered[0].time[this.inputDistributor]
+                  offset += releaseEvery
                   break
                 case 'canceled':
                   j = epLen + 1

@@ -771,6 +771,15 @@
           "timestamp": 1617644100
         }
       },
+      "schedule": [
+        {
+          "type": "delayed_to",
+          "index": 10,
+          "time": {
+            "anigamer": 1623114000
+          }
+        }
+      ],
       "episodesLength": 0
     },
     {
