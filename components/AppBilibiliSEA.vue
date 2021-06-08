@@ -12,7 +12,7 @@
         <a
           rel="noreferrer"
           target="_blank"
-          :href="'https://global.bilibili.com/play/ss' + data.value"
+          :href="'https://www.biliintl.com/play/ss' + data.value"
           @click="onLinkClick('ss', data.value)"
           >{{ data.value }}</a
         >
