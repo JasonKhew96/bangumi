@@ -1,0 +1,569 @@
+{
+  "status": 0,
+  "startTime": 1623686400,
+  "endTime": 1634227200,
+  "result": [
+    {
+      "title": {
+        "ja": "不滅のあなたへ",
+        "zh-tw": "給不滅的你",
+        "zh-cn": "致不灭的你",
+        "en": "TO YOUR ETERNITY"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1618235400
+        },
+        "anigamer": {
+          "timestamp": 1618245000
+        },
+        "bilibiliIntl": {
+          "timestamp": 1618245000
+        },
+        "bilibiliOverseas": {
+          "timestamp": 1618245000
+        },
+        "iqiyiTaiwan": {
+          "timestamp": 1618245000
+        },
+        "iqiyiAsia": {
+          "timestamp": 1618245000
+        },
+        "crunchyroll": {
+          "timestamp": 1618245000
+        }
+      },
+      "episodesLength": 20
+    },
+    {
+      "title": {
+        "ja": "BLUE REFLECTION RAY/澪",
+        "zh-tw": "BLUE REFLECTION : 澪",
+        "zh-cn": "蔚蓝反射 澪",
+        "en": "Blue Reflection Ray"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1617987300
+        },
+        "anigamer": {
+          "timestamp": 1617993000
+        },
+        "bilibiliIntl": {
+          "timestamp": 1617993000
+        },
+        "bilibiliMainland": {
+          "timestamp": 1617993000
+        },
+        "bilibiliOverseas": {
+          "timestamp": 1617993000
+        },
+        "funimation": {
+          "timestamp": 1617990900
+        }
+      },
+      "episodesLength": 24
+    },
+    {
+      "title": {
+        "ja": "トロピカル〜ジュ！ プリキュア",
+        "en": "Tropical-Rouge! Precure"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1614472200
+        },
+        "crunchyroll": {
+          "timestamp": 1614475800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "魔入りました！入間くん 第2シリーズ",
+        "zh-tw": "入間同學入魔了 第二季",
+        "zh-cn": "入间同学入魔了 第二季",
+        "en": "Welcome to Demon School! Iruma-kun"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1618648500
+        },
+        "anigamer": {
+          "timestamp": 1618657200
+        },
+        "bilibiliIntl": {
+          "timestamp": 1618657200
+        },
+        "bilibiliOverseas": {
+          "timestamp": 1618657200
+        },
+        "crunchyroll": {
+          "timestamp": 1618665300
+        }
+      },
+      "episodesLength": 21
+    },
+    {
+      "title": {
+        "ja": "ラブライブ！スーパースター!!"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625997600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "ひぐらしのなく頃に卒"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625149800
+        }
+      },
+      "episodesLength": 0,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 2,
+          "time": {
+            "ja": 1625151600
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ja": "小林さんちのメイドラゴンＳ"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625670000
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "ピーチボーイリバーサイド"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625144400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "平穏世代の韋駄天達"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1626969300
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "転生したらスライムだった件 第2期 第2部"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625580000
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "白い砂のアクアトープ"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625756400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "Sonny Boy -サニーボーイ-"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1626363000
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "ゲッターロボ アーク"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625400000
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "魔法科高校の優等生"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625322600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "死神坊ちゃんと黒メイド"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625403600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "うらみちお兄さん"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625502600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "カノジョも彼女"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625246700
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "女神寮の寮母くん。"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "月が導く異世界道中"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625666400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "RE-MAIN"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625329800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "闇芝居 九期"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "かげきしょうじょ!!"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625324400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "終末のワルキューレ"
+      },
+      "premiereTime": {
+        "netflix": {
+          "timestamp": 1623855600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "ヴァニタスの手記"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625238000
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "ジャヒー様はくじけない！"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1627750800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "出会って5秒でバトル"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1626102000
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "迷宮ブラックカンパニー"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625837400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "100万の命の上に俺は立っている 第2シーズン"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625239800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "NIGHT HEAD 2041"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625243100
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "精霊幻想記"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625504400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "現実主義勇者の王国再建記"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625329800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "ぼくたちのリメイク"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625317200
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "探偵はもう、死んでいる。"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625401800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "チート薬師のスローライフ～異世界に作ろうドラッグストア～"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625662800
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "SCARLET NEXUS"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625146200
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "D_CIDE TRAUMEREI THE ANIMATION"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "Obey Me!（おべいみー！）"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "アイドリッシュセブン Third BEAT!"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625405400
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "TSUKIPRO THE ANIMATION 2"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625664600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "アイドルランドプリパラ"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "アサルトリリィふるーつ"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 0
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "俺、つしま"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625244600
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
+        "ja": "指先から本気の熱情2-恋人は消防士-"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1625414400
+        }
+      },
+      "episodesLength": 0
+    }
+  ]
+}
