@@ -329,10 +329,11 @@
       },
       "premiereTime": {
         "netflix": {
+          "releaseEvery": 0,
           "timestamp": 1623855600
         }
       },
-      "episodesLength": 0
+      "episodesLength": 12
     },
     {
       "title": {
