@@ -325,12 +325,13 @@
     },
     {
       "title": {
-        "ja": "終末のワルキューレ"
+        "ja": "終末のワルキューレ",
+        "en": "Record of Ragnarok"
       },
       "premiereTime": {
         "netflix": {
           "releaseEvery": 0,
-          "timestamp": 1623855600
+          "timestamp": 1623913200
         }
       },
       "episodesLength": 12
