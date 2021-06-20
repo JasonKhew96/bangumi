@@ -8,7 +8,7 @@
               id="filter-input"
               v-model="filter"
               type="search"
-              placeholder="Type to Search"
+              placeholder="搜索"
             ></b-form-input>
 
             <b-input-group-append>
@@ -30,6 +30,21 @@
         ></b-pagination>
       </b-col>
     </b-row>
+    <b-row>
+      <b-col>
+        <b-form-group v-slot="{ specialFilter }" size="sm" label="过滤">
+          <b-form-radio-group
+            v-model="specialFilterSelected"
+            :aria-describedby="specialFilter"
+            name="specialFilter"
+          >
+            <b-form-radio value="all">全部</b-form-radio>
+            <b-form-radio value="new">新上架</b-form-radio>
+            <b-form-radio value="return">恢复上架</b-form-radio>
+          </b-form-radio-group>
+        </b-form-group>
+      </b-col>
+    </b-row>
     <b-table
       striped
       hover
@@ -38,6 +53,7 @@
       :filter="filter"
       :current-page="currentPage"
       :per-page="perPage"
+      :filter-function="filterFunc"
       sort-by="season_id"
       sort-desc
       @filtered="onFiltered"
@@ -46,7 +62,7 @@
         <a
           rel="noreferrer"
           target="_blank"
-          :href="'https://www.biliintl.com/play/ss' + data.value"
+          :href="'https://www.biliintl.com/play/' + data.value"
           @click="onLinkClick('ss', data.value)"
           >{{ data.value }}</a
         >
@@ -59,6 +75,11 @@
         >
           <b-icon-unlock-fill></b-icon-unlock-fill>
         </a>
+      </template>
+      <template #cell(title)="data">
+        {{ data.value }}
+        <b-badge v-if="data.item.is_new" variant="success">新</b-badge>
+        <b-badge v-if="data.item.is_return" variant="primary">恢</b-badge>
       </template>
     </b-table>
   </div>
@@ -501,7 +522,7 @@ export default Vue.extend({
         { season_id: 35242, title: '笑傲昙天〈外传〉前篇～诀别、豺之誓言～' },
         { season_id: 35243, title: '飞翔的魔女' },
         { season_id: 35244, title: '魔法科高校的劣等生' },
-        { season_id: 35245, title: '从很久以前就喜欢你了～告白实行委员会～' },
+        { season_id: 35245, title: '喜欢上你的那个瞬间。～告白实行委员会～' },
         { season_id: 35246, title: '恐怖！僵尸猫' },
         { season_id: 35247, title: '和殿下同在一起 ～眼罩之野心～' },
         { season_id: 35248, title: '黑白来看守所' },
@@ -609,7 +630,7 @@ export default Vue.extend({
         { season_id: 35444, title: '只要你说你爱我' },
         { season_id: 35445, title: '这样算是僵尸吗？' },
         { season_id: 35452, title: '我家大师兄是个反派' },
-        { season_id: 35453, title: '恋爱中的小行星' },
+        { season_id: 35453, title: '恋爱小行星' },
         { season_id: 35454, title: '只想受你欢迎' },
         { season_id: 35455, title: '战斗司书 The Book of Bantorra' },
         { season_id: 35458, title: '陆上防卫队─正义小天使真绪' },
@@ -1302,16 +1323,48 @@ export default Vue.extend({
         { season_id: 1006548, title: '迷你龙小剧场' },
         { season_id: 1006910, title: '镇魂街 第二季' },
         { season_id: 1006968, title: '夏目友人帐 唤石者与怪异的访客' },
-        { season_id: 1007109, title: '魔鬼恋人' },
         { season_id: 1007441, title: '剧场版 鬼灭之刃 无限列车篇（泰配版）' },
-        { season_id: 1007579, title: '魔鬼恋人 MORE,BLOOD' },
         { season_id: 1008817, title: '进击的巨人 The Final Season（泰配版）' },
+        { season_id: 1009223, title: '城市猎人 海滩之战', is_new: true },
+        {
+          season_id: 1009436,
+          title: '城市猎人 爱与宿命的连发枪',
+          is_new: true,
+        },
+        { season_id: 1009063, title: '城市猎人 再见 我的爱人', is_new: true },
+        {
+          season_id: 1008929,
+          title: '城市猎人 紧急直播 凶恶罪犯寒羽良的死',
+          is_new: true,
+        },
+        { season_id: 1009171, title: '城市猎人 秘密任务', is_new: true },
+        { season_id: 1009309, title: '城市猎人 百万美金的阴谋', is_new: true },
+        { season_id: 1007579, title: '魔鬼恋人 MORE,BLOOD', is_return: true },
+        { season_id: 1007109, title: '魔鬼恋人', is_return: true },
       ],
       totalRows: 1,
       currentPage: 1,
       perPage: 10,
-      filter: null,
+      specialFilterSelected: 'all',
+      filter: '',
     }
+  },
+  watch: {
+    specialFilterSelected(val: string) {
+      if (val === 'all') {
+        this.filter = ''
+      } else if (val === 'new') {
+        this.filter = '(is:new)'
+      } else if (val === 'return') {
+        this.filter = '(is:return)'
+      }
+    },
+    filter(val: string) {
+      if (val === '(is:new)' || val === '(is:return)') {
+        return
+      }
+      this.specialFilterSelected = 'all'
+    },
   },
   mounted() {
     // Set the initial number of items
@@ -1325,6 +1378,20 @@ export default Vue.extend({
       // Trigger pagination to update the number of buttons/pages due to filtering
       this.totalRows = filteredItems.length
       this.currentPage = 1
+    },
+    filterFunc(item: any, content: any) {
+      const title = item.title.toLowerCase()
+      const match = content.toLowerCase()
+      if (match.includes('(is:new)')) {
+        return item.is_new
+      }
+      if (match.includes('(is:return)')) {
+        return item.is_return
+      }
+      if (title.includes(match)) {
+        return true
+      }
+      return false
     },
   },
 })

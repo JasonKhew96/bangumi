@@ -30,6 +30,21 @@
         ></b-pagination>
       </b-col>
     </b-row>
+    <b-row>
+      <b-col>
+        <b-form-group v-slot="{ specialFilter }" size="sm" label="过滤">
+          <b-form-radio-group
+            v-model="specialFilterSelected"
+            :aria-describedby="specialFilter"
+            name="specialFilter"
+          >
+            <b-form-radio value="all">全部</b-form-radio>
+            <b-form-radio value="new">新上架</b-form-radio>
+            <b-form-radio value="return">恢复上架</b-form-radio>
+          </b-form-radio-group>
+        </b-form-group>
+      </b-col>
+    </b-row>
     <b-table
       striped
       hover
@@ -38,6 +53,7 @@
       :filter="filter"
       :current-page="currentPage"
       :per-page="perPage"
+      :filter-function="filterFunc"
       sort-by="media_id"
       sort-desc
       @filtered="onFiltered"
@@ -59,6 +75,11 @@
           @click="onLinkClick('md', data.value)"
           >{{ data.value }}</a
         >
+      </template>
+      <template #cell(title)="data">
+        {{ data.value }}
+        <b-badge v-if="data.item.is_new" variant="success">新</b-badge>
+        <b-badge v-if="data.item.is_return" variant="primary">恢</b-badge>
       </template>
     </b-table>
   </div>
@@ -1474,8 +1495,26 @@ export default Vue.extend({
       totalRows: 1,
       currentPage: 1,
       perPage: 10,
-      filter: null,
+      specialFilterSelected: 'all',
+      filter: '',
     }
+  },
+  watch: {
+    specialFilterSelected(val: string) {
+      if (val === 'all') {
+        this.filter = ''
+      } else if (val === 'new') {
+        this.filter = '(is:new)'
+      } else if (val === 'return') {
+        this.filter = '(is:return)'
+      }
+    },
+    filter(val: string) {
+      if (val === '(is:new)' || val === '(is:return)') {
+        return
+      }
+      this.specialFilterSelected = 'all'
+    },
   },
   mounted() {
     // Set the initial number of items
@@ -1489,6 +1528,20 @@ export default Vue.extend({
       // Trigger pagination to update the number of buttons/pages due to filtering
       this.totalRows = filteredItems.length
       this.currentPage = 1
+    },
+    filterFunc(item: any, content: any) {
+      const title = item.title.toLowerCase()
+      const match = content.toLowerCase()
+      if (match.includes('(is:new)')) {
+        return item.is_new
+      }
+      if (match.includes('(is:return)')) {
+        return item.is_return
+      }
+      if (title.includes(match)) {
+        return true
+      }
+      return false
     },
   },
 })
