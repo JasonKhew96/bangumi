@@ -579,9 +579,30 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625146200
+        },
+        "anigamer": {
+          "timestamp":1625146200
         }
       },
-      "episodesLength": 0
+      "episodesLength": 0,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 1,
+          "time": {
+            "anigamer": 1624626000,
+            "bilibiliIntl": 1624626000
+          }
+        },
+        {
+          "type": "scheduled",
+          "index": 2,
+          "time": {
+            "anigamer": 1624627800,
+            "bilibiliIntl": 1624627800
+          }
+        }
+      ]
     },
     {
       "title": {
