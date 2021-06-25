@@ -73,6 +73,18 @@
             "bilibiliOverseas": 1622124000,
             "crunchyroll": 1622124000
           }
+        },
+        {
+          "type": "scheduled",
+          "index": 5,
+          "time": {
+            "ja": 1624537800,
+            "anigamer": 1624543200,
+            "bilibiliIntl": 1624543200,
+            "bilibiliMainland": 1624543200,
+            "bilibiliOverseas": 1624543200,
+            "crunchyroll": 1624543200
+          }
         }
       ]
     },
@@ -225,6 +237,10 @@
         {
           "type": "delayed_normal",
           "index": 13
+        },
+        {
+          "type": "delayed_normal",
+          "index": 24
         }
       ]
     },

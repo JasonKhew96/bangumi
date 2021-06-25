@@ -5,6 +5,91 @@
   "result": [
     {
       "title": {
+        "ja": "舞妓さんちのまかないさん",
+        "zh-tw": "舞伎家的料理人",
+        "zh-cn": "舞伎家的料理人",
+        "en": "Kiyo in Kyoto: From the Maiko House"
+      },
+      "premiereTime": {
+        "ja": {
+          "releaseEvery": 999999999,
+          "timestamp": 1614256200
+        },
+        "anigamer": {
+          "releaseEvery": 999999999,
+          "timestamp": 1614261600
+        },
+        "bilibiliIntl": {
+          "releaseEvery": 999999999,
+          "timestamp": 1614261600
+        },
+        "bilibiliMainland": {
+          "releaseEvery": 999999999,
+          "timestamp": 1614261600
+        },
+        "bilibiliOverseas": {
+          "releaseEvery": 999999999,
+          "timestamp": 1614261600
+        },
+        "crunchyroll": {
+          "releaseEvery": 999999999,
+          "timestamp": 1614261600
+        }
+      },
+      "episodesLength": 12,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 2,
+          "time": {
+            "ja": 1616675400,
+            "anigamer": 1616680800,
+            "bilibiliIntl": 1616680800,
+            "bilibiliMainland": 1616680800,
+            "bilibiliOverseas": 1616680800,
+            "crunchyroll": 1616680800
+          }
+        },
+        {
+          "type": "scheduled",
+          "index": 3,
+          "time": {
+            "ja": 1619094600,
+            "anigamer": 1619100000,
+            "bilibiliIntl": 1619100000,
+            "bilibiliMainland": 1619100000,
+            "bilibiliOverseas": 1619100000,
+            "crunchyroll": 1619100000
+          }
+        },
+        {
+          "type": "scheduled",
+          "index": 4,
+          "time": {
+            "ja": 1622118600,
+            "anigamer": 1622124000,
+            "bilibiliIntl": 1622124000,
+            "bilibiliMainland": 1622124000,
+            "bilibiliOverseas": 1622124000,
+            "crunchyroll": 1622124000
+          }
+        },
+        {
+          "type": "scheduled",
+          "index": 5,
+          "time": {
+            "ja": 1624537800,
+            "anigamer": 1624543200,
+            "bilibiliIntl": 1624543200,
+            "bilibiliMainland": 1624543200,
+            "bilibiliOverseas": 1624543200,
+            "crunchyroll": 1624543200
+          }
+        }
+      ]
+    },
+    {
+      "title": {
         "ja": "不滅のあなたへ",
         "zh-tw": "給不滅的你",
         "zh-cn": "致不灭的你",
