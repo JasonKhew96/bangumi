@@ -711,7 +711,7 @@ export default Vue.extend({
         { season_id: 35588, title: 'Four of a Kind 四牌士' },
         { season_id: 35589, title: '尸体派对 Tortured Souls' },
         { season_id: 35590, title: 'Four of a Kind 四牌士 第二季' },
-        { season_id: 35591, title: '暮蝉鸣泣时' },
+        { season_id: 35591, title: '寒蝉鸣泣之时' },
         { season_id: 35592, title: 'SHUFFLE! MEMORIES' },
         { season_id: 35594, title: 'SWORD GAI 装刀凯' },
         { season_id: 35596, title: '禁忌咒纹' },
