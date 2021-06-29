@@ -1380,9 +1380,10 @@ export default Vue.extend({
         },
         { season_id: 1012086, title: '我，小怼', is_new: true },
         { season_id: 1012153, title: '女友成双', is_new: true },
+        { season_id: 1012514, title: '暗芝居 第九季', is_new: true },
         {
           season_id: 1013069,
-          title: '关于我转生变成史莱姆这档事  第2季 Part2',
+          title: '关于我转生变成史莱姆这档事  第二季 Part 2',
           is_new: true,
         },
       ],
