@@ -1372,6 +1372,16 @@ export default Vue.extend({
           title: '关于我转生变成史莱姆这档事  第2季 Part2',
           is_new: true,
         },
+        {
+          season_id: 1010228,
+          title: '现实主义勇者的王国再建记',
+          is_new: true,
+        },
+        {
+          season_id: 1011658,
+          title: '开挂药师的休闲生活～异世界里开药店～',
+          is_new: true,
+        },
       ],
       totalRows: 1,
       currentPage: 1,
