@@ -433,6 +433,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625324400
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625328000
         }
       },
       "episodesLength": 0
@@ -560,6 +563,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625329800
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625333400
         }
       },
       "episodesLength": 0
@@ -716,11 +722,15 @@
     {
       "title": {
         "ja": "俺、つしま",
-        "zh-tw": "叫我對大哥"
+        "zh-tw": "叫我對大哥",
+        "zh-cn": "我，小怼"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625244600
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625248200
         }
       },
       "episodesLength": 0
