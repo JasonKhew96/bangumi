@@ -1348,17 +1348,24 @@ export default Vue.extend({
         { season_id: 37279, title: '灼眼的夏娜 第二季' },
         { season_id: 37280, title: '灼眼的夏娜 第三季' },
         { season_id: 37281, title: '灼眼的夏娜S' },
-
+        // 2021 summer
         { season_id: 1007160, title: '精灵幻想记', is_new: true },
         { season_id: 1009786, title: '小林家的龙女仆S', is_new: true },
         { season_id: 1009917, title: '异世界迷宫黑心企业', is_new: true },
+        { season_id: 1009992, title: '歌剧少女！！', is_new: true },
         { season_id: 1010094, title: '阴晴不定大哥哥', is_new: true },
+        {
+          season_id: 1010228,
+          title: '现实主义勇者的王国再建记',
+          is_new: true,
+        },
         { season_id: 1010375, title: '桃子男孩渡海而来', is_new: true },
         {
           season_id: 1010520,
           title: '转生成为了只有乙女游戏破灭结局的邪恶大小姐 X',
           is_new: true,
         },
+        { season_id: 1010783, title: '女神宿舍的管理员', is_new: true },
         { season_id: 1010919, title: '侦探已死', is_new: true },
         { season_id: 1011004, title: '白沙的水族馆', is_new: true },
         { season_id: 1011123, title: '瓦尼塔斯的手札', is_new: true },
@@ -1366,20 +1373,16 @@ export default Vue.extend({
         { season_id: 1011278, title: '我们的重制人生', is_new: true },
         { season_id: 1011416, title: '魔法科高校的优等生', is_new: true },
         { season_id: 1011550, title: '绯红结系', is_new: true },
+        {
+          season_id: 1011658,
+          title: '开挂药师的休闲生活～异世界里开药店～',
+          is_new: true,
+        },
+        { season_id: 1012086, title: '我，小怼', is_new: true },
         { season_id: 1012153, title: '女友成双', is_new: true },
         {
           season_id: 1013069,
           title: '关于我转生变成史莱姆这档事  第2季 Part2',
-          is_new: true,
-        },
-        {
-          season_id: 1010228,
-          title: '现实主义勇者的王国再建记',
-          is_new: true,
-        },
-        {
-          season_id: 1011658,
-          title: '开挂药师的休闲生活～异世界里开药店～',
           is_new: true,
         },
       ],
