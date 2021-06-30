@@ -1264,11 +1264,6 @@ export default Vue.extend({
           title: 'Re：從零開始的異世界生活 第二季 Part2（僅限港澳台地區）',
         },
         {
-          media_id: 28233475,
-          season_id: 37796,
-          title: '關於我轉生變成史萊姆這檔事 第二季（僅限台灣地區）',
-        },
-        {
           media_id: 28233478,
           season_id: 37799,
           title: '裝甲娘戰機（僅限港澳台地區）',
@@ -1499,6 +1494,17 @@ export default Vue.extend({
         },
         // 2021 summer
         {
+          media_id: 28233475,
+          season_id: 37796,
+          title: '關於我轉生變成史萊姆這檔事 第二季（僅限台灣地區）',
+        },
+        {
+          media_id: 28234706,
+          season_id: 39014,
+          title: '白沙的Aquatope（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
           media_id: 28234714,
           season_id: 39022,
           title: '死神少爺與黑女僕（僅限港澳台地區）',
@@ -1532,6 +1538,42 @@ export default Vue.extend({
           media_id: 28234721,
           season_id: 39029,
           title: '異世界迷宮黑心企業（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234722,
+          season_id: 39030,
+          title: '桃子男孩渡海而來（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234723,
+          season_id: 39031,
+          title: '寒蟬鳴泣之時：卒（暮蟬悲鳴時卒）（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234730,
+          season_id: 39038,
+          title: '偵探已經，死了。（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234731,
+          season_id: 39039,
+          title: '我立於百萬生命之上（第二季）（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234732,
+          season_id: 39040,
+          title: '女朋友and女朋友（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234733,
+          season_id: 39041,
+          title: '現實主義者的王國重建記（僅限港澳台地區）',
           is_new: true,
         },
       ],
