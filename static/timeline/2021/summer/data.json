@@ -205,11 +205,15 @@
     {
       "title": {
         "ja": "ひぐらしのなく頃に卒",
+        "zh-cn": "寒蝉鸣泣之时 卒",
         "zh-tw": "暮蟬悲鳴時 卒"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625149800
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625153400
         }
       },
       "episodesLength": 0,
@@ -218,7 +222,8 @@
           "type": "scheduled",
           "index": 2,
           "time": {
-            "ja": 1625151600
+            "ja": 1625151600,
+            "bilibiliIntl": 1625155200
           }
         }
       ]
@@ -226,7 +231,8 @@
     {
       "title": {
         "ja": "小林さんちのメイドラゴンＳ",
-        "zh-cn": "小林家的龙女仆S"
+        "zh-cn": "小林家的龙女仆S",
+        "zh-tw": "小林家的龍女僕S 第2季"
       },
       "premiereTime": {
         "ja": {
@@ -249,8 +255,8 @@
     {
       "title": {
         "ja": "ピーチボーイリバーサイド",
-        "zh-tw": "桃子男孩渡海而來",
-        "zh-cn": "桃子男孩渡海而来"
+        "zh-cn": "桃子男孩渡海而来",
+        "zh-tw": "桃子男孩渡海而來"
       },
       "premiereTime": {
         "ja": {
@@ -276,21 +282,25 @@
     {
       "title": {
         "ja": "転生したらスライムだった件 第2期 第2部",
-        "zh-tw": "關於我轉生變成史萊姆這檔事  第二季後半",
-        "zh-cn": "关于我转生变成史莱姆这档事  第二季 Part 2"
+        "zh-cn": "关于我转生变成史莱姆这档事 第二季 Part 2",
+        "zh-tw": "關於我轉生變成史萊姆這檔事 第二季後半"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625580000
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625585400
         }
       },
+      "episodeStart": 37,
       "episodesLength": 0
     },
     {
       "title": {
         "ja": "白い砂のアクアトープ",
-        "zh-tw": "白沙的Aquatope",
-        "zh-cn": "白沙的水族馆"
+        "zh-cn": "白沙的水族馆",
+        "zh-tw": "白沙的Aquatope"
       },
       "premiereTime": {
         "ja": {
@@ -313,11 +323,15 @@
     },
     {
       "title": {
-        "ja": "ゲッターロボ アーク"
+        "ja": "ゲッターロボ アーク",
+        "zh-cn": "盖塔机器人ARC"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625400000
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625401800
         }
       },
       "episodesLength": 0
@@ -325,8 +339,8 @@
     {
       "title": {
         "ja": "魔法科高校の優等生",
-        "zh-tw": "魔法科高中的優等生",
-        "zh-cn": "魔法科高校的优等生"
+        "zh-cn": "魔法科高校的优等生",
+        "zh-tw": "魔法科高中的優等生"
       },
       "premiereTime": {
         "ja": {
@@ -341,7 +355,8 @@
     {
       "title": {
         "ja": "死神坊ちゃんと黒メイド",
-        "zh-cn": "死神少爷与黑女仆"
+        "zh-cn": "死神少爷与黑女仆",
+        "zh-tw": "死神少爺與黑女僕"
       },
       "premiereTime": {
         "ja": {
@@ -361,6 +376,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625502600
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625500800
         }
       },
       "episodesLength": 0
@@ -374,6 +392,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625246700
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625252100
         }
       },
       "episodesLength": 0
@@ -381,8 +402,8 @@
     {
       "title": {
         "ja": "女神寮の寮母くん。",
-        "zh-tw": "女神宿舍的管理員。",
-        "zh-cn": "女神宿舍的管理员"
+        "zh-cn": "女神宿舍的管理员",
+        "zh-tw": "女神宿舍的管理員。"
       },
       "premiereTime": {
         "ja": {
@@ -393,7 +414,8 @@
     },
     {
       "title": {
-        "ja": "月が導く異世界道中"
+        "ja": "月が導く異世界道中",
+        "zh-tw": "月光下的異世界之旅"
       },
       "premiereTime": {
         "ja": {
@@ -416,6 +438,7 @@
     {
       "title": {
         "ja": "闇芝居 九期",
+        "zh-cn": "暗芝居 第九季",
         "zh-tw": "闇芝居 第9季"
       },
       "premiereTime": {
@@ -456,8 +479,8 @@
     {
       "title": {
         "ja": "ヴァニタスの手記",
-        "zh-tw": "瓦尼塔斯的手札",
-        "zh-cn": "瓦尼塔斯的手札"
+        "zh-cn": "瓦尼塔斯的手札",
+        "zh-tw": "瓦尼塔斯的手札"
       },
       "premiereTime": {
         "ja": {
@@ -494,7 +517,8 @@
     {
       "title": {
         "ja": "迷宮ブラックカンパニー",
-        "zh-cn": "异世界迷宫黑心企业"
+        "zh-cn": "异世界迷宫黑心企业",
+        "zh-tw": "異世界迷宮黑心企業"
       },
       "premiereTime": {
         "ja": {
@@ -529,8 +553,8 @@
     {
       "title": {
         "ja": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ",
-        "zh-tw": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 X",
-        "zh-cn": "转生成为了只有乙女游戏破灭结局的邪恶大小姐 X"
+        "zh-cn": "转生成为了只有乙女游戏破灭结局的邪恶大小姐 X",
+        "zh-tw": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 X"
       },
       "premiereTime": {
         "ja": {
@@ -545,10 +569,14 @@
     {
       "title": {
         "ja": "精霊幻想記",
-        "zh-cn": "精灵幻想记"
+        "zh-cn": "精灵幻想记",
+        "zh-tw": "精靈幻想記"
       },
       "premiereTime": {
         "ja": {
+          "timestamp": 1625504400
+        },
+        "bilibiliIntl": {
           "timestamp": 1625504400
         }
       },
@@ -557,8 +585,8 @@
     {
       "title": {
         "ja": "現実主義勇者の王国再建記",
-        "zh-tw": "現實主義勇者的王國重建記",
-        "zh-cn": "现实主义勇者的王国再建记"
+        "zh-cn": "现实主义勇者的王国再建记",
+        "zh-tw": "現實主義勇者的王國重建記"
       },
       "premiereTime": {
         "ja": {
@@ -573,8 +601,8 @@
     {
       "title": {
         "ja": "ぼくたちのリメイク",
-        "zh-tw": "我們的重製人生",
-        "zh-cn": "我们的重制人生"
+        "zh-cn": "我们的重制人生",
+        "zh-tw": "我們的重製人生"
       },
       "premiereTime": {
         "ja": {
@@ -589,8 +617,8 @@
     {
       "title": {
         "ja": "探偵はもう、死んでいる。",
-        "zh-tw": "偵探已經，死了。",
-        "zh-cn": "侦探已死"
+        "zh-cn": "侦探已死",
+        "zh-tw": "偵探已經，死了。"
       },
       "premiereTime": {
         "ja": {
@@ -605,8 +633,8 @@
     {
       "title": {
         "ja": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
-        "zh-tw": "開掛藥師的異世界悠閒生活",
-        "zh-cn": "开挂药师的休闲生活～异世界里开药店～"
+        "zh-cn": "开挂药师的休闲生活～异世界里开药店～",
+        "zh-tw": "開掛藥師的異世界悠閒生活"
       },
       "premiereTime": {
         "ja": {
@@ -618,39 +646,21 @@
     {
       "title": {
         "ja": "SCARLET NEXUS",
-        "zh-tw": "緋紅結繫",
-        "zh-cn": "绯红结系"
+        "zh-cn": "绯红结系",
+        "zh-tw": "緋紅結繫"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625146200
         },
         "anigamer": {
-          "timestamp": 1625146200
+          "timestamp": 1625144400
         },
         "bilibiliIntl": {
-          "timestamp": 1625146200
+          "timestamp": 1625144400
         }
       },
-      "episodesLength": 0,
-      "schedule": [
-        {
-          "type": "scheduled",
-          "index": 1,
-          "time": {
-            "anigamer": 1624626000,
-            "bilibiliIntl": 1624626000
-          }
-        },
-        {
-          "type": "scheduled",
-          "index": 2,
-          "time": {
-            "anigamer": 1624627800,
-            "bilibiliIntl": 1624627800
-          }
-        }
-      ]
+      "episodesLength": 0
     },
     {
       "title": {
@@ -722,8 +732,8 @@
     {
       "title": {
         "ja": "俺、つしま",
-        "zh-tw": "叫我對大哥",
-        "zh-cn": "我，小怼"
+        "zh-cn": "我，小怼",
+        "zh-tw": "叫我對大哥"
       },
       "premiereTime": {
         "ja": {
