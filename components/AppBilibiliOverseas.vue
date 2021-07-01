@@ -1499,9 +1499,26 @@ export default Vue.extend({
           title: '關於我轉生變成史萊姆這檔事 第二季（僅限台灣地區）',
         },
         {
+          media_id: 28234702,
+          season_id: 39010,
+          title:
+            '轉生成女性向遊戲只有毀滅 END 的壞人大小姐 X（僅限港澳台地區）',
+        },
+        {
+          media_id: 28234703,
+          season_id: 39011,
+          title: '闇芝居9（僅限港澳台地區）',
+        },
+        {
           media_id: 28234706,
           season_id: 39014,
           title: '白沙的Aquatope（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234707,
+          season_id: 39015,
+          title: '開掛藥師的異世界悠閒生活（僅限港澳台地區）',
           is_new: true,
         },
         {
@@ -1553,6 +1570,12 @@ export default Vue.extend({
           is_new: true,
         },
         {
+          media_id: 28234727,
+          season_id: 39035,
+          title: '急戰5秒殊死鬥（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
           media_id: 28234730,
           season_id: 39038,
           title: '偵探已經，死了。（僅限港澳台地區）',
@@ -1574,6 +1597,36 @@ export default Vue.extend({
           media_id: 28234733,
           season_id: 39041,
           title: '現實主義者的王國重建記（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234734,
+          season_id: 39042,
+          title: '魔法科高中的優等生（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234735,
+          season_id: 39043,
+          title: '漂流少年（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234737,
+          season_id: 39045,
+          title: '歌劇少女！！（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234738,
+          season_id: 39046,
+          title: 'IDOLiSH7-偶像星願-Third BEAT!（僅台灣地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234740,
+          season_id: 39048,
+          title: '女神宿舍的管理員。【安全版】（僅限港澳台地區）',
           is_new: true,
         },
       ],
