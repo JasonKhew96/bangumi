@@ -1365,7 +1365,7 @@ export default Vue.extend({
           title: '转生成为了只有乙女游戏破灭结局的邪恶大小姐 X',
           is_new: true,
         },
-        { season_id: 1010705, title: 'Sonny Boy', is_new: true },
+        { season_id: 1010705, title: '漂流少年', is_new: true },
         { season_id: 1010783, title: '女神宿舍的管理员', is_new: true },
         { season_id: 1010919, title: '侦探已死', is_new: true },
         { season_id: 1011004, title: '白沙的水族馆', is_new: true },
