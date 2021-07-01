@@ -1510,6 +1510,11 @@ export default Vue.extend({
           title: '闇芝居9（僅限港澳台地區）',
         },
         {
+          media_id: 28234705,
+          season_id: 39013,
+          title: '瓦尼塔斯的手札（僅限港澳台地區）',
+        },
+        {
           media_id: 28234706,
           season_id: 39014,
           title: '白沙的Aquatope（僅限港澳台地區）',
@@ -1519,6 +1524,12 @@ export default Vue.extend({
           media_id: 28234707,
           season_id: 39015,
           title: '開掛藥師的異世界悠閒生活（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28234709,
+          season_id: 39017,
+          title: '叫我對大哥（僅限港澳台地區）',
           is_new: true,
         },
         {
