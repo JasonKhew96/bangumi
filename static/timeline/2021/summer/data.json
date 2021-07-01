@@ -312,7 +312,7 @@
     {
       "title": {
         "ja": "Sonny Boy -サニーボーイ-",
-        "zh-tw": "Sonny Boy"
+        "zh-tw": "漂流少年"
       },
       "premiereTime": {
         "ja": {
@@ -451,7 +451,8 @@
     {
       "title": {
         "ja": "かげきしょうじょ!!",
-        "zh-cn": "歌剧少女！！"
+        "zh-cn": "歌剧少女！！",
+        "zh-tw": "歌劇少女！！"
       },
       "premiereTime": {
         "ja": {
@@ -505,7 +506,8 @@
     },
     {
       "title": {
-        "ja": "出会って5秒でバトル"
+        "ja": "出会って5秒でバトル",
+        "zh-tw": "急戰5秒殊死鬥"
       },
       "premiereTime": {
         "ja": {
@@ -639,6 +641,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625662800
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625668200
         }
       },
       "episodesLength": 0
@@ -687,7 +692,7 @@
     {
       "title": {
         "ja": "アイドリッシュセブン Third BEAT!",
-        "zh-tw": "IDOLiSH7-偶像星願-Third BEAT!!"
+        "zh-tw": "IDOLiSH7-偶像星願-Third BEAT!"
       },
       "premiereTime": {
         "ja": {
