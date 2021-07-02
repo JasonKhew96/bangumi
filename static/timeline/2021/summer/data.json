@@ -192,6 +192,35 @@
     },
     {
       "title": {
+        "ja": "東京卍リベンジャーズ",
+        "zh-tw": "東京復仇者",
+        "zh-cn": "东京卍复仇者",
+        "en": "TOKYO REVENGERS"
+      },
+      "premiereTime": {
+        "ja": {
+          "timestamp": 1618074480
+        },
+        "anigamer": {
+          "timestamp": 1618079880
+        },
+        "bilibiliIntl": {
+          "timestamp": 1618079880
+        },
+        "bilibiliOverseas": {
+          "timestamp": 1618079880
+        },
+        "iqiyiTaiwan": {
+          "timestamp": 1618079880
+        },
+        "crunchyroll": {
+          "timestamp": 1618081200
+        }
+      },
+      "episodesLength": 0
+    },
+    {
+      "title": {
         "ja": "ラブライブ！スーパースター!!",
         "zh-tw": "Love Live! Superstar!!"
       },
