@@ -172,6 +172,7 @@ export default Vue.extend({
     calcUnsyncTime(bangumi: Bangumi): number {
       if (!('ja' in bangumi.premiereTime)) return 0
       if (!(this.inputDistributor in bangumi.premiereTime)) return 0
+      if (bangumi.premiereTime.ja.timestamp <= 0) return 0
       return (
         bangumi.premiereTime[this.inputDistributor].timestamp -
         bangumi.premiereTime.ja.timestamp
