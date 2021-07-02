@@ -8,7 +8,7 @@
               id="filter-input"
               v-model="filter"
               type="search"
-              placeholder="Type to Search"
+              placeholder="搜索"
             ></b-form-input>
 
             <b-input-group-append>
@@ -18,16 +18,6 @@
             </b-input-group-append>
           </b-input-group>
         </b-form-group>
-      </b-col>
-      <b-col>
-        <b-pagination
-          v-model="currentPage"
-          :total-rows="totalRows"
-          :per-page="perPage"
-          align="fill"
-          size="sm"
-          class="my-0"
-        ></b-pagination>
       </b-col>
     </b-row>
     <b-row>
@@ -40,9 +30,23 @@
           >
             <b-form-radio value="all">全部</b-form-radio>
             <b-form-radio value="new">新上架</b-form-radio>
-            <b-form-radio value="return">恢复上架</b-form-radio>
+            <b-form-radio value="return">恢復上架</b-form-radio>
+            <b-form-radio value="exclusive">獨播</b-form-radio>
+            <b-form-radio value="vip">會員</b-form-radio>
           </b-form-radio-group>
         </b-form-group>
+      </b-col>
+    </b-row>
+    <b-row>
+      <b-col>
+        <b-pagination
+          v-model="currentPage"
+          :total-rows="totalRows"
+          :per-page="perPage"
+          align="fill"
+          size="sm"
+          class="my-0"
+        ></b-pagination>
       </b-col>
     </b-row>
     <b-table
@@ -80,8 +84,22 @@
         {{ data.value }}
         <b-badge v-if="data.item.is_new" variant="success">新</b-badge>
         <b-badge v-if="data.item.is_return" variant="primary">恢</b-badge>
+        <b-badge v-if="data.item.is_exclusive" variant="danger">獨家</b-badge>
+        <b-badge v-if="data.item.is_vip" variant="warning">會員</b-badge>
       </template>
     </b-table>
+    <b-row>
+      <b-col>
+        <b-pagination
+          v-model="currentPage"
+          :total-rows="totalRows"
+          :per-page="perPage"
+          align="fill"
+          size="sm"
+          class="my-0"
+        ></b-pagination>
+      </b-col>
+    </b-row>
   </div>
 </template>
 
@@ -1525,6 +1543,7 @@ export default Vue.extend({
           season_id: 39015,
           title: '開掛藥師的異世界悠閒生活（僅限港澳台地區）',
           is_new: true,
+          is_vip: true,
         },
         {
           media_id: 28234709,
@@ -1549,6 +1568,7 @@ export default Vue.extend({
           season_id: 39024,
           title: '小林家的龍女僕S 第2季（僅限港澳台地區）',
           is_new: true,
+          is_exclusive: true,
         },
         {
           media_id: 28234719,
@@ -1561,12 +1581,14 @@ export default Vue.extend({
           season_id: 39028,
           title: '精靈幻想記（僅限港澳台地區）',
           is_new: true,
+          is_exclusive: true,
         },
         {
           media_id: 28234721,
           season_id: 39029,
           title: '異世界迷宮黑心企業（僅限港澳台地區）',
           is_new: true,
+          is_exclusive: true,
         },
         {
           media_id: 28234722,
@@ -1627,6 +1649,7 @@ export default Vue.extend({
           season_id: 39045,
           title: '歌劇少女！！（僅限港澳台地區）',
           is_new: true,
+          is_exclusive: true,
         },
         {
           media_id: 28234738,
@@ -1643,7 +1666,7 @@ export default Vue.extend({
       ],
       totalRows: 1,
       currentPage: 1,
-      perPage: 10,
+      perPage: 15,
       specialFilterSelected: 'all',
       filter: '',
     }
@@ -1656,10 +1679,19 @@ export default Vue.extend({
         this.filter = '(is:new)'
       } else if (val === 'return') {
         this.filter = '(is:return)'
+      } else if (val === 'exclusive') {
+        this.filter = '(is:exclusive)'
+      } else if (val === 'vip') {
+        this.filter = '(is:vip)'
       }
     },
     filter(val: string) {
-      if (val === '(is:new)' || val === '(is:return)') {
+      if (
+        val === '(is:new)' ||
+        val === '(is:return)' ||
+        val === '(is:exclusive)' ||
+        val === '(is:vip)'
+      ) {
         return
       }
       this.specialFilterSelected = 'all'
@@ -1686,6 +1718,12 @@ export default Vue.extend({
       }
       if (match.includes('(is:return)')) {
         return item.is_return
+      }
+      if (match.includes('(is:exclusive)')) {
+        return item.is_exclusive
+      }
+      if (match.includes('(is:vip)')) {
+        return item.is_vip
       }
       if (title.includes(match)) {
         return true

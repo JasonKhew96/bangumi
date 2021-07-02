@@ -19,16 +19,6 @@
           </b-input-group>
         </b-form-group>
       </b-col>
-      <b-col>
-        <b-pagination
-          v-model="currentPage"
-          :total-rows="totalRows"
-          :per-page="perPage"
-          align="fill"
-          size="sm"
-          class="my-0"
-        ></b-pagination>
-      </b-col>
     </b-row>
     <b-row>
       <b-col>
@@ -40,9 +30,23 @@
           >
             <b-form-radio value="all">全部</b-form-radio>
             <b-form-radio value="new">新上架</b-form-radio>
-            <b-form-radio value="return">恢复上架</b-form-radio>
+            <b-form-radio value="return">恢復上架</b-form-radio>
+            <b-form-radio value="exclusive">獨播</b-form-radio>
+            <b-form-radio value="vip">會員</b-form-radio>
           </b-form-radio-group>
         </b-form-group>
+      </b-col>
+    </b-row>
+    <b-row>
+      <b-col>
+        <b-pagination
+          v-model="currentPage"
+          :total-rows="totalRows"
+          :per-page="perPage"
+          align="fill"
+          size="sm"
+          class="my-0"
+        ></b-pagination>
       </b-col>
     </b-row>
     <b-table
@@ -82,6 +86,18 @@
         <b-badge v-if="data.item.is_return" variant="primary">恢</b-badge>
       </template>
     </b-table>
+    <b-row>
+      <b-col>
+        <b-pagination
+          v-model="currentPage"
+          :total-rows="totalRows"
+          :per-page="perPage"
+          align="fill"
+          size="sm"
+          class="my-0"
+        ></b-pagination>
+      </b-col>
+    </b-row>
   </div>
 </template>
 
@@ -1394,7 +1410,7 @@ export default Vue.extend({
       ],
       totalRows: 1,
       currentPage: 1,
-      perPage: 10,
+      perPage: 15,
       specialFilterSelected: 'all',
       filter: '',
     }
@@ -1407,10 +1423,19 @@ export default Vue.extend({
         this.filter = '(is:new)'
       } else if (val === 'return') {
         this.filter = '(is:return)'
+      } else if (val === 'exclusive') {
+        this.filter = '(is:exclusive)'
+      } else if (val === 'vip') {
+        this.filter = '(is:vip)'
       }
     },
     filter(val: string) {
-      if (val === '(is:new)' || val === '(is:return)') {
+      if (
+        val === '(is:new)' ||
+        val === '(is:return)' ||
+        val === '(is:exclusive)' ||
+        val === '(is:vip)'
+      ) {
         return
       }
       this.specialFilterSelected = 'all'
@@ -1437,6 +1462,12 @@ export default Vue.extend({
       }
       if (match.includes('(is:return)')) {
         return item.is_return
+      }
+      if (match.includes('(is:exclusive)')) {
+        return item.is_exclusive
+      }
+      if (match.includes('(is:vip)')) {
+        return item.is_vip
       }
       if (title.includes(match)) {
         return true
