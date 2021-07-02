@@ -237,6 +237,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625670000
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625673600
         }
       },
       "episodesLength": 0
