@@ -198,6 +198,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625997600
+        },
+        "anigamer": {
+          "timestamp": 1626082200
         }
       },
       "episodesLength": 0
@@ -213,6 +216,9 @@
           "timestamp": 1625149800
         },
         "bilibiliIntl": {
+          "timestamp": 1625153400
+        },
+        "anigamer": {
           "timestamp": 1625153400
         }
       },
@@ -246,11 +252,15 @@
     },
     {
       "title": {
-        "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON"
+        "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON",
+        "zh-tw": "魔法紀錄 魔法少女小圓外傳 第二季"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1627743600
+        },
+        "anigamer": {
+          "timestamp": 1627749000
         }
       },
       "episodesLength": 0
@@ -266,6 +276,9 @@
           "timestamp": 1625144400
         },
         "bilibiliIntl": {
+          "timestamp": 1625146800
+        },
+        "anigamer": {
           "timestamp": 1625146800
         }
       },
@@ -286,13 +299,16 @@
       "title": {
         "ja": "転生したらスライムだった件 第2期 第2部",
         "zh-cn": "关于我转生变成史莱姆这档事 第二季 Part 2",
-        "zh-tw": "關於我轉生變成史萊姆這檔事 第二季後半"
+        "zh-tw": "關於我轉生變成史萊姆這檔事 第二季 後半"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625580000
         },
         "bilibiliIntl": {
+          "timestamp": 1625585400
+        },
+        "anigamer": {
           "timestamp": 1625585400
         }
       },
@@ -303,11 +319,14 @@
       "title": {
         "ja": "白い砂のアクアトープ",
         "zh-cn": "白沙的水族馆",
-        "zh-tw": "白沙的Aquatope"
+        "zh-tw": "白沙的 Aquatope"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625756400
+        },
+        "anigamer": {
+          "timestamp": 1625761800
         }
       },
       "episodesLength": 0
@@ -320,6 +339,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1626363000
+        },
+        "anigamer": {
+          "timestamp": 1626366600
         }
       },
       "episodesLength": 0
@@ -327,13 +349,17 @@
     {
       "title": {
         "ja": "ゲッターロボ アーク",
-        "zh-cn": "盖塔机器人ARC"
+        "zh-cn": "盖塔机器人ARC",
+        "zh-tw": "蓋特機器人 ARC"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625400000
         },
         "bilibiliIntl": {
+          "timestamp": 1625401800
+        },
+        "anigamer": {
           "timestamp": 1625401800
         }
       },
@@ -351,6 +377,9 @@
         },
         "bilibiliIntl": {
           "timestamp": 1625328000
+        },
+        "anigamer": {
+          "timestamp": 1625328000
         }
       },
       "episodesLength": 0
@@ -366,6 +395,9 @@
           "timestamp": 1625403600
         },
         "bilibiliIntl": {
+          "timestamp": 1625405400
+        },
+        "anigamer": {
           "timestamp": 1625405400
         }
       },
@@ -398,6 +430,9 @@
         },
         "bilibiliIntl": {
           "timestamp": 1625252100
+        },
+        "anigamer": {
+          "timestamp": 1625252100
         }
       },
       "episodesLength": 0
@@ -411,6 +446,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1626273000
+        },
+        "anigamer": {
+          "timestamp": 1626278400
         }
       },
       "episodesLength": 0
@@ -429,13 +467,18 @@
     },
     {
       "title": {
-        "ja": "RE-MAIN"
+        "ja": "RE-MAIN",
+        "zh-cn": "RE-MAIN",
+        "zh-tw": "RE-MAIN"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625329800
         },
         "bilibiliIntl": {
+          "timestamp": 1625333400
+        },
+        "anigamer": {
           "timestamp": 1625333400
         }
       },
@@ -445,11 +488,14 @@
       "title": {
         "ja": "闇芝居 九期",
         "zh-cn": "暗芝居 第九季",
-        "zh-tw": "闇芝居 第9季"
+        "zh-tw": "闇芝居 第九季"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 0
+        },
+        "anigamer": {
+          "timestamp": 1626030600
         }
       },
       "episodesLength": 0
@@ -495,6 +541,9 @@
         },
         "bilibiliIntl": {
           "timestamp": 1625243400
+        },
+        "anigamer": {
+          "timestamp": 1625243400
         }
       },
       "episodesLength": 0
@@ -513,11 +562,14 @@
     {
       "title": {
         "ja": "出会って5秒でバトル",
-        "zh-tw": "急戰5秒殊死鬥"
+        "zh-tw": "急戰 5 秒殊死鬥"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1626102000
+        },
+        "anigamer": {
+          "timestamp": 1626111000
         }
       },
       "episodesLength": 0
@@ -543,6 +595,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625239800
+        },
+        "anigamer": {
+          "timestamp": 1625848200
         }
       },
       "episodesLength": 0
@@ -569,6 +624,9 @@
           "timestamp": 1625243100
         },
         "bilibiliIntl": {
+          "timestamp": 1625248500
+        },
+        "anigamer": {
           "timestamp": 1625248500
         }
       },
@@ -602,6 +660,9 @@
         },
         "bilibiliIntl": {
           "timestamp": 1625333400
+        },
+        "anigamer": {
+          "timestamp": 1625333400
         }
       },
       "episodesLength": 0
@@ -618,6 +679,9 @@
         },
         "bilibiliIntl": {
           "timestamp": 1625315400
+        },
+        "anigamer": {
+          "timestamp": 1625315400
         }
       },
       "episodesLength": 0
@@ -633,10 +697,23 @@
           "timestamp": 1625401800
         },
         "bilibiliIntl": {
-          "timestamp": 1625409000
+          "timestamp": 1625407200
+        },
+        "anigamer": {
+          "timestamp": 1625407200
         }
       },
-      "episodesLength": 0
+      "episodesLength": 0,
+      "schedule": [
+        {
+          "type": "scheduled",
+          "index": 1,
+          "time": {
+            "anigamer": 1625409000,
+            "bilibiliIntl": 1625409000
+          }
+        }
+      ]
     },
     {
       "title": {
@@ -649,6 +726,9 @@
           "timestamp": 1625662800
         },
         "bilibiliIntl": {
+          "timestamp": 1625668200
+        },
+        "anigamer": {
           "timestamp": 1625668200
         }
       },
@@ -665,10 +745,10 @@
           "timestamp": 1625146200
         },
         "anigamer": {
-          "timestamp": 1625144400
+          "timestamp": 1625148000
         },
         "bilibiliIntl": {
-          "timestamp": 1625144400
+          "timestamp": 1625148000
         }
       },
       "episodesLength": 0
@@ -698,11 +778,14 @@
     {
       "title": {
         "ja": "アイドリッシュセブン Third BEAT!",
-        "zh-tw": "IDOLiSH7-偶像星願-Third BEAT!"
+        "zh-tw": "IDOLiSH7 - 偶像星願 - Third BEAT！"
       },
       "premiereTime": {
         "ja": {
           "timestamp": 1625405400
+        },
+        "anigamer": {
+          "timestamp": 1625407200
         }
       },
       "episodesLength": 0
@@ -751,6 +834,9 @@
           "timestamp": 1625244600
         },
         "bilibiliIntl": {
+          "timestamp": 1625248200
+        },
+        "anigamer": {
           "timestamp": 1625248200
         }
       },
