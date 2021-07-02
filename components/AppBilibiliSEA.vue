@@ -1381,6 +1381,7 @@ export default Vue.extend({
           is_new: true,
         },
         { season_id: 1011746, title: '寒蝉鸣泣之时 卒', is_new: true },
+        { season_id: 1011828, title: 'RE-MAIN', is_new: true },
         { season_id: 1012086, title: '我，小怼', is_new: true },
         { season_id: 1012153, title: '女友成双', is_new: true },
         { season_id: 1012514, title: '暗芝居 第九季', is_new: true },
