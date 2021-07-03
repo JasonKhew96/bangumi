@@ -356,6 +356,9 @@
         },
         "anigamer": {
           "timestamp": 1625761800
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625761800
         }
       },
       "episodesLength": 0
@@ -612,6 +615,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625837400
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625839200
         }
       },
       "episodesLength": 0
