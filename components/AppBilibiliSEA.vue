@@ -1366,6 +1366,11 @@ export default Vue.extend({
         { season_id: 37281, title: '灼眼的夏娜S' },
         // 2021 summer
         { season_id: 1007160, title: '精灵幻想记', is_new: true },
+        {
+          season_id: 1009563,
+          title: '我立于百万生命之上 第二季',
+          is_new: true,
+        },
         { season_id: 1009786, title: '小林家的龙女仆S', is_new: true },
         { season_id: 1009917, title: '异世界迷宫黑心企业', is_new: true },
         { season_id: 1009992, title: '歌剧少女！！', is_new: true },
