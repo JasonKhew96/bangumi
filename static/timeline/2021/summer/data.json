@@ -625,6 +625,7 @@
     {
       "title": {
         "ja": "100万の命の上に俺は立っている 第2シーズン",
+        "zh-cn": "我立于百万生命之上 第二季",
         "zh-tw": "我立於百萬生命之上 第二季"
       },
       "premiereTime": {
@@ -632,6 +633,9 @@
           "timestamp": 1625844600
         },
         "anigamer": {
+          "timestamp": 1625848200
+        },
+        "bilibiliIntl": {
           "timestamp": 1625848200
         }
       },
