@@ -1571,6 +1571,13 @@ export default Vue.extend({
           is_exclusive: true,
         },
         {
+          media_id: 28234718,
+          season_id: 39026,
+          title: '陰晴不定的體操哥哥（僅限港澳台地區）',
+          is_new: true,
+          is_exclusive: true,
+        },
+        {
           media_id: 28234719,
           season_id: 39027,
           title: '月光下的異世界之旅（僅限港澳台地區）',
