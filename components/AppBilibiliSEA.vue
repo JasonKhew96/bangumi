@@ -1412,6 +1412,19 @@ export default Vue.extend({
           title: '关于我转生变成史莱姆这档事  第二季 Part 2',
           is_new: true,
         },
+        // extra
+        { season_id: 1013168, title: '元龙 第二季', is_new: true },
+        {
+          season_id: 1008675,
+          title: '刀剑神域 Alicization War of Underworld -THE LAST SEASON- ',
+          is_new: true,
+        },
+        {
+          season_id: 1008561,
+          title: '刀剑神域 Alicization War of Underworld',
+          is_new: true,
+        },
+        { season_id: 1008193, title: '邻座的怪同学', is_new: true },
       ],
       totalRows: 1,
       currentPage: 1,
