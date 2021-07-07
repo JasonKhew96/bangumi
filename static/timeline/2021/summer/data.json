@@ -118,7 +118,13 @@
           "timestamp": 1618245000
         }
       },
-      "episodesLength": 20
+      "episodesLength": 20,
+      "schedule": [
+        {
+          "type": "delayed_normal",
+          "index": 13
+        }
+      ]
     },
     {
       "title": {
@@ -147,7 +153,13 @@
           "timestamp": 1617990900
         }
       },
-      "episodesLength": 24
+      "episodesLength": 24,
+      "schedule": [
+        {
+          "type": "delayed_normal",
+          "index": 13
+        }
+      ]
     },
     {
       "title": {
@@ -188,7 +200,13 @@
           "timestamp": 1618665300
         }
       },
-      "episodesLength": 21
+      "episodesLength": 21,
+      "schedule": [
+        {
+          "type": "delayed_normal",
+          "index": 13
+        }
+      ]
     },
     {
       "title": {
@@ -438,7 +456,8 @@
     {
       "title": {
         "ja": "うらみちお兄さん",
-        "zh-cn": "阴晴不定大哥哥"
+        "zh-cn": "阴晴不定大哥哥",
+        "zh-tw": "陰晴不定的體操哥哥"
       },
       "premiereTime": {
         "ja": {
@@ -493,6 +512,9 @@
       "premiereTime": {
         "ja": {
           "timestamp": 1625666400
+        },
+        "bilibiliIntl": {
+          "timestamp": 1625670000
         }
       },
       "episodesLength": 0
@@ -527,6 +549,9 @@
           "timestamp": 0
         },
         "anigamer": {
+          "timestamp": 1626030600
+        },
+        "bilibiliIntl": {
           "timestamp": 1626030600
         }
       },
@@ -594,6 +619,7 @@
     {
       "title": {
         "ja": "出会って5秒でバトル",
+        "zh-cn": "见面之后5秒开始战斗",
         "zh-tw": "急戰 5 秒殊死鬥"
       },
       "premiereTime": {
@@ -601,6 +627,9 @@
           "timestamp": 1626102000
         },
         "anigamer": {
+          "timestamp": 1626111000
+        },
+        "bilibiliIntl": {
           "timestamp": 1626111000
         }
       },
