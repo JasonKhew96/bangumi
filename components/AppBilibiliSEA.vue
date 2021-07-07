@@ -1426,6 +1426,7 @@ export default Vue.extend({
           is_new: true,
         },
         { season_id: 1008193, title: '邻座的怪同学', is_new: true },
+        { season_id: 37603, title: '猎人', is_new: true },
       ],
       totalRows: 1,
       currentPage: 1,
