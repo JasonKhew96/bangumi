@@ -1387,6 +1387,7 @@ export default Vue.extend({
           is_new: true,
         },
         { season_id: 1010705, title: '漂流少年', is_new: true },
+        { season_id: 1010573, title: '月光下的异世界之旅', is_new: true },
         { season_id: 1010783, title: '女神宿舍的管理员', is_new: true },
         { season_id: 1010919, title: '侦探已死', is_new: true },
         { season_id: 1011004, title: '白沙的水族馆', is_new: true },
