@@ -1652,6 +1652,12 @@ export default Vue.extend({
           is_new: true,
         },
         {
+          media_id: 28234736,
+          season_id: 39044,
+          title: '賈希大人不氣餒！（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
           media_id: 28234737,
           season_id: 39045,
           title: '歌劇少女！！（僅限港澳台地區）',
