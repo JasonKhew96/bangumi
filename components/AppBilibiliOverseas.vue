@@ -1682,6 +1682,7 @@ export default Vue.extend({
           season_id: 39086,
           title: '隱瞞之事 劇場版（僅限港澳台地區）',
           is_new: true,
+          is_exclusive: true,
         },
       ],
       totalRows: 1,
