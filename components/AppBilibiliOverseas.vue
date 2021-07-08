@@ -1676,6 +1676,13 @@ export default Vue.extend({
           title: '女神宿舍的管理員。【安全版】（僅限港澳台地區）',
           is_new: true,
         },
+        // extra
+        {
+          media_id: 28234778,
+          season_id: 39086,
+          title: '隱瞞之事 劇場版（僅限港澳台地區）',
+          is_new: true,
+        },
       ],
       totalRows: 1,
       currentPage: 1,
