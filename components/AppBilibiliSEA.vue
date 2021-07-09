@@ -1427,6 +1427,12 @@ export default Vue.extend({
         },
         { season_id: 1008193, title: '邻座的怪同学', is_new: true },
         { season_id: 37603, title: '猎人', is_new: true },
+        {
+          season_id: 1008245,
+          title: '只要可爱即使是变态你也会喜欢我吧？',
+          is_new: true,
+        },
+        { season_id: 36184, title: '潜行吧！奈亚子', is_new: true },
       ],
       totalRows: 1,
       currentPage: 1,
