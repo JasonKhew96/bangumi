@@ -200,13 +200,7 @@
           "timestamp": 1618665300
         }
       },
-      "episodesLength": 21,
-      "schedule": [
-        {
-          "type": "delayed_normal",
-          "index": 13
-        }
-      ]
+      "episodesLength": 21
     },
     {
       "title": {
@@ -384,6 +378,7 @@
     {
       "title": {
         "ja": "Sonny Boy -サニーボーイ-",
+        "zh-cn": "漂流少年",
         "zh-tw": "漂流少年"
       },
       "premiereTime": {
@@ -391,6 +386,9 @@
           "timestamp": 1626363000
         },
         "anigamer": {
+          "timestamp": 1626366600
+        },
+        "bilibiliIntl": {
           "timestamp": 1626366600
         }
       },
@@ -500,6 +498,9 @@
         },
         "anigamer": {
           "timestamp": 1626278400
+        },
+        "bilibiliIntl": {
+          "timestamp": 1626280200
         }
       },
       "episodesLength": 0

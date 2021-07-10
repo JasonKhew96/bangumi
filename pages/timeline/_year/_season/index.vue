@@ -117,7 +117,7 @@ export default Vue.extend({
                 case 'scheduled':
                   if (!(this.inputDistributor in filtered[0].time)) continue
                   timestamp = filtered[0].time[this.inputDistributor]
-                  // offset -= releaseEvery
+                  offset -= releaseEvery
                   break
                 case 'delayed_normal':
                   offset += releaseEvery
