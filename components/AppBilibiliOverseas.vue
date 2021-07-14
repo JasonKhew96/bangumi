@@ -1684,6 +1684,18 @@ export default Vue.extend({
           is_new: true,
           is_exclusive: true,
         },
+        {
+          media_id: 28233772,
+          season_id: 38091,
+          title: '織田肉桂信長（僅限港澳台地區）',
+          is_new: true,
+        },
+        {
+          media_id: 28233773,
+          season_id: 38092,
+          title: '22/7（僅限港澳台地區）',
+          is_new: true,
+        },
       ],
       totalRows: 1,
       currentPage: 1,
