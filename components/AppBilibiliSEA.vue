@@ -1438,7 +1438,7 @@ export default Vue.extend({
         { season_id: 1008059, title: '捏造陷阱 -NTR-', is_new: true },
         { season_id: 37408, title: '高校舰队', is_return: true },
         { season_id: 37492, title: '高校舰队 OVA', is_return: true },
-        { season_id: 38108, title: '通灵王', is_return: true },
+        { season_id: 38108, title: '通灵王', is_new: true },
       ],
       totalRows: 1,
       currentPage: 1,
