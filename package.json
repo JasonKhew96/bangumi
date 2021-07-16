@@ -12,6 +12,7 @@
     "gatsby-plugin-offline": "^4.9.0",
     "gatsby-plugin-react-helmet": "^4.9.0",
     "gatsby-plugin-sharp": "^3.9.0",
+    "gatsby-plugin-typescript": "^3.9.0",
     "gatsby-source-filesystem": "^3.9.0",
     "gatsby-transformer-sharp": "^3.9.0",
     "prop-types": "^15.7.2",
@@ -20,6 +21,7 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "@types/react-helmet": "^6.1.2",
     "prettier": "2.3.2"
   },
   "keywords": [
