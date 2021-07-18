@@ -15,6 +15,7 @@ import MenuIcon from "@material-ui/icons/Menu"
 import DirectionsBoatIcon from "@material-ui/icons/DirectionsBoat"
 import FlightIcon from "@material-ui/icons/Flight"
 import HomeIcon from "@material-ui/icons/Home"
+import { GitHub } from "@material-ui/icons"
 
 export default function Header({ siteTitle }: any): React.ReactElement {
   const [state, setState] = React.useState({
@@ -32,7 +33,13 @@ export default function Header({ siteTitle }: any): React.ReactElement {
           <IconButton color="inherit" onClick={toggleDrawer(true)}>
             <MenuIcon />
           </IconButton>
-          <Typography>{siteTitle}</Typography>
+          <Typography style={{ flexGrow: 1 }}>{siteTitle}</Typography>
+          <IconButton
+            color="inherit"
+            href="https://github.com/JasonKhew96/bangumi-timeline"
+          >
+            <GitHub />
+          </IconButton>
         </Toolbar>
       </AppBar>
       <SwipeableDrawer
