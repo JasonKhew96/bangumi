@@ -23,12 +23,13 @@ const BangumiList = ({ columns, data }: any) => {
   })
 
   const handleSearch = (event: any) => {
+    const tmpValue = event.target.value.toLowerCase()
     setState({
       ...state,
       filteredData: data.filter((i: any) => {
         return (
-          i.title.includes(traditionalized(event.target.value)) ||
-          i.title.includes(event.target.value)
+          i.title.toLowerCase().includes(traditionalized(tmpValue)) ||
+          i.title.toLowerCase().includes(tmpValue)
         )
       }),
     })
