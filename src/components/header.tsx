@@ -27,16 +27,14 @@ export default function Header({ siteTitle }: any): React.ReactElement {
 
   return (
     <header>
-      <div>
-        <AppBar>
-          <Toolbar>
-            <IconButton color="inherit" onClick={toggleDrawer(true)}>
-              <MenuIcon />
-            </IconButton>
-            <Typography>{siteTitle}</Typography>
-          </Toolbar>
-        </AppBar>
-      </div>
+      <AppBar position="static">
+        <Toolbar>
+          <IconButton color="inherit" onClick={toggleDrawer(true)}>
+            <MenuIcon />
+          </IconButton>
+          <Typography>{siteTitle}</Typography>
+        </Toolbar>
+      </AppBar>
       <SwipeableDrawer
         open={state.drawer}
         onOpen={toggleDrawer(true)}
