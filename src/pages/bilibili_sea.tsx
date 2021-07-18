@@ -32,6 +32,7 @@ const columns: GridColDef[] = [
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}
+        { ` ` }
         {params.getValue(params.id, "is_new") ? (
           <Chip size="small" label="新" color="primary" />
         ) : (
