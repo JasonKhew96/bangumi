@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/bilibili", {data:[{}],fetch:{},mutations:void 0});

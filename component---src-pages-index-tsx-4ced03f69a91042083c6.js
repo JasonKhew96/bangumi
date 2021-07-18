@@ -1,0 +1,2 @@
+(self.webpackChunkbangumi=self.webpackChunkbangumi||[]).push([[691],{6738:function(e,t,l){"use strict";l.r(t);var n=l(7294),i=l(5444),a=l(4533),u=l(9470);t.default=function(){return n.createElement(a.Z,null,n.createElement(u.Z,{title:"首页"}),n.createElement("p",null,n.createElement(i.Link,{to:"/bilibili_overseas"},"嗶哩嗶哩（港澳臺）")),n.createElement("p",null,n.createElement(i.Link,{to:"/bilibili_sea"},"哔哩哔哩（东南亚）")))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-4ced03f69a91042083c6.js.map
