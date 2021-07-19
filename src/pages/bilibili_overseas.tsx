@@ -5,6 +5,7 @@ import BangumiList from "../components/bangumiList"
 import { GridCellParams, GridColDef } from "@material-ui/data-grid"
 import { Chip } from "@material-ui/core"
 import JSONData from "../../content/bilibili_overseas.json"
+import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 const columns: GridColDef[] = [
   {
@@ -14,14 +15,13 @@ const columns: GridColDef[] = [
     align: "right",
     flex: 1,
     renderCell: (params: GridCellParams) => (
-      <a
+      <OutboundLink
         href={"https://www.bilibili.com/bangumi/play/ss" + params.value}
         target="_blank"
         rel="noreferrer"
-        referrerPolicy="no-referrer"
       >
         {params.value}
-      </a>
+      </OutboundLink>
     ),
   },
   {
@@ -31,13 +31,13 @@ const columns: GridColDef[] = [
     align: "right",
     flex: 1,
     renderCell: (params: GridCellParams) => (
-      <a
+      <OutboundLink
         href={"https://www.bilibili.com/bangumi/media/md" + params.value}
         target="_blank"
-        referrerPolicy="no-referrer"
+        rel="noreferrer"
       >
         {params.value}
-      </a>
+      </OutboundLink>
     ),
   },
   {
@@ -48,7 +48,7 @@ const columns: GridColDef[] = [
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}
-        { ` ` }
+        {` `}
         {params.getValue(params.id, "is_new") ? (
           <Chip size="small" label="新" color="primary" />
         ) : (

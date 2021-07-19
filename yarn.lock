@@ -5878,6 +5878,14 @@ gatsby-plugin-gatsby-cloud@^2.9.1:
     lodash "^4.17.21"
     webpack-assets-manifest "^5.0.6"
 
+gatsby-plugin-google-gtag@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-3.9.0.tgz#52b10ede80a966a7a1573a7015b714e666c7feaa"
+  integrity sha512-k4NlT4rWnmsfz6xZ2RAqA3j7CwD/PvSahrf+fyi7c/E7TmUOLCRuWy3UyluOGBc8Od0vESU6eYIyHHeFZJco3w==
+  dependencies:
+    "@babel/runtime" "^7.14.0"
+    minimatch "^3.0.4"
+
 gatsby-plugin-image@^1.9.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-1.9.0.tgz#2728a166ac541933754828ee1a4fcd8a24e1c796"

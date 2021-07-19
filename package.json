@@ -11,6 +11,7 @@
     "gatsby": "^3.9.1",
     "gatsby-plugin-cname": "^1.0.0",
     "gatsby-plugin-gatsby-cloud": "^2.9.1",
+    "gatsby-plugin-google-gtag": "^3.9.0",
     "gatsby-plugin-image": "^1.9.0",
     "gatsby-plugin-manifest": "^3.9.0",
     "gatsby-plugin-material-ui": "^3.0.1",

@@ -10,6 +10,7 @@ import {
 } from "@material-ui/data-grid"
 import { Chip } from "@material-ui/core"
 import LockOpenIcon from "@material-ui/icons/LockOpen"
+import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 const columns: GridColDef[] = [
   {
@@ -19,14 +20,13 @@ const columns: GridColDef[] = [
     align: "right",
     flex: 1,
     renderCell: (params: GridCellParams) => (
-      <a
+      <OutboundLink
         href={"https://www.biliintl.com/en/play/" + params.value}
         target="_blank"
         rel="noreferrer"
-        referrerPolicy="no-referrer"
       >
         {params.value}
-      </a>
+      </OutboundLink>
     ),
   },
   {
@@ -39,13 +39,13 @@ const columns: GridColDef[] = [
     valueGetter: (params: GridValueGetterParams) =>
       `${params.getValue(params.id, "season_id")}`,
     renderCell: (params: GridCellParams) => (
-      <a
+      <OutboundLink
         href={"https://www.bilibili.com/bangumi/play/ss" + params.value}
         target="_blank"
-        referrerPolicy="no-referrer"
+        rel="noreferrer"
       >
         <LockOpenIcon />
-      </a>
+      </OutboundLink>
     ),
   },
   {
