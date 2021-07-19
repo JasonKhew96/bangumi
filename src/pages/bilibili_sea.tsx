@@ -1,11 +1,15 @@
 import * as React from "react"
-import { Link } from "gatsby"
 import BangumiList from "../components/bangumiList"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import JSONData from "../../content/bilibili_sea.json"
-import { GridCellParams, GridColDef } from "@material-ui/data-grid"
+import {
+  GridCellParams,
+  GridColDef,
+  GridValueGetterParams,
+} from "@material-ui/data-grid"
 import { Chip } from "@material-ui/core"
+import LockOpenIcon from "@material-ui/icons/LockOpen"
 
 const columns: GridColDef[] = [
   {
@@ -25,6 +29,25 @@ const columns: GridColDef[] = [
     ),
   },
   {
+    field: "",
+    headerName: "",
+    sortable: false,
+    type: "string",
+    align: "center",
+    width: 32,
+    valueGetter: (params: GridValueGetterParams) =>
+      `${params.getValue(params.id, "season_id")}`,
+    renderCell: (params: GridCellParams) => (
+      <a
+        href={"https://www.bilibili.com/bangumi/play/ss" + params.value}
+        target="_blank"
+        referrerPolicy="no-referrer"
+      >
+        <LockOpenIcon />
+      </a>
+    ),
+  },
+  {
     field: "title",
     headerName: "Title",
     type: "string",
@@ -32,7 +55,7 @@ const columns: GridColDef[] = [
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}
-        { ` ` }
+        {` `}
         {params.getValue(params.id, "is_new") ? (
           <Chip size="small" label="新" color="primary" />
         ) : (
