@@ -17,6 +17,7 @@ const columns: GridColDef[] = [
       <a
         href={"https://www.bilibili.com/bangumi/play/ss" + params.value}
         target="_blank"
+        rel="noreferrer"
         referrerPolicy="no-referrer"
       >
         {params.value}

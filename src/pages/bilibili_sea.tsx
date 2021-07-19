@@ -22,6 +22,7 @@ const columns: GridColDef[] = [
       <a
         href={"https://www.biliintl.com/en/play/" + params.value}
         target="_blank"
+        rel="noreferrer"
         referrerPolicy="no-referrer"
       >
         {params.value}
