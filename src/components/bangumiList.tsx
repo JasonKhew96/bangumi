@@ -1,6 +1,6 @@
 import * as React from "react"
 import { DataGrid } from "@material-ui/data-grid"
-import { TextField } from "@material-ui/core"
+import { Paper, TextField } from "@material-ui/core"
 
 const BangumiList = ({ columns, data }: any) => {
   const zhSimp =
@@ -44,14 +44,16 @@ const BangumiList = ({ columns, data }: any) => {
         variant="outlined"
         onChange={handleSearch}
       />
-      <DataGrid
-        rows={state.filteredData}
-        getRowId={row => row.season_id}
-        columns={columns}
-        pageSize={50}
-        autoHeight
-        sortModel={[{ field: "season_id", sort: "desc" }]}
-      />
+      <Paper style={{ overflowX: "auto", width: "100%" }}>
+        <DataGrid
+          rows={state.filteredData}
+          getRowId={row => row.season_id}
+          columns={columns}
+          pageSize={50}
+          autoHeight
+          sortModel={[{ field: "season_id", sort: "desc" }]}
+        />
+      </Paper>
     </div>
   )
 }
