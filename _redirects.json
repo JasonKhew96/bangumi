@@ -1,0 +1,1 @@
+{"redirects":[{"fromPath":"/bilibili","isPermanent":true,"ignoreCase":true,"redirectInBrowser":false,"toPath":"/bilibili_overseas/"},{"fromPath":"/bilibili/","isPermanent":true,"ignoreCase":true,"redirectInBrowser":false,"toPath":"/bilibili_overseas/"}],"rewrites":[]}
