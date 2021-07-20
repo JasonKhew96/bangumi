@@ -17,6 +17,7 @@ const Layout = ({ children }: any) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
+        buildTime(formatString: "YYYY-MM-DD hh:mm a z")
         siteMetadata {
           title
         }
@@ -37,8 +38,9 @@ const Layout = ({ children }: any) => {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
-          {` and `}
+          {` & `}
           <a href="https://material-ui.com">Material-UI</a>
+          {` (Build time: ` + data.site.buildTime + `)`}
         </footer>
       </Container>
     </>
