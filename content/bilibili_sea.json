@@ -1315,6 +1315,18 @@
     { "season_id": 38108, "title": "通灵王", "is_new": true },
     { "season_id": 1012009, "title": "平稳世代的韦驮天们", "is_new": true },
     { "season_id": 36951, "title": "Wake Up, Girls! 新章", "is_new": true },
-    { "season_id": 34979, "title": "骚动时节的少女们啊", "is_new": true }
+    { "season_id": 34979, "title": "骚动时节的少女们啊", "is_new": true },
+    { "season_id": 37588, "title": "蜡笔小新 奇异乐园大冒险", "is_new": true },
+    { "season_id": 36800, "title": "蜡笔小新之云黑斋的野心", "is_new": true },
+    {
+      "season_id": 36798,
+      "title": "蜡笔小新之动感超人大战泳装魔王",
+      "is_new": true
+    },
+    {
+      "season_id": 36797,
+      "title": "蜡笔小新之布里布里王国的秘密宝藏",
+      "is_new": true
+    }
   ]
 }
