@@ -29,7 +29,14 @@ const BangumiList = ({ columns, data }: any) => {
       filteredData: data.filter((i: any) => {
         return (
           i.title.toLowerCase().includes(traditionalized(tmpValue)) ||
-          i.title.toLowerCase().includes(tmpValue)
+          i.title.toLowerCase().includes(tmpValue) ||
+          (i.is_new && tmpValue.includes("新上架")) ||
+          (i.is_exclusive && tmpValue.includes("独家")) ||
+          tmpValue.includes("獨家") ||
+          (i.is_return && tmpValue.includes("恢复上架")) ||
+          tmpValue.includes("恢復上架") ||
+          (i.is_vip && tmpValue.includes("会员")) ||
+          tmpValue.includes("會員")
         )
       }),
     })
@@ -42,6 +49,7 @@ const BangumiList = ({ columns, data }: any) => {
         size="small"
         label="搜索"
         variant="outlined"
+        placeholder="新上架|独家|恢复上架|会员"
         onChange={handleSearch}
       />
       <div style={{ overflowX: "auto", width: "100%" }}>
