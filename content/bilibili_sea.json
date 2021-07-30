@@ -1362,6 +1362,26 @@
       "season_id": 1012596,
       "title": "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-",
       "is_new": true
+    },
+    {
+      "season_id": 1013953,
+      "title": "少年歌行 风花雪月篇",
+      "is_new": true
+    },
+    {
+      "season_id": 1014088,
+      "title": "残次品·放逐星空",
+      "is_new": true
+    },
+    {
+      "season_id": 1014031,
+      "title": "咸鱼哥",
+      "is_new": true
+    },
+    {
+      "season_id": 37949,
+      "title": "少年歌行",
+      "is_new": true
     }
   ]
 }
