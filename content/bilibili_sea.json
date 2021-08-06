@@ -1291,20 +1291,17 @@
     { "season_id": 1013168, "title": "元龙 第二季", "is_new": true },
     {
       "season_id": 1008675,
-      "title": "刀剑神域 Alicization War of Underworld -THE LAST SEASON- ",
-      "is_new": true
+      "title": "刀剑神域 Alicization War of Underworld -THE LAST SEASON- "
     },
     {
       "season_id": 1008561,
-      "title": "刀剑神域 Alicization War of Underworld",
-      "is_new": true
+      "title": "刀剑神域 Alicization War of Underworld"
     },
     { "season_id": 1008193, "title": "邻座的怪同学", "is_new": true },
     { "season_id": 37603, "title": "猎人", "is_new": true },
     {
       "season_id": 1008245,
-      "title": "只要可爱即使是变态你也会喜欢我吧？",
-      "is_new": true
+      "title": "只要可爱即使是变态你也会喜欢我吧？"
     },
     { "season_id": 36184, "title": "潜行吧！奈亚子", "is_new": true },
     { "season_id": 1013285, "title": "红荒", "is_new": true },
@@ -1320,67 +1317,64 @@
     { "season_id": 36800, "title": "蜡笔小新之云黑斋的野心", "is_new": true },
     {
       "season_id": 36798,
-      "title": "蜡笔小新之动感超人大战泳装魔王",
-      "is_new": true
+      "title": "蜡笔小新之动感超人大战泳装魔王"
     },
     {
       "season_id": 36797,
-      "title": "蜡笔小新之布里布里王国的秘密宝藏",
-      "is_new": true
+      "title": "蜡笔小新之布里布里王国的秘密宝藏"
     },
     {
       "season_id": 1013869,
-      "title": "百妖谱 第二季",
-      "is_new": true
+      "title": "百妖谱 第二季"
     },
     {
       "season_id": 37002,
-      "title": "银河英雄传说 Die Neue These 邂逅",
-      "is_new": true
+      "title": "银河英雄传说 Die Neue These 邂逅"
     },
     {
       "season_id": 36903,
-      "title": "Active Raid -机动强袭室第八课- 2nd",
-      "is_new": true
+      "title": "Active Raid -机动强袭室第八课- 2nd"
     },
     {
       "season_id": 37150,
-      "title": "Active Raid -机动强袭室第八课-",
-      "is_new": true
+      "title": "Active Raid -机动强袭室第八课-"
     },
     {
       "season_id": 1014195,
-      "title": "百妖谱",
-      "is_new": true
+      "title": "百妖谱"
     },
     {
       "season_id": 1012276,
-      "title": "迦希女王不会放弃！",
-      "is_new": true
+      "title": "迦希女王不会放弃！"
     },
     {
       "season_id": 1012596,
-      "title": "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-",
-      "is_new": true
+      "title": "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-"
     },
     {
       "season_id": 1013953,
-      "title": "少年歌行 风花雪月篇",
-      "is_new": true
+      "title": "少年歌行 风花雪月篇"
     },
     {
       "season_id": 1014088,
-      "title": "残次品·放逐星空",
-      "is_new": true
+      "title": "残次品·放逐星空"
     },
     {
       "season_id": 1014031,
-      "title": "咸鱼哥",
-      "is_new": true
+      "title": "咸鱼哥"
     },
     {
       "season_id": 37949,
-      "title": "少年歌行",
+      "title": "少年歌行"
+    },
+    {
+      "season_id": 1013660,
+      "title": "黑白无双 第三季",
+      "is_new": true
+    },
+    {
+      "season_id": 1014306,
+      "title": "剧场编集版 隐瞒之事 -秘密是什么-",
       "is_new": true
     }
   ]
