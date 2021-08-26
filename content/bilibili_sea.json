@@ -1369,12 +1369,60 @@
     },
     {
       "season_id": 1013660,
-      "title": "黑白无双 第三季",
-      "is_new": true
+      "title": "黑白无双 第三季"
     },
     {
       "season_id": 1014306,
-      "title": "剧场编集版 隐瞒之事 -秘密是什么-",
+      "title": "剧场编集版 隐瞒之事 -秘密是什么-"
+    },
+    {
+      "season_id": 36998,
+      "title": "一弦定音！",
+      "is_new": true
+    },
+    {
+      "season_id": 36815,
+      "title": "动画同好会",
+      "is_new": true
+    },
+    {
+      "season_id": 37906,
+      "title": "旋风管家 第二季",
+      "is_new": true
+    },
+    {
+      "season_id": 37880,
+      "title": "异世界四重奏2",
+      "is_new": true
+    },
+    {
+      "season_id": 36807,
+      "title": "十二国记",
+      "is_new": true
+    },
+    {
+      "season_id": 37893,
+      "title": "旋风管家",
+      "is_new": true
+    },
+    {
+      "season_id": 36999,
+      "title": "一周的朋友。",
+      "is_new": true
+    },
+    {
+      "season_id": 37011,
+      "title": "幼女战记",
+      "is_new": true
+    },
+    {
+      "season_id": 37358,
+      "title": "ACCA13区监察课",
+      "is_new": true
+    },
+    {
+      "season_id": 35577,
+      "title": "pop子和pipi美的日常",
       "is_new": true
     }
   ]
