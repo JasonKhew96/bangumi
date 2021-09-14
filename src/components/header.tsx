@@ -14,6 +14,7 @@ import {
 import MenuIcon from "@material-ui/icons/Menu"
 import DirectionsBoatIcon from "@material-ui/icons/DirectionsBoat"
 import FlightIcon from "@material-ui/icons/Flight"
+import VpnLockIcon from "@material-ui/icons/VpnLock"
 import HomeIcon from "@material-ui/icons/Home"
 import { GitHub } from "@material-ui/icons"
 
@@ -73,6 +74,16 @@ export default function Header({ siteTitle }: any): React.ReactElement {
               <FlightIcon />
             </ListItemIcon>
             <ListItemText primary="哔哩哔哩（东南亚）" />
+          </ListItem>
+          <ListItem
+            button
+            key="巴哈姆特動畫瘋"
+            onClick={() => navigate("/anigamer")}
+          >
+            <ListItemIcon>
+              <VpnLockIcon />
+            </ListItemIcon>
+            <ListItemText primary="巴哈姆特動畫瘋" />
           </ListItem>
         </List>
       </SwipeableDrawer>

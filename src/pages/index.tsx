@@ -1,6 +1,5 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -13,6 +12,9 @@ const IndexPage = () => (
     </p>
     <p>
       <Link to="/bilibili_sea">哔哩哔哩（东南亚）</Link>
+    </p>
+    <p>
+      <Link to="/anigamer">巴哈姆特動畫瘋</Link>
     </p>
   </Layout>
 )
