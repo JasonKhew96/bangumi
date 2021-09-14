@@ -3,13 +3,9 @@ import BangumiList from "../components/bangumiList"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import JSONData from "../../content/anigamer.json"
-import {
-  GridCellParams,
-  GridColDef,
-  GridValueGetterParams,
-} from "@material-ui/data-grid"
+import { GridCellParams, GridColDef } from "@material-ui/data-grid"
 import { Chip } from "@material-ui/core"
-import LockOpenIcon from "@material-ui/icons/LockOpen"
+import FolderSpecialIcon from "@material-ui/icons/FolderSpecial"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 const columns: GridColDef[] = [
@@ -59,7 +55,7 @@ const columns: GridColDef[] = [
         target="_blank"
         rel="noreferrer"
       >
-        <LockOpenIcon />
+        <FolderSpecialIcon />
       </OutboundLink>
     ),
   },
