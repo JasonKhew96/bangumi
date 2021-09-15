@@ -59,6 +59,11 @@ const columns: GridColDef[] = [
         ) : (
           ""
         )}
+        {params.getValue(params.id, "is_exclusive") ? (
+          <Chip size="small" label="會員" color="secondary" />
+        ) : (
+          ""
+        )}
       </div>
     ),
   },
