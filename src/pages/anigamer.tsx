@@ -68,13 +68,18 @@ const columns: GridColDef[] = [
       <div>
         {params.value}
         {` `}
-        {params.getValue(params.id, "is_new") ? (
-          <Chip size="small" label="新" color="primary" />
+        {params.getValue(params.id, "bilingual") == true ? (
+          <Chip size="small" label="雙" color="primary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_exclusive") ? (
-          <Chip size="small" label="独" color="secondary" />
+        {params.getValue(params.id, "vipTime") != "" ? (
+          <Chip size="small" label="VIP" color="primary" />
+        ) : (
+          ""
+        )}
+        {params.getValue(params.id, "edition") == "年齡限制" ? (
+          <Chip size="small" label="限" color="secondary" />
         ) : (
           ""
         )}
