@@ -69,12 +69,12 @@ const columns: GridColDef[] = [
         {params.value}
         {` `}
         {params.getValue(params.id, "bilingual") == true ? (
-          <Chip size="small" label="雙" color="primary" />
+          <Chip size="small" label="雙語" color="primary" />
         ) : (
           ""
         )}
         {params.getValue(params.id, "vipTime") != "" ? (
-          <Chip size="small" label="VIP" color="primary" />
+          <Chip size="small" label="VIP" color="secondary" />
         ) : (
           ""
         )}
