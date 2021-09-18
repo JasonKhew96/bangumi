@@ -13,7 +13,7 @@ const columns: GridColDef[] = [
     headerName: "Season ID",
     type: "string",
     align: "right",
-    width: 64,
+    width: 128,
     renderCell: (params: GridCellParams) => (
       <OutboundLink
         href={"https://www.bilibili.com/bangumi/play/ss" + params.value}
@@ -29,7 +29,7 @@ const columns: GridColDef[] = [
     headerName: "Media ID",
     type: "string",
     align: "right",
-    width: 92,
+    width: 128,
     renderCell: (params: GridCellParams) => (
       <OutboundLink
         href={"https://www.bilibili.com/bangumi/media/md" + params.value}
@@ -44,7 +44,7 @@ const columns: GridColDef[] = [
     field: "title",
     headerName: "Title",
     type: "string",
-    width: 600,
+    width: 1024,
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}

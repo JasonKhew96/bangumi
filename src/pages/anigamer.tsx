@@ -13,6 +13,7 @@ const columns: GridColDef[] = [
     field: "acg_sn",
     headerName: "詳情",
     align: "right",
+    width: 128,
     renderCell: (params: GridCellParams) => (
       <OutboundLink
         href={"https://acg.gamer.com.tw/acgDetail.php?s=" + params.value}
@@ -27,6 +28,7 @@ const columns: GridColDef[] = [
     field: "anime_sn",
     headerName: "播放",
     align: "right",
+    width: 128,
     renderCell: (params: GridCellParams) => (
       <OutboundLink
         href={"https://ani.gamer.com.tw/animeRef.php?sn=" + params.value}
@@ -63,7 +65,7 @@ const columns: GridColDef[] = [
     field: "title",
     headerName: "標題",
     type: "string",
-    flex: 768,
+    width: 1024,
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}

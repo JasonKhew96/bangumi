@@ -18,7 +18,7 @@ const columns: GridColDef[] = [
     headerName: "Season ID",
     type: "string",
     align: "right",
-    width: 92,
+    width: 128,
     renderCell: (params: GridCellParams) => (
       <OutboundLink
         href={"https://www.biliintl.com/en/play/" + params.value}
@@ -52,7 +52,7 @@ const columns: GridColDef[] = [
     field: "title",
     headerName: "Title",
     type: "string",
-    width: 512,
+    width: 1024,
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}

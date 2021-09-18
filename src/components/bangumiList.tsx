@@ -55,7 +55,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           placeholder="新上架|独家|恢复上架|会员|双语"
           onChange={handleSearch}
         />
-        <div style={{ overflowX: "auto", width: "100%" }}>
+        <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
           <DataGrid
             rows={state.filteredData}
             getRowId={row => row.anime_sn}
@@ -78,7 +78,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           placeholder="新上架|独家|恢复上架|会员|双语"
           onChange={handleSearch}
         />
-        <div style={{ overflowX: "auto", width: "100%" }}>
+        <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
           <DataGrid
             rows={state.filteredData}
             getRowId={row => row.season_id}
