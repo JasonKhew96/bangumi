@@ -50,12 +50,12 @@ const columns: GridColDef[] = [
         {params.value}
         {` `}
         {params.getValue(params.id, "is_new") ? (
-          <Chip size="small" label="新" color="primary" />
+          <Chip size="small" label="新上架" color="primary" />
         ) : (
           ""
         )}
         {params.getValue(params.id, "is_exclusive") ? (
-          <Chip size="small" label="獨" color="secondary" />
+          <Chip size="small" label="獨家" color="secondary" />
         ) : (
           ""
         )}
@@ -67,16 +67,6 @@ const columns: GridColDef[] = [
       </div>
     ),
   },
-  // {
-  //   field: "is_new",
-  //   headerName: "新上架",
-  //   type: "boolean",
-  // },
-  // {
-  //   field: "is_exclusive",
-  //   headerName: "獨播",
-  //   type: "boolean",
-  // },
 ]
 
 const BilibiliOverseas = () => (
