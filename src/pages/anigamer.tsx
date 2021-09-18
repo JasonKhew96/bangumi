@@ -63,18 +63,37 @@ const columns: GridColDef[] = [
     field: "title",
     headerName: "標題",
     type: "string",
-    width: 512,
+    flex: 768,
     renderCell: (params: GridCellParams) => (
       <div>
         {params.value}
         {` `}
         {params.getValue(params.id, "is_new") ? (
-          <Chip size="small" label="新" color="primary" />
+          <Chip size="small" label="新上架" color="primary" />
         ) : (
           ""
         )}
         {params.getValue(params.id, "is_exclusive") ? (
-          <Chip size="small" label="独" color="secondary" />
+          <Chip size="small" label="獨家" color="secondary" />
+        ) : (
+          ""
+        )}
+        {params.getValue(params.id, "is_vip") ? (
+          <Chip size="small" label="會員" color="secondary" />
+        ) : (
+          ""
+        )}
+        {params.getValue(params.id, "edition") ? (
+          <Chip
+            size="small"
+            label={params.getValue(params.id, "edition")}
+            color="secondary"
+          />
+        ) : (
+          ""
+        )}
+        {params.getValue(params.id, "is_bilingual") ? (
+          <Chip size="small" label="雙語" color="primary" />
         ) : (
           ""
         )}
@@ -87,7 +106,7 @@ const AniGamer = () => (
   <Layout>
     <Seo title="巴哈姆特動畫瘋" />
     <h2>巴哈姆特動畫瘋</h2>
-    <BangumiList columns={columns} data={JSONData} type="anigamer" />
+    <BangumiList columns={columns} data={JSONData.data} type="anigamer" />
   </Layout>
 )
 
