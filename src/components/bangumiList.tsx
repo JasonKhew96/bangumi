@@ -36,7 +36,9 @@ const BangumiList = ({ columns, data, type }: any) => {
           (i.is_return && tmpValue.includes("恢复上架")) ||
           tmpValue.includes("恢復上架") ||
           (i.is_vip && tmpValue.includes("会员")) ||
-          tmpValue.includes("會員")
+          tmpValue.includes("會員") ||
+          (i.is_bilingual && tmpValue.includes("双语")) ||
+          tmpValue.includes("雙語")
         )
       }),
     })
@@ -50,7 +52,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           size="small"
           label="搜索"
           variant="outlined"
-          placeholder="新上架|独家|恢复上架|会员"
+          placeholder="新上架|独家|恢复上架|会员|双语"
           onChange={handleSearch}
         />
         <div style={{ overflowX: "auto", width: "100%" }}>
@@ -73,7 +75,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           size="small"
           label="搜索"
           variant="outlined"
-          placeholder="新上架|独家|恢复上架|会员"
+          placeholder="新上架|独家|恢复上架|会员|双语"
           onChange={handleSearch}
         />
         <div style={{ overflowX: "auto", width: "100%" }}>
