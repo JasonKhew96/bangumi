@@ -8,6 +8,9 @@ const IndexPage = () => (
   <Layout>
     <Seo title="首页" />
     <p>
+      <Link to="/bilibili_mainland">哔哩哔哩（大陆）</Link>
+    </p>
+    <p>
       <Link to="/bilibili_overseas">嗶哩嗶哩（港澳臺）</Link>
     </p>
     <p>

@@ -57,6 +57,16 @@ export default function Header({ siteTitle }: any): React.ReactElement {
           </ListItem>
           <ListItem
             button
+            key="哔哩哔哩（大陆）"
+            onClick={() => navigate("/bilibili_mainland")}
+          >
+            <ListItemIcon>
+              <DirectionsBoatIcon />
+            </ListItemIcon>
+            <ListItemText primary="哔哩哔哩（大陆）" />
+          </ListItem>
+          <ListItem
+            button
             key="嗶哩嗶哩（港澳臺）"
             onClick={() => navigate("/bilibili_overseas")}
           >
