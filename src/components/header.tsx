@@ -37,7 +37,7 @@ export default function Header({ siteTitle }: any): React.ReactElement {
           <Typography style={{ flexGrow: 1 }}>{siteTitle}</Typography>
           <IconButton
             color="inherit"
-            href="https://github.com/JasonKhew96/bangumi-timeline"
+            href="https://github.com/JasonKhew96/bangumi"
           >
             <GitHub />
           </IconButton>
