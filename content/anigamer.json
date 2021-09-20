@@ -11468,7 +11468,8 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false
+      "is_vip": false,
+      "is_new": true
     },
     {
       "acg_sn": 119691,
@@ -11478,7 +11479,8 @@
       "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false
+      "is_vip": false,
+      "is_new": true
     },
     {
       "acg_sn": 85500,
@@ -11488,7 +11490,8 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false
+      "is_vip": false,
+      "is_new": true
     }
   ]
 }
