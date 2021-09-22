@@ -21813,9 +21813,17 @@
       "is_exclusive": false
     },
     {
-      "season_id": 39481,
-      "media_id": 28235173,
-      "title": "世界顶尖的暗杀者,转生为异世界贵族",
+      "season_id": 39448,
+      "media_id": 28235140,
+      "title": "狂热深渊-迷失的孩子",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39453,
+      "media_id": 28235145,
+      "title": "烧窑的话也要马克杯 第二季",
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
@@ -21832,6 +21840,14 @@
       "season_id": 39464,
       "media_id": 28235156,
       "title": "蓝色时期",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39481,
+      "media_id": 28235173,
+      "title": "世界顶尖的暗杀者,转生为异世界贵族",
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
