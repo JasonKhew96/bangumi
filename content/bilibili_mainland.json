@@ -21819,6 +21819,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
+    },
+    {
+      "season_id": 39462,
+      "media_id": 28235154,
+      "title": "国王排名",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
     }
   ]
 }
