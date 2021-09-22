@@ -21827,6 +21827,14 @@
       "is_vip": false,
       "is_exclusive": true,
       "is_new": true
+    },
+    {
+      "season_id": 39464,
+      "media_id": 28235156,
+      "title": "蓝色时期",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
     }
   ]
 }
