@@ -21733,14 +21733,16 @@
       "media_id": 28235026,
       "title": "世界尽头的圣骑士",
       "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": false,
+      "is_new": true
     },
     {
       "season_id": 39347,
       "media_id": 28235039,
       "title": "平家物语",
       "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": false,
+      "is_new": true
     },
     {
       "season_id": 39360,
@@ -21754,7 +21756,8 @@
       "media_id": 28235053,
       "title": "进化之实 踏上胜利的人生",
       "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": false,
+      "is_new": true
     },
     {
       "season_id": 39369,
@@ -21803,7 +21806,8 @@
       "media_id": 28235116,
       "title": "关于前辈很烦人的事",
       "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": false,
+      "is_new": true
     },
     {
       "season_id": 39442,
