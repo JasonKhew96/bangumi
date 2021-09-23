@@ -21698,7 +21698,8 @@
       "media_id": 28234872,
       "title": "测不准的阿波连同学",
       "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": true,
+      "is_new": true
     },
     {
       "season_id": 39190,
@@ -21810,6 +21811,22 @@
       "is_new": true
     },
     {
+      "season_id": 39434,
+      "media_id": 28235126,
+      "title": "境界战机",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39438,
+      "media_id": 28235130,
+      "title": "键的嘉年华",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
       "season_id": 39442,
       "media_id": 28235134,
       "title": "桃子男孩渡海而来 正序版",
@@ -21825,11 +21842,27 @@
       "is_new": true
     },
     {
+      "season_id": 39451,
+      "media_id": 28235143,
+      "title": "无敌侠：舞动的英雄",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
       "season_id": 39453,
       "media_id": 28235145,
       "title": "烧窑的话也要马克杯 第二季",
       "is_vip": false,
       "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39461,
+      "media_id": 28235153,
+      "title": "我被逐出队伍后过上慢生活",
+      "is_vip": false,
+      "is_exclusive": true,
       "is_new": true
     },
     {
@@ -21849,11 +21882,51 @@
       "is_new": true
     },
     {
+      "season_id": 39468,
+      "media_id": 28235160,
+      "title": "鲁邦三世 第六季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
       "season_id": 39481,
       "media_id": 28235173,
       "title": "世界顶尖的暗杀者,转生为异世界贵族",
       "is_vip": false,
       "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39483,
+      "media_id": 28235175,
+      "title": "当雏菊邂逅少女/男孩遇见女孩",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
+      "season_id": 39484,
+      "media_id": 28235176,
+      "title": "半妖的夜叉姬 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39486,
+      "media_id": 28235178,
+      "title": "结城友奈是勇者 第三季",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
+      "season_id": 39487,
+      "media_id": 28235179,
+      "title": "创之界限",
+      "is_vip": false,
+      "is_exclusive": true,
       "is_new": true
     }
   ]
