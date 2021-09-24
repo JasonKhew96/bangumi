@@ -21587,6 +21587,14 @@
       "is_new": true
     },
     {
+      "season_id": 39431,
+      "media_id": 28235123,
+      "title": "JOJO的奇妙冒险 石之海",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
       "season_id": 39434,
       "media_id": 28235126,
       "title": "境界战机",
@@ -21650,6 +21658,14 @@
       "is_new": true
     },
     {
+      "season_id": 39463,
+      "media_id": 28235155,
+      "title": "宿命回响：命运节拍",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
       "season_id": 39464,
       "media_id": 28235156,
       "title": "蓝色时期",
@@ -21674,6 +21690,14 @@
       "is_new": true
     },
     {
+      "season_id": 39482,
+      "media_id": 28235174,
+      "title": "迷宫标记者",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
       "season_id": 39483,
       "media_id": 28235175,
       "title": "当雏菊邂逅少女/男孩遇见女孩",
@@ -21685,6 +21709,14 @@
       "season_id": 39484,
       "media_id": 28235176,
       "title": "半妖的夜叉姬 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39485,
+      "media_id": 28235177,
+      "title": "大正少女御伽话",
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
