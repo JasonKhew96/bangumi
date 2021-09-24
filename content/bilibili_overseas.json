@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "season_id": 189,
+      "media_id": 10252,
+      "title": "風雲維新大將軍（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 197,
       "media_id": 197,
       "title": "目隱都市的演繹者（僅限港澳台地區）",
@@ -13,6 +20,20 @@
       "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": true
+    },
+    {
+      "season_id": 2701,
+      "media_id": 4308942,
+      "title": "昭和元祿落語心中（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3117,
+      "media_id": 28221514,
+      "title": "告訴我！辣妹子醬（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
     },
     {
       "season_id": 4187,
@@ -50,9 +71,37 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5531,
+      "media_id": 4313102,
+      "title": "ALL OUT!!（僅限台湾地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5551,
       "media_id": 5551,
       "title": "吹響！上低音號 第二季（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5771,
+      "media_id": 4313002,
+      "title": "碧藍幻想（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5775,
+      "media_id": 28221373,
+      "title": "政宗君的复仇（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5782,
+      "media_id": 28221622,
+      "title": "幼女戰記（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -99,6 +148,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 6426,
+      "media_id": 10592,
+      "title": "國王遊戲 The Animation（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 6430,
       "media_id": 6430,
       "title": "Dies irae 神怒之日（僅限港澳台地區）",
@@ -109,27 +165,6 @@
       "season_id": 6438,
       "media_id": 6438,
       "title": "魔法使的新娘（僅限台灣地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 21680,
-      "media_id": 9192,
-      "title": "DARLING in the FRANXX（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 189,
-      "media_id": 10252,
-      "title": "風雲維新大將軍（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6426,
-      "media_id": 10592,
-      "title": "國王遊戲 The Animation（僅限台灣地區）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -155,6 +190,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 21680,
+      "media_id": 9192,
+      "title": "DARLING in the FRANXX（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 21754,
       "media_id": 12572,
       "title": "續 刀劍亂舞 -花丸-（僅限港澳台地區）",
@@ -176,6 +218,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 23820,
+      "media_id": 81512,
+      "title": "失憶融合WIXOSS（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 23823,
       "media_id": 77652,
       "title": "藍海少女～advance～（僅限台灣地區）",
@@ -190,9 +239,16 @@
       "is_exclusive": false
     },
     {
-      "season_id": 23820,
-      "media_id": 81512,
-      "title": "失憶融合WIXOSS（僅限港澳台地區）",
+      "season_id": 24593,
+      "media_id": 141572,
+      "title": "搖曳莊的幽奈小姐（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 24629,
+      "media_id": 117372,
+      "title": "進擊的巨人 第三季（僅限台灣地區）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -204,23 +260,9 @@
       "is_exclusive": true
     },
     {
-      "season_id": 24629,
-      "media_id": 117372,
-      "title": "進擊的巨人 第三季（僅限台灣地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25605,
       "media_id": 140652,
       "title": "Double Decker! 道格&基里爾（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25836,
-      "media_id": 140732,
-      "title": "只要別西卜大小姐喜歡就好（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -239,9 +281,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24593,
-      "media_id": 141572,
-      "title": "搖曳莊的幽奈小姐（僅限港澳台地區）",
+      "season_id": 25836,
+      "media_id": 140732,
+      "title": "只要別西卜大小姐喜歡就好（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -253,13 +295,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 2701,
-      "media_id": 4308942,
-      "title": "昭和元祿落語心中（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26163,
       "media_id": 4312942,
       "title": "剑风传奇 新作（僅限台湾地區）",
@@ -267,23 +302,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 5771,
-      "media_id": 4313002,
-      "title": "碧藍幻想（僅限台灣地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26170,
       "media_id": 4313082,
       "title": "昭和元祿落語心中-助六再臨篇（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5531,
-      "media_id": 4313102,
-      "title": "ALL OUT!!（僅限台湾地區）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -400,13 +421,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 5775,
-      "media_id": 28221373,
-      "title": "政宗君的复仇（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 28003,
       "media_id": 28221400,
       "title": "普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
@@ -512,13 +526,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3117,
-      "media_id": 28221514,
-      "title": "告訴我！辣妹子醬（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 28063,
       "media_id": 28221517,
       "title": "流汗吧！健身少女（僅限港澳台地區）",
@@ -599,13 +606,6 @@
       "season_id": 28136,
       "media_id": 28221610,
       "title": "魔法少女☆伊莉雅（僅限港澳台地區）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5782,
-      "media_id": 28221622,
-      "title": "幼女戰記（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false
     },

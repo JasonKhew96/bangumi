@@ -57,6 +57,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 75,
+      "media_id": 67712,
+      "title": "黑执事",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 84,
       "media_id": 84,
       "title": "荷包蛋的蛋黄什么时候戳破才好？",
@@ -134,6 +141,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 128,
+      "media_id": 117712,
+      "title": "展开骑士",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 162,
       "media_id": 162,
       "title": "罗德岛战记",
@@ -151,6 +165,13 @@
       "season_id": 164,
       "media_id": 164,
       "title": "罗德岛战记 享用罗德岛战记",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 167,
+      "media_id": 89192,
+      "title": "金色琴弦～primo passo～",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -204,6 +225,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 192,
+      "media_id": 28221545,
+      "title": "乒乓",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 193,
       "media_id": 193,
       "title": "龙娘七七七埋藏的宝藏",
@@ -228,6 +256,13 @@
       "season_id": 209,
       "media_id": 209,
       "title": "头文字D Third Stage",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 210,
+      "media_id": 28234399,
+      "title": "头文字D Fourth Stage",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -421,6 +456,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 357,
+      "media_id": 132112,
+      "title": "猫和老鼠 旧版",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 408,
       "media_id": 408,
       "title": "潜行吧！奈亚子 Remember My Love",
@@ -467,6 +509,13 @@
       "media_id": 439,
       "title": "问题儿童都来自异世界？",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 441,
+      "media_id": 8672,
+      "title": "来自风平浪静的明天",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -624,6 +673,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 507,
+      "media_id": 113132,
+      "title": "有顶天家族",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 514,
       "media_id": 514,
       "title": "玉响～hitotose～",
@@ -771,6 +827,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 597,
+      "media_id": 1730,
+      "title": "团地友夫",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 599,
       "media_id": 599,
       "title": "我是国王",
@@ -795,6 +858,13 @@
       "season_id": 604,
       "media_id": 604,
       "title": "成年女性的动画时间 第二季",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 612,
+      "media_id": 134852,
+      "title": "闪电十一人 GO",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -851,6 +921,13 @@
       "season_id": 631,
       "media_id": 631,
       "title": "学生会的一己之见",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 632,
+      "media_id": 20508163,
+      "title": "学生会的一己之见 Lv.2",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -1961,6 +2038,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 1057,
+      "media_id": 24120616,
+      "title": "凉宫春日的忧郁 2009",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 1064,
       "media_id": 1064,
       "title": "DARKER THAN BLACK -黑之契约者-",
@@ -2007,6 +2091,13 @@
       "media_id": 1083,
       "title": "公主恋人！",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1088,
+      "media_id": 28221050,
+      "title": "钢之炼金术师",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -2302,6 +2393,27 @@
       "title": "冬季恋歌",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 1172,
+      "media_id": 28220978,
+      "title": "轻音少女 第一季",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 1173,
+      "media_id": 28220984,
+      "title": "轻音少女 第二季",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 1175,
+      "media_id": 28220988,
+      "title": "轻音少女 剧场版",
+      "is_vip": true,
+      "is_exclusive": true
     },
     {
       "season_id": 1177,
@@ -2664,6 +2776,13 @@
       "season_id": 1289,
       "media_id": 1289,
       "title": "钢铁神吉克",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1292,
+      "media_id": 24789198,
+      "title": "天元突破 红莲螺岩 剧场版",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -3319,9 +3438,30 @@
       "is_exclusive": false
     },
     {
+      "season_id": 1495,
+      "media_id": 28229392,
+      "title": "少年好莱坞",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1496,
+      "media_id": 28229393,
+      "title": "少年好莱坞 第二季",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 1505,
       "media_id": 1505,
       "title": "无头骑士异闻录×2 承",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1506,
+      "media_id": 129612,
+      "title": "Doamaiger D",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -3473,6 +3613,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 1560,
+      "media_id": 60212,
+      "title": "灵感！",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 1561,
       "media_id": 1561,
       "title": "歌之☆王子殿下 真爱1000%",
@@ -3547,6 +3694,13 @@
       "media_id": 1572,
       "title": "黏黏糊糊!!角质君 第2期",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1573,
+      "media_id": 28227496,
+      "title": "伪恋",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -3753,6 +3907,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 1630,
+      "media_id": 10272,
+      "title": "EVA 新世纪福音战士剧场版：Air / 真心为你",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 1631,
       "media_id": 1631,
       "title": "DOG DAYS",
@@ -3763,6 +3924,34 @@
       "season_id": 1635,
       "media_id": 1635,
       "title": "EVA 新世纪福音战士",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1637,
+      "media_id": 10312,
+      "title": "EVA 新世纪福音战士剧场版：死与新生",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1638,
+      "media_id": 10332,
+      "title": "EVA 新世纪福音战士新剧场版1.11：序",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1639,
+      "media_id": 10352,
+      "title": "EVA 新世纪福音战士新剧场版2.22：破",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1640,
+      "media_id": 10372,
+      "title": "EVA 新世纪福音战士新剧场版3.33：Q",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -3977,6 +4166,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 1696,
+      "media_id": 95172,
+      "title": "纸箱战机W",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 1698,
       "media_id": 1698,
       "title": "PUNKISS！2次元",
@@ -3987,6 +4183,13 @@
       "season_id": 1699,
       "media_id": 1699,
       "title": "四月是你的谎言",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1702,
+      "media_id": 28230053,
+      "title": "攻壳机动队",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -4096,9 +4299,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 597,
-      "media_id": 1730,
-      "title": "团地友夫",
+      "season_id": 1731,
+      "media_id": 35992,
+      "title": "VIVIDRED OPERATION",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -4509,6 +4712,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 1886,
+      "media_id": 25579500,
+      "title": "砂和尚",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 1889,
       "media_id": 1889,
       "title": "奇幻旅程",
@@ -4596,6 +4806,20 @@
       "season_id": 1910,
       "media_id": 1910,
       "title": "怪医黑杰克",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1918,
+      "media_id": 8981283,
+      "title": "驰风！赛艇王",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1919,
+      "media_id": 13293448,
+      "title": "驰风！赛艇王 V",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -4761,6 +4985,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 1963,
+      "media_id": 24305517,
+      "title": "新撰组异闻录 铁",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 1965,
       "media_id": 1965,
       "title": "人鱼之森",
@@ -4827,6 +5058,13 @@
       "season_id": 1977,
       "media_id": 1977,
       "title": "四圣兽 光阴叙事诗天使谭",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 1978,
+      "media_id": 28220355,
+      "title": "成惠的世界",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -4939,6 +5177,13 @@
       "season_id": 2014,
       "media_id": 2014,
       "title": "最终流放",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 2015,
+      "media_id": 22959248,
+      "title": "全金属狂潮",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -5402,6 +5647,13 @@
       "media_id": 2156,
       "title": "无敌王",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 2157,
+      "media_id": 28234174,
+      "title": "真女神转生 恶魔之子",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -5951,6 +6203,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 2317,
+      "media_id": 131612,
+      "title": "新机动战记高达W TV版",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 2318,
       "media_id": 2318,
       "title": "黄金勇者",
@@ -6427,6 +6686,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 2469,
+      "media_id": 28233252,
+      "title": "鲁邦三世 第一季",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 2473,
       "media_id": 2473,
       "title": "无敌龙卷风",
@@ -6493,6 +6759,13 @@
       "season_id": 2488,
       "media_id": 2488,
       "title": "街头霸王 OVA",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 2491,
+      "media_id": 28227667,
+      "title": "新机动战记高达W剧场版 无尽的华尔兹",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -6763,6 +7036,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 2574,
+      "media_id": 80092,
+      "title": "魔法少女☆伊莉雅 2WEI!",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 2576,
       "media_id": 2576,
       "title": "OVERLORD",
@@ -6928,6 +7208,13 @@
       "media_id": 2610,
       "title": "枕男子",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 2612,
+      "media_id": 75912,
+      "title": "科学小飞侠Crowds insight",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -7218,6 +7505,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 2723,
+      "media_id": 4310042,
+      "title": "机动战士高达 铁血的奥尔芬斯 第一季",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 2724,
       "media_id": 2724,
       "title": "对魔导学园35试验小队",
@@ -7236,6 +7530,13 @@
       "media_id": 2726,
       "title": "全部成为F -THE PERFECT INSIDER-",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 2727,
+      "media_id": 28221614,
+      "title": "排球少年！！",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -7743,6 +8044,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 2927,
+      "media_id": 131532,
+      "title": "花开伊吕波 Home Sweet Home",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 2932,
       "media_id": 2932,
       "title": "打工吧！魔王大人",
@@ -7852,6 +8160,13 @@
       "media_id": 2983,
       "title": "佛兰德斯的狗",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 2987,
+      "media_id": 28220987,
+      "title": "白色相簿 下半篇章",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -8072,11 +8387,25 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3096,
+      "media_id": 28228814,
+      "title": "只有我不存在的城市",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3097,
       "media_id": 3097,
       "title": "梦幻之星online2",
       "is_vip": true,
       "is_exclusive": true
+    },
+    {
+      "season_id": 3099,
+      "media_id": 28228828,
+      "title": "幸运逻辑",
+      "is_vip": true,
+      "is_exclusive": false
     },
     {
       "season_id": 3100,
@@ -8097,6 +8426,13 @@
       "media_id": 3102,
       "title": "魔法护士小麦R",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3103,
+      "media_id": 106512,
+      "title": "灰与幻想的格林姆迦尔",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -8576,6 +8912,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3319,
+      "media_id": 28220788,
+      "title": "SHUFFLE",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3328,
       "media_id": 3328,
       "title": "创龙传",
@@ -8912,6 +9255,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3441,
+      "media_id": 8292,
+      "title": "我们仍未知道那天所看见的花的名字。 剧场版",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3443,
       "media_id": 3443,
       "title": "黑子的篮球 第2期 OVA",
@@ -9157,6 +9507,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3496,
+      "media_id": 122732,
+      "title": "机动战士高达独角兽(UC) RE:0096",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3498,
       "media_id": 3498,
       "title": "Anne Happy",
@@ -9241,11 +9598,25 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3536,
+      "media_id": 96632,
+      "title": "宇宙航海王 ABYSS OF HYPERSPACE -亚空的深渊-：剧场版",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
       "season_id": 3540,
       "media_id": 3540,
       "title": "番剧茶会",
       "is_vip": false,
       "is_exclusive": true
+    },
+    {
+      "season_id": 3542,
+      "media_id": 81232,
+      "title": "排球少年剧场版 结束与开始",
+      "is_vip": false,
+      "is_exclusive": false
     },
     {
       "season_id": 3543,
@@ -9346,6 +9717,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3570,
+      "media_id": 81292,
+      "title": "Little Busters! ～Refrain～",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
       "season_id": 3571,
       "media_id": 3571,
       "title": "Little Busters! EX",
@@ -9374,6 +9752,27 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3575,
+      "media_id": 73292,
+      "title": "文学少女 剧场版",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3578,
+      "media_id": 28229015,
+      "title": "浪客剑心 追忆篇",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3579,
+      "media_id": 28229023,
+      "title": "浪客剑心 星霜篇",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3581,
       "media_id": 3581,
       "title": "奇诺之旅 塔之国 -Free Lance-",
@@ -9395,6 +9794,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3584,
+      "media_id": 28229024,
+      "title": "浪客剑心 新京都篇",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3587,
       "media_id": 3587,
       "title": "魔力家族 La prima festa",
@@ -9412,6 +9818,13 @@
       "season_id": 3620,
       "media_id": 3620,
       "title": "忍者乱太郎",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3639,
+      "media_id": 28228873,
+      "title": "HEROMAN（中配版）",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -9545,6 +9958,13 @@
       "season_id": 3769,
       "media_id": 3769,
       "title": "文学少女 今日的点心～初恋～",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3770,
+      "media_id": 28220991,
+      "title": "SHUFFLE! MEMORIES",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -10032,6 +10452,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3868,
+      "media_id": 18452,
+      "title": "蜡笔小新之动感超人大战泳装魔王",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3869,
       "media_id": 3869,
       "title": "哆啦A梦 大雄的新魔界大冒险~7人之魔法使",
@@ -10039,10 +10466,31 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3870,
+      "media_id": 10472,
+      "title": "蜡笔小新之布里布里王国的秘密宝藏",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3871,
+      "media_id": 51552,
+      "title": "蜡笔小新之云黑斋的野心",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3872,
       "media_id": 3872,
       "title": "哆啦A梦 新大雄的恐龙",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3874,
+      "media_id": 11652,
+      "title": "蜡笔小新之黑暗珠珠大追击",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -10060,6 +10508,34 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3879,
+      "media_id": 10492,
+      "title": "蜡笔小新 森林里的暴风雨",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3880,
+      "media_id": 11152,
+      "title": "蜡笔小新 呼风唤雨！大人帝国的反击",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3881,
+      "media_id": 39112,
+      "title": "蜡笔小新 呼风唤雨！战国大合战",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3882,
+      "media_id": 11632,
+      "title": "蜡笔小新 呼风唤雨！光荣烧肉之路",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3883,
       "media_id": 3883,
       "title": "哆啦A梦 大雄的人鱼大海战",
@@ -10067,10 +10543,59 @@
       "is_exclusive": false
     },
     {
+      "season_id": 3885,
+      "media_id": 35572,
+      "title": "蜡笔小新 呼风唤雨！夕阳下的春日部男孩",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3886,
+      "media_id": 46092,
+      "title": "蜡笔小新 呼唤传说！三分钟嘎巴大进攻",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3888,
+      "media_id": 48472,
+      "title": "蜡笔小新 呼风唤雨！会唱歌的屁股炸弹",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3890,
+      "media_id": 10532,
+      "title": "蜡笔小新 呐喊!春日部野生王国",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3891,
+      "media_id": 14512,
+      "title": "蜡笔小新 超时空！呼风唤雨的我的新娘",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3892,
+      "media_id": 14532,
+      "title": "蜡笔小新 呼风唤雨黄金的间谍大作战",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 3893,
       "media_id": 3893,
       "title": "哆啦A梦 大雄与奇迹之岛～动物历险记～",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3895,
+      "media_id": 15072,
+      "title": "蜡笔小新 超级美味B级美食大逃亡",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -10190,6 +10715,13 @@
       "media_id": 3927,
       "title": "鲁邦三世：风魔家族的阴谋",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 3928,
+      "media_id": 28234179,
+      "title": "鲁邦三世：拜拜了自由女神·危机一刻",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -10746,6 +11278,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4078,
+      "media_id": 131872,
+      "title": "RAIL WARS!-日本国有铁道公安队-",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4083,
       "media_id": 4083,
       "title": "笨蛋男友",
@@ -10757,6 +11296,20 @@
       "media_id": 4086,
       "title": "囝仔小短篇",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4090,
+      "media_id": 28228769,
+      "title": "ALDNOAH.ZERO",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4092,
+      "media_id": 28228770,
+      "title": "ALDNOAH.ZERO 第二季",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -10802,6 +11355,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4115,
+      "media_id": 102352,
+      "title": "前进吧！登山少女 第二季",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
       "season_id": 4117,
       "media_id": 4117,
       "title": "香菜酱和她的亲人们",
@@ -10809,9 +11369,23 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4118,
+      "media_id": 28220669,
+      "title": "信长协奏曲",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4119,
       "media_id": 4119,
       "title": "面包超人：咪嘉和魔法神灯",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4120,
+      "media_id": 75052,
+      "title": "三坪房间的侵略者！",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -10830,6 +11404,20 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4128,
+      "media_id": 28233831,
+      "title": "辛巴达 飞翔公主与秘密之岛",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4129,
+      "media_id": 102172,
+      "title": "怪物之子",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 4134,
       "media_id": 4134,
       "title": "热血人面犬",
@@ -10842,6 +11430,13 @@
       "title": "告白实行委员会 我于此刻恋上你",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 4145,
+      "media_id": 134672,
+      "title": "前进吧！登山少女",
+      "is_vip": false,
+      "is_exclusive": true
     },
     {
       "season_id": 4152,
@@ -10865,6 +11460,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4162,
+      "media_id": 28228764,
+      "title": "狼少女与黑王子",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4168,
       "media_id": 4168,
       "title": "好朋友",
@@ -10872,9 +11474,30 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4170,
+      "media_id": 100712,
+      "title": "灰色的迷宫",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4181,
       "media_id": 4181,
       "title": "漆黑的子弹",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4185,
+      "media_id": 28223481,
+      "title": "JOJO的奇妙冒险 星尘远征军",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 4186,
+      "media_id": 142452,
+      "title": "决斗大师VS",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -10893,6 +11516,27 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4197,
+      "media_id": 28223816,
+      "title": "俺物语！！",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4198,
+      "media_id": 28228960,
+      "title": "名侦探柯南 异次元的狙击手",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4199,
+      "media_id": 28228961,
+      "title": "名侦探柯南 业火的向日葵",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4201,
       "media_id": 4201,
       "title": "如果她的旗帜被折断了",
@@ -10907,6 +11551,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4213,
+      "media_id": 28223483,
+      "title": "JOJO的奇妙冒险 星尘远征军 埃及篇",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 4224,
       "media_id": 4224,
       "title": "雾熊s",
@@ -10917,6 +11568,13 @@
       "season_id": 4230,
       "media_id": 4230,
       "title": "上课小动作 OAD",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4232,
+      "media_id": 75452,
+      "title": "弁魔士塞西尔",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -10935,9 +11593,23 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4239,
+      "media_id": 27127860,
+      "title": "刀剑神域 Extra Edition",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4259,
       "media_id": 4259,
       "title": "圣诞老人公司",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4262,
+      "media_id": 116772,
+      "title": "玉子市场",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -10954,6 +11626,13 @@
       "title": "高达创战者 TRY",
       "is_vip": false,
       "is_exclusive": true
+    },
+    {
+      "season_id": 4273,
+      "media_id": 95992,
+      "title": "结城友奈是勇者",
+      "is_vip": true,
+      "is_exclusive": false
     },
     {
       "season_id": 4277,
@@ -11019,6 +11698,20 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4316,
+      "media_id": 28220103,
+      "title": "魔法少女小圆 剧场版 [前篇] 起始的物语",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 4317,
+      "media_id": 28220104,
+      "title": "魔法少女小圆 剧场版 [后篇] 永远的物语",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 4319,
       "media_id": 4319,
       "title": "魔法少女☆伊莉雅 2wei Herz! SP",
@@ -11033,6 +11726,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4334,
+      "media_id": 28223479,
+      "title": "JOJO的奇妙冒险",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 4340,
       "media_id": 4340,
       "title": "中二病也要谈恋爱！",
@@ -11043,6 +11743,13 @@
       "season_id": 4341,
       "media_id": 4341,
       "title": "旋风管家 CAN'T TAKE MY EYES OFF YOU",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4342,
+      "media_id": 28220473,
+      "title": "超速变形螺旋杰特",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -11082,6 +11789,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4368,
+      "media_id": 111892,
+      "title": "苍翼默示录 Alter Memory",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4374,
       "media_id": 4374,
       "title": "高达创战者",
@@ -11117,6 +11831,20 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4391,
+      "media_id": 131112,
+      "title": "兄弟战争",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 4394,
+      "media_id": 120712,
+      "title": "Free!",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4398,
       "media_id": 4398,
       "title": "南家三姐妹 夏日假期",
@@ -11128,6 +11856,20 @@
       "media_id": 4400,
       "title": "弹丸论破",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4403,
+      "media_id": 9935117,
+      "title": "Fantasista Doll",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4422,
+      "media_id": 28224170,
+      "title": "AURA ～魔龙院光牙最后的战斗～",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11145,10 +11887,24 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4433,
+      "media_id": 132192,
+      "title": "决斗大师 Victory V3",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4435,
       "media_id": 4435,
       "title": "旋风管家 Cuties",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4439,
+      "media_id": 28228959,
+      "title": "名侦探柯南 绝海的侦探",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11176,6 +11932,13 @@
       "season_id": 4451,
       "media_id": 4451,
       "title": "古斯柯布多力传记",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4452,
+      "media_id": 24755609,
+      "title": "刀剑神域",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -11236,9 +11999,23 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4479,
+      "media_id": 27342606,
+      "title": "未来都市No.6",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4488,
       "media_id": 4488,
       "title": "Xi AVANT",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4498,
+      "media_id": 57752,
+      "title": "妖精的尾巴 剧场版 凤凰巫女",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -11247,6 +12024,13 @@
       "media_id": 4508,
       "title": "剧场版 宝石宠物 甜蜜舞蹈公主",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4518,
+      "media_id": 28228957,
+      "title": "名侦探柯南 沉默的15分钟",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11292,6 +12076,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4546,
+      "media_id": 4312882,
+      "title": "新网球王子 OVA",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4547,
       "media_id": 4547,
       "title": "装甲骑兵 孤影再临",
@@ -11299,9 +12090,23 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4548,
+      "media_id": 28228958,
+      "title": "名侦探柯南 第11个前锋",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4552,
       "media_id": 4552,
       "title": "野良剧",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4557,
+      "media_id": 131732,
+      "title": "爆TECH！爆丸",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -11317,6 +12122,13 @@
       "media_id": 4584,
       "title": "Blossom",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4586,
+      "media_id": 8312,
+      "title": "黑执事II",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11355,6 +12167,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4625,
+      "media_id": 4308962,
+      "title": "新网球王子",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4626,
       "media_id": 4626,
       "title": "偷影子的老鼠",
@@ -11380,6 +12199,13 @@
       "media_id": 4653,
       "title": "超级街头霸王4",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4666,
+      "media_id": 28228956,
+      "title": "名侦探柯南 天空的遇难船",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11411,9 +12237,30 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4687,
+      "media_id": 28223352,
+      "title": "犬夜叉完结篇",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4693,
       "media_id": 4693,
       "title": "元素猎人",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4694,
+      "media_id": 119152,
+      "title": "夏日大作战",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 4695,
+      "media_id": 129072,
+      "title": "小双侠",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -11439,6 +12286,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4724,
+      "media_id": 28228955,
+      "title": "名侦探柯南 漆黑的追踪者",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4734,
       "media_id": 4734,
       "title": "鹤屋和熏干酪",
@@ -11460,10 +12314,24 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4738,
+      "media_id": 44812,
+      "title": "铁腕巴迪 DECODE 第二季",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4748,
       "media_id": 4748,
       "title": "地狱天使",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4751,
+      "media_id": 28220469,
+      "title": "地狱少女 三鼎",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11513,6 +12381,20 @@
       "media_id": 4779,
       "title": "罗密欧与朱丽叶",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4784,
+      "media_id": 28228954,
+      "title": "名侦探柯南 战栗的乐谱",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4787,
+      "media_id": 28228953,
+      "title": "名侦探柯南 绀碧之棺",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11572,6 +12454,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4828,
+      "media_id": 89132,
+      "title": "草莓棉花糖 OVA 第1期",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4831,
       "media_id": 4831,
       "title": "骇客时空 G.U.TRILOGY",
@@ -11597,6 +12486,13 @@
       "media_id": 4876,
       "title": "初夏",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4880,
+      "media_id": 28220983,
+      "title": "地狱少女 二笼",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11642,6 +12538,20 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4920,
+      "media_id": 28228951,
+      "title": "名侦探柯南 侦探们的镇魂歌",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4922,
+      "media_id": 4311302,
+      "title": "怪医黑杰克21",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4925,
       "media_id": 4925,
       "title": "骇客时空 根源",
@@ -11656,10 +12566,24 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4934,
+      "media_id": 33232,
+      "title": "网球王子 全国大会篇",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 4935,
       "media_id": 4935,
       "title": "警察战车队 TANK S.W.A.T.",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4941,
+      "media_id": 28220882,
+      "title": "超剧场版 Keroro军曹",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -11694,6 +12618,13 @@
       "season_id": 4954,
       "media_id": 4954,
       "title": "战吼",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 4955,
+      "media_id": 142412,
+      "title": "彻之进",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -11747,6 +12678,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 4996,
+      "media_id": 28228827,
+      "title": "地狱少女",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5002,
       "media_id": 5002,
       "title": "幸福之祈祷",
@@ -11773,6 +12711,13 @@
       "title": "神奇宝贝：皮卡丘的鬼怪狂欢节",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 5012,
+      "media_id": 28229193,
+      "title": "ReLIFE",
+      "is_vip": true,
+      "is_exclusive": true
     },
     {
       "season_id": 5016,
@@ -11863,6 +12808,13 @@
       "media_id": 5031,
       "title": "Taboo Tattoo－禁忌咒纹－",
       "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5032,
+      "media_id": 28221167,
+      "title": "吸血鬼仆人",
+      "is_vip": false,
       "is_exclusive": false
     },
     {
@@ -11964,6 +12916,20 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5054,
+      "media_id": 319395,
+      "title": "Active Raid -机动强袭室第八课-",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5055,
+      "media_id": 7491767,
+      "title": "Active Raid -机动强袭室第八课- 2nd",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5056,
       "media_id": 5056,
       "title": "弹丸论破3 -未来篇-",
@@ -12020,6 +12986,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 5065,
+      "media_id": 10464925,
+      "title": "魔法少女☆伊莉雅 3REI!!",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5066,
       "media_id": 5066,
       "title": "屁屁吾郎",
@@ -12066,6 +13039,13 @@
       "media_id": 5081,
       "title": "雪之女王",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5085,
+      "media_id": 28228950,
+      "title": "名侦探柯南 水平线上的阴谋",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -12132,6 +13112,20 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5121,
+      "media_id": 3071924,
+      "title": "网球王子剧场版 二人的武士",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5122,
+      "media_id": 3083562,
+      "title": "网球王子剧场版 迹部的礼物",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5125,
       "media_id": 5125,
       "title": "温暖的印记",
@@ -12188,10 +13182,24 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5142,
+      "media_id": 28228949,
+      "title": "名侦探柯南 银翼的魔术师",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5146,
       "media_id": 5146,
       "title": "死体兵",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5156,
+      "media_id": 28228948,
+      "title": "名侦探柯南 迷宫的十字路口",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -12234,6 +13242,13 @@
       "media_id": 5186,
       "title": "金星战记",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5201,
+      "media_id": 124972,
+      "title": "Free! -Eternal Summer-",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -12300,10 +13315,31 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5233,
+      "media_id": 131752,
+      "title": "爆斗宣言大钢弹",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5234,
+      "media_id": 28228946,
+      "title": "名侦探柯南 贝克街的亡灵",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5239,
       "media_id": 5239,
       "title": "剧场版「High☆Speed! -Free! Starting Days-」",
       "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5250,
+      "media_id": 28220965,
+      "title": "纯情房东俏房客 Again",
+      "is_vip": false,
       "is_exclusive": false
     },
     {
@@ -12426,6 +13462,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5316,
+      "media_id": 28228945,
+      "title": "名侦探柯南 通往天国的倒计时",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5320,
       "media_id": 5320,
       "title": "基因攻防战",
@@ -12472,6 +13515,13 @@
       "media_id": 5358,
       "title": "心跳回忆",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5365,
+      "media_id": 28228944,
+      "title": "名侦探柯南 瞳孔中的暗杀者",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -12534,6 +13584,20 @@
       "season_id": 5397,
       "media_id": 5397,
       "title": "我的长腿叔叔",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5398,
+      "media_id": 140552,
+      "title": "JOJO的奇妙冒险 不灭钻石",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 5402,
+      "media_id": 98612,
+      "title": "当女孩遇到熊",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -13049,6 +14113,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5535,
+      "media_id": 4310082,
+      "title": "机动战士高达 铁血的奥尔芬斯 第二季",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5537,
       "media_id": 5537,
       "title": "伯纳德小姐说。",
@@ -13203,6 +14274,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5571,
+      "media_id": 28233695,
+      "title": "宇宙兄弟#0",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5573,
       "media_id": 5573,
       "title": "地狱堂灵界通信",
@@ -13287,6 +14365,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5617,
+      "media_id": 98632,
+      "title": "飞翔的魔女",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5621,
       "media_id": 5621,
       "title": "斩首循环 蓝色学者与戏言跟班",
@@ -13315,6 +14400,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 5641,
+      "media_id": 28221005,
+      "title": "决斗大师VSR",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5649,
       "media_id": 5649,
       "title": "星梦手记 生放送",
@@ -13325,6 +14417,13 @@
       "season_id": 5651,
       "media_id": 5651,
       "title": "星梦手记 广播节目",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5678,
+      "media_id": 8061448,
+      "title": "不愉快的怪物庵",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -13663,6 +14762,13 @@
       "title": "CHAOS;CHILD",
       "is_vip": false,
       "is_exclusive": true
+    },
+    {
+      "season_id": 5804,
+      "media_id": 28228763,
+      "title": "MARGINAL#4 从KISS开始创造Big Bang",
+      "is_vip": true,
+      "is_exclusive": false
     },
     {
       "season_id": 5806,
@@ -14022,6 +15128,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 5957,
+      "media_id": 28229855,
+      "title": "爱米 -WE LOVE RICE-",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5959,
       "media_id": 5959,
       "title": "Room Mate",
@@ -14048,6 +15161,13 @@
       "title": "偶像大师灰姑娘剧场",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 5971,
+      "media_id": 28228738,
+      "title": "路人女主的养成方法 ♭",
+      "is_vip": true,
+      "is_exclusive": true
     },
     {
       "season_id": 5973,
@@ -14078,10 +15198,38 @@
       "is_exclusive": true
     },
     {
+      "season_id": 5980,
+      "media_id": 28228037,
+      "title": "剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 5981,
       "media_id": 5981,
       "title": "覆面系 NOISE",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5983,
+      "media_id": 28226651,
+      "title": "重启咲良田",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5985,
+      "media_id": 28229470,
+      "title": "武装少女",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 5987,
+      "media_id": 28230162,
+      "title": "不正经的魔术讲师与禁忌教典",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -14309,13 +15457,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 6522,
-      "media_id": 6084,
-      "title": "DRIVE HEAD 机动救急警察",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 6087,
       "media_id": 6087,
       "title": "阿信",
@@ -14403,6 +15544,20 @@
       "season_id": 6183,
       "media_id": 6183,
       "title": "Dimension W~维度战记~ OVA",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 6192,
+      "media_id": 13287272,
+      "title": "决斗大师 VSRF",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 6205,
+      "media_id": 8692,
+      "title": "黄金拼图 Pretty Days",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -14596,6 +15751,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 6365,
+      "media_id": 28228962,
+      "title": "名侦探柯南 纯黑的恶梦",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 6369,
       "media_id": 6369,
       "title": "猎人 剧场版 最后的任务",
@@ -14652,6 +15814,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 6401,
+      "media_id": 10572,
+      "title": "新造人间卡辛（1973）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 6407,
       "media_id": 6407,
       "title": "长门有希酱的消失 OAD",
@@ -14685,6 +15854,13 @@
       "title": "UQ HOLDER！悠久持有者！",
       "is_vip": false,
       "is_exclusive": true
+    },
+    {
+      "season_id": 6419,
+      "media_id": 28230229,
+      "title": "食戟之灵 餐之皿",
+      "is_vip": true,
+      "is_exclusive": false
     },
     {
       "season_id": 6422,
@@ -14848,6 +16024,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 6473,
+      "media_id": 73092,
+      "title": "宇宙战舰大和号2202 爱的战士",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 6474,
       "media_id": 6474,
       "title": "URAHARA",
@@ -14897,6 +16080,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 6489,
+      "media_id": 10612,
+      "title": "破里拳 Hurricane Polimar",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 6500,
       "media_id": 7352,
       "title": "怪物弹珠 第二季 后篇",
@@ -14909,6 +16099,20 @@
       "title": "Onyankopon",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 6510,
+      "media_id": 10832,
+      "title": "再造人卡辛（OVA）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 6514,
+      "media_id": 7792,
+      "title": "宣告黎明的露之歌",
+      "is_vip": true,
+      "is_exclusive": true
     },
     {
       "season_id": 6516,
@@ -14925,11 +16129,53 @@
       "is_exclusive": true
     },
     {
-      "season_id": 6514,
-      "media_id": 7792,
-      "title": "宣告黎明的露之歌",
-      "is_vip": true,
-      "is_exclusive": true
+      "season_id": 6522,
+      "media_id": 6084,
+      "title": "DRIVE HEAD 机动救急警察",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 10379,
+      "media_id": 64272,
+      "title": "世界大战：歌利娅",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 12044,
+      "media_id": 12044,
+      "title": "你的名字。",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 12116,
+      "media_id": 12116,
+      "title": "声之形",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 12364,
+      "media_id": 15132,
+      "title": "刀剑神域：序列之争",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 12477,
+      "media_id": 70612,
+      "title": "精灵宝可梦 剧场版19：波尔凯尼恩与机巧的玛机雅娜",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 12732,
+      "media_id": 110672,
+      "title": "玛丽与魔女之花",
+      "is_vip": false,
+      "is_exclusive": false
     },
     {
       "season_id": 20320,
@@ -14946,20 +16192,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3441,
-      "media_id": 8292,
-      "title": "我们仍未知道那天所看见的花的名字。 剧场版",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4586,
-      "media_id": 8312,
-      "title": "黑执事II",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 20603,
       "media_id": 8332,
       "title": "火球 幽默之章",
@@ -14971,20 +16203,6 @@
       "media_id": 8512,
       "title": "夏目友人帐 第五季 特别篇",
       "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 441,
-      "media_id": 8672,
-      "title": "来自风平浪静的明天",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6205,
-      "media_id": 8692,
-      "title": "黄金拼图 Pretty Days",
-      "is_vip": false,
       "is_exclusive": false
     },
     {
@@ -15044,6 +16262,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 21565,
+      "media_id": 10912,
+      "title": "魔神坛斗士 辉煌帝传说",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 21594,
       "media_id": 9032,
       "title": "宅饮",
@@ -15070,111 +16295,6 @@
       "title": "三丽鸥男子",
       "is_vip": false,
       "is_exclusive": true
-    },
-    {
-      "season_id": 1630,
-      "media_id": 10272,
-      "title": "EVA 新世纪福音战士剧场版：Air / 真心为你",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1637,
-      "media_id": 10312,
-      "title": "EVA 新世纪福音战士剧场版：死与新生",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1638,
-      "media_id": 10332,
-      "title": "EVA 新世纪福音战士新剧场版1.11：序",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1639,
-      "media_id": 10352,
-      "title": "EVA 新世纪福音战士新剧场版2.22：破",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1640,
-      "media_id": 10372,
-      "title": "EVA 新世纪福音战士新剧场版3.33：Q",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3870,
-      "media_id": 10472,
-      "title": "蜡笔小新之布里布里王国的秘密宝藏",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3879,
-      "media_id": 10492,
-      "title": "蜡笔小新 森林里的暴风雨",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3890,
-      "media_id": 10532,
-      "title": "蜡笔小新 呐喊!春日部野生王国",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6401,
-      "media_id": 10572,
-      "title": "新造人间卡辛（1973）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6489,
-      "media_id": 10612,
-      "title": "破里拳 Hurricane Polimar",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6510,
-      "media_id": 10832,
-      "title": "再造人卡辛（OVA）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 21565,
-      "media_id": 10912,
-      "title": "魔神坛斗士 辉煌帝传说",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3880,
-      "media_id": 11152,
-      "title": "蜡笔小新 呼风唤雨！大人帝国的反击",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3882,
-      "media_id": 11632,
-      "title": "蜡笔小新 呼风唤雨！光荣烧肉之路",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3874,
-      "media_id": 11652,
-      "title": "蜡笔小新之黑暗珠珠大追击",
-      "is_vip": true,
-      "is_exclusive": false
     },
     {
       "season_id": 21717,
@@ -15217,20 +16337,6 @@
       "title": "戒律的复活",
       "is_vip": true,
       "is_exclusive": true
-    },
-    {
-      "season_id": 12044,
-      "media_id": 12044,
-      "title": "你的名字。",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 12116,
-      "media_id": 12116,
-      "title": "声之形",
-      "is_vip": false,
-      "is_exclusive": false
     },
     {
       "season_id": 21744,
@@ -15282,39 +16388,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3891,
-      "media_id": 14512,
-      "title": "蜡笔小新 超时空！呼风唤雨的我的新娘",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3892,
-      "media_id": 14532,
-      "title": "蜡笔小新 呼风唤雨黄金的间谍大作战",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3895,
-      "media_id": 15072,
-      "title": "蜡笔小新 超级美味B级美食大逃亡",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 12364,
-      "media_id": 15132,
-      "title": "刀剑神域：序列之争",
+      "season_id": 21785,
+      "media_id": 78692,
+      "title": "异世界居酒屋～古都阿伊特力亚的居酒屋阿信～",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3868,
-      "media_id": 18452,
-      "title": "蜡笔小新之动感超人大战泳装魔王",
-      "is_vip": true,
-      "is_exclusive": false
+      "is_exclusive": true
     },
     {
       "season_id": 21990,
@@ -15331,13 +16409,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4934,
-      "media_id": 33232,
-      "title": "网球王子 全国大会篇",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 22504,
       "media_id": 33512,
       "title": "卫宫家今天的饭",
@@ -15345,45 +16416,10 @@
       "is_exclusive": true
     },
     {
-      "season_id": 3885,
-      "media_id": 35572,
-      "title": "蜡笔小新 呼风唤雨！夕阳下的春日部男孩",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1731,
-      "media_id": 35992,
-      "title": "VIVIDRED OPERATION",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3881,
-      "media_id": 39112,
-      "title": "蜡笔小新 呼风唤雨！战国大合战",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4738,
-      "media_id": 44812,
-      "title": "铁腕巴迪 DECODE 第二季",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 22958,
       "media_id": 44832,
       "title": "铁腕巴迪 DECODE",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3886,
-      "media_id": 46092,
-      "title": "蜡笔小新 呼唤传说！三分钟嘎巴大进攻",
-      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -15394,20 +16430,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3888,
-      "media_id": 48472,
-      "title": "蜡笔小新 呼风唤雨！会唱歌的屁股炸弹",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3871,
-      "media_id": 51552,
-      "title": "蜡笔小新之云黑斋的野心",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 23430,
       "media_id": 57732,
       "title": "魔神坛斗士 MESSAGE",
@@ -15415,39 +16437,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4498,
-      "media_id": 57752,
-      "title": "妖精的尾巴 剧场版 凤凰巫女",
+      "season_id": 23595,
+      "media_id": 78132,
+      "title": "高达创形者",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1560,
-      "media_id": 60212,
-      "title": "灵感！",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 10379,
-      "media_id": 64272,
-      "title": "世界大战：歌利娅",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 75,
-      "media_id": 67712,
-      "title": "黑执事",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 12477,
-      "media_id": 70612,
-      "title": "精灵宝可梦 剧场版19：波尔凯尼恩与机巧的玛机雅娜",
-      "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": true
     },
     {
       "season_id": 23677,
@@ -15457,20 +16451,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 6473,
-      "media_id": 73092,
-      "title": "宇宙战舰大和号2202 爱的战士",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3575,
-      "media_id": 73292,
-      "title": "文学少女 剧场版",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 23775,
       "media_id": 73412,
       "title": "网球王子 过去和未来的信息",
@@ -15478,30 +16458,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4120,
-      "media_id": 75052,
-      "title": "三坪房间的侵略者！",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4232,
-      "media_id": 75452,
-      "title": "弁魔士塞西尔",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 23795,
       "media_id": 75472,
       "title": "宝可梦 太阳&月亮（中配）",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 2612,
-      "media_id": 75912,
-      "title": "科学小飞侠Crowds insight",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -15560,13 +16519,6 @@
       "title": "敦君与女朋友",
       "is_vip": true,
       "is_exclusive": false
-    },
-    {
-      "season_id": 23595,
-      "media_id": 78132,
-      "title": "高达创形者",
-      "is_vip": false,
-      "is_exclusive": true
     },
     {
       "season_id": 23841,
@@ -15660,13 +16612,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 21785,
-      "media_id": 78692,
-      "title": "异世界居酒屋～古都阿伊特力亚的居酒屋阿信～",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
       "season_id": 23866,
       "media_id": 78732,
       "title": "美男高校地球防卫部 HAPPY KISS！",
@@ -15702,6 +16647,13 @@
       "is_exclusive": true
     },
     {
+      "season_id": 23875,
+      "media_id": 79492,
+      "title": "SWORD GAI 装刀凯 The Animation",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
       "season_id": 23877,
       "media_id": 79292,
       "title": "鬼灯的冷彻 第二季 其二",
@@ -15723,24 +16675,17 @@
       "is_exclusive": false
     },
     {
+      "season_id": 23880,
+      "media_id": 79472,
+      "title": "装甲重拳/MEGALOBOX",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 23881,
       "media_id": 79352,
       "title": "Four of a Kind 四牌士",
       "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 23884,
-      "media_id": 79372,
-      "title": "ReLIFE 完结篇",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 23883,
-      "media_id": 79392,
-      "title": "海獭波乐 3rd",
-      "is_vip": false,
       "is_exclusive": false
     },
     {
@@ -15751,18 +16696,18 @@
       "is_exclusive": false
     },
     {
-      "season_id": 23880,
-      "media_id": 79472,
-      "title": "装甲重拳/MEGALOBOX",
-      "is_vip": true,
-      "is_exclusive": true
+      "season_id": 23883,
+      "media_id": 79392,
+      "title": "海獭波乐 3rd",
+      "is_vip": false,
+      "is_exclusive": false
     },
     {
-      "season_id": 23875,
-      "media_id": 79492,
-      "title": "SWORD GAI 装刀凯 The Animation",
-      "is_vip": true,
-      "is_exclusive": false
+      "season_id": 23884,
+      "media_id": 79372,
+      "title": "ReLIFE 完结篇",
+      "is_vip": false,
+      "is_exclusive": true
     },
     {
       "season_id": 23910,
@@ -15772,32 +16717,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 2574,
-      "media_id": 80092,
-      "title": "魔法少女☆伊莉雅 2WEI!",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 23919,
       "media_id": 80472,
       "title": "重神机潘多拉（中配）",
       "is_vip": true,
       "is_exclusive": false
-    },
-    {
-      "season_id": 3542,
-      "media_id": 81232,
-      "title": "排球少年剧场版 结束与开始",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3570,
-      "media_id": 81292,
-      "title": "Little Busters! ～Refrain～",
-      "is_vip": false,
-      "is_exclusive": true
     },
     {
       "season_id": 23934,
@@ -15812,13 +16736,6 @@
       "title": "魔法少女 俺（中配）",
       "is_vip": true,
       "is_exclusive": true
-    },
-    {
-      "season_id": 23979,
-      "media_id": 82712,
-      "title": "排球少年剧场版 观念之战",
-      "is_vip": false,
-      "is_exclusive": false
     },
     {
       "season_id": 23945,
@@ -15842,6 +16759,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 23979,
+      "media_id": 82712,
+      "title": "排球少年剧场版 观念之战",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 24050,
       "media_id": 85632,
       "title": "新战神金刚：传奇的保护神 第五季",
@@ -15856,25 +16780,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4828,
-      "media_id": 89132,
-      "title": "草莓棉花糖 OVA 第1期",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 24181,
       "media_id": 89152,
       "title": "刀使巫女（中配）",
       "is_vip": false,
       "is_exclusive": true
-    },
-    {
-      "season_id": 167,
-      "media_id": 89192,
-      "title": "金色琴弦～primo passo～",
-      "is_vip": false,
-      "is_exclusive": false
     },
     {
       "season_id": 24255,
@@ -15884,18 +16794,25 @@
       "is_exclusive": true
     },
     {
+      "season_id": 24265,
+      "media_id": 125692,
+      "title": "小马宝莉 友谊的魔力 第七季",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 24266,
+      "media_id": 4314402,
+      "title": "小马宝莉 友谊的魔力 第八季",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
       "season_id": 24287,
       "media_id": 92812,
       "title": "剧场版 笑傲昙天(外传) 「中篇」",
       "is_vip": false,
       "is_exclusive": true
-    },
-    {
-      "season_id": 1696,
-      "media_id": 95172,
-      "title": "纸箱战机W",
-      "is_vip": false,
-      "is_exclusive": false
     },
     {
       "season_id": 24329,
@@ -15919,44 +16836,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4273,
-      "media_id": 95992,
-      "title": "结城友奈是勇者",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3536,
-      "media_id": 96632,
-      "title": "宇宙航海王 ABYSS OF HYPERSPACE -亚空的深渊-：剧场版",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
       "season_id": 24416,
       "media_id": 97272,
       "title": "未来卡 神搭档对战",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5402,
-      "media_id": 98612,
-      "title": "当女孩遇到熊",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5617,
-      "media_id": 98632,
-      "title": "飞翔的魔女",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4170,
-      "media_id": 100712,
-      "title": "灰色的迷宫",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -15968,31 +16850,10 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24632,
-      "media_id": 102032,
-      "title": "音乐少女",
+      "season_id": 24569,
+      "media_id": 135252,
+      "title": "BanG Dream! 少女乐团派对☆PICO",
       "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24630,
-      "media_id": 102112,
-      "title": "邪神与厨二病少女",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24605,
-      "media_id": 102152,
-      "title": "前进吧！登山少女 第三季",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 4129,
-      "media_id": 102172,
-      "title": "怪物之子",
-      "is_vip": true,
       "is_exclusive": true
     },
     {
@@ -16003,25 +16864,18 @@
       "is_exclusive": true
     },
     {
-      "season_id": 24596,
-      "media_id": 102252,
-      "title": "OVERLORD Ⅲ",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24620,
-      "media_id": 102272,
-      "title": "天狼 Sirius the Jaeger",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 24571,
       "media_id": 102292,
       "title": "ISLAND",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 24572,
+      "media_id": 103032,
+      "title": "One Room 第二季",
+      "is_vip": false,
+      "is_exclusive": true
     },
     {
       "season_id": 24581,
@@ -16031,9 +16885,9 @@
       "is_exclusive": true
     },
     {
-      "season_id": 4115,
-      "media_id": 102352,
-      "title": "前进吧！登山少女 第二季",
+      "season_id": 24586,
+      "media_id": 102712,
+      "title": "付丧神出租中",
       "is_vip": false,
       "is_exclusive": true
     },
@@ -16052,18 +16906,39 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24626,
-      "media_id": 102472,
-      "title": "深夜！天才傻鹏",
+      "season_id": 24594,
+      "media_id": 103012,
+      "title": "偶像大师灰姑娘剧场 第三季（TV版）",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24596,
+      "media_id": 102252,
+      "title": "OVERLORD Ⅲ",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24605,
+      "media_id": 102152,
+      "title": "前进吧！登山少女 第三季",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24607,
+      "media_id": 102852,
+      "title": "LORD of VERMILION 红莲之王",
       "is_vip": true,
       "is_exclusive": false
     },
     {
-      "season_id": 24833,
-      "media_id": 102612,
-      "title": "闪电十一人 第一季 日语",
-      "is_vip": false,
-      "is_exclusive": false
+      "season_id": 24609,
+      "media_id": 102732,
+      "title": "昴宿七星",
+      "is_vip": true,
+      "is_exclusive": true
     },
     {
       "season_id": 24611,
@@ -16073,18 +16948,53 @@
       "is_exclusive": true
     },
     {
-      "season_id": 24586,
-      "media_id": 102712,
-      "title": "付丧神出租中",
+      "season_id": 24613,
+      "media_id": 103072,
+      "title": "打工小哥！之2！",
       "is_vip": false,
       "is_exclusive": true
     },
     {
-      "season_id": 24609,
-      "media_id": 102732,
-      "title": "昴宿七星",
+      "season_id": 24618,
+      "media_id": 102832,
+      "title": "千枪士",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24619,
+      "media_id": 102812,
+      "title": "梦王国与沉睡的100王子",
       "is_vip": true,
       "is_exclusive": true
+    },
+    {
+      "season_id": 24620,
+      "media_id": 102272,
+      "title": "天狼 Sirius the Jaeger",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 24622,
+      "media_id": 102892,
+      "title": "少女☆歌剧 Revue Starlight",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24625,
+      "media_id": 102792,
+      "title": "Angels of Death",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 24626,
+      "media_id": 102472,
+      "title": "深夜！天才傻鹏",
+      "is_vip": true,
+      "is_exclusive": false
     },
     {
       "season_id": 24627,
@@ -16101,59 +17011,38 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24625,
-      "media_id": 102792,
-      "title": "Angels of Death",
+      "season_id": 24630,
+      "media_id": 102112,
+      "title": "邪神与厨二病少女",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24632,
+      "media_id": 102032,
+      "title": "音乐少女",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24674,
+      "media_id": 27561630,
+      "title": "银河英雄传说：全新命题",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 24694,
+      "media_id": 28228963,
+      "title": "名侦探柯南 唐红的恋歌",
       "is_vip": true,
       "is_exclusive": false
     },
     {
-      "season_id": 24619,
-      "media_id": 102812,
-      "title": "梦王国与沉睡的100王子",
+      "season_id": 24702,
+      "media_id": 122632,
+      "title": "请问您今天要来点兔子吗？？～Dear My Sister～",
       "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24618,
-      "media_id": 102832,
-      "title": "千枪士",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24607,
-      "media_id": 102852,
-      "title": "LORD of VERMILION 红莲之王",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 24622,
-      "media_id": 102892,
-      "title": "少女☆歌剧 Revue Starlight",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24594,
-      "media_id": 103012,
-      "title": "偶像大师灰姑娘剧场 第三季（TV版）",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24572,
-      "media_id": 103032,
-      "title": "One Room 第二季",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 24613,
-      "media_id": 103072,
-      "title": "打工小哥！之2！",
-      "is_vip": false,
       "is_exclusive": true
     },
     {
@@ -16164,13 +17053,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3103,
-      "media_id": 106512,
-      "title": "灰与幻想的格林姆迦尔",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 24745,
       "media_id": 106612,
       "title": "灰与幻想的格林姆迦尔 OVA",
@@ -16178,18 +17060,18 @@
       "is_exclusive": false
     },
     {
-      "season_id": 12732,
-      "media_id": 110672,
-      "title": "玛丽与魔女之花",
+      "season_id": 24833,
+      "media_id": 102612,
+      "title": "闪电十一人 第一季 日语",
       "is_vip": false,
       "is_exclusive": false
     },
     {
-      "season_id": 4368,
-      "media_id": 111892,
-      "title": "苍翼默示录 Alter Memory",
-      "is_vip": false,
-      "is_exclusive": false
+      "season_id": 24856,
+      "media_id": 141252,
+      "title": "Fate/kaleid liner 魔法少女☆伊莉雅：雪下的誓言",
+      "is_vip": true,
+      "is_exclusive": true
     },
     {
       "season_id": 24949,
@@ -16199,11 +17081,18 @@
       "is_exclusive": false
     },
     {
-      "season_id": 507,
-      "media_id": 113132,
-      "title": "有顶天家族",
+      "season_id": 24951,
+      "media_id": 952544,
+      "title": "牵牛花与加濑同学。",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 24952,
+      "media_id": 4314782,
+      "title": "向山进发 回忆的礼物",
       "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": true
     },
     {
       "season_id": 24959,
@@ -16262,20 +17151,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 4262,
-      "media_id": 116772,
-      "title": "玉子市场",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 128,
-      "media_id": 117712,
-      "title": "展开骑士",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25101,
       "media_id": 118152,
       "title": "剧场版 Free!-Timeless Medley",
@@ -16290,24 +17165,10 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4694,
-      "media_id": 119152,
-      "title": "夏日大作战",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
       "season_id": 25152,
       "media_id": 119312,
       "title": "NEKOPARA EXTRA 小猫篇（猫娘乐园）",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4394,
-      "media_id": 120712,
-      "title": "Free!",
-      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -16332,39 +17193,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24702,
-      "media_id": 122632,
-      "title": "请问您今天要来点兔子吗？？～Dear My Sister～",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 3496,
-      "media_id": 122732,
-      "title": "机动战士高达独角兽(UC) RE:0096",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5201,
-      "media_id": 124972,
-      "title": "Free! -Eternal Summer-",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25345,
       "media_id": 125312,
       "title": "高达创战者 ​GM的逆袭",
       "is_vip": false,
       "is_exclusive": true
-    },
-    {
-      "season_id": 24265,
-      "media_id": 125692,
-      "title": "小马宝莉 友谊的魔力 第七季",
-      "is_vip": false,
-      "is_exclusive": false
     },
     {
       "season_id": 25368,
@@ -16423,23 +17256,9 @@
       "is_exclusive": true
     },
     {
-      "season_id": 4695,
-      "media_id": 129072,
-      "title": "小双侠",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25472,
       "media_id": 129332,
       "title": "碧奇魂",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1506,
-      "media_id": 129612,
-      "title": "Doamaiger D",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -16486,20 +17305,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4391,
-      "media_id": 131112,
-      "title": "兄弟战争",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 2927,
-      "media_id": 131532,
-      "title": "花开伊吕波 Home Sweet Home",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25556,
       "media_id": 131552,
       "title": "贮金大冒险",
@@ -16510,13 +17315,6 @@
       "season_id": 25557,
       "media_id": 131592,
       "title": "银河铁道物语 被遗忘时间的惑星",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 2317,
-      "media_id": 131612,
-      "title": "新机动战记高达W TV版",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -16549,30 +17347,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4557,
-      "media_id": 131732,
-      "title": "爆TECH！爆丸",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5233,
-      "media_id": 131752,
-      "title": "爆斗宣言大钢弹",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25564,
       "media_id": 131792,
       "title": "决斗大师Victory V",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4078,
-      "media_id": 131872,
-      "title": "RAIL WARS!-日本国有铁道公安队-",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -16633,13 +17410,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 357,
-      "media_id": 132112,
-      "title": "猫和老鼠 旧版",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25578,
       "media_id": 132132,
       "title": "流星机学生霸",
@@ -16661,13 +17431,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4433,
-      "media_id": 132192,
-      "title": "决斗大师 Victory V3",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25581,
       "media_id": 132212,
       "title": "鲁邦shanshee",
@@ -16679,6 +17442,55 @@
       "media_id": 132232,
       "title": "机动武斗传G高达",
       "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 25610,
+      "media_id": 139372,
+      "title": "RErideD-穿越时空的德理达",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 25615,
+      "media_id": 139432,
+      "title": "魔偶马戏团",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 25617,
+      "media_id": 134912,
+      "title": "魔法禁书目录 第三季",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 25619,
+      "media_id": 139632,
+      "title": "邻家索菲",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 25622,
+      "media_id": 138832,
+      "title": "终将成为你",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 25623,
+      "media_id": 139472,
+      "title": "偶像大师 SideM Mini",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 25624,
+      "media_id": 139392,
+      "title": "ANIMAYELL!",
+      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -16696,38 +17508,10 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4145,
-      "media_id": 134672,
-      "title": "前进吧！登山少女",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
       "season_id": 25656,
       "media_id": 134692,
       "title": "彩虹小马 小马国女孩4：无尽之森传奇",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 612,
-      "media_id": 134852,
-      "title": "闪电十一人 GO",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25617,
-      "media_id": 134912,
-      "title": "魔法禁书目录 第三季",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25733,
-      "media_id": 134932,
-      "title": "青春猪头少年不会梦到兔女郎学姐",
-      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -16738,13 +17522,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24569,
-      "media_id": 135252,
-      "title": "BanG Dream! 少女乐团派对☆PICO",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
       "season_id": 25681,
       "media_id": 135652,
       "title": "JOJO的奇妙冒险 黄金之风",
@@ -16752,18 +17529,11 @@
       "is_exclusive": true
     },
     {
-      "season_id": 25622,
-      "media_id": 138832,
-      "title": "终将成为你",
+      "season_id": 25696,
+      "media_id": 139292,
+      "title": "弦音 -风舞高中弓道部-",
       "is_vip": true,
       "is_exclusive": true
-    },
-    {
-      "season_id": 25739,
-      "media_id": 139252,
-      "title": "关于我转生变成史莱姆这档事",
-      "is_vip": true,
-      "is_exclusive": false
     },
     {
       "season_id": 25697,
@@ -16773,11 +17543,46 @@
       "is_exclusive": false
     },
     {
-      "season_id": 25696,
-      "media_id": 139292,
-      "title": "弦音 -风舞高中弓道部-",
+      "season_id": 25699,
+      "media_id": 139452,
+      "title": "梅露可物语 : 无精打采的少年与瓶中少女",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 25711,
+      "media_id": 142612,
+      "title": "嫁给非人类",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 25720,
+      "media_id": 139412,
+      "title": "叛逆性百万亚瑟王",
       "is_vip": true,
       "is_exclusive": true
+    },
+    {
+      "season_id": 25730,
+      "media_id": 139672,
+      "title": "火之丸相扑",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 25733,
+      "media_id": 134932,
+      "title": "青春猪头少年不会梦到兔女郎学姐",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 25739,
+      "media_id": 139252,
+      "title": "关于我转生变成史莱姆这档事",
+      "is_vip": true,
+      "is_exclusive": false
     },
     {
       "season_id": 25740,
@@ -16794,73 +17599,10 @@
       "is_exclusive": false
     },
     {
-      "season_id": 25610,
-      "media_id": 139372,
-      "title": "RErideD-穿越时空的德理达",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 25624,
-      "media_id": 139392,
-      "title": "ANIMAYELL!",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25720,
-      "media_id": 139412,
-      "title": "叛逆性百万亚瑟王",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 25615,
-      "media_id": 139432,
-      "title": "魔偶马戏团",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 25699,
-      "media_id": 139452,
-      "title": "梅露可物语 : 无精打采的少年与瓶中少女",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25623,
-      "media_id": 139472,
-      "title": "偶像大师 SideM Mini",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 25619,
-      "media_id": 139632,
-      "title": "邻家索菲",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 25730,
-      "media_id": 139672,
-      "title": "火之丸相扑",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25806,
       "media_id": 140332,
       "title": "宇宙战舰提拉米斯II",
       "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 5398,
-      "media_id": 140552,
-      "title": "JOJO的奇妙冒险 不灭钻石",
-      "is_vip": true,
       "is_exclusive": true
     },
     {
@@ -16885,6 +17627,13 @@
       "is_exclusive": false
     },
     {
+      "season_id": 25856,
+      "media_id": 2435657,
+      "title": "能继续奔跑下去真是太好了。",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
       "season_id": 25857,
       "media_id": 141192,
       "title": "伊利亚：杰拉姆",
@@ -16892,44 +17641,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24856,
-      "media_id": 141252,
-      "title": "Fate/kaleid liner 魔法少女☆伊莉雅：雪下的誓言",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 4955,
-      "media_id": 142412,
-      "title": "彻之进",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4186,
-      "media_id": 142452,
-      "title": "决斗大师VS",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25711,
-      "media_id": 142612,
-      "title": "嫁给非人类",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 25940,
       "media_id": 313265,
       "title": "Hello Kitty 苹果森林 第一季",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5054,
-      "media_id": 319395,
-      "title": "Active Raid -机动强袭室第八课-",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -16948,37 +17662,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24951,
-      "media_id": 952544,
-      "title": "牵牛花与加濑同学。",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
       "season_id": 25951,
       "media_id": 1340832,
       "title": "剧场版「 - Alice in the Garden -」",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 25856,
-      "media_id": 2435657,
-      "title": "能继续奔跑下去真是太好了。",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 5121,
-      "media_id": 3071924,
-      "title": "网球王子剧场版 二人的武士",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5122,
-      "media_id": 3083562,
-      "title": "网球王子剧场版 迹部的礼物",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -17018,37 +17704,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4625,
-      "media_id": 4308962,
-      "title": "新网球王子",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26029,
       "media_id": 4309242,
       "title": "超级机器人大战原创世纪 OVA",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 2723,
-      "media_id": 4310042,
-      "title": "机动战士高达 铁血的奥尔芬斯 第一季",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5535,
-      "media_id": 4310082,
-      "title": "机动战士高达 铁血的奥尔芬斯 第二季",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4922,
-      "media_id": 4311302,
-      "title": "怪医黑杰克21",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -17088,13 +17746,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4546,
-      "media_id": 4312882,
-      "title": "新网球王子 OVA",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26179,
       "media_id": 4313362,
       "title": "怪侠佐罗利 第一季",
@@ -17130,13 +17781,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 24266,
-      "media_id": 4314402,
-      "title": "小马宝莉 友谊的魔力 第八季",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26223,
       "media_id": 4314422,
       "title": "小马宝莉 友谊的魔力 第八季（中配）",
@@ -17149,13 +17793,6 @@
       "title": "网球王子剧场版：英国式庭球城决战",
       "is_vip": true,
       "is_exclusive": false
-    },
-    {
-      "season_id": 24952,
-      "media_id": 4314782,
-      "title": "向山进发 回忆的礼物",
-      "is_vip": false,
-      "is_exclusive": true
     },
     {
       "season_id": 26230,
@@ -17179,6 +17816,41 @@
       "is_exclusive": false
     },
     {
+      "season_id": 26274,
+      "media_id": 5267730,
+      "title": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 26275,
+      "media_id": 28227618,
+      "title": "ENDRO~!",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 26277,
+      "media_id": 5269634,
+      "title": "B-PROJECT～绝顶＊Emotion～",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 26280,
+      "media_id": 5871233,
+      "title": "格林笔记 The Animation",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 26281,
+      "media_id": 5267750,
+      "title": "约定的梦幻岛",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
       "season_id": 26283,
       "media_id": 4316382,
       "title": "五等分的新娘",
@@ -17186,9 +17858,9 @@
       "is_exclusive": true
     },
     {
-      "season_id": 26286,
-      "media_id": 4316402,
-      "title": "revisions",
+      "season_id": 26284,
+      "media_id": 4316482,
+      "title": "盾之勇者成名录",
       "is_vip": true,
       "is_exclusive": true
     },
@@ -17200,6 +17872,20 @@
       "is_exclusive": true
     },
     {
+      "season_id": 26286,
+      "media_id": 4316402,
+      "title": "revisions",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 26289,
+      "media_id": 4762694,
+      "title": "同居人是猫",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
       "season_id": 26291,
       "media_id": 4316442,
       "title": "天使降临到我身边",
@@ -17207,16 +17893,51 @@
       "is_exclusive": true
     },
     {
-      "season_id": 26303,
-      "media_id": 4316462,
-      "title": "不吉波普不笑",
+      "season_id": 26294,
+      "media_id": 5873044,
+      "title": "雨色可可side G",
+      "is_vip": false,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 26295,
+      "media_id": 5345112,
+      "title": "兽娘动物园 2",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 26296,
+      "media_id": 28228699,
+      "title": "粉彩回忆",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 26297,
+      "media_id": 4762734,
+      "title": "路人超能100 II(灵能百分百 第二季)",
       "is_vip": true,
       "is_exclusive": true
     },
     {
-      "season_id": 26284,
-      "media_id": 4316482,
-      "title": "盾之勇者成名录",
+      "season_id": 26300,
+      "media_id": 5267026,
+      "title": "不愉快的怪物庵 续",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 26301,
+      "media_id": 5346052,
+      "title": "W'Z",
+      "is_vip": true,
+      "is_exclusive": true
+    },
+    {
+      "season_id": 26303,
+      "media_id": 4316462,
+      "title": "不吉波普不笑",
       "is_vip": true,
       "is_exclusive": true
     },
@@ -17235,17 +17956,10 @@
       "is_exclusive": true
     },
     {
-      "season_id": 26289,
-      "media_id": 4762694,
-      "title": "同居人是猫",
+      "season_id": 26307,
+      "media_id": 5268246,
+      "title": "明治东京恋伽",
       "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 26297,
-      "media_id": 4762734,
-      "title": "路人超能100 II(灵能百分百 第二季)",
-      "is_vip": true,
       "is_exclusive": true
     },
     {
@@ -17263,58 +17977,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 26300,
-      "media_id": 5267026,
-      "title": "不愉快的怪物庵 续",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 26274,
-      "media_id": 5267730,
-      "title": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 26281,
-      "media_id": 5267750,
-      "title": "约定的梦幻岛",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
       "season_id": 26350,
       "media_id": 5268038,
       "title": "环战公主 CIRCLET PRINCESS",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 26307,
-      "media_id": 5268246,
-      "title": "明治东京恋伽",
-      "is_vip": false,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 26277,
-      "media_id": 5269634,
-      "title": "B-PROJECT～绝顶＊Emotion～",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 26295,
-      "media_id": 5345112,
-      "title": "兽娘动物园 2",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 26301,
-      "media_id": 5346052,
-      "title": "W'Z",
       "is_vip": true,
       "is_exclusive": true
     },
@@ -17324,20 +17989,6 @@
       "title": "女神异闻录5 动画版 年末特别篇「前篇 / 后篇」",
       "is_vip": true,
       "is_exclusive": false
-    },
-    {
-      "season_id": 26280,
-      "media_id": 5871233,
-      "title": "格林笔记 The Animation",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 26294,
-      "media_id": 5873044,
-      "title": "雨色可可side G",
-      "is_vip": false,
-      "is_exclusive": true
     },
     {
       "season_id": 26363,
@@ -17354,32 +18005,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 5055,
-      "media_id": 7491767,
-      "title": "Active Raid -机动强袭室第八课- 2nd",
+      "season_id": 26390,
+      "media_id": 11663079,
+      "title": "次元发电机",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5678,
-      "media_id": 8061448,
-      "title": "不愉快的怪物庵",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1918,
-      "media_id": 8981283,
-      "title": "驰风！赛艇王",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4403,
-      "media_id": 9935117,
-      "title": "Fantasista Doll",
-      "is_vip": false,
-      "is_exclusive": false
+      "is_exclusive": true
     },
     {
       "season_id": 26433,
@@ -17389,25 +18019,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 5065,
-      "media_id": 10464925,
-      "title": "魔法少女☆伊莉雅 3REI!!",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26460,
       "media_id": 10645046,
       "title": "怪物猎人物语 RIDE ON 第二季",
       "is_vip": false,
       "is_exclusive": false
-    },
-    {
-      "season_id": 26390,
-      "media_id": 11663079,
-      "title": "次元发电机",
-      "is_vip": false,
-      "is_exclusive": true
     },
     {
       "season_id": 26478,
@@ -17420,20 +18036,6 @@
       "season_id": 26532,
       "media_id": 12952739,
       "title": "法兰雀丝卡",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6192,
-      "media_id": 13287272,
-      "title": "决斗大师 VSRF",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1919,
-      "media_id": 13293448,
-      "title": "驰风！赛艇王 V",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -17469,13 +18071,6 @@
       "season_id": 26714,
       "media_id": 19724023,
       "title": "鲁邦三世 次元大介的墓标",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 632,
-      "media_id": 20508163,
-      "title": "学生会的一己之见 Lv.2",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -17578,13 +18173,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 2015,
-      "media_id": 22959248,
-      "title": "全金属狂潮",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26818,
       "media_id": 23200609,
       "title": "一个人的〇〇小日子",
@@ -17655,20 +18243,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 1057,
-      "media_id": 24120616,
-      "title": "凉宫春日的忧郁 2009",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 1963,
-      "media_id": 24305517,
-      "title": "新撰组异闻录 铁",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26885,
       "media_id": 24369576,
       "title": "船梨精摇摇摇日和",
@@ -17690,13 +18264,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4452,
-      "media_id": 24755609,
-      "title": "刀剑神域",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26929,
       "media_id": 24780333,
       "title": "Hello Kitty 苹果森林 第三季",
@@ -17711,13 +18278,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 1292,
-      "media_id": 24789198,
-      "title": "天元突破 红莲螺岩 剧场版",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 26931,
       "media_id": 24802609,
       "title": "室内鞋库库",
@@ -17729,13 +18289,6 @@
       "media_id": 25567597,
       "title": "ULTRAMAN 机动奥特曼（中配）",
       "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1886,
-      "media_id": 25579500,
-      "title": "砂和尚",
-      "is_vip": false,
       "is_exclusive": false
     },
     {
@@ -17753,30 +18306,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4239,
-      "media_id": 27127860,
-      "title": "刀剑神域 Extra Edition",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4479,
-      "media_id": 27342606,
-      "title": "未来都市No.6",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 27042,
       "media_id": 27526419,
       "title": "萤火之森",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 24674,
-      "media_id": 27561630,
-      "title": "银河英雄传说：全新命题",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -17823,20 +18355,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4316,
-      "media_id": 28220103,
-      "title": "魔法少女小圆 剧场版 [前篇] 起始的物语",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 4317,
-      "media_id": 28220104,
-      "title": "魔法少女小圆 剧场版 [后篇] 永远的物语",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
       "season_id": 27063,
       "media_id": 28220105,
       "title": "魔法少女小圆 剧场版 [新篇] 叛逆的物语",
@@ -17847,27 +18365,6 @@
       "season_id": 27064,
       "media_id": 28220112,
       "title": "机动战士高达 THE ORIGIN I：苍瞳的卡斯巴尔",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1978,
-      "media_id": 28220355,
-      "title": "成惠的世界",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4751,
-      "media_id": 28220469,
-      "title": "地狱少女 三鼎",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4342,
-      "media_id": 28220473,
-      "title": "超速变形螺旋杰特",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -17900,20 +18397,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4118,
-      "media_id": 28220669,
-      "title": "信长协奏曲",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3319,
-      "media_id": 28220788,
-      "title": "SHUFFLE",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 27698,
       "media_id": 28220802,
       "title": "欢迎来到加帕里公园 第二季",
@@ -17942,32 +18425,11 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4941,
-      "media_id": 28220882,
-      "title": "超剧场版 Keroro军曹",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5250,
-      "media_id": 28220965,
-      "title": "纯情房东俏房客 Again",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 27792,
       "media_id": 28220970,
       "title": "快盗天使双胞胎",
       "is_vip": false,
       "is_exclusive": false
-    },
-    {
-      "season_id": 1172,
-      "media_id": 28220978,
-      "title": "轻音少女 第一季",
-      "is_vip": true,
-      "is_exclusive": true
     },
     {
       "season_id": 27793,
@@ -17984,51 +18446,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4880,
-      "media_id": 28220983,
-      "title": "地狱少女 二笼",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1173,
-      "media_id": 28220984,
-      "title": "轻音少女 第二季",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 2987,
-      "media_id": 28220987,
-      "title": "白色相簿 下半篇章",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1175,
-      "media_id": 28220988,
-      "title": "轻音少女 剧场版",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
       "season_id": 27795,
       "media_id": 28220989,
       "title": "机动战士高达 THE ORIGIN II：悲哀的阿尔黛西亚",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3770,
-      "media_id": 28220991,
-      "title": "SHUFFLE! MEMORIES",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5641,
-      "media_id": 28221005,
-      "title": "决斗大师VSR",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -18061,23 +18481,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 1088,
-      "media_id": 28221050,
-      "title": "钢之炼金术师",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 27819,
       "media_id": 28221057,
       "title": "酷妹当家",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5032,
-      "media_id": 28221167,
-      "title": "吸血鬼仆人",
       "is_vip": false,
       "is_exclusive": false
     },
@@ -18234,20 +18640,6 @@
       "title": "少女☆歌剧Revue Starlight -The LIVE- #2 Transition",
       "is_vip": true,
       "is_exclusive": true
-    },
-    {
-      "season_id": 192,
-      "media_id": 28221545,
-      "title": "乒乓",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 2727,
-      "media_id": 28221614,
-      "title": "排球少年！！",
-      "is_vip": true,
-      "is_exclusive": false
     },
     {
       "season_id": 28320,
@@ -18565,13 +18957,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4687,
-      "media_id": 28223352,
-      "title": "犬夜叉完结篇",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 28937,
       "media_id": 28223434,
       "title": "吹响吧！上低音号 第二季",
@@ -18607,30 +18992,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4334,
-      "media_id": 28223479,
-      "title": "JOJO的奇妙冒险",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
       "season_id": 28965,
       "media_id": 28223480,
       "title": "青春猪头少年不会梦到怀梦美少女",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 4185,
-      "media_id": 28223481,
-      "title": "JOJO的奇妙冒险 星尘远征军",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 4213,
-      "media_id": 28223483,
-      "title": "JOJO的奇妙冒险 星尘远征军 埃及篇",
       "is_vip": true,
       "is_exclusive": true
     },
@@ -18666,13 +19030,6 @@
       "season_id": 29073,
       "media_id": 28223812,
       "title": "哥斯拉：怪兽行星",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4197,
-      "media_id": 28223816,
-      "title": "俺物语！！",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -18831,13 +19188,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 4422,
-      "media_id": 28224170,
-      "title": "AURA ～魔龙院光牙最后的战斗～",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 30238,
       "media_id": 28225065,
       "title": "奇幻☆怪盗",
@@ -18871,13 +19221,6 @@
       "title": "紫罗兰永恒花园外传：永远与自动手记人偶",
       "is_vip": true,
       "is_exclusive": true
-    },
-    {
-      "season_id": 5983,
-      "media_id": 28226651,
-      "title": "重启咲良田",
-      "is_vip": true,
-      "is_exclusive": false
     },
     {
       "season_id": 31854,
@@ -18915,13 +19258,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 1573,
-      "media_id": 28227496,
-      "title": "伪恋",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 32310,
       "media_id": 28227516,
       "title": "龙珠Z：复活的弗利萨",
@@ -18929,30 +19265,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 26275,
-      "media_id": 28227618,
-      "title": "ENDRO~!",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 32394,
       "media_id": 28227648,
       "title": "烟花",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 2491,
-      "media_id": 28227667,
-      "title": "新机动战记高达W剧场版 无尽的华尔兹",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5980,
-      "media_id": 28228037,
-      "title": "剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -19272,13 +19587,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 26296,
-      "media_id": 28228699,
-      "title": "粉彩回忆",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 33310,
       "media_id": 28228701,
       "title": "只想受你欢迎",
@@ -19317,41 +19625,6 @@
       "season_id": 33343,
       "media_id": 28228734,
       "title": "天气之子",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5971,
-      "media_id": 28228738,
-      "title": "路人女主的养成方法 ♭",
-      "is_vip": true,
-      "is_exclusive": true
-    },
-    {
-      "season_id": 5804,
-      "media_id": 28228763,
-      "title": "MARGINAL#4 从KISS开始创造Big Bang",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4162,
-      "media_id": 28228764,
-      "title": "狼少女与黑王子",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4090,
-      "media_id": 28228769,
-      "title": "ALDNOAH.ZERO",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4092,
-      "media_id": 28228770,
-      "title": "ALDNOAH.ZERO 第二季",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -19419,27 +19692,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3096,
-      "media_id": 28228814,
-      "title": "只有我不存在的城市",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4996,
-      "media_id": 28228827,
-      "title": "地狱少女",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3099,
-      "media_id": 28228828,
-      "title": "幸运逻辑",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 33457,
       "media_id": 28228860,
       "title": "Free!-Road to the World-梦",
@@ -19447,142 +19699,9 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3639,
-      "media_id": 28228873,
-      "title": "HEROMAN（中配版）",
-      "is_vip": false,
-      "is_exclusive": false
-    },
-    {
       "season_id": 33539,
       "media_id": 28228943,
       "title": "名侦探柯南 世纪末的魔术师",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5365,
-      "media_id": 28228944,
-      "title": "名侦探柯南 瞳孔中的暗杀者",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5316,
-      "media_id": 28228945,
-      "title": "名侦探柯南 通往天国的倒计时",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5234,
-      "media_id": 28228946,
-      "title": "名侦探柯南 贝克街的亡灵",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5156,
-      "media_id": 28228948,
-      "title": "名侦探柯南 迷宫的十字路口",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5142,
-      "media_id": 28228949,
-      "title": "名侦探柯南 银翼的魔术师",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5085,
-      "media_id": 28228950,
-      "title": "名侦探柯南 水平线上的阴谋",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4920,
-      "media_id": 28228951,
-      "title": "名侦探柯南 侦探们的镇魂歌",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4787,
-      "media_id": 28228953,
-      "title": "名侦探柯南 绀碧之棺",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4784,
-      "media_id": 28228954,
-      "title": "名侦探柯南 战栗的乐谱",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4724,
-      "media_id": 28228955,
-      "title": "名侦探柯南 漆黑的追踪者",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4666,
-      "media_id": 28228956,
-      "title": "名侦探柯南 天空的遇难船",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4518,
-      "media_id": 28228957,
-      "title": "名侦探柯南 沉默的15分钟",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4548,
-      "media_id": 28228958,
-      "title": "名侦探柯南 第11个前锋",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4439,
-      "media_id": 28228959,
-      "title": "名侦探柯南 绝海的侦探",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4198,
-      "media_id": 28228960,
-      "title": "名侦探柯南 异次元的狙击手",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4199,
-      "media_id": 28228961,
-      "title": "名侦探柯南 业火的向日葵",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6365,
-      "media_id": 28228962,
-      "title": "名侦探柯南 纯黑的恶梦",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 24694,
-      "media_id": 28228963,
-      "title": "名侦探柯南 唐红的恋歌",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -19608,27 +19727,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 3578,
-      "media_id": 28229015,
-      "title": "浪客剑心 追忆篇",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3579,
-      "media_id": 28229023,
-      "title": "浪客剑心 星霜篇",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3584,
-      "media_id": 28229024,
-      "title": "浪客剑心 新京都篇",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 33597,
       "media_id": 28229026,
       "title": "列比乌斯/Levius",
@@ -19641,13 +19739,6 @@
       "title": "团团喵",
       "is_vip": false,
       "is_exclusive": false
-    },
-    {
-      "season_id": 5012,
-      "media_id": 28229193,
-      "title": "ReLIFE",
-      "is_vip": true,
-      "is_exclusive": true
     },
     {
       "season_id": 33800,
@@ -19734,20 +19825,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 1495,
-      "media_id": 28229392,
-      "title": "少年好莱坞",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 1496,
-      "media_id": 28229393,
-      "title": "少年好莱坞 第二季",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 33965,
       "media_id": 28229404,
       "title": "怪医黑杰克剧场版之超人类",
@@ -19765,13 +19842,6 @@
       "season_id": 34023,
       "media_id": 28229462,
       "title": "生日乐园",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5985,
-      "media_id": 28229470,
-      "title": "武装少女",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -19815,13 +19885,6 @@
       "media_id": 28229747,
       "title": "史上最强弟子兼一",
       "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 5957,
-      "media_id": 28229855,
-      "title": "爱米 -WE LOVE RICE-",
-      "is_vip": false,
       "is_exclusive": false
     },
     {
@@ -20049,13 +20112,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 1702,
-      "media_id": 28230053,
-      "title": "攻壳机动队",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 34598,
       "media_id": 28230101,
       "title": "BT21 UNIVERSE动画 第二季",
@@ -20070,24 +20126,10 @@
       "is_exclusive": false
     },
     {
-      "season_id": 5987,
-      "media_id": 28230162,
-      "title": "不正经的魔术讲师与禁忌教典",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 34676,
       "media_id": 28230183,
       "title": "春日望和安斋由香里的Do YU~NO~ the Radio",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 6419,
-      "media_id": 28230229,
-      "title": "食戟之灵 餐之皿",
-      "is_vip": true,
       "is_exclusive": false
     },
     {
@@ -20434,13 +20476,6 @@
       "is_exclusive": true
     },
     {
-      "season_id": 2469,
-      "media_id": 28233252,
-      "title": "鲁邦三世 第一季",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 37587,
       "media_id": 28233264,
       "title": "小猪佩奇 第一季",
@@ -20574,13 +20609,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 5571,
-      "media_id": 28233695,
-      "title": "宇宙兄弟#0",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 38031,
       "media_id": 28233711,
       "title": "「Free!」2020线上交响音乐会",
@@ -20612,13 +20640,6 @@
       "season_id": 38137,
       "media_id": 28233818,
       "title": "机器人笔记",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 4128,
-      "media_id": 28233831,
-      "title": "辛巴达 飞翔公主与秘密之岛",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -21029,20 +21050,6 @@
       "is_exclusive": false
     },
     {
-      "season_id": 2157,
-      "media_id": 28234174,
-      "title": "真女神转生 恶魔之子",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 3928,
-      "media_id": 28234179,
-      "title": "鲁邦三世：拜拜了自由女神·危机一刻",
-      "is_vip": true,
-      "is_exclusive": false
-    },
-    {
       "season_id": 38499,
       "media_id": 28234186,
       "title": "与汪汪喵喵同居的开心日常 中配版",
@@ -21138,13 +21145,6 @@
       "media_id": 28234398,
       "title": "巴塔说 第二季",
       "is_vip": false,
-      "is_exclusive": false
-    },
-    {
-      "season_id": 210,
-      "media_id": 28234399,
-      "title": "头文字D Fourth Stage",
-      "is_vip": true,
       "is_exclusive": false
     },
     {
