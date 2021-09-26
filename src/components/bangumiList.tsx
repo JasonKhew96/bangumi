@@ -27,9 +27,10 @@ const BangumiList = ({ columns, data, type }: any) => {
     setState({
       ...state,
       filteredData: data.filter((i: any) => {
+        var title = traditionalized(i.title.toLowerCase())
         return (
-          i.title.toLowerCase().includes(traditionalized(tmpValue)) ||
-          i.title.toLowerCase().includes(tmpValue) ||
+          title.includes(traditionalized(tmpValue)) ||
+          title.includes(tmpValue) ||
           (i.is_new && tmpValue.includes("新上架")) ||
           (i.is_exclusive && tmpValue.includes("独家")) ||
           tmpValue.includes("獨家") ||
