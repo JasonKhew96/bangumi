@@ -2118,9 +2118,25 @@
       "is_exclusive": false
     },
     {
+      "season_id": 39538,
+      "media_id": 28235231,
+      "title": "三角窗外是黑夜（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39539,
+      "media_id": 28235232,
+      "title": "宿命迴響：命運節拍（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
       "season_id": 39540,
       "media_id": 28235233,
-      "title": "迷宮標記者（僅限港澳台地區",
+      "title": "迷宮標記者（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
