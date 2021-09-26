@@ -2116,6 +2116,22 @@
       "title": "星期一的豐滿（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 39540,
+      "media_id": 28235233,
+      "title": "迷宮標記者（僅限港澳台地區",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39541,
+      "media_id": 28235234,
+      "title": "世界盡頭的聖騎士（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
     }
   ]
 }
