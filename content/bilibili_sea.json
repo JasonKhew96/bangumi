@@ -1551,7 +1551,8 @@
     },
     {
       "season_id": 1021008,
-      "title": "SELECTION PROJECT"
+      "title": "SELECTION PROJECT",
+      "is_new": true
     }
   ]
 }
