@@ -5013,7 +5013,7 @@
     {
       "acg_sn": 98149,
       "anime_sn": 98149,
-      "title": "鬼滅之刃 竈門炭治郎 立志編",
+      "title": "鬼滅之刃 竈門炭治郎 立志篇",
       "dc_c1": 26514,
       "dc_c2": 1,
       "is_bilingual": true,
@@ -11461,6 +11461,26 @@
       "is_vip": false
     },
     {
+      "acg_sn": 533,
+      "anime_sn": 112834,
+      "title": "櫻花大戰",
+      "dc_c1": 23,
+      "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 46698,
+      "anime_sn": 112835,
+      "title": "假面騎士 W RETURNS Accel 篇",
+      "dc_c1": 2562,
+      "dc_c2": 30,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 119183,
       "anime_sn": 112837,
       "title": "加油吧同期醬",
@@ -11490,8 +11510,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     }
   ]
 }
