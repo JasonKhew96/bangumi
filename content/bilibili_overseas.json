@@ -2212,6 +2212,62 @@
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
+    },
+    {
+      "season_id": 39549,
+      "media_id": 28235242,
+      "title": "逆轉世界的電池少女（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39550,
+      "media_id": 28235243,
+      "title": "進化果實～不知不覺踏上勝利的人生～（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39551,
+      "media_id": 28235244,
+      "title": "陰陽眼見子（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39553,
+      "media_id": 28235246,
+      "title": "VISUAL PRISON 視覺監獄（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39554,
+      "media_id": 28235247,
+      "title": "四季櫻（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39568,
+      "media_id": 28235261,
+      "title": "狂熱深淵-迷失的孩子（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
+      "season_id": 39569,
+      "media_id": 28235262,
+      "title": "橘色驕傲！～PRIDE OF ORANGE～（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
     }
   ]
 }
