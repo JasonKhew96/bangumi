@@ -2268,6 +2268,22 @@
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
+    },
+    {
+      "season_id": 39574,
+      "media_id": 28235268,
+      "title": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": true,
+      "is_new": true
+    },
+    {
+      "season_id": 39578,
+      "media_id": 28235272,
+      "title": "鲁邦三世 part6（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
     }
   ]
 }
