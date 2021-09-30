@@ -1125,6 +1125,7 @@
     { "season_id": 37750, "title": "炎炎消防队 贰之章" },
     { "season_id": 37817, "title": "剧场版 鬼灭之刃 无限列车篇" },
     { "season_id": 37928, "title": "罪恶王冠" },
+    { "season_id": 37934, "title": "灌篮高手" },
     { "season_id": 37937, "title": "全金属狂潮 校园篇" },
     { "season_id": 37941, "title": "暗杀教室 365天的时间" },
     { "season_id": 37942, "title": "暗杀教室 第二季 课外授课篇" },
@@ -1476,12 +1477,16 @@
       "title": "海贼王3D2Y 跨越艾斯之死！与路飞伙伴的誓言"
     },
     {
+      "season_id": 1016409,
+      "title": "海贼王 父亲宏大的理想"
+    },
+    {
       "season_id": 1016572,
       "title": "海贼王 特别篇 雾之岛的冒险"
     },
     {
-      "season_id": 1016409,
-      "title": "海贼王 父亲宏大的理想"
+      "season_id": 1016640,
+      "title": "灌篮高手 剧场版"
     },
     {
       "season_id": 1017411,
@@ -1603,6 +1608,10 @@
       "season_id": 1021008,
       "title": "SELECTION PROJECT",
       "is_new": true
+    },
+    {
+      "season_id": 1028971,
+      "title": "小林家的龙女仆S（泰配版）"
     }
   ]
 }
