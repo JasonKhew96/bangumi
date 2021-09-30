@@ -2134,6 +2134,14 @@
       "is_new": true
     },
     {
+      "season_id": 39526,
+      "media_id": 28235219,
+      "title": "月與萊卡與吸血公主（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "is_new": true
+    },
+    {
       "season_id": 39528,
       "media_id": 28235221,
       "title": "世界頂尖的暗殺者轉生為異世界貴族（僅港澳台地區）",
@@ -2160,9 +2168,9 @@
     {
       "season_id": 39540,
       "media_id": 28235233,
-      "title": "迷宮標記者（僅限港澳台地區）",
+      "title": "SAKUGAN（僅限港澳台地區）",
       "is_vip": false,
-      "is_exclusive": false,
+      "is_exclusive": true,
       "is_new": true
     },
     {
@@ -2176,7 +2184,7 @@
     {
       "season_id": 39542,
       "media_id": 28235235,
-      "title": "當雛菊邂逅少女（僅限港澳台地區）",
+      "title": "女孩遇見男孩（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": true,
       "is_new": true
@@ -2208,7 +2216,7 @@
     {
       "season_id": 39547,
       "media_id": 28235240,
-      "title": "創之界限（僅限港澳台地區）",
+      "title": "BUILD-DIVIDE -#000000- CODE BLACK（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
@@ -2264,7 +2272,7 @@
     {
       "season_id": 39569,
       "media_id": 28235262,
-      "title": "橘色驕傲！～PRIDE OF ORANGE～（僅限港澳台地區）",
+      "title": "橘色榮耀！～PRIDE OF ORANGE～（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "is_new": true
