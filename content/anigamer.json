@@ -681,6 +681,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 42233,
+      "anime_sn": 42233,
+      "title": "我們仍未知道那天所看見的花名。",
+      "dc_c1": 12866,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 42446,
       "anime_sn": 42446,
       "title": "Fate/zero",
@@ -3636,6 +3646,16 @@
       "title": "春宵苦短，少女前進吧！",
       "dc_c1": 19014,
       "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 86598,
+      "anime_sn": 86598,
+      "title": "慕留人 - 火影新世代 -",
+      "dc_c1": 2716,
+      "dc_c2": 85,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -11051,6 +11071,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 20950,
+      "anime_sn": 112792,
+      "title": "麵包超人",
+      "dc_c1": 4738,
+      "dc_c2": 6,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 19935,
       "anime_sn": 112793,
       "title": "棄寶之島：遙與魔法鏡",
@@ -11481,6 +11511,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 57537,
+      "anime_sn": 112836,
+      "title": "假面騎士 WIZARD",
+      "dc_c1": 2562,
+      "dc_c2": 43,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 119183,
       "anime_sn": 112837,
       "title": "加油吧同期醬",
@@ -11509,6 +11549,57 @@
       "dc_c1": 28041,
       "dc_c2": 1,
       "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 113040,
+      "anime_sn": 112840,
+      "title": "偶像學園 Planet!",
+      "dc_c1": 17710,
+      "dc_c2": 17,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 114872,
+      "anime_sn": 112847,
+      "title": "SELECTION PROJECT",
+      "dc_c1": 38181,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
+    },
+    {
+      "acg_sn": 119771,
+      "anime_sn": 112857,
+      "title": "殘念生物事典",
+      "dc_c1": 39012,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119818,
+      "anime_sn": 112867,
+      "title": "烏龍派出所特別篇：傳說中的熱褲刑警登場！所長啊，那就是巴黎的燈喔！",
+      "dc_c1": 4397,
+      "dc_c2": 14,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119819,
+      "anime_sn": 112868,
+      "title": "烏龍派出所特別篇：喔多洛奇摸摸洛奇島的大決戰",
+      "dc_c1": 4397,
+      "dc_c2": 13,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     }
