@@ -8568,7 +8568,8 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false
+      "is_vip": false,
+      "is_new": true
     },
     {
       "acg_sn": 108986,
@@ -9868,7 +9869,8 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false
+      "is_vip": false,
+      "is_new": true
     },
     {
       "acg_sn": 114177,
@@ -11574,6 +11576,17 @@
       "is_new": true
     },
     {
+      "acg_sn": 116399,
+      "anime_sn": 112844,
+      "title": "月與萊卡與吸血公主",
+      "dc_c1": 38787,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
+    },
+    {
       "acg_sn": 114872,
       "anime_sn": 112847,
       "title": "SELECTION PROJECT",
@@ -11590,6 +11603,28 @@
       "title": "燒窯的話也要馬克杯 第二季",
       "dc_c1": 37398,
       "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
+    },
+    {
+      "acg_sn": 116407,
+      "anime_sn": 112855,
+      "title": "陰陽眼見子",
+      "dc_c1": 38793,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
+    },
+    {
+      "acg_sn": 119126,
+      "anime_sn": 112856,
+      "title": "進化果實～不知不覺踏上勝利的人生～",
+      "dc_c1": 25117,
+      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false,
@@ -11628,6 +11663,17 @@
       "is_new": true
     },
     {
+      "acg_sn": 111228,
+      "anime_sn": 112861,
+      "title": "吸血鬼馬上死",
+      "dc_c1": 36845,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
+    },
+    {
       "acg_sn": 119022,
       "anime_sn": 112863,
       "title": "獻身給魔王伊伏洛基亞吧",
@@ -11657,6 +11703,28 @@
       "is_bilingual": true,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 116369,
+      "anime_sn": 112869,
+      "title": "境界戰機",
+      "dc_c1": 38777,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
+    },
+    {
+      "acg_sn": 119520,
+      "anime_sn": 112876,
+      "title": "萬能戰士無比敵",
+      "dc_c1": 40050,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false,
+      "is_new": true
     }
   ]
 }
