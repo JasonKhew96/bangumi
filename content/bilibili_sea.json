@@ -4940,6 +4940,11 @@
       "is_new": true
     },
     {
+      "season_id": 1019824,
+      "title": "四季樱",
+      "is_new": true
+    },
+    {
       "season_id": 1019965,
       "title": "女孩遇到男孩",
       "is_new": true
@@ -4989,6 +4994,11 @@
       "is_new": true
     },
     {
+      "season_id": 1028840,
+      "title": "BUILD-DIVIDE -#000000- CODE BLACK",
+      "is_new": true
+    },
+    {
       "season_id": 1028971,
       "title": "小林家的龙女仆S（泰配版）"
     },
@@ -4996,6 +5006,10 @@
       "season_id": 1029119,
       "title": "烧陶的放学后 第二季",
       "is_new": true
+    },
+    {
+      "season_id": 1029170,
+      "title": "烈火浇愁"
     }
   ]
 }
