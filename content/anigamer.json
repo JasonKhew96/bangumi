@@ -1631,16 +1631,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 68911,
-      "anime_sn": 68911,
-      "title": "小長門有希的消失",
-      "dc_c1": 5156,
-      "dc_c2": 12,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 69017,
       "anime_sn": 69017,
       "title": "果然我的青春戀愛喜劇搞錯了。續",
@@ -1855,16 +1845,6 @@
       "anime_sn": 72362,
       "title": "百合熊風暴",
       "dc_c1": 23006,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 72490,
-      "anime_sn": 72490,
-      "title": "絕命制裁 X",
-      "dc_c1": 14231,
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
@@ -3071,16 +3051,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 82422,
-      "anime_sn": 82422,
-      "title": "我太受歡迎了該怎麼辦",
-      "dc_c1": 11260,
-      "dc_c2": 3,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 82471,
       "anime_sn": 82471,
       "title": "文豪野犬 第二季",
@@ -3146,16 +3116,6 @@
       "title": "Hina Logic",
       "dc_c1": 26226,
       "dc_c2": 2,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 82764,
-      "anime_sn": 82764,
-      "title": "輕拍翻轉小魔女",
-      "dc_c1": 26964,
-      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -3646,16 +3606,6 @@
       "title": "春宵苦短，少女前進吧！",
       "dc_c1": 19014,
       "dc_c2": 4,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 86598,
-      "anime_sn": 86598,
-      "title": "慕留人 - 火影新世代 -",
-      "dc_c1": 2716,
-      "dc_c2": 85,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -6681,16 +6631,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 107785,
-      "anime_sn": 107785,
-      "title": "香蕉怪大叔 呐呐~呐　驚奇的洞穴國度",
-      "dc_c1": 35035,
-      "dc_c2": 3,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 107886,
       "anime_sn": 107886,
       "title": "浦島坂田船的日常",
@@ -8568,8 +8508,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 108986,
@@ -9869,8 +9808,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 114177,
@@ -11073,16 +11011,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 20950,
-      "anime_sn": 112792,
-      "title": "麵包超人",
-      "dc_c1": 4738,
-      "dc_c2": 6,
-      "is_bilingual": true,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 19935,
       "anime_sn": 112793,
       "title": "棄寶之島：遙與魔法鏡",
@@ -11530,8 +11458,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 119691,
@@ -11541,8 +11468,7 @@
       "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 85500,
@@ -11572,8 +11498,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 119057,
@@ -11583,8 +11508,7 @@
       "dc_c2": 14,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 116399,
@@ -11594,8 +11518,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 115874,
@@ -11605,8 +11528,7 @@
       "dc_c2": 4,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 114872,
@@ -11616,8 +11538,27 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
+    },
+    {
+      "acg_sn": 116722,
+      "anime_sn": 112848,
+      "title": "VISUAL PRISON 視覺監獄",
+      "dc_c1": 38907,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 116661,
+      "anime_sn": 112850,
+      "title": "大正處女御伽話",
+      "dc_c1": 28584,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     },
     {
       "acg_sn": 118894,
@@ -11627,8 +11568,17 @@
       "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
+    },
+    {
+      "acg_sn": 117264,
+      "anime_sn": 112852,
+      "title": "世界盡頭的聖騎士",
+      "dc_c1": 29150,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     },
     {
       "acg_sn": 116407,
@@ -11638,8 +11588,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 119126,
@@ -11649,8 +11598,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 119771,
@@ -11670,8 +11618,7 @@
       "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 112882,
@@ -11681,8 +11628,7 @@
       "dc_c2": 9,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 111228,
@@ -11692,8 +11638,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 119022,
@@ -11703,8 +11648,7 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 114346,
@@ -11714,8 +11658,7 @@
       "dc_c2": 3,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 118410,
@@ -11725,19 +11668,7 @@
       "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
-    },
-    {
-      "acg_sn": 118410,
-      "anime_sn": 112865,
-      "title": "宿命迴響：命運節拍",
-      "dc_c1": 39435,
-      "dc_c2": 2,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
     },
     {
       "acg_sn": 119818,
@@ -11767,8 +11698,17 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119908,
+      "anime_sn": 112875,
+      "title": "卡片戰鬥!! 先導者 overdress 第二季",
+      "dc_c1": 11940,
+      "dc_c2": 21,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     },
     {
       "acg_sn": 119520,
@@ -11778,8 +11718,17 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
+    },
+    {
+      "acg_sn": 56154,
+      "anime_sn": 112877,
+      "title": "鄰座的怪同學",
+      "dc_c1": 10526,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     },
     {
       "acg_sn": 112596,
@@ -11789,8 +11738,57 @@
       "dc_c2": 14,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": false,
-      "is_new": true
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119976,
+      "anime_sn": 112879,
+      "title": "假面騎士 W RETURNS Eternal 篇",
+      "dc_c1": 2562,
+      "dc_c2": 96,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119977,
+      "anime_sn": 112880,
+      "title": "荒野的壽飛行隊 完全版",
+      "dc_c1": 33145,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 42404,
+      "anime_sn": 112881,
+      "title": "妖怪少爺 千年魔京",
+      "dc_c1": 8853,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119978,
+      "anime_sn": 112882,
+      "title": "烏龍派出所特別篇：地獄劈腿約會！兩津變成透明人",
+      "dc_c1": 4397,
+      "dc_c2": 15,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119979,
+      "anime_sn": 112883,
+      "title": "烏龍派出所特別篇：兩津的野心！時空穿梭戰國傳",
+      "dc_c1": 4397,
+      "dc_c2": 16,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
