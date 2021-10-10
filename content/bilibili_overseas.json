@@ -2295,6 +2295,20 @@
       "title": "POP TEAM EPIC REPEAT（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false
+    },
+    {
+      "season_id": 39605,
+      "media_id": 28235299,
+      "title": "BanG Dream！少女樂團派對 小劇場狂歡！（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 39606,
+      "media_id": 28235300,
+      "title": "鍵等（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false
     }
   ]
 }
