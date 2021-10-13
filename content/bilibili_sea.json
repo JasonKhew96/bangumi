@@ -86,7 +86,7 @@
     },
     {
       "season_id": 34495,
-      "title": "排球少年！！第四季 Part1"
+      "title": "排球少年！！第四季 Part 1"
     },
     {
       "season_id": 34497,
@@ -162,7 +162,7 @@
     },
     {
       "season_id": 34539,
-      "title": "进击的巨人 第三季 Part2"
+      "title": "进击的巨人 第三季 Part 2"
     },
     {
       "season_id": 34540,
@@ -238,7 +238,7 @@
     },
     {
       "season_id": 34581,
-      "title": "东京喰种:re Part1"
+      "title": "东京喰种:re Part 1"
     },
     {
       "season_id": 34583,
@@ -294,7 +294,7 @@
     },
     {
       "season_id": 34611,
-      "title": "进击的巨人 第三季 Part1"
+      "title": "进击的巨人 第三季 Part 1"
     },
     {
       "season_id": 34612,
@@ -314,7 +314,7 @@
     },
     {
       "season_id": 34634,
-      "title": "排球少年！！第四季 Part2"
+      "title": "排球少年！！第四季 Part 2"
     },
     {
       "season_id": 34638,
@@ -382,7 +382,7 @@
     },
     {
       "season_id": 34675,
-      "title": "钢之炼金术师 BROTHERHOOD"
+      "title": "钢之炼金术师 FULLMETAL ALCHEMIST"
     },
     {
       "season_id": 34677,
@@ -514,7 +514,7 @@
     },
     {
       "season_id": 34780,
-      "title": "东京喰种:re Part2"
+      "title": "东京喰种:re Part 2"
     },
     {
       "season_id": 34781,
@@ -1014,7 +1014,7 @@
     },
     {
       "season_id": 34979,
-      "title": "骚动时节的少女们啊"
+      "title": "Wake Up, Girls! 新章"
     },
     {
       "season_id": 34981,
@@ -1849,6 +1849,10 @@
       "title": "活击 刀剑乱舞"
     },
     {
+      "season_id": 35437,
+      "title": "皿三昧"
+    },
+    {
       "season_id": 35438,
       "title": "杀戮公主"
     },
@@ -2126,11 +2130,11 @@
     },
     {
       "season_id": 35566,
-      "title": "WORKING!!迷糊餐厅 第二季"
+      "title": "迷糊餐厅 第二季"
     },
     {
       "season_id": 35569,
-      "title": "DARKER THAN BLACK -黑之契约者-流星之双子-"
+      "title": "DARKER THAN BLACK -流星的双子-"
     },
     {
       "season_id": 35570,
@@ -2518,7 +2522,7 @@
     },
     {
       "season_id": 35756,
-      "title": "從零開始的魔法書"
+      "title": "从零开始的魔法书"
     },
     {
       "season_id": 35757,
@@ -3518,7 +3522,7 @@
     },
     {
       "season_id": 36717,
-      "title": "Re：从零开始的异世界生活 第二季 Part2"
+      "title": "Re：从零开始的异世界生活 第二季 Part 2"
     },
     {
       "season_id": 36718,
@@ -3595,6 +3599,10 @@
     {
       "season_id": 36798,
       "title": "蜡笔小新之动感超人大战泳装魔王"
+    },
+    {
+      "season_id": 36799,
+      "title": "蜡笔小新之黑暗珠珠大追击"
     },
     {
       "season_id": 36800,
@@ -3710,7 +3718,7 @@
     },
     {
       "season_id": 36951,
-      "title": "Wake Up, Girls! 新章"
+      "title": "骚动时节的少女们啊"
     },
     {
       "season_id": 36970,
@@ -3847,6 +3855,14 @@
     {
       "season_id": 37131,
       "title": "海贼王3D2Y 跨越艾斯之死！与路飞伙伴的誓言"
+    },
+    {
+      "season_id": 37139,
+      "title": "花牌情缘"
+    },
+    {
+      "season_id": 37141,
+      "title": "花牌情缘 第二季"
     },
     {
       "season_id": 37150,
@@ -3990,8 +4006,7 @@
     },
     {
       "season_id": 37408,
-      "title": "高校舰队",
-      "is_return": true
+      "title": "高校舰队"
     },
     {
       "season_id": 37409,
@@ -4059,8 +4074,7 @@
     },
     {
       "season_id": 37492,
-      "title": "高校舰队 OVA",
-      "is_return": true
+      "title": "高校舰队 OVA"
     },
     {
       "season_id": 37493,
@@ -4125,6 +4139,10 @@
     {
       "season_id": 37565,
       "title": "WAVE!!~来冲浪吧!!~"
+    },
+    {
+      "season_id": 37566,
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 第二季"
     },
     {
       "season_id": 37588,
@@ -4325,6 +4343,10 @@
     {
       "season_id": 37969,
       "title": "无爱之战"
+    },
+    {
+      "season_id": 37976,
+      "title": "海贼王"
     },
     {
       "season_id": 37988,
@@ -4547,6 +4569,10 @@
       "title": "魔法科高校的劣等生 来访者篇"
     },
     {
+      "season_id": 1004995,
+      "title": "魔女之旅"
+    },
+    {
       "season_id": 1005144,
       "title": "火影忍者"
     },
@@ -4619,6 +4645,10 @@
       "title": "魔鬼恋人 MORE,BLOOD"
     },
     {
+      "season_id": 1007631,
+      "title": "我立于百万生命之上"
+    },
+    {
       "season_id": 1007684,
       "title": "GRANBELM"
     },
@@ -4635,12 +4665,16 @@
       "title": "只要可爱即使是变态你也会喜欢我吧？"
     },
     {
+      "season_id": 1008351,
+      "title": "新网球王子 冰帝 vs 立海 Game of Future"
+    },
+    {
       "season_id": 1008561,
       "title": "刀剑神域 Alicization War of Underworld"
     },
     {
       "season_id": 1008675,
-      "title": "刀剑神域 Alicization War of Underworld -THE LAST SEASON- "
+      "title": "刀剑神域 Alicization War of Underworld -THE LAST SEASON-"
     },
     {
       "season_id": 1008817,
@@ -4803,8 +4837,20 @@
       "title": "红荒"
     },
     {
+      "season_id": 1013371,
+      "title": "黑白无双"
+    },
+    {
+      "season_id": 1013552,
+      "title": "定海浮生录"
+    },
+    {
       "season_id": 1013660,
       "title": "黑白无双 第三季"
+    },
+    {
+      "season_id": 1013727,
+      "title": "黑白无双 第二季"
     },
     {
       "season_id": 1013869,
@@ -4840,7 +4886,7 @@
     },
     {
       "season_id": 1016272,
-      "title": "海贼王 路飞落下！秘境 海肚脐的大冒险 "
+      "title": "海贼王 路飞落下！秘境 海肚脐的大冒险"
     },
     {
       "season_id": 1016409,
@@ -4895,6 +4941,10 @@
       "title": "平家物语"
     },
     {
+      "season_id": 1018181,
+      "title": "天官赐福（日配版）"
+    },
+    {
       "season_id": 1018282,
       "title": "关于我转生变成史莱姆这档事（泰配版）"
     },
@@ -4905,6 +4955,14 @@
     {
       "season_id": 1018622,
       "title": "加油吧，同期酱"
+    },
+    {
+      "season_id": 1018757,
+      "title": "平家物语"
+    },
+    {
+      "season_id": 1018903,
+      "title": "星期一的丰满"
     },
     {
       "season_id": 1018992,
@@ -4959,10 +5017,6 @@
       "title": "进化之实踏上胜利的人生"
     },
     {
-      "season_id": 1020192,
-      "title": "终末的后宫"
-    },
-    {
       "season_id": 1020289,
       "title": "东京卍复仇者（泰配版）"
     },
@@ -5003,6 +5057,10 @@
       "title": "BUILD-DIVIDE -#000000- CODE BLACK"
     },
     {
+      "season_id": 1028921,
+      "title": "键等"
+    },
+    {
       "season_id": 1028971,
       "title": "小林家的龙女仆S（泰配版）"
     },
@@ -5013,6 +5071,14 @@
     {
       "season_id": 1029170,
       "title": "烈火浇愁"
+    },
+    {
+      "season_id": 1029285,
+      "title": "萌妻食神 第二季"
+    },
+    {
+      "season_id": 1029409,
+      "title": "爸妈来自二次元"
     }
   ]
 }
