@@ -201,16 +201,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 20024,
-      "anime_sn": 20024,
-      "title": "蒸汽男孩",
-      "dc_c1": 4211,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 20488,
       "anime_sn": 20488,
       "title": "五星物語 劇場版",
@@ -11521,6 +11511,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 118371,
+      "anime_sn": 112845,
+      "title": "狂熱深淵-迷失的孩子",
+      "dc_c1": 39578,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 115874,
       "anime_sn": 112846,
       "title": "世界頂尖的暗殺者轉生為異世界貴族",
@@ -11581,6 +11581,26 @@
       "is_vip": false
     },
     {
+      "acg_sn": 119690,
+      "anime_sn": 112853,
+      "title": "BUILD-DIVIDE -#000000- CODE BLACK",
+      "dc_c1": 40369,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 112279,
+      "anime_sn": 112854,
+      "title": "前輩有夠煩",
+      "dc_c1": 37216,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 116407,
       "anime_sn": 112855,
       "title": "陰陽眼見子",
@@ -11626,6 +11646,16 @@
       "title": "結城友奈是勇者 大滿開之章",
       "dc_c1": 22749,
       "dc_c2": 9,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 118515,
+      "anime_sn": 112860,
+      "title": "逆轉世界的電池少女",
+      "dc_c1": 39636,
+      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -11696,6 +11726,36 @@
       "title": "境界戰機",
       "dc_c1": 38777,
       "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 108624,
+      "anime_sn": 112871,
+      "title": "四季櫻",
+      "dc_c1": 35840,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119692,
+      "anime_sn": 112872,
+      "title": "鍵等",
+      "dc_c1": 40370,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119873,
+      "anime_sn": 112874,
+      "title": "鬼滅之刃 無限列車篇",
+      "dc_c1": 26514,
+      "dc_c2": 12,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -11787,6 +11847,26 @@
       "dc_c1": 4397,
       "dc_c2": 16,
       "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 76339,
+      "anime_sn": 112884,
+      "title": "學戰都市 Asterisk",
+      "dc_c1": 18040,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 81097,
+      "anime_sn": 112885,
+      "title": "學戰都市 Asterisk 第二季",
+      "dc_c1": 18040,
+      "dc_c2": 4,
+      "is_bilingual": false,
       "edition": "",
       "is_vip": false
     }
