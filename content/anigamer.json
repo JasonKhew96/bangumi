@@ -1351,16 +1351,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 64979,
-      "anime_sn": 64979,
-      "title": "天降之物 Final 永遠的我的鳥籠",
-      "dc_c1": 5215,
-      "dc_c2": 13,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 65037,
       "anime_sn": 65037,
       "title": "前進吧！登山少女 第二季",
@@ -1546,6 +1536,16 @@
       "title": "Hello！！黃金拼圖",
       "dc_c1": 18573,
       "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 68468,
+      "anime_sn": 68468,
+      "title": "不起眼女主角培育法",
+      "dc_c1": 19290,
+      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -11866,6 +11866,46 @@
       "title": "學戰都市 Asterisk 第二季",
       "dc_c1": 18040,
       "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 38846,
+      "anime_sn": 112886,
+      "title": "棒球大聯盟 第二季",
+      "dc_c1": 5223,
+      "dc_c2": 9,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120048,
+      "anime_sn": 112887,
+      "title": "烏龍派出所特別篇：終極警探！史上最差勁的決戰！",
+      "dc_c1": 4397,
+      "dc_c2": 17,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120051,
+      "anime_sn": 112888,
+      "title": "烏龍派出所特別篇：越激烈的假期越過癮！？",
+      "dc_c1": 4397,
+      "dc_c2": 18,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120047,
+      "anime_sn": 112889,
+      "title": "忍者亂太郎 第 24 季",
+      "dc_c1": 824,
+      "dc_c2": 10,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
