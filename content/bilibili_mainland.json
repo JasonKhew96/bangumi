@@ -20711,8 +20711,7 @@
       "media_id": 28233902,
       "title": "极主夫道",
       "is_vip": true,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 38221,
@@ -20809,6 +20808,13 @@
       "season_id": 38243,
       "media_id": 28233925,
       "title": "烧窑的话也要马克杯",
+      "is_vip": true,
+      "is_exclusive": false
+    },
+    {
+      "season_id": 38244,
+      "media_id": 28233926,
+      "title": "灼热卡巴迪",
       "is_vip": true,
       "is_exclusive": false
     },
@@ -21517,16 +21523,14 @@
       "media_id": 28235026,
       "title": "世界尽头的圣骑士",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39347,
       "media_id": 28235039,
       "title": "平家物语",
       "is_vip": true,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39360,
@@ -21540,8 +21544,7 @@
       "media_id": 28235053,
       "title": "进化之实 踏上胜利的人生",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39369,
@@ -21590,32 +21593,28 @@
       "media_id": 28235116,
       "title": "关于前辈很烦人的事",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39431,
       "media_id": 28235123,
       "title": "JOJO的奇妙冒险 石之海",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39434,
       "media_id": 28235126,
       "title": "境界战机",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39438,
       "media_id": 28235130,
       "title": "键等/键的嘉年华",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39442,
@@ -21629,120 +21628,105 @@
       "media_id": 28235140,
       "title": "狂热深渊-迷失的孩子",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39451,
       "media_id": 28235143,
       "title": "无敌侠：舞动的英雄",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39453,
       "media_id": 28235145,
       "title": "烧窑的话也要马克杯 第二季",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39461,
       "media_id": 28235153,
       "title": "我被逐出队伍后过上慢生活",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39462,
       "media_id": 28235154,
       "title": "国王排名",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39463,
       "media_id": 28235155,
       "title": "宿命回响：命运节拍",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39464,
       "media_id": 28235156,
       "title": "蓝色时期",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39468,
       "media_id": 28235160,
       "title": "鲁邦三世 第六季",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39481,
       "media_id": 28235173,
       "title": "世界顶尖的暗杀者,转生为异世界贵族",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39482,
       "media_id": 28235174,
       "title": "迷宫标记者",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39483,
       "media_id": 28235175,
       "title": "当雏菊邂逅少女/男孩遇见女孩",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39484,
       "media_id": 28235176,
       "title": "半妖的夜叉姬 第二季",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39485,
       "media_id": 28235177,
       "title": "大正少女御伽话",
       "is_vip": false,
-      "is_exclusive": false,
-      "is_new": true
+      "is_exclusive": false
     },
     {
       "season_id": 39486,
       "media_id": 28235178,
       "title": "结城友奈是勇者 第三季",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     },
     {
       "season_id": 39487,
       "media_id": 28235179,
       "title": "创之界限",
       "is_vip": false,
-      "is_exclusive": true,
-      "is_new": true
+      "is_exclusive": true
     }
   ]
 }
