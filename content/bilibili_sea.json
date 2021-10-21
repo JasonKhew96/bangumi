@@ -169,6 +169,10 @@
       "title": "魔法禁书目录 Ⅲ"
     },
     {
+      "season_id": 34541,
+      "title": "血界战线"
+    },
+    {
       "season_id": 34542,
       "title": "某科学的超电磁炮S"
     },
@@ -183,6 +187,10 @@
     {
       "season_id": 34552,
       "title": "辉夜姬想让人告白？～天才们的恋爱头脑战～"
+    },
+    {
+      "season_id": 34556,
+      "title": "血界战线 & BEYOND"
     },
     {
       "season_id": 34557,
@@ -363,6 +371,10 @@
     {
       "season_id": 34653,
       "title": "碧蓝航线"
+    },
+    {
+      "season_id": 34654,
+      "title": "催眠麦克风"
     },
     {
       "season_id": 34655,
@@ -2133,6 +2145,10 @@
       "title": "迷糊餐厅 第二季"
     },
     {
+      "season_id": 35568,
+      "title": "DARKER THAN BLACK -黑之契约者-"
+    },
+    {
       "season_id": 35569,
       "title": "DARKER THAN BLACK -流星的双子-"
     },
@@ -3153,6 +3169,10 @@
       "title": "拜托了老师"
     },
     {
+      "season_id": 36438,
+      "title": "超元气三姐妹"
+    },
+    {
       "season_id": 36439,
       "title": "出租魔法使"
     },
@@ -3497,6 +3517,10 @@
       "title": "约定的梦幻岛 第二季"
     },
     {
+      "season_id": 36695,
+      "title": "东京暗鸦"
+    },
+    {
       "season_id": 36700,
       "title": "黑执事II OVA"
     },
@@ -3655,6 +3679,10 @@
     {
       "season_id": 36872,
       "title": "笨拙之极的上野"
+    },
+    {
+      "season_id": 36880,
+      "title": "川柳少女"
     },
     {
       "season_id": 36894,
@@ -4285,6 +4313,10 @@
       "title": "剧场版 鬼灭之刃 无限列车篇"
     },
     {
+      "season_id": 37879,
+      "title": "樱花忍法帖"
+    },
+    {
       "season_id": 37880,
       "title": "异世界四重奏2"
     },
@@ -4299,6 +4331,14 @@
     {
       "season_id": 37928,
       "title": "罪恶王冠"
+    },
+    {
+      "season_id": 37929,
+      "title": "我的妹妹哪有这么可爱。"
+    },
+    {
+      "season_id": 37930,
+      "title": "我的妹妹哪有这么可爱！"
     },
     {
       "season_id": 37934,
@@ -4621,6 +4661,10 @@
       "title": "Fate/Grand Order 神圣圆桌领域卡美洛 前篇 Wandering; Agateram"
     },
     {
+      "season_id": 1006209,
+      "title": "汉化日记"
+    },
+    {
       "season_id": 1006275,
       "title": "时光代理人"
     },
@@ -4837,6 +4881,10 @@
       "title": "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-"
     },
     {
+      "season_id": 1012721,
+      "title": "Fate/Grand Carnival"
+    },
+    {
       "season_id": 1012866,
       "title": "盖塔机器人ARC"
     },
@@ -4897,12 +4945,20 @@
       "title": "天方魔谭MAGI 第二季"
     },
     {
+      "season_id": 1015213,
+      "title": "人狼"
+    },
+    {
       "season_id": 1015403,
       "title": "学园救援团"
     },
     {
       "season_id": 1015560,
       "title": "中华小当家"
+    },
+    {
+      "season_id": 1015751,
+      "title": "青之驱魔师 剧场版"
     },
     {
       "season_id": 1016272,
@@ -5053,6 +5109,10 @@
       "title": "如果烧陶的话也做个马克杯吧 第二季"
     },
     {
+      "season_id": 1022897,
+      "title": "大正处女御伽话"
+    },
+    {
       "season_id": 1023002,
       "title": "鬼灭之刃 游郭篇"
     },
@@ -5103,6 +5163,10 @@
     {
       "season_id": 1029409,
       "title": "爸妈来自二次元"
+    },
+    {
+      "season_id": 1029934,
+      "title": "不白吃话山海经"
     }
   ]
 }
