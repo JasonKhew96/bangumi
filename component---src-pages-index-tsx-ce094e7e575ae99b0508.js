@@ -1,0 +1,2 @@
+(self.webpackChunkbangumi=self.webpackChunkbangumi||[]).push([[691],{6738:function(e,t,n){"use strict";n.r(t);var l=n(7294),i=n(5444),a=n(4533),r=n(9470);t.default=function(){return l.createElement(a.Z,null,l.createElement(r.Z,{title:"首页"}),l.createElement("p",null,l.createElement(i.Link,{to:"/bilibili/"},"哔哩哔哩")),l.createElement("p",null,l.createElement(i.Link,{to:"/bilibili_sea/"},"哔哩哔哩（东南亚）")),l.createElement("p",null,l.createElement(i.Link,{to:"/anigamer/"},"巴哈姆特動畫瘋")))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-ce094e7e575ae99b0508.js.map
