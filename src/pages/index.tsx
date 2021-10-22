@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="首页" />
     <p>
-      <Link to="/bilibili/"></Link>
+      <Link to="/bilibili/">哔哩哔哩</Link>
     </p>
     <p>
       <Link to="/bilibili_sea/">哔哩哔哩（东南亚）</Link>
