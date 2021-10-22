@@ -4,7 +4,7 @@ import Seo from "../components/seo"
 import BangumiList from "../components/bangumiList"
 import { GridCellParams, GridColDef } from "@material-ui/data-grid"
 import { Chip } from "@material-ui/core"
-import JSONData from "../../content/bilibili_mainland.json"
+import JSONData from "../../content/bilibili.json"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 const columns: GridColDef[] = [
@@ -69,12 +69,12 @@ const columns: GridColDef[] = [
   },
 ]
 
-const BilibiliMainland = () => (
+const Bilibili = () => (
   <Layout>
-    <Seo title="哔哩哔哩（大陆）" />
-    <h2>哔哩哔哩（大陆）</h2>
+    <Seo title="哔哩哔哩" />
+    <h2>哔哩哔哩</h2>
     <BangumiList columns={columns} data={JSONData.data} />
   </Layout>
 )
 
-export default BilibiliMainland
+export default Bilibili

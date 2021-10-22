@@ -57,28 +57,18 @@ export default function Header({ siteTitle }: any): React.ReactElement {
           </ListItem>
           <ListItem
             button
-            key="哔哩哔哩（大陆）"
-            onClick={() => navigate("/bilibili_mainland")}
+            key="哔哩哔哩"
+            onClick={() => navigate("/bilibili/")}
           >
             <ListItemIcon>
               <DirectionsBoatIcon />
             </ListItemIcon>
-            <ListItemText primary="哔哩哔哩（大陆）" />
-          </ListItem>
-          <ListItem
-            button
-            key="嗶哩嗶哩（港澳臺）"
-            onClick={() => navigate("/bilibili_overseas")}
-          >
-            <ListItemIcon>
-              <DirectionsBoatIcon />
-            </ListItemIcon>
-            <ListItemText primary="嗶哩嗶哩（港澳臺）" />
+            <ListItemText primary="哔哩哔哩" />
           </ListItem>
           <ListItem
             button
             key="哔哩哔哩（东南亚）"
-            onClick={() => navigate("/bilibili_sea")}
+            onClick={() => navigate("/bilibili_sea/")}
           >
             <ListItemIcon>
               <FlightIcon />
@@ -88,7 +78,7 @@ export default function Header({ siteTitle }: any): React.ReactElement {
           <ListItem
             button
             key="巴哈姆特動畫瘋"
-            onClick={() => navigate("/anigamer")}
+            onClick={() => navigate("/anigamer/")}
           >
             <ListItemIcon>
               <VpnLockIcon />

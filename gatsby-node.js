@@ -9,13 +9,23 @@
 exports.createPages = ({ actions }) => {
   const { createRedirect } = actions
   createRedirect({
-    fromPath: "/bilibili",
-    toPath: "/bilibili_overseas/",
+    fromPath: "/bilibili_overseas",
+    toPath: "/bilibili/",
     isPermanent: true,
   })
   createRedirect({
-    fromPath: "/bilibili/",
-    toPath: "/bilibili_overseas/",
+    fromPath: "/bilibili_overseas/",
+    toPath: "/bilibili/",
+    isPermanent: true,
+  })
+  createRedirect({
+    fromPath: "/bilibili_mainland",
+    toPath: "/bilibili/",
+    isPermanent: true,
+  })
+  createRedirect({
+    fromPath: "/bilibili_mainland/",
+    toPath: "/bilibili/",
     isPermanent: true,
   })
 }
