@@ -118247,6 +118247,54 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 7
+    },
+    {
+      "season_id": 39746,
+      "media_id": 28235440,
+      "title": "十兄弟",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39748,
+      "media_id": 28235442,
+      "title": "大耳朵图图之霸王龙在行动",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39749,
+      "media_id": 28235443,
+      "title": "我只是还没有全力以赴",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 2
+    },
+    {
+      "season_id": 39751,
+      "media_id": 28235445,
+      "title": "金秋桂花迟",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39752,
+      "media_id": 28235446,
+      "title": "香魂女",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39755,
+      "media_id": 28235449,
+      "title": "哔哔Q",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 4
     }
   ]
 }
