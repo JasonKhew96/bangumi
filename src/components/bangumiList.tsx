@@ -27,15 +27,20 @@ const BangumiList = ({ columns, data, type }: any) => {
     setState({
       ...state,
       filteredData: data.filter((i: any) => {
-        var title = traditionalized(i.title.toLowerCase())
+        const title = traditionalized(i.title.toLowerCase())
+        const season_id = i.season_id ? i.season_id.toString() : ''
+        const media_id = i.media_id ? i.media_id.toString() : ''
+        const acg_sn = i.acg_sn ? i.acg_sn.toString() : ''
+        const anime_sn = i.anime_sn ? i.anime_sn.toString() : ''
         return (
           title.includes(traditionalized(tmpValue)) ||
           title.includes(tmpValue) ||
-          (i.is_new && tmpValue.includes("新上架")) ||
+          (season_id != '' && season_id.includes(tmpValue)) ||
+          (media_id != '' && media_id.includes(tmpValue)) ||
+          (acg_sn != '' && acg_sn.includes(tmpValue)) ||
+          (anime_sn != '' && anime_sn.includes(tmpValue)) ||
           (i.is_exclusive && tmpValue.includes("独家")) ||
           tmpValue.includes("獨家") ||
-          (i.is_return && tmpValue.includes("恢复上架")) ||
-          tmpValue.includes("恢復上架") ||
           (i.is_vip && tmpValue.includes("会员")) ||
           tmpValue.includes("會員") ||
           (i.is_bilingual && tmpValue.includes("双语")) ||
@@ -53,7 +58,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           size="small"
           label="搜索"
           variant="outlined"
-          placeholder="新上架|独家|恢复上架|会员|双语"
+          placeholder="独家|会员|双语"
           onChange={handleSearch}
         />
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
@@ -76,7 +81,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           size="small"
           label="搜索"
           variant="outlined"
-          placeholder="新上架|独家|恢复上架|会员|双语"
+          placeholder="独家|会员|双语"
           onChange={handleSearch}
         />
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
