@@ -76,7 +76,7 @@ const BilibiliSEA = () => (
   <Layout>
     <Seo title="哔哩哔哩（东南亚）" />
     <h2>哔哩哔哩（东南亚）</h2>
-    <BangumiList columns={columns} data={JSONData.data} />
+    <BangumiList columns={columns} data={JSONData.data} type="bilibili_sea" />
   </Layout>
 )
 

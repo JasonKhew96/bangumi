@@ -1,6 +1,14 @@
 import * as React from "react"
 import { DataGrid } from "@material-ui/data-grid"
-import { TextField } from "@material-ui/core"
+import {
+  Button,
+  FormControl,
+  FormControlLabel,
+  FormLabel,
+  Radio,
+  RadioGroup,
+  TextField,
+} from "@material-ui/core"
 
 const BangumiList = ({ columns, data, type }: any) => {
   const zhSimp =
@@ -20,33 +28,55 @@ const BangumiList = ({ columns, data, type }: any) => {
 
   const [state, setState] = React.useState({
     filteredData: data,
+    filterSearch: "",
+    filterType: 0,
   })
 
-  const handleSearch = (event: any) => {
-    const tmpValue = event.target.value.toLowerCase()
+  const onSearch = () => {
     setState({
       ...state,
       filteredData: data.filter((i: any) => {
+        const valueSearch = state.filterSearch
+
         const title = traditionalized(i.title.toLowerCase())
-        const season_id = i.season_id ? i.season_id.toString() : ''
-        const media_id = i.media_id ? i.media_id.toString() : ''
-        const acg_sn = i.acg_sn ? i.acg_sn.toString() : ''
-        const anime_sn = i.anime_sn ? i.anime_sn.toString() : ''
+
+        const season_id = i.season_id ? i.season_id.toString() : ""
+        const media_id = i.media_id ? i.media_id.toString() : ""
+
+        const acg_sn = i.acg_sn ? i.acg_sn.toString() : ""
+        const anime_sn = i.anime_sn ? i.anime_sn.toString() : ""
+
         return (
-          title.includes(traditionalized(tmpValue)) ||
-          title.includes(tmpValue) ||
-          (season_id != '' && season_id.includes(tmpValue)) ||
-          (media_id != '' && media_id.includes(tmpValue)) ||
-          (acg_sn != '' && acg_sn.includes(tmpValue)) ||
-          (anime_sn != '' && anime_sn.includes(tmpValue)) ||
-          (i.is_exclusive && tmpValue.includes("独家")) ||
-          tmpValue.includes("獨家") ||
-          (i.is_vip && tmpValue.includes("会员")) ||
-          tmpValue.includes("會員") ||
-          (i.is_bilingual && tmpValue.includes("双语")) ||
-          tmpValue.includes("雙語")
+          (title.includes(traditionalized(valueSearch)) ||
+            title.includes(valueSearch) ||
+            (season_id != "" && season_id.includes(valueSearch)) ||
+            (media_id != "" && media_id.includes(valueSearch)) ||
+            (acg_sn != "" && acg_sn.includes(valueSearch)) ||
+            (anime_sn != "" && anime_sn.includes(valueSearch)) ||
+            (i.is_exclusive && valueSearch.includes("独家")) ||
+            valueSearch.includes("獨家") ||
+            (i.is_vip && valueSearch.includes("会员")) ||
+            valueSearch.includes("會員") ||
+            (i.is_bilingual && valueSearch.includes("双语")) ||
+            valueSearch.includes("雙語")) &&
+          (state.filterType == 0 ||
+            (i.type && state.filterType != 0 && i.type == state.filterType))
         )
       }),
+    })
+  }
+
+  const onChangeFilterType = (event: any) => {
+    setState({
+      ...state,
+      filterType: event.target.value,
+    })
+  }
+
+  const onChangeSearch = (event: any) => {
+    setState({
+      ...state,
+      filterSearch: event.target.value.toLowerCase(),
     })
   }
 
@@ -59,8 +89,11 @@ const BangumiList = ({ columns, data, type }: any) => {
           label="搜索"
           variant="outlined"
           placeholder="独家|会员|双语"
-          onChange={handleSearch}
+          onChange={onChangeSearch}
         />
+        <Button variant="contained" color="primary" onClick={onSearch}>
+          搜索
+        </Button>
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
           <DataGrid
             rows={state.filteredData}
@@ -69,6 +102,32 @@ const BangumiList = ({ columns, data, type }: any) => {
             pageSize={50}
             autoHeight
             sortModel={[{ field: "anime_sn", sort: "desc" }]}
+          />
+        </div>
+      </div>
+    )
+  } else if (type == "bilibili_sea") {
+    return (
+      <div>
+        <TextField
+          style={{ marginBottom: `8px`, width: `50%` }}
+          size="small"
+          label="搜索"
+          variant="outlined"
+          placeholder="独家|会员|双语"
+          onChange={onChangeSearch}
+        />
+        <Button variant="contained" color="primary" onClick={onSearch}>
+          搜索
+        </Button>
+        <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
+          <DataGrid
+            rows={state.filteredData}
+            getRowId={row => row.season_id}
+            columns={columns}
+            pageSize={50}
+            autoHeight
+            sortModel={[{ field: "season_id", sort: "desc" }]}
           />
         </div>
       </div>
@@ -82,8 +141,29 @@ const BangumiList = ({ columns, data, type }: any) => {
           label="搜索"
           variant="outlined"
           placeholder="独家|会员|双语"
-          onChange={handleSearch}
+          onChange={onChangeSearch}
         />
+        <Button variant="contained" color="primary" onClick={onSearch}>
+          搜索
+        </Button>
+        <br />
+        <FormControl component="fieldset">
+          <FormLabel component="legend">类型</FormLabel>
+          <RadioGroup
+            row
+            aria-label="filter"
+            name="filter"
+            value={state.filterType}
+            onChange={onChangeFilterType}
+          >
+            <FormControlLabel value="0" control={<Radio />} label="全部" />
+            <FormControlLabel value="1" control={<Radio />} label="动漫" />
+            <FormControlLabel value="2" control={<Radio />} label="电影" />
+            <FormControlLabel value="3" control={<Radio />} label="其他" />
+            <FormControlLabel value="4" control={<Radio />} label="国创" />
+            <FormControlLabel value="5" control={<Radio />} label="日剧" />
+          </RadioGroup>
+        </FormControl>
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
           <DataGrid
             rows={state.filteredData}
