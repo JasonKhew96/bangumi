@@ -9183,7 +9183,7 @@
     {
       "acg_sn": 115780,
       "anime_sn": 112610,
-      "title": "鬼滅之刃特別編集版：兄妹之絆",
+      "title": "鬼滅之刃 兄妹之絆",
       "dc_c1": 26514,
       "dc_c2": 5,
       "is_bilingual": true,
@@ -9193,7 +9193,7 @@
     {
       "acg_sn": 115783,
       "anime_sn": 112611,
-      "title": "鬼滅之刃特別編集版：那田蜘蛛山篇",
+      "title": "鬼滅之刃 那田蜘蛛山篇",
       "dc_c1": 26514,
       "dc_c2": 6,
       "is_bilingual": true,
@@ -9203,7 +9203,7 @@
     {
       "acg_sn": 115784,
       "anime_sn": 112612,
-      "title": "鬼滅之刃特別編集版：柱合會議蝶屋敷篇",
+      "title": "鬼滅之刃 柱合會議‧蝴蝶屋篇",
       "dc_c1": 26514,
       "dc_c2": 7,
       "is_bilingual": true,
@@ -11491,6 +11491,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 114503,
+      "anime_sn": 112842,
+      "title": "國王排名",
+      "dc_c1": 37997,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 119057,
       "anime_sn": 112843,
       "title": "半妖的夜叉姬 第二季",
@@ -11927,6 +11937,36 @@
       "dc_c1": 4468,
       "dc_c2": 1,
       "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 82774,
+      "anime_sn": 112891,
+      "title": "童話黑手黨 OZMAFIA!!",
+      "dc_c1": 16656,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 83231,
+      "anime_sn": 112892,
+      "title": "奇異太郎少年的妖怪畫日記",
+      "dc_c1": 27157,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120214,
+      "anime_sn": 112893,
+      "title": "秘密X戰士 幻影甜心 劇場版 大家一起來看電影喔",
+      "dc_c1": 34680,
+      "dc_c2": 3,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     }
