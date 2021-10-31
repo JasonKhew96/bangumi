@@ -118295,6 +118295,158 @@
       "is_vip": false,
       "is_exclusive": true,
       "type": 4
+    },
+    {
+      "season_id": 39756,
+      "media_id": 28235450,
+      "title": "我要活下去",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39757,
+      "media_id": 28235451,
+      "title": "导演之路",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39758,
+      "media_id": 28235452,
+      "title": "不单身音乐派对",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
+      "season_id": 39759,
+      "media_id": 28235453,
+      "title": "鹬蚌相争",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39760,
+      "media_id": 28235454,
+      "title": "安妮·霍尔",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39761,
+      "media_id": 28235455,
+      "title": "海边的一天",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39762,
+      "media_id": 28235456,
+      "title": "芦荡小英雄",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39763,
+      "media_id": 28235457,
+      "title": "小白鸽",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39768,
+      "media_id": 28235462,
+      "title": "两只小孔雀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39769,
+      "media_id": 28235463,
+      "title": "山伢仔",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39770,
+      "media_id": 28235464,
+      "title": "红领巾",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39771,
+      "media_id": 28235465,
+      "title": "小八路",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39775,
+      "media_id": 28235469,
+      "title": "阿金",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39776,
+      "media_id": 28235470,
+      "title": "完美尺码",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39778,
+      "media_id": 28235472,
+      "title": "感官游戏",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39779,
+      "media_id": 28235473,
+      "title": "天才小子吉米",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39780,
+      "media_id": 28235474,
+      "title": "艾娃",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39781,
+      "media_id": 28235475,
+      "title": "难以忽视的真相2",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39784,
+      "media_id": 28235478,
+      "title": "名人谋杀案",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
     }
   ]
 }
