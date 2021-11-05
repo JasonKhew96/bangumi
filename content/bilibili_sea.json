@@ -1433,6 +1433,10 @@
       "title": "石膏BOYS"
     },
     {
+      "season_id": 35156,
+      "title": "偶像大师"
+    },
+    {
       "season_id": 35157,
       "title": "深夜的超自然公务员"
     },
@@ -1547,6 +1551,10 @@
     {
       "season_id": 35239,
       "title": "冬季花园"
+    },
+    {
+      "season_id": 35240,
+      "title": "剧场版 夏目友人帐～缘结空蝉～"
     },
     {
       "season_id": 35241,
@@ -1683,6 +1691,10 @@
     {
       "season_id": 35298,
       "title": "秦侠"
+    },
+    {
+      "season_id": 35299,
+      "title": "夏洛特"
     },
     {
       "season_id": 35301,
@@ -2143,6 +2155,10 @@
     {
       "season_id": 35563,
       "title": "异世界魔王与召唤少女的奴隶魔术"
+    },
+    {
+      "season_id": 35564,
+      "title": "DOG DAYS"
     },
     {
       "season_id": 35566,
@@ -3161,6 +3177,10 @@
       "title": "K"
     },
     {
+      "season_id": 36419,
+      "title": "跟班×服务"
+    },
+    {
       "season_id": 36424,
       "title": "W'Z"
     },
@@ -3713,6 +3733,10 @@
       "title": "织田肉桂信长"
     },
     {
+      "season_id": 36860,
+      "title": "ALDNOAH.ZERO"
+    },
+    {
       "season_id": 36872,
       "title": "笨拙之极的上野"
     },
@@ -3739,6 +3763,10 @@
     {
       "season_id": 36915,
       "title": "剧场版 妄想学生会"
+    },
+    {
+      "season_id": 36919,
+      "title": "辣妹与恐龙"
     },
     {
       "season_id": 36920,
@@ -3855,6 +3883,10 @@
     {
       "season_id": 37020,
       "title": "樱花庄的宠物女孩"
+    },
+    {
+      "season_id": 37025,
+      "title": "黑岩射手"
     },
     {
       "season_id": 37028,
@@ -4053,8 +4085,16 @@
       "title": "恋爱暴君"
     },
     {
+      "season_id": 37349,
+      "title": "青出于蓝"
+    },
+    {
       "season_id": 37358,
       "title": "ACCA13区监察课"
+    },
+    {
+      "season_id": 37383,
+      "title": "斩服少女"
     },
     {
       "season_id": 37387,
@@ -4143,6 +4183,10 @@
     {
       "season_id": 37470,
       "title": "K MISSING KINGS"
+    },
+    {
+      "season_id": 37476,
+      "title": "偶像大师 剧场版 向着光辉的彼岸！"
     },
     {
       "season_id": 37480,
@@ -4997,6 +5041,18 @@
       "title": "剧场编集版 隐瞒之事 -秘密是什么-"
     },
     {
+      "season_id": 1014445,
+      "title": "邪神与厨二病少女’"
+    },
+    {
+      "season_id": 1014709,
+      "title": "东京地震8.0"
+    },
+    {
+      "season_id": 1014837,
+      "title": "海月姬"
+    },
+    {
       "season_id": 1014998,
       "title": "天方魔谭MAGI 第二季"
     },
@@ -5007,6 +5063,10 @@
     {
       "season_id": 1015403,
       "title": "学园救援团"
+    },
+    {
+      "season_id": 1015462,
+      "title": "妙手小厨师"
     },
     {
       "season_id": 1015560,
@@ -5229,6 +5289,10 @@
       "title": "斗神姬"
     },
     {
+      "season_id": 1030542,
+      "title": "pop子和pipi美的日常 重播版"
+    },
+    {
       "season_id": 1031356,
       "title": "猫之茗"
     },
@@ -5239,6 +5303,14 @@
     {
       "season_id": 1032081,
       "title": "手机里的浣熊小镇 第二季"
+    },
+    {
+      "season_id": 1032377,
+      "title": "鬼灭之刃（泰配版）"
+    },
+    {
+      "season_id": 1032494,
+      "title": "鬼灭之刃（印配版）"
     }
   ]
 }
