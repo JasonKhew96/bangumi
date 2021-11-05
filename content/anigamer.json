@@ -10148,7 +10148,7 @@
       "dc_c2": 9,
       "is_bilingual": false,
       "edition": "",
-      "is_vip": true
+      "is_vip": false
     },
     {
       "acg_sn": 16376,
@@ -11966,6 +11966,76 @@
       "title": "秘密X戰士 幻影甜心 劇場版 大家一起來看電影喔",
       "dc_c1": 34680,
       "dc_c2": 3,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 39168,
+      "anime_sn": 112895,
+      "title": "襲來！美少女邪神",
+      "dc_c1": 10234,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 22845,
+      "anime_sn": 112896,
+      "title": "白色相簿",
+      "dc_c1": 6138,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120294,
+      "anime_sn": 112897,
+      "title": "烏龍派出所特別篇：2001 年京都之旅",
+      "dc_c1": 4397,
+      "dc_c2": 19,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120295,
+      "anime_sn": 112898,
+      "title": "烏龍派出所特別篇：橫越歐洲 拯救麗子大作戰",
+      "dc_c1": 4397,
+      "dc_c2": 20,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120296,
+      "anime_sn": 112899,
+      "title": "烏龍派出所特別篇：LET’S GO 長崎 愛上卡車大姊",
+      "dc_c1": 4397,
+      "dc_c2": 21,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 65567,
+      "anime_sn": 112900,
+      "title": "喬望尼之島",
+      "dc_c1": 20548,
+      "dc_c2": 1,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120215,
+      "anime_sn": 112901,
+      "title": "歸來的天裝戰隊護星者 Last Epic",
+      "dc_c1": 5172,
+      "dc_c2": 130,
       "is_bilingual": true,
       "edition": "",
       "is_vip": false
