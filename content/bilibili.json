@@ -118833,6 +118833,14 @@
       "type": 2
     },
     {
+      "season_id": 39772,
+      "media_id": 28235466,
+      "title": "寻找莹颖",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 39775,
       "media_id": 28235469,
       "title": "阿金",
@@ -118908,7 +118916,7 @@
       "season_id": 39784,
       "media_id": 28235478,
       "title": "名人谋杀案",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 3
     },
@@ -118937,12 +118945,36 @@
       "type": 3
     },
     {
+      "season_id": 39788,
+      "media_id": 28235482,
+      "title": "Q版猫和老鼠 第一季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 39789,
       "media_id": 28235483,
       "title": "聪明的鸭子",
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 39790,
+      "media_id": 28235484,
+      "title": "Q版猫和老鼠 第二季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 39791,
+      "media_id": 28235485,
+      "title": "Q版猫和老鼠 第三季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 39792,
@@ -119007,6 +119039,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 39800,
+      "media_id": 28235494,
+      "title": "铸匠",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 39801,
@@ -119119,6 +119159,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 39818,
+      "media_id": 28235512,
+      "title": "新猫和老鼠第一季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 39819,
@@ -119257,6 +119305,14 @@
       "type": 5
     },
     {
+      "season_id": 39837,
+      "media_id": 28235531,
+      "title": "猫和老鼠（1975）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 39838,
       "media_id": 28235532,
       "title": "皮五传奇",
@@ -119369,6 +119425,14 @@
       "type": 5
     },
     {
+      "season_id": 39854,
+      "media_id": 28235548,
+      "title": "猫和老鼠：回到奥兹",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 39855,
       "media_id": 28235549,
       "title": "池塘王子",
@@ -119409,12 +119473,76 @@
       "type": 4
     },
     {
+      "season_id": 39860,
+      "media_id": 28235554,
+      "title": "大卫·爱登堡的全球大冒险",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39870,
+      "media_id": 28235564,
+      "title": "豪勇七蛟龙",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39873,
+      "media_id": 28235567,
+      "title": "新猫和老鼠 第二季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 39878,
+      "media_id": 28235572,
+      "title": "柯南·奥布莱恩永不止步",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 39882,
       "media_id": 28235576,
       "title": "進擊的巨人: Wall Sina,Goodbye（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
+    },
+    {
+      "season_id": 39883,
+      "media_id": 28235577,
+      "title": "杀戮场",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39884,
+      "media_id": 28235578,
+      "title": "生死拍档",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39892,
+      "media_id": 28235586,
+      "title": "扬名立万",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39893,
+      "media_id": 28235587,
+      "title": "威震八方",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
