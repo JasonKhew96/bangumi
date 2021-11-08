@@ -12039,6 +12039,26 @@
       "is_bilingual": true,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 100516,
+      "anime_sn": 112905,
+      "title": "進擊的巨人：Wall Sina,Goodbye―Part One―",
+      "dc_c1": 12322,
+      "dc_c2": 32,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120438,
+      "anime_sn": 112906,
+      "title": "進擊的巨人：Wall Sina,Goodbye―Part Two―",
+      "dc_c1": 12322,
+      "dc_c2": 33,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
