@@ -119417,6 +119417,14 @@
       "type": 4
     },
     {
+      "season_id": 39852,
+      "media_id": 28235546,
+      "title": "2021-2022bilibili纪录片发布会10号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 39853,
       "media_id": 28235547,
       "title": "東大特訓班2（僅限台灣地區）",
@@ -119481,12 +119489,100 @@
       "type": 3
     },
     {
+      "season_id": 39861,
+      "media_id": 28235555,
+      "title": "2021-2022bilibili纪录片发布会3号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39862,
+      "media_id": 28235556,
+      "title": "2021-2022bilibili纪录片发布会6号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39863,
+      "media_id": 28235557,
+      "title": "2021-2022bilibili纪录片发布会9号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39864,
+      "media_id": 28235558,
+      "title": "2021-2022bilibili纪录片发布会11号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39865,
+      "media_id": 28235559,
+      "title": "2021-2022bilibili纪录片发布会16号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39866,
+      "media_id": 28235560,
+      "title": "2021-2022bilibili纪录片发布会17号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39867,
+      "media_id": 28235561,
+      "title": "2021-2022bilibili纪录片发布会18号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39868,
+      "media_id": 28235562,
+      "title": "2021-2022bilibili纪录片发布会19号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39869,
+      "media_id": 28235563,
+      "title": "2021-2022bilibili纪录片发布会4号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 39870,
       "media_id": 28235564,
       "title": "豪勇七蛟龙",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 39871,
+      "media_id": 28235565,
+      "title": "2021-2022bilibili纪录片发布会5号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39872,
+      "media_id": 28235566,
+      "title": "2021-2022bilibili纪录片发布会2号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
     },
     {
       "season_id": 39873,
@@ -119497,11 +119593,67 @@
       "type": 1
     },
     {
+      "season_id": 39874,
+      "media_id": 28235568,
+      "title": "2021-2022bilibili纪录片发布会1号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39875,
+      "media_id": 28235569,
+      "title": "2021-2022bilibili纪录片发布会12号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39876,
+      "media_id": 28235570,
+      "title": "2021-2022bilibili纪录片发布会13号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39877,
+      "media_id": 28235571,
+      "title": "2021-2022bilibili纪录片发布会14号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 39878,
       "media_id": 28235572,
       "title": "柯南·奥布莱恩永不止步",
       "is_vip": true,
       "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39879,
+      "media_id": 28235573,
+      "title": "2021-2022bilibili纪录片发布会15号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39880,
+      "media_id": 28235574,
+      "title": "2021-2022bilibili纪录片发布会7号作品",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39881,
+      "media_id": 28235575,
+      "title": "2021-2022bilibili纪录片发布会8号作品",
+      "is_vip": false,
+      "is_exclusive": true,
       "type": 3
     },
     {
@@ -119540,6 +119692,86 @@
       "season_id": 39893,
       "media_id": 28235587,
       "title": "威震八方",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39894,
+      "media_id": 28235588,
+      "title": "乐业中国",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39895,
+      "media_id": 28235589,
+      "title": "万圣街",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39896,
+      "media_id": 28235590,
+      "title": "斗鸡",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39898,
+      "media_id": 28235592,
+      "title": "神女峰的迷雾",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39899,
+      "media_id": 28235593,
+      "title": "2021-2022 bilibili纪录片发布会",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39903,
+      "media_id": 28235597,
+      "title": "外欲杀机",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39904,
+      "media_id": 28235598,
+      "title": "牧笛",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39905,
+      "media_id": 28235599,
+      "title": "砸掉你的牙",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39906,
+      "media_id": 28235600,
+      "title": "谢谢小花猫",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39909,
+      "media_id": 28235603,
+      "title": "夜雾杀机",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
