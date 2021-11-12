@@ -621,16 +621,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 40552,
-      "anime_sn": 40552,
-      "title": "電影 K-ON！輕音部",
-      "dc_c1": 7705,
-      "dc_c2": 4,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": true
-    },
-    {
       "acg_sn": 40982,
       "anime_sn": 40982,
       "title": "三坪房間的侵略者！？",
@@ -12041,6 +12031,36 @@
       "is_vip": false
     },
     {
+      "acg_sn": 76948,
+      "anime_sn": 112902,
+      "title": "不起眼女主角培育法 第二季",
+      "dc_c1": 19290,
+      "dc_c2": 5,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 17937,
+      "anime_sn": 112903,
+      "title": "神薙",
+      "dc_c1": 7080,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 18987,
+      "anime_sn": 112904,
+      "title": "烏龍派出所",
+      "dc_c1": 4397,
+      "dc_c2": 3,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 100516,
       "anime_sn": 112905,
       "title": "進擊的巨人：Wall Sina,Goodbye―Part One―",
@@ -12057,6 +12077,26 @@
       "dc_c1": 12322,
       "dc_c2": 33,
       "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120493,
+      "anime_sn": 112907,
+      "title": "烏龍派出所特別篇：兩津 VS 忍者軍團 後江戶城黃金傳說",
+      "dc_c1": 4397,
+      "dc_c2": 22,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120494,
+      "anime_sn": 112908,
+      "title": "烏龍派出所特別篇：和擬寶珠家族 IN 夏威夷大暴走",
+      "dc_c1": 4397,
+      "dc_c2": 23,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     }
