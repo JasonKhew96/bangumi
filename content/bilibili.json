@@ -119345,6 +119345,14 @@
       "type": 4
     },
     {
+      "season_id": 39842,
+      "media_id": 28235536,
+      "title": "狐三藏",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 39843,
       "media_id": 28235537,
       "title": "小溪流",
@@ -119641,14 +119649,6 @@
       "type": 3
     },
     {
-      "season_id": 39880,
-      "media_id": 28235574,
-      "title": "2021-2022bilibili纪录片发布会7号作品",
-      "is_vip": false,
-      "is_exclusive": true,
-      "type": 3
-    },
-    {
       "season_id": 39881,
       "media_id": 28235575,
       "title": "2021-2022bilibili纪录片发布会8号作品",
@@ -119773,6 +119773,38 @@
       "media_id": 28235603,
       "title": "夜雾杀机",
       "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39910,
+      "media_id": 28235604,
+      "title": "银蛇谋杀案",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39919,
+      "media_id": 28235613,
+      "title": "金色的海螺",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39920,
+      "media_id": 28235614,
+      "title": "鸟人",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39924,
+      "media_id": 28235618,
+      "title": "红军桥",
+      "is_vip": false,
       "is_exclusive": false,
       "type": 2
     }
