@@ -73,10 +73,6 @@
       "title": "One Room"
     },
     {
-      "season_id": 34491,
-      "title": "魔法科高中的劣等生呼唤繁星的少女"
-    },
-    {
       "season_id": 34492,
       "title": "排球少年！！陆vs空"
     },
@@ -623,10 +619,6 @@
     {
       "season_id": 34822,
       "title": "RErideD - 穿越时空的德希达 -"
-    },
-    {
-      "season_id": 34825,
-      "title": "青之驱魔师"
     },
     {
       "season_id": 34829,
@@ -1413,10 +1405,6 @@
       "title": "如果折断她的旗"
     },
     {
-      "season_id": 35150,
-      "title": "青之驱魔师 京都不净王篇"
-    },
-    {
       "season_id": 35151,
       "title": "决斗大师 Victory"
     },
@@ -1781,10 +1769,6 @@
       "title": "女神异闻录5 -THE DAY BREAKERS-"
     },
     {
-      "season_id": 35394,
-      "title": "七大罪"
-    },
-    {
       "season_id": 35409,
       "title": "Fate/stay night [Unlimited Blade Works] 第一季"
     },
@@ -2077,18 +2061,6 @@
       "title": "乌菈菈迷路帖"
     },
     {
-      "season_id": 35537,
-      "title": "伤物语III冷血篇"
-    },
-    {
-      "season_id": 35538,
-      "title": "伤物语II热血篇"
-    },
-    {
-      "season_id": 35539,
-      "title": "伤物语I铁血篇"
-    },
-    {
       "season_id": 35541,
       "title": "影鳄 - KAGEWANI- 第二季"
     },
@@ -2305,10 +2277,6 @@
       "title": "失忆煽动WIXOSS"
     },
     {
-      "season_id": 35627,
-      "title": "绝园的暴风雨"
-    },
-    {
       "season_id": 35629,
       "title": "温泉幼精箱根酱"
     },
@@ -2515,10 +2483,6 @@
     {
       "season_id": 35697,
       "title": "FAIRY TAIL 魔导少年 剧场版 凤凰巫女"
-    },
-    {
-      "season_id": 35704,
-      "title": "终物语 第二季"
     },
     {
       "season_id": 35745,
@@ -2741,10 +2705,6 @@
       "title": "全金属狂潮"
     },
     {
-      "season_id": 35908,
-      "title": "3月的狮子"
-    },
-    {
       "season_id": 35909,
       "title": "3月的狮子 第二季"
     },
@@ -2865,20 +2825,12 @@
       "title": "碧蓝幻想"
     },
     {
-      "season_id": 36142,
-      "title": "向阳素描 沙英・寻 毕业篇"
-    },
-    {
       "season_id": 36144,
       "title": "昭和元禄落语心中"
     },
     {
       "season_id": 36145,
       "title": "昭和元禄落语心中 -助六再临篇-"
-    },
-    {
-      "season_id": 36146,
-      "title": "终物语"
     },
     {
       "season_id": 36148,
@@ -3503,10 +3455,6 @@
     {
       "season_id": 36640,
       "title": "记录的地平线"
-    },
-    {
-      "season_id": 36648,
-      "title": "王牌投手 振臂高挥"
     },
     {
       "season_id": 36649,
@@ -4453,10 +4401,6 @@
       "title": "暗杀教室 第二季 课外授课篇"
     },
     {
-      "season_id": 37943,
-      "title": "火影忍者 剧场版 忍者之路"
-    },
-    {
       "season_id": 37944,
       "title": "壳中少女 压缩"
     },
@@ -5315,6 +5259,14 @@
     {
       "season_id": 1032618,
       "title": "进击的巨人: Wall Sina,Goodbye"
+    },
+    {
+      "season_id": 1032994,
+      "title": "鬼灭之刃 无限列车篇（泰配版）"
+    },
+    {
+      "season_id": 1033141,
+      "title": "鬼灭之刃 无限列车篇（印配版）"
     }
   ]
 }
