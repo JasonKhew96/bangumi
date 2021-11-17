@@ -113939,7 +113939,7 @@
     {
       "season_id": 39082,
       "media_id": 28234774,
-      "title": "开心一刻",
+      "title": "开心1刻",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
@@ -114495,6 +114495,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 39160,
+      "media_id": 28234852,
+      "title": "东邪西毒",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 39161,
@@ -115723,7 +115731,7 @@
     {
       "season_id": 39333,
       "media_id": 28235025,
-      "title": "RE-MAIN：男子水球部/少年与水球",
+      "title": "RE-MAIN：少年与水球",
       "is_vip": true,
       "is_exclusive": false,
       "type": 1
@@ -115869,6 +115877,14 @@
       "media_id": 28235045,
       "title": "7重效应",
       "is_vip": false,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 39354,
+      "media_id": 28235046,
+      "title": "抓马侦探",
+      "is_vip": true,
       "is_exclusive": true,
       "type": 5
     },
@@ -116051,7 +116067,7 @@
     {
       "season_id": 39377,
       "media_id": 28235069,
-      "title": "东邪西毒",
+      "title": "东邪西毒：终极版",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
@@ -116476,7 +116492,7 @@
       "season_id": 39438,
       "media_id": 28235130,
       "title": "键等学园/键等",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -116511,6 +116527,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 39444,
+      "media_id": 28235136,
+      "title": "鬼灭之刃 无限列车篇",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 39445,
@@ -116788,7 +116812,7 @@
       "season_id": 39487,
       "media_id": 28235179,
       "title": "创之界限",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -117833,6 +117857,14 @@
       "type": 5
     },
     {
+      "season_id": 39635,
+      "media_id": 28235329,
+      "title": "孤独的美食家 第九季 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 39636,
       "media_id": 28235330,
       "title": "动物圈的问号脸 第二季",
@@ -118355,7 +118387,7 @@
     {
       "season_id": 39705,
       "media_id": 28235399,
-      "title": "MADE BY BILIBILI 作品40号",
+      "title": "雾山五行·犀川幻紫林",
       "is_vip": false,
       "is_exclusive": true,
       "type": 4
@@ -118801,6 +118833,22 @@
       "type": 5
     },
     {
+      "season_id": 39766,
+      "media_id": 28235460,
+      "title": "麻醉风暴",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 39767,
+      "media_id": 28235461,
+      "title": "麻醉风暴2",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 39768,
       "media_id": 28235462,
       "title": "两只小孔雀",
@@ -118837,6 +118885,14 @@
       "media_id": 28235466,
       "title": "寻找莹颖",
       "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39773,
+      "media_id": 28235467,
+      "title": "Top Gear 第31季",
+      "is_vip": false,
       "is_exclusive": true,
       "type": 3
     },
@@ -119209,6 +119265,14 @@
       "type": 5
     },
     {
+      "season_id": 39824,
+      "media_id": 28235518,
+      "title": "宁静的世界",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 39825,
       "media_id": 28235519,
       "title": "人参娃娃",
@@ -119427,7 +119491,7 @@
     {
       "season_id": 39852,
       "media_id": 28235546,
-      "title": "2021-2022bilibili纪录片发布会10号作品",
+      "title": "流言终结者",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119499,7 +119563,7 @@
     {
       "season_id": 39861,
       "media_id": 28235555,
-      "title": "2021-2022bilibili纪录片发布会3号作品",
+      "title": "人生第二次",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119507,7 +119571,7 @@
     {
       "season_id": 39862,
       "media_id": 28235556,
-      "title": "2021-2022bilibili纪录片发布会6号作品",
+      "title": "舞台上的中国",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119515,7 +119579,7 @@
     {
       "season_id": 39863,
       "media_id": 28235557,
-      "title": "2021-2022bilibili纪录片发布会9号作品",
+      "title": "未来奥德赛",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119523,7 +119587,7 @@
     {
       "season_id": 39864,
       "media_id": 28235558,
-      "title": "2021-2022bilibili纪录片发布会11号作品",
+      "title": "决胜荒野 3",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119531,7 +119595,7 @@
     {
       "season_id": 39865,
       "media_id": 28235559,
-      "title": "2021-2022bilibili纪录片发布会16号作品",
+      "title": "众神之地",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119539,7 +119603,7 @@
     {
       "season_id": 39866,
       "media_id": 28235560,
-      "title": "2021-2022bilibili纪录片发布会17号作品",
+      "title": "生活如沸2",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119547,7 +119611,7 @@
     {
       "season_id": 39867,
       "media_id": 28235561,
-      "title": "2021-2022bilibili纪录片发布会18号作品",
+      "title": "川味4",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119555,7 +119619,7 @@
     {
       "season_id": 39868,
       "media_id": 28235562,
-      "title": "2021-2022bilibili纪录片发布会19号作品",
+      "title": "奇食记2",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119563,7 +119627,7 @@
     {
       "season_id": 39869,
       "media_id": 28235563,
-      "title": "2021-2022bilibili纪录片发布会4号作品",
+      "title": "惟有香如故",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119579,7 +119643,7 @@
     {
       "season_id": 39871,
       "media_id": 28235565,
-      "title": "2021-2022bilibili纪录片发布会5号作品",
+      "title": "英雄之路",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119587,7 +119651,7 @@
     {
       "season_id": 39872,
       "media_id": 28235566,
-      "title": "2021-2022bilibili纪录片发布会2号作品",
+      "title": "我是你的瓷儿",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119603,7 +119667,7 @@
     {
       "season_id": 39874,
       "media_id": 28235568,
-      "title": "2021-2022bilibili纪录片发布会1号作品",
+      "title": "我们是这样长大的",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119611,7 +119675,7 @@
     {
       "season_id": 39875,
       "media_id": 28235569,
-      "title": "2021-2022bilibili纪录片发布会12号作品",
+      "title": "超时空鉴定",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119619,7 +119683,7 @@
     {
       "season_id": 39876,
       "media_id": 28235570,
-      "title": "2021-2022bilibili纪录片发布会13号作品",
+      "title": "心灵密码",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119627,7 +119691,7 @@
     {
       "season_id": 39877,
       "media_id": 28235571,
-      "title": "2021-2022bilibili纪录片发布会14号作品",
+      "title": "惊天逆转2",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119643,7 +119707,7 @@
     {
       "season_id": 39879,
       "media_id": 28235573,
-      "title": "2021-2022bilibili纪录片发布会15号作品",
+      "title": "诈骗艺术家",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119651,7 +119715,7 @@
     {
       "season_id": 39881,
       "media_id": 28235575,
-      "title": "2021-2022bilibili纪录片发布会8号作品",
+      "title": "科学未解之谜（暂译名）",
       "is_vip": false,
       "is_exclusive": true,
       "type": 3
@@ -119737,6 +119801,30 @@
       "type": 3
     },
     {
+      "season_id": 39900,
+      "media_id": 28235594,
+      "title": "猫和老鼠传奇 第一季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 39901,
+      "media_id": 28235595,
+      "title": "猫和老鼠传奇 第二季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 39902,
+      "media_id": 28235596,
+      "title": "新猫和老鼠 第三季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 39903,
       "media_id": 28235597,
       "title": "外欲杀机",
@@ -119767,6 +119855,22 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 39907,
+      "media_id": 28235601,
+      "title": "伟大的城市和作曲家 第一季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39908,
+      "media_id": 28235602,
+      "title": "生活就像动物园",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     },
     {
       "season_id": 39909,
@@ -119801,9 +119905,161 @@
       "type": 2
     },
     {
-      "season_id": 39924,
-      "media_id": 28235618,
-      "title": "红军桥",
+      "season_id": 39921,
+      "media_id": 28235615,
+      "title": "茶馆",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39922,
+      "media_id": 28235616,
+      "title": "船长哈洛克",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39923,
+      "media_id": 28235617,
+      "title": "乐士浮生录",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39925,
+      "media_id": 28235619,
+      "title": "唐之韵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39926,
+      "media_id": 28235620,
+      "title": "宋之韵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39927,
+      "media_id": 28235621,
+      "title": "朝圣之路",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39928,
+      "media_id": 28235622,
+      "title": "女人TAXI女人",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39931,
+      "media_id": 28235625,
+      "title": "安昙春子下落不明",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39932,
+      "media_id": 28235626,
+      "title": "采蘑菇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39933,
+      "media_id": 28235627,
+      "title": "好朋友",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39934,
+      "media_id": 28235628,
+      "title": "杀人者唐斩",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39935,
+      "media_id": 28235629,
+      "title": "夸口的青蛙",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39936,
+      "media_id": 28235632,
+      "title": "海平面上升",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39937,
+      "media_id": 28235633,
+      "title": "死囚漫步",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39938,
+      "media_id": 28235634,
+      "title": "湖上歌舞",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39939,
+      "media_id": 28235635,
+      "title": "长发妹",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39940,
+      "media_id": 28235636,
+      "title": "太阳的小客人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39945,
+      "media_id": 28235641,
+      "title": "动物园看守",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39950,
+      "media_id": 28235650,
+      "title": "摩根·弗里曼的大逃亡",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 39954,
+      "media_id": 28235654,
+      "title": "追随",
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
