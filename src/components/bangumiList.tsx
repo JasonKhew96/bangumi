@@ -66,6 +66,12 @@ const BangumiList = ({ columns, data, type }: any) => {
     })
   }
 
+  const onKeyPress = (event: any) => {
+    if (event.keyCode == 13) {
+      onSearch()
+    }
+  }
+
   const onChangeFilterType = (event: any) => {
     setState({
       ...state,
@@ -142,6 +148,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           variant="outlined"
           placeholder="独家|会员|双语"
           onChange={onChangeSearch}
+          onKeyDown={onKeyPress}
         />
         <Button variant="contained" color="primary" onClick={onSearch}>
           搜索
