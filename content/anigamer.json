@@ -7126,7 +7126,7 @@
       "title": "高校之神",
       "dc_c1": 30272,
       "dc_c2": 1,
-      "is_bilingual": false,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     },
@@ -7196,7 +7196,7 @@
       "title": "超人力霸王 Z",
       "dc_c1": 3636,
       "dc_c2": 52,
-      "is_bilingual": false,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     },
@@ -11916,7 +11916,7 @@
       "title": "忍者亂太郎 第 24 季",
       "dc_c1": 824,
       "dc_c2": 10,
-      "is_bilingual": false,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     },
@@ -12106,6 +12106,56 @@
       "title": "薄櫻鬼 新OVA",
       "dc_c1": 10094,
       "dc_c2": 36,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 110921,
+      "anime_sn": 112910,
+      "title": "突然降臨的埃及神",
+      "dc_c1": 36708,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 64333,
+      "anime_sn": 112911,
+      "title": "魔兵驚天錄 噬血宿命",
+      "dc_c1": 6006,
+      "dc_c2": 5,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": true
+    },
+    {
+      "acg_sn": 120581,
+      "anime_sn": 112912,
+      "title": "烏龍派出所特別篇：世界第一最強警察爭奪戰",
+      "dc_c1": 4397,
+      "dc_c2": 24,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120582,
+      "anime_sn": 112913,
+      "title": "烏龍派出所特別篇：網走往東京的暴走火車 兩津 VS 功夫老奶奶！",
+      "dc_c1": 4397,
+      "dc_c2": 25,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120583,
+      "anime_sn": 112914,
+      "title": "新網球王子 冰帝 vs 立海 Game of Future",
+      "dc_c1": 2211,
+      "dc_c2": 41,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
