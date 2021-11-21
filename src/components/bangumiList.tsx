@@ -90,7 +90,7 @@ const BangumiList = ({ columns, data, type }: any) => {
     return (
       <div>
         <TextField
-          style={{ marginBottom: `8px`, width: `50%` }}
+          style={{ margin: `4px` }}
           size="small"
           label="搜索"
           variant="outlined"
@@ -98,7 +98,12 @@ const BangumiList = ({ columns, data, type }: any) => {
           onChange={onChangeSearch}
           onKeyDown={onKeyPress}
         />
-        <Button variant="contained" color="primary" onClick={onSearch}>
+        <Button
+          variant="contained"
+          color="primary"
+          onClick={onSearch}
+          style={{ margin: `4px` }}
+        >
           搜索
         </Button>
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
@@ -117,7 +122,7 @@ const BangumiList = ({ columns, data, type }: any) => {
     return (
       <div>
         <TextField
-          style={{ marginBottom: `8px`, width: `50%` }}
+          style={{ margin: `4px` }}
           size="small"
           label="搜索"
           variant="outlined"
@@ -125,7 +130,12 @@ const BangumiList = ({ columns, data, type }: any) => {
           onChange={onChangeSearch}
           onKeyDown={onKeyPress}
         />
-        <Button variant="contained" color="primary" onClick={onSearch}>
+        <Button
+          variant="contained"
+          color="primary"
+          onClick={onSearch}
+          style={{ margin: `4px` }}
+        >
           搜索
         </Button>
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
@@ -144,7 +154,7 @@ const BangumiList = ({ columns, data, type }: any) => {
     return (
       <div>
         <TextField
-          style={{ marginBottom: `8px`, width: `50%` }}
+          style={{ margin: `4px` }}
           size="small"
           label="搜索"
           variant="outlined"
@@ -152,7 +162,12 @@ const BangumiList = ({ columns, data, type }: any) => {
           onChange={onChangeSearch}
           onKeyDown={onKeyPress}
         />
-        <Button variant="contained" color="primary" onClick={onSearch}>
+        <Button
+          variant="contained"
+          color="primary"
+          onClick={onSearch}
+          style={{ margin: `4px` }}
+        >
           搜索
         </Button>
         <br />
