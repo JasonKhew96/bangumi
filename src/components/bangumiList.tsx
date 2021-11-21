@@ -96,6 +96,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           variant="outlined"
           placeholder="独家|会员|双语"
           onChange={onChangeSearch}
+          onKeyDown={onKeyPress}
         />
         <Button variant="contained" color="primary" onClick={onSearch}>
           搜索
@@ -122,6 +123,7 @@ const BangumiList = ({ columns, data, type }: any) => {
           variant="outlined"
           placeholder="独家|会员|双语"
           onChange={onChangeSearch}
+          onKeyDown={onKeyPress}
         />
         <Button variant="contained" color="primary" onClick={onSearch}>
           搜索
@@ -163,7 +165,12 @@ const BangumiList = ({ columns, data, type }: any) => {
             value={state.filterType}
             onChange={onChangeFilterType}
           >
-            <FormControlLabel value="0" control={<Radio />} label="全部" />
+            <FormControlLabel
+              value="0"
+              control={<Radio />}
+              label="全部"
+              checked
+            />
             <FormControlLabel value="1" control={<Radio />} label="动漫" />
             <FormControlLabel value="2" control={<Radio />} label="电影" />
             <FormControlLabel value="3" control={<Radio />} label="其他" />
