@@ -116937,6 +116937,14 @@
       "type": 7
     },
     {
+      "season_id": 39505,
+      "media_id": 28235198,
+      "title": "时代少年团2021火力全开演唱会",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
       "season_id": 39513,
       "media_id": 28235206,
       "title": "博士的爱情方程式",
@@ -118892,7 +118900,7 @@
       "season_id": 39773,
       "media_id": 28235467,
       "title": "Top Gear 第31季",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 3
     },
@@ -119945,6 +119953,62 @@
       "type": 2
     },
     {
+      "season_id": 39911,
+      "media_id": 28235605,
+      "title": "亚博和温丽的疑问",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39912,
+      "media_id": 28235606,
+      "title": "玉玺传奇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39913,
+      "media_id": 28235607,
+      "title": "小乐比",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39914,
+      "media_id": 28235608,
+      "title": "小乐比（下）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39915,
+      "media_id": 28235609,
+      "title": "奇趣大世界",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39916,
+      "media_id": 28235610,
+      "title": "玉骐麟之仙灵奇域",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39917,
+      "media_id": 28235611,
+      "title": "中国男孩",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 39919,
       "media_id": 28235613,
       "title": "金色的海螺",
@@ -120129,11 +120193,27 @@
       "type": 2
     },
     {
+      "season_id": 39946,
+      "media_id": 28235646,
+      "title": "Q版三国之刘关张",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 39947,
       "media_id": 28235647,
       "title": "有兽焉",
       "is_vip": false,
       "is_exclusive": true,
+      "type": 4
+    },
+    {
+      "season_id": 39948,
+      "media_id": 28235648,
+      "title": "Q版三国之三小强",
+      "is_vip": false,
+      "is_exclusive": false,
       "type": 4
     },
     {
@@ -120159,6 +120239,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 39952,
+      "media_id": 28235652,
+      "title": "家族募集 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
     },
     {
       "season_id": 39953,
@@ -120193,6 +120281,14 @@
       "type": 5
     },
     {
+      "season_id": 39959,
+      "media_id": 28235659,
+      "title": "汤姆·琼斯",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 39960,
       "media_id": 28235660,
       "title": "查理·巴特利",
@@ -120201,12 +120297,28 @@
       "type": 2
     },
     {
+      "season_id": 39961,
+      "media_id": 28235661,
+      "title": "Q版三国之刘关张 粤语版",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 39962,
       "media_id": 28235662,
       "title": "生死停留",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 39963,
+      "media_id": 28235663,
+      "title": "摩根·弗里曼的大逃亡（僅限港澳臺地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     },
     {
       "season_id": 39964,
@@ -120231,6 +120343,438 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 39967,
+      "media_id": 28235667,
+      "title": "太阳",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39974,
+      "media_id": 28235674,
+      "title": "狱后人生",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 39975,
+      "media_id": 28235675,
+      "title": "泪洒姑苏",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39976,
+      "media_id": 28235676,
+      "title": "妙墨中国心",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 39977,
+      "media_id": 28235677,
+      "title": "2049（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 39980,
+      "media_id": 28235680,
+      "title": "MIU404（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 39981,
+      "media_id": 28235681,
+      "title": "蜜熊的音乐奇旅",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39982,
+      "media_id": 28235682,
+      "title": "碧海追踪",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39983,
+      "media_id": 28235683,
+      "title": "无重力的爱",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39984,
+      "media_id": 28235684,
+      "title": "标签",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39985,
+      "media_id": 28235685,
+      "title": "何以为人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39986,
+      "media_id": 28235686,
+      "title": "明日故人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39987,
+      "media_id": 28235687,
+      "title": "超真实",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39988,
+      "media_id": 28235688,
+      "title": "复仇者格林 ",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39989,
+      "media_id": 28235689,
+      "title": "智选人生",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39990,
+      "media_id": 28235690,
+      "title": "大厨",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39991,
+      "media_id": 28235691,
+      "title": "杯子蛋糕",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39993,
+      "media_id": 28235693,
+      "title": "出逃的扫地机器人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39994,
+      "media_id": 28235694,
+      "title": "伊莎贝拉",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39995,
+      "media_id": 28235695,
+      "title": "吹风机",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39996,
+      "media_id": 28235696,
+      "title": "回声",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39997,
+      "media_id": 28235697,
+      "title": "云端城堡",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 39999,
+      "media_id": 28235699,
+      "title": "使命",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40000,
+      "media_id": 28235700,
+      "title": "何以为喵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40001,
+      "media_id": 28235701,
+      "title": "相棒：X DAY",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40002,
+      "media_id": 28235702,
+      "title": "南希·德鲁和隐藏的楼梯",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40003,
+      "media_id": 28235703,
+      "title": "内陆求生",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40004,
+      "media_id": 28235704,
+      "title": "复仇者格林：战事再起",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40005,
+      "media_id": 28235705,
+      "title": "百万新娘之爱无悔",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40006,
+      "media_id": 28235706,
+      "title": "郑和下西洋",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40007,
+      "media_id": 28235707,
+      "title": "老妈的桃花运",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40008,
+      "media_id": 28235708,
+      "title": "老爸驾到",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40009,
+      "media_id": 28235709,
+      "title": "终极救援",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40010,
+      "media_id": 28235710,
+      "title": "我们是一家人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40011,
+      "media_id": 28235711,
+      "title": "烟花三月",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40012,
+      "media_id": 28235712,
+      "title": "远古未解之谜",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40013,
+      "media_id": 28235713,
+      "title": "我的妈妈是天使",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40014,
+      "media_id": 28235714,
+      "title": "泄露天机之锁住有情天",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40015,
+      "media_id": 28235715,
+      "title": "眼中钉",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40016,
+      "media_id": 28235716,
+      "title": "皮肤诊所",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40017,
+      "media_id": 28235717,
+      "title": "大明帝国之夜来风雨",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40018,
+      "media_id": 28235718,
+      "title": "野马分鬃",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40019,
+      "media_id": 28235719,
+      "title": "永远的战友",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40020,
+      "media_id": 28235720,
+      "title": "变脸迷情",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40021,
+      "media_id": 28235721,
+      "title": "月色撩人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40022,
+      "media_id": 28235722,
+      "title": "又是一年山林绿",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40023,
+      "media_id": 28235723,
+      "title": "挣扎",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40024,
+      "media_id": 28235724,
+      "title": "战争不相信眼泪",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40025,
+      "media_id": 28235725,
+      "title": "中国远征军",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40026,
+      "media_id": 28235726,
+      "title": "九降风",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40027,
+      "media_id": 28235727,
+      "title": "真爱满屋3",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40029,
+      "media_id": 28235729,
+      "title": "韩赛尔与格蕾特：女巫猎人",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40030,
+      "media_id": 28235730,
+      "title": "進擊的巨人: 無悔的選擇（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40031,
+      "media_id": 28235731,
+      "title": "進擊的巨人: Lost Girls Lost in the Cruel World（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     }
   ]
 }
