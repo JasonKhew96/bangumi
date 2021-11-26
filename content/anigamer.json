@@ -2451,6 +2451,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 79524,
+      "anime_sn": 79524,
+      "title": "食戟之靈 貳之皿",
+      "dc_c1": 18630,
+      "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 79559,
       "anime_sn": 79559,
       "title": "境界之Rinne 第二季",
@@ -12156,6 +12166,16 @@
       "title": "新網球王子 冰帝 vs 立海 Game of Future",
       "dc_c1": 2211,
       "dc_c2": 41,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 64376,
+      "anime_sn": 112915,
+      "title": "排球少年！！",
+      "dc_c1": 16780,
+      "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
