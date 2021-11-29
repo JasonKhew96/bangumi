@@ -120775,6 +120775,126 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
+    },
+    {
+      "season_id": 40032,
+      "media_id": 28235732,
+      "title": "三张面孔",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40033,
+      "media_id": 28235733,
+      "title": "摔角王",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40034,
+      "media_id": 28235734,
+      "title": "新扎师妹3",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40035,
+      "media_id": 28235735,
+      "title": "异种",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40036,
+      "media_id": 28235736,
+      "title": "地牢围攻3",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40037,
+      "media_id": 28235737,
+      "title": "美国梦之安魂曲",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40038,
+      "media_id": 28235738,
+      "title": "新冷血十三鹰",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40039,
+      "media_id": 28235739,
+      "title": "英国自然历史博物馆：神奇世界",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40040,
+      "media_id": 28235740,
+      "title": "八仙全传之八仙过海",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40041,
+      "media_id": 28235741,
+      "title": "边城",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40042,
+      "media_id": 28235742,
+      "title": "小品一家人之空间宝石",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40043,
+      "media_id": 28235743,
+      "title": "大江沉重",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40044,
+      "media_id": 28235744,
+      "title": "敌特在行动",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40045,
+      "media_id": 28235745,
+      "title": "踮起脚尖吻到爱",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40047,
+      "media_id": 28235747,
+      "title": "避暑山庄大传奇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     }
   ]
 }
