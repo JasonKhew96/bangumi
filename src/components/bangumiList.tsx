@@ -177,14 +177,10 @@ const BangumiList = ({ columns, data, type }: any) => {
             row
             aria-label="filter"
             name="filter"
-            value={state.filterType}
+            defaultValue="0"
             onChange={onChangeFilterType}
           >
-            <FormControlLabel
-              value="0"
-              control={<Radio />}
-              label="全部"
-            />
+            <FormControlLabel value="0" control={<Radio />} label="全部" />
             <FormControlLabel value="1" control={<Radio />} label="动漫" />
             <FormControlLabel value="2" control={<Radio />} label="电影" />
             <FormControlLabel value="3" control={<Radio />} label="其他" />
