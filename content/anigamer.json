@@ -1621,16 +1621,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 69300,
-      "anime_sn": 69300,
-      "title": "槍與假面舞會",
-      "dc_c1": 22008,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 69746,
       "anime_sn": 69746,
       "title": "我家浴室的二三事",
@@ -2061,16 +2051,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 75654,
-      "anime_sn": 75654,
-      "title": "Chaos Dragon 赤龍戰役",
-      "dc_c1": 24304,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 75681,
       "anime_sn": 75681,
       "title": "櫻子小姐的腳下埋著屍體",
@@ -2097,16 +2077,6 @@
       "dc_c1": 4365,
       "dc_c2": 7,
       "is_bilingual": true,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 75962,
-      "anime_sn": 75962,
-      "title": "魔物娘的同居日常",
-      "dc_c1": 19756,
-      "dc_c2": 1,
-      "is_bilingual": false,
       "edition": "",
       "is_vip": false
     },
@@ -2186,16 +2156,6 @@
       "title": "超人力霸王 X",
       "dc_c1": 3636,
       "dc_c2": 30,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 77058,
-      "anime_sn": 77058,
-      "title": "青年黑傑克",
-      "dc_c1": 5219,
-      "dc_c2": 11,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -2295,16 +2255,6 @@
       "anime_sn": 78145,
       "title": "Concrete‧Revolutio 超人幻想",
       "dc_c1": 25192,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 78207,
-      "anime_sn": 78207,
-      "title": "ClassicaLoid",
-      "dc_c1": 25193,
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
@@ -12176,6 +12126,36 @@
       "title": "排球少年！！",
       "dc_c1": 16780,
       "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 71979,
+      "anime_sn": 112917,
+      "title": "進擊的巨人：無悔的選擇-前篇-",
+      "dc_c1": 12322,
+      "dc_c2": 5,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120636,
+      "anime_sn": 112918,
+      "title": "進擊的巨人：無悔的選擇-後篇-",
+      "dc_c1": 12322,
+      "dc_c2": 35,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120635,
+      "anime_sn": 112919,
+      "title": "進擊的巨人：Lost Girls Lost in the Cruel World",
+      "dc_c1": 12322,
+      "dc_c2": 34,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
