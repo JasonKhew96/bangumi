@@ -184,7 +184,6 @@ const BangumiList = ({ columns, data, type }: any) => {
               value="0"
               control={<Radio />}
               label="全部"
-              checked
             />
             <FormControlLabel value="1" control={<Radio />} label="动漫" />
             <FormControlLabel value="2" control={<Radio />} label="电影" />
