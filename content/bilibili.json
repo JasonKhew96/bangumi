@@ -116460,7 +116460,7 @@
       "season_id": 39431,
       "media_id": 28235123,
       "title": "JOJO的奇妙冒险 石之海",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -120009,6 +120009,14 @@
       "type": 4
     },
     {
+      "season_id": 39918,
+      "media_id": 28235612,
+      "title": "派乐奇童",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 39919,
       "media_id": 28235613,
       "title": "金色的海螺",
@@ -120185,6 +120193,14 @@
       "type": 7
     },
     {
+      "season_id": 39942,
+      "media_id": 28235638,
+      "title": "第六感2",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 39945,
       "media_id": 28235641,
       "title": "动物园看守",
@@ -120353,6 +120369,46 @@
       "type": 2
     },
     {
+      "season_id": 39968,
+      "media_id": 28235668,
+      "title": "应天巡游记",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39969,
+      "media_id": 28235669,
+      "title": "成长这东西",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39970,
+      "media_id": 28235670,
+      "title": "寻找英雄-小淘气长征记",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39972,
+      "media_id": 28235672,
+      "title": "蔬菜不寂寞 第二十五季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39973,
+      "media_id": 28235673,
+      "title": "精灵归来",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 39974,
       "media_id": 28235674,
       "title": "狱后人生",
@@ -120383,6 +120439,22 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 39978,
+      "media_id": 28235678,
+      "title": "你好！卟卟1",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 39979,
+      "media_id": 28235679,
+      "title": "喵喵遇见汪 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     },
     {
       "season_id": 39980,
@@ -120481,6 +120553,14 @@
       "type": 2
     },
     {
+      "season_id": 39992,
+      "media_id": 28235692,
+      "title": "四季中国 第二季（云南篇）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 39993,
       "media_id": 28235693,
       "title": "出逃的扫地机器人",
@@ -120548,7 +120628,7 @@
       "season_id": 40002,
       "media_id": 28235702,
       "title": "南希·德鲁和隐藏的楼梯",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -120889,9 +120969,401 @@
       "type": 5
     },
     {
+      "season_id": 40046,
+      "media_id": 28235746,
+      "title": "龙樱2 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 40047,
       "media_id": 28235747,
       "title": "避暑山庄大传奇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40048,
+      "media_id": 28235748,
+      "title": "意外的爱情",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40049,
+      "media_id": 28235749,
+      "title": "冰是睡着的水",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40050,
+      "media_id": 28235750,
+      "title": "无穷之路",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 40051,
+      "media_id": 28235751,
+      "title": "鄂尔多斯情歌",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40052,
+      "media_id": 28235752,
+      "title": "大脚马皇后",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40053,
+      "media_id": 28235753,
+      "title": "风尘三侠之红拂女",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40054,
+      "media_id": 28235754,
+      "title": "第三种幸福",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40055,
+      "media_id": 28235755,
+      "title": "断刺",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40056,
+      "media_id": 28235756,
+      "title": "孩子你在哪里",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40057,
+      "media_id": 28235757,
+      "title": "画家村",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40058,
+      "media_id": 28235758,
+      "title": "辣妈俏爸",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40059,
+      "media_id": 28235759,
+      "title": "儿女冤家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40060,
+      "media_id": 28235760,
+      "title": "烽火铁骑",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40061,
+      "media_id": 28235761,
+      "title": "无穷之路（粤语版）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 40062,
+      "media_id": 28235762,
+      "title": "洪流",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40063,
+      "media_id": 28235763,
+      "title": "孔雀东南飞",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40064,
+      "media_id": 28235764,
+      "title": "梦幻天堂",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40065,
+      "media_id": 28235765,
+      "title": "浪漫之旅",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40066,
+      "media_id": 28235766,
+      "title": "秘密列车",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40067,
+      "media_id": 28235767,
+      "title": "男人四十跑出租",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40070,
+      "media_id": 28235770,
+      "title": "乌鸦谋杀案",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40071,
+      "media_id": 28235771,
+      "title": "深渊",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40072,
+      "media_id": 28235772,
+      "title": "桃花灿烂",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40073,
+      "media_id": 28235773,
+      "title": "推新人的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40074,
+      "media_id": 28235774,
+      "title": "我的泪珠儿",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40075,
+      "media_id": 28235775,
+      "title": "让爱做主",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40076,
+      "media_id": 28235776,
+      "title": "瘦身家族",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40077,
+      "media_id": 28235777,
+      "title": "田教授家的28个保姆",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40079,
+      "media_id": 28235779,
+      "title": "外来妹",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40080,
+      "media_id": 28235780,
+      "title": "亚瑟王神剑",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40081,
+      "media_id": 28235785,
+      "title": "魅影危程",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40083,
+      "media_id": 28235787,
+      "title": "鬼滅之刃 遊郭篇（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40084,
+      "media_id": 28235788,
+      "title": "鬼滅之刃 遊郭篇（僅限港澳地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40085,
+      "media_id": 28235789,
+      "title": "爱在飞",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40086,
+      "media_id": 28235790,
+      "title": "兵法乡村",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40088,
+      "media_id": 28235792,
+      "title": "冬日奇缘",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40090,
+      "media_id": 28235794,
+      "title": "独爱一生",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40093,
+      "media_id": 28235797,
+      "title": "伴你到永远",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40095,
+      "media_id": 28235799,
+      "title": "关西无极刀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40098,
+      "media_id": 28235802,
+      "title": "不负天职",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40099,
+      "media_id": 28235803,
+      "title": "红妆",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40101,
+      "media_id": 28235805,
+      "title": "警眼",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40103,
+      "media_id": 28235807,
+      "title": "蓝色妖姬",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40104,
+      "media_id": 28235808,
+      "title": "铁血雄心",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40108,
+      "media_id": 28235812,
+      "title": "牛玉儒",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40110,
+      "media_id": 28235814,
+      "title": "望海的女人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40111,
+      "media_id": 28235815,
+      "title": "向东是大海",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40112,
+      "media_id": 28235816,
+      "title": "为爱而生",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
