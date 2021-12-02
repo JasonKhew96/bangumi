@@ -941,6 +941,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 55309,
+      "anime_sn": 55309,
+      "title": "櫻花莊的寵物女孩",
+      "dc_c1": 12742,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 55655,
       "anime_sn": 55655,
       "title": "怪醫黑傑克特別版 4 個生命奇蹟",
@@ -1535,16 +1545,6 @@
       "anime_sn": 68468,
       "title": "不起眼女主角培育法",
       "dc_c1": 19290,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 68494,
-      "anime_sn": 68494,
-      "title": "虐殺器官",
-      "dc_c1": 21648,
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
@@ -12131,6 +12131,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 80192,
+      "anime_sn": 112916,
+      "title": "我的英雄學院",
+      "dc_c1": 22866,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 71979,
       "anime_sn": 112917,
       "title": "進擊的巨人：無悔的選擇-前篇-",
@@ -12157,6 +12167,56 @@
       "dc_c1": 12322,
       "dc_c2": 34,
       "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 90426,
+      "anime_sn": 112921,
+      "title": "櫻花忍法帖",
+      "dc_c1": 6480,
+      "dc_c2": 5,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 28821,
+      "anime_sn": 112922,
+      "title": "超人力霸王：怪獸大戰爭超銀河傳說",
+      "dc_c1": 3636,
+      "dc_c2": 16,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 53985,
+      "anime_sn": 112923,
+      "title": "超人力霸王傳奇",
+      "dc_c1": 3636,
+      "dc_c2": 21,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120738,
+      "anime_sn": 112924,
+      "title": "超人力霸王銀河大戰：新世代英雄",
+      "dc_c1": 3636,
+      "dc_c2": 60,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120739,
+      "anime_sn": 112925,
+      "title": "超人力霸王銀河大戰：巨大陰謀",
+      "dc_c1": 3636,
+      "dc_c2": 61,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     }
