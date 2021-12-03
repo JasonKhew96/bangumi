@@ -12219,6 +12219,56 @@
       "is_bilingual": true,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 28663,
+      "anime_sn": 112926,
+      "title": "笨蛋，測驗，召喚獸",
+      "dc_c1": 6323,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 20478,
+      "anime_sn": 112927,
+      "title": "絕對無敵 雷神王",
+      "dc_c1": 7273,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 107012,
+      "anime_sn": 112928,
+      "title": "Fate/stay night [Heaven's Feel] Ⅲ. 春櫻之歌",
+      "dc_c1": 4267,
+      "dc_c2": 64,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120849,
+      "anime_sn": 112929,
+      "title": "烏龍派出所特別篇：特殊刑警全倒 檸檬與神秘竊盜集團",
+      "dc_c1": 4397,
+      "dc_c2": 26,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120850,
+      "anime_sn": 112930,
+      "title": "烏龍派出所特別篇：兩津家三代 一探神秘黃金鄉",
+      "dc_c1": 4397,
+      "dc_c2": 27,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
