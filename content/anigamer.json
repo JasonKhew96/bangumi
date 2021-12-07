@@ -11721,6 +11721,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 115835,
+      "anime_sn": 112873,
+      "title": "鬼滅之刃 遊郭篇",
+      "dc_c1": 26514,
+      "dc_c2": 8,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 119873,
       "anime_sn": 112874,
       "title": "鬼滅之刃 無限列車篇",
@@ -12243,7 +12253,7 @@
     {
       "acg_sn": 107012,
       "anime_sn": 112928,
-      "title": "Fate/stay night [Heaven's Feel] Ⅲ. 春櫻之歌",
+      "title": "Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌",
       "dc_c1": 4267,
       "dc_c2": 64,
       "is_bilingual": false,
