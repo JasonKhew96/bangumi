@@ -121529,6 +121529,14 @@
       "type": 5
     },
     {
+      "season_id": 40129,
+      "media_id": 28235833,
+      "title": "在哥伦布",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40130,
       "media_id": 28235834,
       "title": "SOS！超危职场人",
@@ -121687,6 +121695,190 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 40160,
+      "media_id": 28235864,
+      "title": "小侠龙旋风",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 40161,
+      "media_id": 28235865,
+      "title": "异星危机",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40170,
+      "media_id": 28235874,
+      "title": "染色（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 40171,
+      "media_id": 28235875,
+      "title": "诚信",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40172,
+      "media_id": 28235876,
+      "title": "闯关东前传",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40173,
+      "media_id": 28235877,
+      "title": "金玉瑶",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40174,
+      "media_id": 28235878,
+      "title": "龙清秀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40176,
+      "media_id": 28235880,
+      "title": "童言无忌",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40177,
+      "media_id": 28235881,
+      "title": "幸福的眼泪",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40178,
+      "media_id": 28235882,
+      "title": "幸福向前走",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40182,
+      "media_id": 28235886,
+      "title": "独刺",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40183,
+      "media_id": 28235887,
+      "title": "婚姻陷阱",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40184,
+      "media_id": 28235888,
+      "title": "飓风",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40185,
+      "media_id": 28235889,
+      "title": "五十玫瑰",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40186,
+      "media_id": 28235890,
+      "title": "心疼女人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40187,
+      "media_id": 28235891,
+      "title": "幸福生活万年长",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40188,
+      "media_id": 28235892,
+      "title": "再过把瘾",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40189,
+      "media_id": 28235893,
+      "title": "大空头",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40193,
+      "media_id": 28235897,
+      "title": "雷诺911！",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40194,
+      "media_id": 28235898,
+      "title": "Top Gear 第31季（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40195,
+      "media_id": 28235899,
+      "title": "小偷演员",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40197,
+      "media_id": 28235901,
+      "title": "诗人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40200,
+      "media_id": 28235904,
+      "title": "“第十三届光影航程——2021海峡影视季晚会”",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
     }
   ]
 }
