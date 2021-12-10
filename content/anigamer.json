@@ -12279,6 +12279,56 @@
       "is_bilingual": true,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 74666,
+      "anime_sn": 112931,
+      "title": "排球少年！！第二季",
+      "dc_c1": 16780,
+      "dc_c2": 6,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120866,
+      "anime_sn": 112932,
+      "title": "忍者亂太郎 第 25 季",
+      "dc_c1": 824,
+      "dc_c2": 11,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 57814,
+      "anime_sn": 112933,
+      "title": "烏龍派出所特別篇：兩津VS愛哭鬼偶像明星！？ 日本環島1周大陞官圖！！",
+      "dc_c1": 4397,
+      "dc_c2": 7,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 57816,
+      "anime_sn": 112934,
+      "title": "烏龍派出所特別篇：阿兩與忠犬幸運 〜躲過龜有大封鎖線！！〜",
+      "dc_c1": 4397,
+      "dc_c2": 8,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 82618,
+      "anime_sn": 112938,
+      "title": "排球少年！！第三季",
+      "dc_c1": 16780,
+      "dc_c2": 8,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
