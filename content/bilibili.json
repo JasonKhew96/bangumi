@@ -121145,6 +121145,14 @@
       "type": 5
     },
     {
+      "season_id": 40069,
+      "media_id": 28235769,
+      "title": "地狱厨房 第20季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 40071,
       "media_id": 28235771,
       "title": "深渊",
@@ -121689,6 +121697,14 @@
       "type": 5
     },
     {
+      "season_id": 40158,
+      "media_id": 28235862,
+      "title": "离谱演唱会",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
       "season_id": 40159,
       "media_id": 28235863,
       "title": "档案",
@@ -121711,6 +121727,70 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40162,
+      "media_id": 28235866,
+      "title": "百变科小比 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40163,
+      "media_id": 28235867,
+      "title": "布鲁可战队人之危客对决",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40164,
+      "media_id": 28235868,
+      "title": "布鲁可战之源星石守卫",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40165,
+      "media_id": 28235869,
+      "title": "百兽总动员",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40166,
+      "media_id": 28235870,
+      "title": "偷偷爱上你",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 40167,
+      "media_id": 28235871,
+      "title": "草精灵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40168,
+      "media_id": 28235872,
+      "title": "房屋大救兵 第二季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40169,
+      "media_id": 28235873,
+      "title": "超甲虫战记·圣域传",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     },
     {
       "season_id": 40170,
@@ -121753,6 +121833,14 @@
       "type": 5
     },
     {
+      "season_id": 40175,
+      "media_id": 28235879,
+      "title": "信号使者之超萌信号侠",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 40176,
       "media_id": 28235880,
       "title": "童言无忌",
@@ -121775,6 +121863,30 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40179,
+      "media_id": 28235883,
+      "title": "大吉成长记",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40180,
+      "media_id": 28235884,
+      "title": "大吉成长记 第二部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40181,
+      "media_id": 28235885,
+      "title": "大吉成长记 第三部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     },
     {
       "season_id": 40182,
@@ -121841,6 +121953,22 @@
       "type": 2
     },
     {
+      "season_id": 40191,
+      "media_id": 28235895,
+      "title": "跳跃战士",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40192,
+      "media_id": 28235896,
+      "title": "跳跃战士2",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 40193,
       "media_id": 28235897,
       "title": "雷诺911！",
@@ -121869,7 +121997,7 @@
       "media_id": 28235901,
       "title": "诗人",
       "is_vip": false,
-      "is_exclusive": false,
+      "is_exclusive": true,
       "type": 2
     },
     {
@@ -121879,6 +122007,254 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 7
+    },
+    {
+      "season_id": 40201,
+      "media_id": 28235905,
+      "title": "怪物公寓之美好未来",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40202,
+      "media_id": 28235906,
+      "title": "怪物公寓之友情篇章",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40203,
+      "media_id": 28235907,
+      "title": "魔幻陀螺2",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40204,
+      "media_id": 28235908,
+      "title": "魔幻陀螺5",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40205,
+      "media_id": 28235909,
+      "title": "八千里路",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40206,
+      "media_id": 28235910,
+      "title": "魔幻陀螺之机甲战车",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40207,
+      "media_id": 28235911,
+      "title": "成家立业",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40210,
+      "media_id": 28235914,
+      "title": "爆破秀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40212,
+      "media_id": 28235916,
+      "title": "魔幻陀螺之聚能引擎",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40214,
+      "media_id": 28235918,
+      "title": "奇积乐园",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40216,
+      "media_id": 28235920,
+      "title": "少年张骞",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40218,
+      "media_id": 28235922,
+      "title": "神奇阿呦",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40220,
+      "media_id": 28235924,
+      "title": "神奇阿呦之最强流星人",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40222,
+      "media_id": 28235926,
+      "title": "天天成长记 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40224,
+      "media_id": 28235928,
+      "title": "天天成长记 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40225,
+      "media_id": 28235929,
+      "title": "天天成长记 第三季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40226,
+      "media_id": 28235930,
+      "title": "天天成长记 第四季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40227,
+      "media_id": 28235931,
+      "title": "甜蜜日记",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40228,
+      "media_id": 28235932,
+      "title": "跳跳鱼世界成语故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40229,
+      "media_id": 28235933,
+      "title": "小康来了第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40230,
+      "media_id": 28235934,
+      "title": "州洲绿之梦",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40231,
+      "media_id": 28235935,
+      "title": "体热",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40232,
+      "media_id": 28235936,
+      "title": "猪迪克之古怪岛大冒险",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40233,
+      "media_id": 28235937,
+      "title": "猪迪克之梦想训练营",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40234,
+      "media_id": 28235938,
+      "title": "O记三合会档案",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40235,
+      "media_id": 28235939,
+      "title": "动物园真相·乐滋滋精选篇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40252,
+      "media_id": 28235956,
+      "title": "妈妈的花样年华",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40256,
+      "media_id": 28235960,
+      "title": "沉睡花園（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40275,
+      "media_id": 28235979,
+      "title": "冬天的骨头",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40277,
+      "media_id": 28235981,
+      "title": "夺命负心人 第二季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40278,
+      "media_id": 28235982,
+      "title": "冠状病毒：流行病毒与自然环境",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
