@@ -120905,14 +120905,6 @@
       "type": 3
     },
     {
-      "season_id": 40038,
-      "media_id": 28235738,
-      "title": "新冷血十三鹰",
-      "is_vip": true,
-      "is_exclusive": false,
-      "type": 2
-    },
-    {
       "season_id": 40039,
       "media_id": 28235739,
       "title": "英国自然历史博物馆：神奇世界",
@@ -121993,12 +121985,28 @@
       "type": 2
     },
     {
+      "season_id": 40196,
+      "media_id": 28235900,
+      "title": "暖秋",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40197,
       "media_id": 28235901,
       "title": "诗人",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 2
+    },
+    {
+      "season_id": 40199,
+      "media_id": 28235903,
+      "title": "天生狂野",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     },
     {
       "season_id": 40200,
@@ -122065,12 +122073,36 @@
       "type": 5
     },
     {
+      "season_id": 40208,
+      "media_id": 28235912,
+      "title": "出关",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40209,
+      "media_id": 28235913,
+      "title": "大侦探",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40210,
       "media_id": 28235914,
       "title": "爆破秀",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 40211,
+      "media_id": 28235915,
+      "title": "江南锄奸",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 40212,
@@ -122081,12 +122113,28 @@
       "type": 4
     },
     {
+      "season_id": 40213,
+      "media_id": 28235917,
+      "title": "空巢",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40214,
       "media_id": 28235918,
       "title": "奇积乐园",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40215,
+      "media_id": 28235919,
+      "title": "聊斋奇女子",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 40216,
@@ -122097,12 +122145,28 @@
       "type": 4
     },
     {
+      "season_id": 40217,
+      "media_id": 28235921,
+      "title": "青铜匕首",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40218,
       "media_id": 28235922,
       "title": "神奇阿呦",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40219,
+      "media_id": 28235923,
+      "title": "士兵的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 40220,
@@ -122113,12 +122177,28 @@
       "type": 4
     },
     {
+      "season_id": 40221,
+      "media_id": 28235925,
+      "title": "小家大事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40222,
       "media_id": 28235926,
       "title": "天天成长记 第一季",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40223,
+      "media_id": 28235927,
+      "title": "钟点工们",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 40224,
@@ -122217,9 +122297,97 @@
       "type": 4
     },
     {
+      "season_id": 40236,
+      "media_id": 28235940,
+      "title": "毕业后的日子",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40237,
+      "media_id": 28235941,
+      "title": "传奇英雄",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40238,
+      "media_id": 28235942,
+      "title": "大漠情怨",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40240,
+      "media_id": 28235944,
+      "title": "感动生命",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40243,
+      "media_id": 28235947,
+      "title": "今夜天使降临",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40244,
+      "media_id": 28235948,
+      "title": "警界英雄",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40245,
+      "media_id": 28235949,
+      "title": "蓝蝶之谜",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40248,
+      "media_id": 28235952,
+      "title": "老大的幸福",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40250,
+      "media_id": 28235954,
+      "title": "龙门村的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40252,
       "media_id": 28235956,
       "title": "妈妈的花样年华",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40253,
+      "media_id": 28235957,
+      "title": "燃情密码",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40254,
+      "media_id": 28235958,
+      "title": "天网情网",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
@@ -122231,6 +122399,22 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40261,
+      "media_id": 28235965,
+      "title": "全境警戒",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40274,
+      "media_id": 28235978,
+      "title": "金装大酒店",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40275,
@@ -122255,6 +122439,286 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 40279,
+      "media_id": 28235983,
+      "title": "爱在冰雪纷飞时",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40280,
+      "media_id": 28235984,
+      "title": "北部湾人家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40281,
+      "media_id": 28235985,
+      "title": "你在哪里逗留",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40282,
+      "media_id": 28235986,
+      "title": "遍地英雄",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40283,
+      "media_id": 28235987,
+      "title": "曹老板的十八个秘书",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40284,
+      "media_id": 28235988,
+      "title": "住在家里的杰夫",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40285,
+      "media_id": 28235989,
+      "title": "赤松山魂",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40286,
+      "media_id": 28235990,
+      "title": "大捕房",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40287,
+      "media_id": 28235991,
+      "title": "儿女的战争",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40289,
+      "media_id": 28235993,
+      "title": "非常代价",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40290,
+      "media_id": 28235994,
+      "title": "芙蓉诀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40291,
+      "media_id": 28235995,
+      "title": "欢乐饭米粒儿 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40293,
+      "media_id": 28235997,
+      "title": "遍地书香",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40294,
+      "media_id": 28235998,
+      "title": "家和万事兴之双喜临门",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40296,
+      "media_id": 28236000,
+      "title": "布袋和尚新传",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40299,
+      "media_id": 28236003,
+      "title": "家和万事兴之我爱我车",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40301,
+      "media_id": 28236005,
+      "title": "英雄荣耀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40302,
+      "media_id": 28236006,
+      "title": "零号特工",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40303,
+      "media_id": 28236007,
+      "title": "村支书",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40309,
+      "media_id": 28236013,
+      "title": "服装店的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40313,
+      "media_id": 28236017,
+      "title": "花开有声",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40315,
+      "media_id": 28236019,
+      "title": "欢乐饭米粒儿第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40317,
+      "media_id": 28236021,
+      "title": "黄金重案",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40318,
+      "media_id": 28236022,
+      "title": "家和万事兴之善意的谎言",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40319,
+      "media_id": 28236023,
+      "title": "家和万事兴之抬头见喜",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40320,
+      "media_id": 28236024,
+      "title": "家和万事兴之我的新郎",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40321,
+      "media_id": 28236025,
+      "title": "老柿子树",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40322,
+      "media_id": 28236026,
+      "title": "猫冬",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40323,
+      "media_id": 28236027,
+      "title": "那夜我们约定了",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40324,
+      "media_id": 28236028,
+      "title": "女儿河",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40325,
+      "media_id": 28236029,
+      "title": "人来客往",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40326,
+      "media_id": 28236030,
+      "title": "生活就是家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40327,
+      "media_id": 28236031,
+      "title": "外姓兄弟",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40328,
+      "media_id": 28236032,
+      "title": "同门往事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40329,
+      "media_id": 28236033,
+      "title": "BanG Dream! Episode of Roselia Ⅰ：約定（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     }
   ]
 }
