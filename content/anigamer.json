@@ -12319,6 +12319,76 @@
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 113845,
+      "anime_sn": 112939,
+      "title": "BanG Dream！Episode of Roselia I：約定",
+      "dc_c1": 27566,
+      "dc_c2": 8,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120389,
+      "anime_sn": 112940,
+      "title": "BanG Dream! Episode of Roselia II：Song I am.",
+      "dc_c1": 27566,
+      "dc_c2": 10,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 113982,
+      "anime_sn": 112941,
+      "title": "怪醫黑傑克 劇場版",
+      "dc_c1": 5219,
+      "dc_c2": 14,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 56750,
+      "anime_sn": 112942,
+      "title": "元氣少女緣結神",
+      "dc_c1": 6037,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 57817,
+      "anime_sn": 112943,
+      "title": "烏龍派出所特別篇：奔馳吧！兩津式噹噹電車 ～懷舊的大次郎號～",
+      "dc_c1": 4397,
+      "dc_c2": 9,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121036,
+      "anime_sn": 112944,
+      "title": "烏龍派出所特別篇：兩津的淺草翻新大作戰！！ ～啊！充滿回憶的花屋敷～",
+      "dc_c1": 4397,
+      "dc_c2": 28,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 84025,
+      "anime_sn": 112945,
+      "title": "我的英雄學院 第二季",
+      "dc_c1": 22866,
+      "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
