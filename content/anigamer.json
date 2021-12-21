@@ -12419,6 +12419,26 @@
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 121053,
+      "anime_sn": 112946,
+      "title": "烏龍派出所特別篇：塞頓探險隊！隅田川的誓言～找出記憶中的白鯨！～",
+      "dc_c1": 4397,
+      "dc_c2": 29,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121054,
+      "anime_sn": 112947,
+      "title": "烏龍派出所特別篇：阿兩進軍壽司業界！～頂級鮪魚對決！～",
+      "dc_c1": 4397,
+      "dc_c2": 30,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
