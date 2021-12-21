@@ -119233,6 +119233,14 @@
       "type": 1
     },
     {
+      "season_id": 39819,
+      "media_id": 28235513,
+      "title": "不知不觉爱上你",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 39820,
       "media_id": 28235514,
       "title": "小燕子",
@@ -124465,6 +124473,14 @@
       "type": 4
     },
     {
+      "season_id": 40516,
+      "media_id": 28236221,
+      "title": "与变成了异世界美少女的好友一起冒险",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40517,
       "media_id": 28236222,
       "title": "乐儿数学逻辑王",
@@ -124479,6 +124495,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40521,
+      "media_id": 28236226,
+      "title": "现代爱情故事",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40522,
@@ -124503,6 +124527,46 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40526,
+      "media_id": 28236231,
+      "title": "鸭爸爸的一家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40527,
+      "media_id": 28236232,
+      "title": "小鼠和大象的创意",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40528,
+      "media_id": 28236233,
+      "title": "機智校園生活（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40529,
+      "media_id": 28236234,
+      "title": "草原豆思之夺宝奇兵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40531,
+      "media_id": 28236236,
+      "title": "熱血神探（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
     }
   ]
 }
