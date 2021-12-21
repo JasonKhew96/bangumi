@@ -119233,14 +119233,6 @@
       "type": 1
     },
     {
-      "season_id": 39819,
-      "media_id": 28235513,
-      "title": "不知不觉爱上你",
-      "is_vip": true,
-      "is_exclusive": false,
-      "type": 2
-    },
-    {
       "season_id": 39820,
       "media_id": 28235514,
       "title": "小燕子",
@@ -121209,6 +121201,14 @@
       "type": 5
     },
     {
+      "season_id": 40078,
+      "media_id": 28235778,
+      "title": "2021最美的夜 bilibili晚会",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
       "season_id": 40079,
       "media_id": 28235779,
       "title": "外来妹",
@@ -121487,6 +121487,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40115,
+      "media_id": 28235819,
+      "title": "炮弹专家",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40116,
@@ -124281,12 +124289,220 @@
       "type": 4
     },
     {
+      "season_id": 40489,
+      "media_id": 28236194,
+      "title": "卡特教练",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40490,
+      "media_id": 28236195,
+      "title": "为黛西小姐开车",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40491,
+      "media_id": 28236196,
+      "title": "看不见的现实：数据工人",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 40492,
       "media_id": 28236197,
-      "title": "戏码风云决",
+      "title": "戏码风云诀",
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 40494,
+      "media_id": 28236199,
+      "title": "爱情碎片",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40495,
+      "media_id": 28236200,
+      "title": "進擊的巨人: 伊爾澤的筆記（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40496,
+      "media_id": 28236201,
+      "title": "進擊的巨人: 突然的來訪者（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40497,
+      "media_id": 28236202,
+      "title": "進擊的巨人: 困難（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40498,
+      "media_id": 28236203,
+      "title": "方言剧",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40499,
+      "media_id": 28236204,
+      "title": "防守反击",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40500,
+      "media_id": 28236205,
+      "title": "再见艳阳天",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40501,
+      "media_id": 28236206,
+      "title": "哈哈咪",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40502,
+      "media_id": 28236207,
+      "title": "宝宝妈妈网之儿童诗系列",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40504,
+      "media_id": 28236209,
+      "title": "铜马",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40505,
+      "media_id": 28236210,
+      "title": "小猫威力",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40506,
+      "media_id": 28236211,
+      "title": "威力一家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40508,
+      "media_id": 28236213,
+      "title": "喜剧明星",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40511,
+      "media_id": 28236216,
+      "title": "幸福岛",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40512,
+      "media_id": 28236217,
+      "title": "寻梦欢乐镇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40513,
+      "media_id": 28236218,
+      "title": "光明卫士",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40514,
+      "media_id": 28236219,
+      "title": "恐龙星球",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40515,
+      "media_id": 28236220,
+      "title": "乐儿科学小百科",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40517,
+      "media_id": 28236222,
+      "title": "乐儿数学逻辑王",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40518,
+      "media_id": 28236223,
+      "title": "乐晓佳节",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40522,
+      "media_id": 28236227,
+      "title": "勇敢智慧鸭",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40524,
+      "media_id": 28236229,
+      "title": "Behind Cut 鏡頭之外（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 40525,
+      "media_id": 28236230,
+      "title": "花狐狸与捣蛋鸭",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     }
   ]
 }
