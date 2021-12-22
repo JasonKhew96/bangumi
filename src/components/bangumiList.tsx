@@ -186,6 +186,7 @@ const BangumiList = ({ columns, data, type }: any) => {
             <FormControlLabel value="3" control={<Radio />} label="其他" />
             <FormControlLabel value="4" control={<Radio />} label="国创" />
             <FormControlLabel value="5" control={<Radio />} label="日剧" />
+            <FormControlLabel value="7" control={<Radio />} label="其他" />
           </RadioGroup>
         </FormControl>
         <div style={{ overflowX: "scroll", tableLayout: "fixed" }}>
