@@ -120201,6 +120201,14 @@
       "type": 7
     },
     {
+      "season_id": 39944,
+      "media_id": 28235640,
+      "title": "尹STAY（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 39945,
       "media_id": 28235641,
       "title": "动物园看守",
@@ -120764,7 +120772,7 @@
       "season_id": 40018,
       "media_id": 28235718,
       "title": "野马分鬃",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -120838,6 +120846,14 @@
       "title": "真爱满屋3",
       "is_vip": true,
       "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40028,
+      "media_id": 28235728,
+      "title": "紫罗兰永恒花园 剧场版 ",
+      "is_vip": false,
+      "is_exclusive": true,
       "type": 2
     },
     {
@@ -122020,6 +122036,14 @@
       "season_id": 40189,
       "media_id": 28235893,
       "title": "大空头",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40190,
+      "media_id": 28235894,
+      "title": "亡命杀镇",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
@@ -123580,7 +123604,7 @@
       "season_id": 40396,
       "media_id": 28236101,
       "title": "沙丘",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -124567,6 +124591,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40535,
+      "media_id": 28236240,
+      "title": "妙探寻凶",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
