@@ -120092,7 +120092,7 @@
       "season_id": 39929,
       "media_id": 28235623,
       "title": "无尽攀登",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 3
     },
@@ -121697,12 +121697,28 @@
       "type": 5
     },
     {
+      "season_id": 40140,
+      "media_id": 28235844,
+      "title": "失格纹的最强贤者～世界最强的贤者为了变得更强而转生了～",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40141,
       "media_id": 28235845,
       "title": "密查",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40142,
+      "media_id": 28235846,
+      "title": "天才王子的赤字国家振兴术",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40143,
@@ -121783,6 +121799,30 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40153,
+      "media_id": 28235857,
+      "title": "公主连结 与你重逢 第二季",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40154,
+      "media_id": 28235858,
+      "title": "自称贤者弟子的贤者",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40156,
+      "media_id": 28235860,
+      "title": "擅长捉弄的高木同学 第三季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40158,
@@ -122545,6 +122585,14 @@
       "type": 5
     },
     {
+      "season_id": 40258,
+      "media_id": 28235962,
+      "title": "锈色铠甲 黎明",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40259,
       "media_id": 28235963,
       "title": "狗叫了一天",
@@ -122631,6 +122679,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40272,
+      "media_id": 28235976,
+      "title": "室内足球少年!!!!!",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40274,
@@ -124457,6 +124513,14 @@
       "type": 2
     },
     {
+      "season_id": 40509,
+      "media_id": 28236214,
+      "title": "守护解放西3",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 40511,
       "media_id": 28236216,
       "title": "幸福岛",
@@ -124519,6 +124583,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40520,
+      "media_id": 28236225,
+      "title": "命运 冠位指定 冠位时间神殿所罗门",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 40521,
@@ -124596,6 +124668,22 @@
       "season_id": 40535,
       "media_id": 28236240,
       "title": "妙探寻凶",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40538,
+      "media_id": 28236243,
+      "title": "危机22分钟",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40539,
+      "media_id": 28236244,
+      "title": "叛国者",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
