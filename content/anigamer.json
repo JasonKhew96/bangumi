@@ -12439,6 +12439,36 @@
       "is_bilingual": true,
       "edition": "",
       "is_vip": false
+    },
+    {
+      "acg_sn": 58111,
+      "anime_sn": 112948,
+      "title": "襲來！美少女邪神 W",
+      "dc_c1": 10234,
+      "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 62213,
+      "anime_sn": 112949,
+      "title": "小鳥遊六花・改 劇場版 中二病也想談戀愛！",
+      "dc_c1": 13173,
+      "dc_c2": 4,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 53619,
+      "anime_sn": 112965,
+      "title": "機動戰士鋼彈 SEED HD 重製版",
+      "dc_c1": 83,
+      "dc_c2": 185,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
     }
   ]
 }
