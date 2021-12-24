@@ -120773,7 +120773,7 @@
       "media_id": 28235718,
       "title": "野马分鬃",
       "is_vip": true,
-      "is_exclusive": false,
+      "is_exclusive": true,
       "type": 2
     },
     {
@@ -121524,7 +121524,7 @@
       "season_id": 40116,
       "media_id": 28235820,
       "title": "东方少年",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -121700,7 +121700,7 @@
       "season_id": 40140,
       "media_id": 28235844,
       "title": "失格纹的最强贤者～世界最强的贤者为了变得更强而转生了～",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
@@ -121716,7 +121716,7 @@
       "season_id": 40142,
       "media_id": 28235846,
       "title": "天才王子的赤字国家振兴术",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
@@ -121804,7 +121804,7 @@
       "season_id": 40153,
       "media_id": 28235857,
       "title": "公主连结 与你重逢 第二季",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -121812,7 +121812,7 @@
       "season_id": 40154,
       "media_id": 28235858,
       "title": "自称贤者弟子的贤者",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
@@ -121820,14 +121820,14 @@
       "season_id": 40156,
       "media_id": 28235860,
       "title": "擅长捉弄的高木同学 第三季",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
     {
       "season_id": 40158,
       "media_id": 28235862,
-      "title": "离谱演唱会",
+      "title": "我的音乐你听吗首唱会",
       "is_vip": true,
       "is_exclusive": true,
       "type": 7
@@ -124353,6 +124353,14 @@
       "type": 2
     },
     {
+      "season_id": 40485,
+      "media_id": 28236190,
+      "title": "猫先动的手！",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 4
+    },
+    {
       "season_id": 40486,
       "media_id": 28236191,
       "title": "童声童气看世界",
@@ -124521,6 +124529,14 @@
       "type": 3
     },
     {
+      "season_id": 40510,
+      "media_id": 28236215,
+      "title": "戈登，吉诺和弗莱德的圣诞大烤宴",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 40511,
       "media_id": 28236216,
       "title": "幸福岛",
@@ -124564,7 +124580,7 @@
       "season_id": 40516,
       "media_id": 28236221,
       "title": "与变成了异世界美少女的好友一起冒险",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -124583,6 +124599,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40519,
+      "media_id": 28236224,
+      "title": "食在有历史",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
     },
     {
       "season_id": 40520,
@@ -124684,6 +124708,38 @@
       "season_id": 40539,
       "media_id": 28236244,
       "title": "叛国者",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40543,
+      "media_id": 28236248,
+      "title": "小鬼闯巴黎",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40544,
+      "media_id": 28236249,
+      "title": "就这样，彗星撞上了地球",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40545,
+      "media_id": 28236250,
+      "title": "卡冈图雅",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40549,
+      "media_id": 28236254,
+      "title": "贴身情人",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
