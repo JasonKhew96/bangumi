@@ -120852,7 +120852,7 @@
       "season_id": 40028,
       "media_id": 28235728,
       "title": "紫罗兰永恒花园 剧场版 ",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 2
     },
@@ -124713,6 +124713,30 @@
       "type": 2
     },
     {
+      "season_id": 40540,
+      "media_id": 28236245,
+      "title": "猪皇争霸",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40541,
+      "media_id": 28236246,
+      "title": "外卖之王",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40542,
+      "media_id": 28236247,
+      "title": "疼痛之王",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 40543,
       "media_id": 28236248,
       "title": "小鬼闯巴黎",
@@ -124737,9 +124761,41 @@
       "type": 2
     },
     {
+      "season_id": 40546,
+      "media_id": 28236251,
+      "title": "女性秘密",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 40549,
       "media_id": 28236254,
       "title": "贴身情人",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40553,
+      "media_id": 28236258,
+      "title": "我们不是天使",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40556,
+      "media_id": 28236261,
+      "title": "爱长颈鹿的女人",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40559,
+      "media_id": 28236264,
+      "title": "行过死荫之地 ",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
