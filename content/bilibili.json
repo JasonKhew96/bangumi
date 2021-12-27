@@ -124633,6 +124633,14 @@
       "type": 4
     },
     {
+      "season_id": 40523,
+      "media_id": 28236228,
+      "title": "德雷尔一家 第一季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 40524,
       "media_id": 28236229,
       "title": "Behind Cut 鏡頭之外（僅限港澳台地區）",
@@ -124689,12 +124697,36 @@
       "type": 5
     },
     {
+      "season_id": 40533,
+      "media_id": 28236238,
+      "title": "德雷尔一家 第三季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 40534,
+      "media_id": 28236239,
+      "title": "德雷尔一家 第四季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 40535,
       "media_id": 28236240,
       "title": "妙探寻凶",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40537,
+      "media_id": 28236242,
+      "title": "德雷尔一家 第二季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
     },
     {
       "season_id": 40538,
@@ -124799,6 +124831,78 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40576,
+      "media_id": 28236281,
+      "title": "九日女王",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40589,
+      "media_id": 28236294,
+      "title": "尖锋之烈焰青春",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40590,
+      "media_id": 28236295,
+      "title": "追风行动",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40591,
+      "media_id": 28236296,
+      "title": "绝地反击",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40592,
+      "media_id": 28236297,
+      "title": "边城破晓",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40593,
+      "media_id": 28236298,
+      "title": "义道",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40594,
+      "media_id": 28236299,
+      "title": "伏弩",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40595,
+      "media_id": 28236300,
+      "title": "光荣大地",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40596,
+      "media_id": 28236301,
+      "title": "战地迷情",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     }
   ]
 }
