@@ -125705,6 +125705,14 @@
       "type": 5
     },
     {
+      "season_id": 40705,
+      "media_id": 28236411,
+      "title": "白領羽球部（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40706,
       "media_id": 28236412,
       "title": "我爱钟无艳",
@@ -125740,6 +125748,14 @@
       "season_id": 40712,
       "media_id": 28236418,
       "title": "Futsal Boys!!!!!（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40713,
+      "media_id": 28236419,
+      "title": "進擊的巨人 The Final Season Part 2（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
