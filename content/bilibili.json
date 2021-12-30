@@ -119227,7 +119227,7 @@
     {
       "season_id": 39818,
       "media_id": 28235512,
-      "title": "新猫和老鼠第一季",
+      "title": "新猫和老鼠 第一季",
       "is_vip": true,
       "is_exclusive": false,
       "type": 1
@@ -122481,6 +122481,14 @@
       "type": 5
     },
     {
+      "season_id": 40242,
+      "media_id": 28235946,
+      "title": "女孩的钓鱼慢活",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40243,
       "media_id": 28235947,
       "title": "今夜天使降临",
@@ -122503,6 +122511,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40246,
+      "media_id": 28235950,
+      "title": "少女前线",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40247,
@@ -122585,10 +122601,18 @@
       "type": 5
     },
     {
+      "season_id": 40257,
+      "media_id": 28235961,
+      "title": "秘密内幕 女警的反击",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40258,
       "media_id": 28235962,
       "title": "锈色铠甲 黎明",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -122684,7 +122708,7 @@
       "season_id": 40272,
       "media_id": 28235976,
       "title": "室内足球少年!!!!!",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
@@ -124612,7 +124636,7 @@
       "season_id": 40520,
       "media_id": 28236225,
       "title": "命运 冠位指定 冠位时间神殿所罗门",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -124637,7 +124661,7 @@
       "media_id": 28236228,
       "title": "德雷尔一家 第一季",
       "is_vip": true,
-      "is_exclusive": true,
+      "is_exclusive": false,
       "type": 5
     },
     {
@@ -124701,7 +124725,7 @@
       "media_id": 28236238,
       "title": "德雷尔一家 第三季",
       "is_vip": true,
-      "is_exclusive": true,
+      "is_exclusive": false,
       "type": 5
     },
     {
@@ -124709,7 +124733,7 @@
       "media_id": 28236239,
       "title": "德雷尔一家 第四季",
       "is_vip": true,
-      "is_exclusive": true,
+      "is_exclusive": false,
       "type": 5
     },
     {
@@ -124725,7 +124749,7 @@
       "media_id": 28236242,
       "title": "德雷尔一家 第二季",
       "is_vip": true,
-      "is_exclusive": true,
+      "is_exclusive": false,
       "type": 5
     },
     {
@@ -124801,6 +124825,14 @@
       "type": 3
     },
     {
+      "season_id": 40548,
+      "media_id": 28236253,
+      "title": "闭环",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40549,
       "media_id": 28236254,
       "title": "贴身情人",
@@ -124809,12 +124841,36 @@
       "type": 2
     },
     {
+      "season_id": 40550,
+      "media_id": 28236255,
+      "title": "辉夜大小姐想让我告白 中配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40553,
       "media_id": 28236258,
       "title": "我们不是天使",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40554,
+      "media_id": 28236259,
+      "title": "钢铁飞龙3 山海神兽录",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40555,
+      "media_id": 28236260,
+      "title": "930街区",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     },
     {
       "season_id": 40556,
@@ -124837,6 +124893,102 @@
       "media_id": 28236281,
       "title": "九日女王",
       "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40577,
+      "media_id": 28236282,
+      "title": "冲向天外天",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40578,
+      "media_id": 28236283,
+      "title": "造山运动",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40579,
+      "media_id": 28236284,
+      "title": "逃逸速度",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40580,
+      "media_id": 28236285,
+      "title": "绿色食品",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40581,
+      "media_id": 28236286,
+      "title": "电子身体",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40582,
+      "media_id": 28236287,
+      "title": "她已失去",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40583,
+      "media_id": 28236288,
+      "title": "冲破黑暗",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40584,
+      "media_id": 28236289,
+      "title": "你的脑海",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40585,
+      "media_id": 28236290,
+      "title": "生命之歌",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40586,
+      "media_id": 28236291,
+      "title": "家庭驱邪的五个步骤",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40587,
+      "media_id": 28236292,
+      "title": "母亲",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40588,
+      "media_id": 28236293,
+      "title": "栩栩如生",
+      "is_vip": false,
       "is_exclusive": false,
       "type": 2
     },
@@ -124903,6 +125055,710 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40597,
+      "media_id": 28236302,
+      "title": "爱情白皮书",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40598,
+      "media_id": 28236303,
+      "title": "浪漫的西街",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40599,
+      "media_id": 28236304,
+      "title": "男才女貌2",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40600,
+      "media_id": 28236305,
+      "title": "星光大道",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40601,
+      "media_id": 28236306,
+      "title": "正义的重量",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40602,
+      "media_id": 28236307,
+      "title": "海岸生死恋",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40603,
+      "media_id": 28236308,
+      "title": "命运喜欢恶作剧",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40604,
+      "media_id": 28236309,
+      "title": "2022花开天下·国韵新年演唱会",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 40605,
+      "media_id": 28236310,
+      "title": "男人的秘密",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40606,
+      "media_id": 28236311,
+      "title": "现代美女",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40607,
+      "media_id": 28236312,
+      "title": "乡里人家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40608,
+      "media_id": 28236313,
+      "title": "花木兰",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40609,
+      "media_id": 28236314,
+      "title": "铁甲英豪",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40610,
+      "media_id": 28236315,
+      "title": "毒牙",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40611,
+      "media_id": 28236316,
+      "title": "最高利益",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40612,
+      "media_id": 28236317,
+      "title": "爱在有情天",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40613,
+      "media_id": 28236318,
+      "title": "倒插门",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40614,
+      "media_id": 28236319,
+      "title": "而立之年",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40615,
+      "media_id": 28236320,
+      "title": "船来船往",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40616,
+      "media_id": 28236321,
+      "title": "妈妈的酱汤馆",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40617,
+      "media_id": 28236322,
+      "title": "假如我是真的",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40618,
+      "media_id": 28236323,
+      "title": "食在有历史（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40619,
+      "media_id": 28236324,
+      "title": "香水",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40620,
+      "media_id": 28236325,
+      "title": "燃情四季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40621,
+      "media_id": 28236326,
+      "title": "宝乐婶的烦心事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40622,
+      "media_id": 28236327,
+      "title": "亲情树",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40623,
+      "media_id": 28236328,
+      "title": "雪狼",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40624,
+      "media_id": 28236329,
+      "title": "敌后英雄",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40625,
+      "media_id": 28236330,
+      "title": "乡里乡亲住高楼",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40626,
+      "media_id": 28236331,
+      "title": "星火",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40627,
+      "media_id": 28236333,
+      "title": "疼痛之王（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40628,
+      "media_id": 28236334,
+      "title": "大西北剿匪记",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40629,
+      "media_id": 28236335,
+      "title": "猴票",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40630,
+      "media_id": 28236336,
+      "title": "我是业主",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40631,
+      "media_id": 28236337,
+      "title": "孔子",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40632,
+      "media_id": 28236338,
+      "title": "南洋奇缘",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40633,
+      "media_id": 28236339,
+      "title": "一半是火焰，一半是海水",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40635,
+      "media_id": 28236341,
+      "title": "猎豺狼",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40636,
+      "media_id": 28236342,
+      "title": "星火云雾街",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40637,
+      "media_id": 28236343,
+      "title": "战天狼",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40638,
+      "media_id": 28236344,
+      "title": "小白菜奇案",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40639,
+      "media_id": 28236345,
+      "title": "锁定目标",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40640,
+      "media_id": 28236346,
+      "title": "家国恩仇记",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40641,
+      "media_id": 28236347,
+      "title": "富滇风云",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40642,
+      "media_id": 28236348,
+      "title": "神医传奇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40643,
+      "media_id": 28236349,
+      "title": "刀尖舞者",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40644,
+      "media_id": 28236350,
+      "title": "我有一个梦",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40646,
+      "media_id": 28236352,
+      "title": "青年霍元甲之威震津门",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40647,
+      "media_id": 28236353,
+      "title": "看不懂你的心",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40648,
+      "media_id": 28236354,
+      "title": "乞丐皇帝与大脚皇后传奇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40649,
+      "media_id": 28236355,
+      "title": "我把忠诚献给你",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40653,
+      "media_id": 28236359,
+      "title": "八两金",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40654,
+      "media_id": 28236360,
+      "title": "鳄里斯和鱼英俊",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40655,
+      "media_id": 28236361,
+      "title": "给你生命给我爱",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40657,
+      "media_id": 28236363,
+      "title": "警方110",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40660,
+      "media_id": 28236366,
+      "title": "舞力对决",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40675,
+      "media_id": 28236381,
+      "title": "美丽心灵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40677,
+      "media_id": 28236383,
+      "title": "裸婚之后",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40678,
+      "media_id": 28236384,
+      "title": "三滴血",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40679,
+      "media_id": 28236385,
+      "title": "少女前線（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40680,
+      "media_id": 28236386,
+      "title": "挽歌",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40681,
+      "media_id": 28236387,
+      "title": "相思树",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40682,
+      "media_id": 28236388,
+      "title": "草帽警察",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40683,
+      "media_id": 28236389,
+      "title": "虎啸苍穹",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40684,
+      "media_id": 28236390,
+      "title": "西门豹",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40686,
+      "media_id": 28236392,
+      "title": "雪山飞狐",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40687,
+      "media_id": 28236393,
+      "title": "雄关遗梦",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40688,
+      "media_id": 28236394,
+      "title": "秘密內幕-女警的反擊（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40689,
+      "media_id": 28236395,
+      "title": "洪武大案",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40690,
+      "media_id": 28236396,
+      "title": "烽火线",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40691,
+      "media_id": 28236397,
+      "title": "决币",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40692,
+      "media_id": 28236398,
+      "title": "七十二家房客第五部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40694,
+      "media_id": 28236400,
+      "title": "鏽色鎧甲 黎明（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40696,
+      "media_id": 28236402,
+      "title": "七十二家房客第十一部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40697,
+      "media_id": 28236403,
+      "title": "七十二家房客第十二部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40699,
+      "media_id": 28236405,
+      "title": "红颜的岁月",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40700,
+      "media_id": 28236406,
+      "title": "七十二家房客第三部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40701,
+      "media_id": 28236407,
+      "title": "七十二家房客第六部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40702,
+      "media_id": 28236408,
+      "title": "浪子燕青",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40703,
+      "media_id": 28236409,
+      "title": "七十二家房客第二部",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40704,
+      "media_id": 28236410,
+      "title": "长城红",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40706,
+      "media_id": 28236412,
+      "title": "我爱钟无艳",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40707,
+      "media_id": 28236413,
+      "title": "旗袍旗袍",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40709,
+      "media_id": 28236415,
+      "title": "国家底线",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40711,
+      "media_id": 28236417,
+      "title": "大学生士兵的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40712,
+      "media_id": 28236418,
+      "title": "Futsal Boys!!!!!（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40715,
+      "media_id": 28236421,
+      "title": "食鏽末世錄（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40717,
+      "media_id": 28236423,
+      "title": "最遊記RELOAD -ZEROIN-（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     }
   ]
 }
