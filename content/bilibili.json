@@ -125465,6 +125465,14 @@
       "type": 5
     },
     {
+      "season_id": 40652,
+      "media_id": 28236358,
+      "title": "巡逻现场实录2017",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 40653,
       "media_id": 28236359,
       "title": "八两金",
@@ -125497,6 +125505,14 @@
       "type": 5
     },
     {
+      "season_id": 40659,
+      "media_id": 28236365,
+      "title": "天才王子的赤字國家重生術（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40660,
       "media_id": 28236366,
       "title": "舞力对决",
@@ -125505,12 +125521,124 @@
       "type": 2
     },
     {
+      "season_id": 40661,
+      "media_id": 28236367,
+      "title": "失格紋的最強賢者（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40662,
+      "media_id": 28236368,
+      "title": "里亞德錄大地（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40663,
+      "media_id": 28236369,
+      "title": "超異域公主連結Re:Dive 與你重逢 第二季（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40664,
+      "media_id": 28236370,
+      "title": "平凡職業造就世界最強S2（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40665,
+      "media_id": 28236371,
+      "title": "自稱賢者弟子的賢者（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40666,
+      "media_id": 28236372,
+      "title": "夜街酷斗（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40667,
+      "media_id": 28236373,
+      "title": "擅長捉弄的高木同學 第三季（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40668,
+      "media_id": 28236374,
+      "title": "戀上換裝娃娃（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40669,
+      "media_id": 28236375,
+      "title": "與變成了異世界美少女的好友一起冒險（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40670,
+      "media_id": 28236376,
+      "title": "東方少年（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40671,
+      "media_id": 28236377,
+      "title": "東京24區（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40672,
+      "media_id": 28236378,
+      "title": "SLOW LOOP-女孩的釣魚慢活-（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40673,
+      "media_id": 28236379,
+      "title": "明日同學的水手服（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40675,
       "media_id": 28236381,
       "title": "美丽心灵",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40676,
+      "media_id": 28236382,
+      "title": "怪人開發部的黑井津小姐（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40677,
@@ -125633,12 +125761,28 @@
       "type": 5
     },
     {
+      "season_id": 40693,
+      "media_id": 28236399,
+      "title": "Nothing but her",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40694,
       "media_id": 28236400,
       "title": "鏽色鎧甲 黎明（僅限港澳台地區）",
       "is_vip": true,
       "is_exclusive": true,
       "type": 1
+    },
+    {
+      "season_id": 40695,
+      "media_id": 28236401,
+      "title": "我和吸铁石和一个死去的朋友",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40696,
@@ -125655,6 +125799,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40698,
+      "media_id": 28236404,
+      "title": "渔王",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40699,
@@ -125729,12 +125881,28 @@
       "type": 5
     },
     {
+      "season_id": 40708,
+      "media_id": 28236414,
+      "title": "最后一吻",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40709,
       "media_id": 28236415,
       "title": "国家底线",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40710,
+      "media_id": 28236416,
+      "title": "CUE!（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 40711,
@@ -125756,6 +125924,14 @@
       "season_id": 40713,
       "media_id": 28236419,
       "title": "進擊的巨人 The Final Season Part 2（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40714,
+      "media_id": 28236420,
+      "title": "薔薇王的葬列（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
