@@ -125977,6 +125977,22 @@
       "type": 4
     },
     {
+      "season_id": 40721,
+      "media_id": 28236427,
+      "title": "卡特教练",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40722,
+      "media_id": 28236428,
+      "title": "“忘不了”乐团",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 40723,
       "media_id": 28236429,
       "title": "艾梅洛二世事件簿-魔眼蒐集列車 Grace note-特別篇（僅限港澳台地區）",
@@ -126207,6 +126223,54 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40763,
+      "media_id": 28236469,
+      "title": "亚当斯一家",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40764,
+      "media_id": 28236470,
+      "title": "打工狂想曲",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40765,
+      "media_id": 28236471,
+      "title": "最后的假期",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40766,
+      "media_id": 28236472,
+      "title": "黑雨",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40767,
+      "media_id": 28236473,
+      "title": "黛丝米勒",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40770,
+      "media_id": 28236476,
+      "title": "求生指南",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
