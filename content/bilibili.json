@@ -125705,6 +125705,14 @@
       "type": 5
     },
     {
+      "season_id": 40685,
+      "media_id": 28236391,
+      "title": "宝可梦：皮卡丘和可可的冒险",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40686,
       "media_id": 28236392,
       "title": "雪山飞狐",
@@ -125956,6 +125964,14 @@
       "season_id": 40717,
       "media_id": 28236423,
       "title": "最遊記RELOAD -ZEROIN-（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40718,
+      "media_id": 28236424,
+      "title": "相愛相殺（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
@@ -126217,6 +126233,14 @@
       "type": 5
     },
     {
+      "season_id": 40751,
+      "media_id": 28236457,
+      "title": "闇芝居10（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40752,
       "media_id": 28236458,
       "title": "沙丘",
@@ -126265,12 +126289,76 @@
       "type": 2
     },
     {
+      "season_id": 40768,
+      "media_id": 28236474,
+      "title": "挤痘大师",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40769,
+      "media_id": 28236475,
+      "title": "如沐爱河",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40770,
       "media_id": 28236476,
       "title": "求生指南",
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 40771,
+      "media_id": 28236477,
+      "title": "508疑案",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40772,
+      "media_id": 28236478,
+      "title": "吾家吾国·宝藏老人的那束光",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40774,
+      "media_id": 28236480,
+      "title": "我们的纯真年代",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40775,
+      "media_id": 28236481,
+      "title": "他们的城市",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40776,
+      "media_id": 28236482,
+      "title": "新网球王子 冰帝 vs 立海 Game of Future",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40782,
+      "media_id": 28236488,
+      "title": "破碎之家",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 2
     }
   ]
 }
