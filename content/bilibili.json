@@ -120644,7 +120644,7 @@
       "season_id": 40002,
       "media_id": 28235702,
       "title": "南希·德鲁和隐藏的楼梯",
-      "is_vip": true,
+      "is_vip": false,
       "is_exclusive": false,
       "type": 2
     },
@@ -121155,7 +121155,7 @@
     {
       "season_id": 40067,
       "media_id": 28235767,
-      "title": "男人四十跑出租",
+      "title": "男人四十跑出租 第一部",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
@@ -121203,7 +121203,7 @@
     {
       "season_id": 40075,
       "media_id": 28235775,
-      "title": "让爱做主",
+      "title": "让爱作主",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
@@ -121655,6 +121655,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40134,
+      "media_id": 28235838,
+      "title": "里亚德录大地",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 40135,
@@ -122291,7 +122299,7 @@
     {
       "season_id": 40216,
       "media_id": 28235920,
-      "title": "少年张骞",
+      "title": "少年张謇",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
@@ -122484,7 +122492,7 @@
       "season_id": 40242,
       "media_id": 28235946,
       "title": "女孩的钓鱼慢活",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -122604,7 +122612,7 @@
       "season_id": 40257,
       "media_id": 28235961,
       "title": "秘密内幕 女警的反击",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
@@ -124409,14 +124417,6 @@
       "type": 4
     },
     {
-      "season_id": 40489,
-      "media_id": 28236194,
-      "title": "卡特教练",
-      "is_vip": true,
-      "is_exclusive": false,
-      "type": 2
-    },
-    {
       "season_id": 40490,
       "media_id": 28236195,
       "title": "为黛西小姐开车",
@@ -124849,6 +124849,14 @@
       "type": 1
     },
     {
+      "season_id": 40551,
+      "media_id": 28236256,
+      "title": "奶龙",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 40553,
       "media_id": 28236258,
       "title": "我们不是天使",
@@ -124956,14 +124964,6 @@
       "season_id": 40584,
       "media_id": 28236289,
       "title": "你的脑海",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 2
-    },
-    {
-      "season_id": 40585,
-      "media_id": 28236290,
-      "title": "生命之歌",
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
