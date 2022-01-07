@@ -126027,7 +126027,7 @@
     {
       "season_id": 40725,
       "media_id": 28236431,
-      "title": "成人練習生（僅限港澳台地區）",
+      "title": "成人練習生（僅限台灣地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
@@ -126249,6 +126249,38 @@
       "type": 2
     },
     {
+      "season_id": 40757,
+      "media_id": 28236463,
+      "title": "愤怒的小鸟 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40758,
+      "media_id": 28236464,
+      "title": "愤怒的小鸟 第三季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40760,
+      "media_id": 28236466,
+      "title": "愤怒的小鸟：猪猪传 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40762,
+      "media_id": 28236468,
+      "title": "愤怒的小鸟：史黛拉 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40763,
       "media_id": 28236469,
       "title": "亚当斯一家",
@@ -126353,12 +126385,252 @@
       "type": 2
     },
     {
+      "season_id": 40778,
+      "media_id": 28236484,
+      "title": "对白",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40779,
+      "media_id": 28236485,
+      "title": "常恐",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40780,
+      "media_id": 28236486,
+      "title": "金好的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40781,
+      "media_id": 28236487,
+      "title": "走神",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40782,
       "media_id": 28236488,
       "title": "破碎之家",
       "is_vip": true,
       "is_exclusive": true,
       "type": 2
+    },
+    {
+      "season_id": 40783,
+      "media_id": 28236489,
+      "title": "清水湾，淡水湾",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40784,
+      "media_id": 28236490,
+      "title": "我们的冬奥",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40785,
+      "media_id": 28236491,
+      "title": "悲惨世界",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40787,
+      "media_id": 28236493,
+      "title": "中关村风云",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40788,
+      "media_id": 28236494,
+      "title": "淘气包马小跳",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40789,
+      "media_id": 28236495,
+      "title": "血色蔷薇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40790,
+      "media_id": 28236496,
+      "title": "爱可以不伤",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40791,
+      "media_id": 28236497,
+      "title": "料理情人梦",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40792,
+      "media_id": 28236498,
+      "title": "淬火成钢",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40793,
+      "media_id": 28236499,
+      "title": "毛毛镇 第三季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40795,
+      "media_id": 28236501,
+      "title": "酒鬼都市女人們（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40796,
+      "media_id": 28236502,
+      "title": "斯文江南",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 40797,
+      "media_id": 28236503,
+      "title": "福尔摩斯与中国女侠",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40799,
+      "media_id": 28236505,
+      "title": "榜样",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40800,
+      "media_id": 28236506,
+      "title": "榜样发现团",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40801,
+      "media_id": 28236507,
+      "title": "鸡祥如意",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40802,
+      "media_id": 28236508,
+      "title": "阿诗玛新传",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40803,
+      "media_id": 28236509,
+      "title": "三字经里的故事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40804,
+      "media_id": 28236510,
+      "title": "吾儿可教",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40805,
+      "media_id": 28236511,
+      "title": "老公的春天",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40806,
+      "media_id": 28236512,
+      "title": "中华传统文化故事·节庆篇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40807,
+      "media_id": 28236513,
+      "title": "相约",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40809,
+      "media_id": 28236515,
+      "title": "福吉小镇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 40810,
+      "media_id": 28236516,
+      "title": "人到中年",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40811,
+      "media_id": 28236517,
+      "title": "家有喜事",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40812,
+      "media_id": 28236518,
+      "title": "随爱而飞",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     }
   ]
 }
