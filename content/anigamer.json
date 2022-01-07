@@ -471,6 +471,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 37062,
+      "anime_sn": 37062,
+      "title": "笨蛋，測驗，召喚獸 第二季",
+      "dc_c1": 6323,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 37289,
       "anime_sn": 37289,
       "title": "假面騎士 FOREVER W - A to Z 命運的記憶體",
@@ -1286,6 +1296,16 @@
       "title": "純潔的瑪利亞",
       "dc_c1": 5563,
       "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 64621,
+      "anime_sn": 64621,
+      "title": "黑色子彈",
+      "dc_c1": 8759,
+      "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -12061,6 +12081,36 @@
       "is_vip": false
     },
     {
+      "acg_sn": 115286,
+      "anime_sn": 112958,
+      "title": "最遊記 RELOAD -ZEROIN-",
+      "dc_c1": 1232,
+      "dc_c2": 10,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120351,
+      "anime_sn": 112959,
+      "title": "東京 24 區",
+      "dc_c1": 40686,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 118940,
+      "anime_sn": 112960,
+      "title": "秘密內幕-女警的反擊",
+      "dc_c1": 39789,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 53619,
       "anime_sn": 112965,
       "title": "機動戰士鋼彈 SEED HD 重製版",
@@ -12076,6 +12126,46 @@
       "title": "艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note- 特別篇",
       "dc_c1": 4267,
       "dc_c2": 74,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 39644,
+      "anime_sn": 112970,
+      "title": "笨蛋，測驗，召喚獸～祭典～",
+      "dc_c1": 6323,
+      "dc_c2": 3,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 115200,
+      "anime_sn": 112975,
+      "title": "東方少年",
+      "dc_c1": 32141,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121202,
+      "anime_sn": 112977,
+      "title": "假面騎士聖刃 + 機界戰隊全界者 超級英雄戰記",
+      "dc_c1": 2562,
+      "dc_c2": 99,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 112304,
+      "anime_sn": 112978,
+      "title": "銀河騎士傳 織愛之星",
+      "dc_c1": 12114,
+      "dc_c2": 11,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
