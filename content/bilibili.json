@@ -122657,6 +122657,14 @@
       "type": 2
     },
     {
+      "season_id": 40264,
+      "media_id": 28235968,
+      "title": "指名！",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40265,
       "media_id": 28235969,
       "title": "笔底烟花",
@@ -126385,6 +126393,14 @@
       "type": 2
     },
     {
+      "season_id": 40777,
+      "media_id": 28236483,
+      "title": "生化寿尸",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40778,
       "media_id": 28236484,
       "title": "对白",
@@ -126447,6 +126463,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40786,
+      "media_id": 28236492,
+      "title": "野外生存100天",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     },
     {
       "season_id": 40787,
@@ -126601,6 +126625,14 @@
       "type": 5
     },
     {
+      "season_id": 40808,
+      "media_id": 28236514,
+      "title": "生死格斗",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40809,
       "media_id": 28236515,
       "title": "福吉小镇",
@@ -126631,6 +126663,142 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40813,
+      "media_id": 28236519,
+      "title": "政协主席",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40814,
+      "media_id": 28236520,
+      "title": "裸雪",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40815,
+      "media_id": 28236521,
+      "title": "浴血红颜",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40816,
+      "media_id": 28236522,
+      "title": "一马三司令",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40817,
+      "media_id": 28236523,
+      "title": "乱世书香",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40818,
+      "media_id": 28236524,
+      "title": "蜂蜜幸运草",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40819,
+      "media_id": 28236525,
+      "title": "老三届",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40820,
+      "media_id": 28236526,
+      "title": "神枪之出生入死",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40821,
+      "media_id": 28236527,
+      "title": "一吻上天堂",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40822,
+      "media_id": 28236528,
+      "title": "费家有女",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40823,
+      "media_id": 28236529,
+      "title": "风筝奇缘",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40824,
+      "media_id": 28236530,
+      "title": "老虎队",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40825,
+      "media_id": 28236531,
+      "title": "热血兵团",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40826,
+      "media_id": 28236532,
+      "title": "爱要有你才完美",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40827,
+      "media_id": 28236533,
+      "title": "幸福起航",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40828,
+      "media_id": 28236534,
+      "title": "大话江湖",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40831,
+      "media_id": 28236537,
+      "title": "丹尼斯·尼尔森的故事",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
