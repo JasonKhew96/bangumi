@@ -2531,16 +2531,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 80400,
-      "anime_sn": 80400,
-      "title": "百無禁忌！女高中生私房話",
-      "dc_c1": 26022,
-      "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 80411,
       "anime_sn": 80411,
       "title": "百獸戰隊 VS 超級戰隊",
@@ -11111,6 +11101,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 111339,
+      "anime_sn": 112849,
+      "title": "終末的後宮",
+      "dc_c1": 27207,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 116661,
       "anime_sn": 112850,
       "title": "大正處女御伽話",
@@ -11228,6 +11228,16 @@
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 111339,
+      "anime_sn": 112862,
+      "title": "終末的後宮 [年齡限制版]",
+      "dc_c1": 27207,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "年齡限制",
       "is_vip": false
     },
     {
@@ -12076,6 +12086,36 @@
       "title": "魔法科高中的劣等生 追憶篇",
       "dc_c1": 17059,
       "dc_c2": 6,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 120416,
+      "anime_sn": 112954,
+      "title": "失格紋的最強賢者",
+      "dc_c1": 29412,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119466,
+      "anime_sn": 112955,
+      "title": "擅長捉弄人的高木同學 第三季",
+      "dc_c1": 26453,
+      "dc_c2": 9,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119114,
+      "anime_sn": 112956,
+      "title": "少女前線",
+      "dc_c1": 28410,
+      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
