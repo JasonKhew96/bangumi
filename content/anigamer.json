@@ -12091,6 +12091,36 @@
       "is_vip": false
     },
     {
+      "acg_sn": 116520,
+      "anime_sn": 112951,
+      "title": "薔薇王的葬列",
+      "dc_c1": 7144,
+      "dc_c2": 6,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 118567,
+      "anime_sn": 112952,
+      "title": "怪人開發部的黑井津小姐",
+      "dc_c1": 39674,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 117001,
+      "anime_sn": 112953,
+      "title": "戀上換裝娃娃",
+      "dc_c1": 20728,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 120416,
       "anime_sn": 112954,
       "title": "失格紋的最強賢者",
@@ -12151,11 +12181,61 @@
       "is_vip": false
     },
     {
+      "acg_sn": 111584,
+      "anime_sn": 112961,
+      "title": "自稱賢者弟子的賢者",
+      "dc_c1": 25492,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 115691,
+      "anime_sn": 112962,
+      "title": "天才王子的赤字國家重生術",
+      "dc_c1": 18021,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 116264,
+      "anime_sn": 112963,
+      "title": "食鏽末世錄",
+      "dc_c1": 34617,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119925,
+      "anime_sn": 112964,
+      "title": "TRIBE NINE",
+      "dc_c1": 40467,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 53619,
       "anime_sn": 112965,
       "title": "機動戰士鋼彈 SEED HD 重製版",
       "dc_c1": 83,
       "dc_c2": 185,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 116555,
+      "anime_sn": 112966,
+      "title": "明日同學的水手服",
+      "dc_c1": 17836,
+      "dc_c2": 3,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -12171,6 +12251,26 @@
       "is_vip": false
     },
     {
+      "acg_sn": 121149,
+      "anime_sn": 112968,
+      "title": "佐佐木與宮野",
+      "dc_c1": 31433,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121150,
+      "anime_sn": 112969,
+      "title": "Futsal Boys！！！！！",
+      "dc_c1": 35646,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 39644,
       "anime_sn": 112970,
       "title": "笨蛋，測驗，召喚獸～祭典～",
@@ -12181,11 +12281,41 @@
       "is_vip": false
     },
     {
+      "acg_sn": 117557,
+      "anime_sn": 112973,
+      "title": "與變成了異世界美少女的大叔一起冒險",
+      "dc_c1": 39275,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 118877,
+      "anime_sn": 112974,
+      "title": "幻想三國誌-天元靈心記",
+      "dc_c1": 2816,
+      "dc_c2": 7,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 115200,
       "anime_sn": 112975,
       "title": "東方少年",
       "dc_c1": 32141,
       "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121151,
+      "anime_sn": 112976,
+      "title": "闇芝居 第十季",
+      "dc_c1": 20173,
+      "dc_c2": 11,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
