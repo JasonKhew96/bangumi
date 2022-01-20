@@ -120825,14 +120825,6 @@
       "type": 5
     },
     {
-      "season_id": 40025,
-      "media_id": 28235725,
-      "title": "中国远征军",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 5
-    },
-    {
       "season_id": 40026,
       "media_id": 28235726,
       "title": "九降风",
@@ -122460,14 +122452,6 @@
       "season_id": 40236,
       "media_id": 28235940,
       "title": "毕业后的日子",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 5
-    },
-    {
-      "season_id": 40237,
-      "media_id": 28235941,
-      "title": "传奇英雄",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
@@ -124643,7 +124627,7 @@
     {
       "season_id": 40520,
       "media_id": 28236225,
-      "title": "命运 冠位指定 冠位时间神殿所罗门",
+      "title": "命运-冠位指定 冠位时间神殿所罗门",
       "is_vip": true,
       "is_exclusive": true,
       "type": 1
@@ -124871,6 +124855,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40552,
+      "media_id": 28236257,
+      "title": "辉夜大小姐想让我告白？ 中配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 40553,
@@ -125449,6 +125441,14 @@
       "type": 5
     },
     {
+      "season_id": 40645,
+      "media_id": 28236351,
+      "title": "兔子机场",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40646,
       "media_id": 28236352,
       "title": "青年霍元甲之威震津门",
@@ -125479,6 +125479,22 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40650,
+      "media_id": 28236356,
+      "title": "变形金刚：救援汽车人 第四季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40651,
+      "media_id": 28236357,
+      "title": "变形金刚：救援汽车人 第四季（中配版）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40652,
@@ -125724,7 +125740,7 @@
       "season_id": 40685,
       "media_id": 28236391,
       "title": "宝可梦：皮卡丘和可可的冒险",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -126265,6 +126281,14 @@
       "type": 2
     },
     {
+      "season_id": 40753,
+      "media_id": 28236459,
+      "title": "干物妹！小埋 粤配版",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40757,
       "media_id": 28236463,
       "title": "愤怒的小鸟 第二季",
@@ -126377,6 +126401,14 @@
       "type": 3
     },
     {
+      "season_id": 40773,
+      "media_id": 28236479,
+      "title": "阿衰 第七季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 40774,
       "media_id": 28236480,
       "title": "我们的纯真年代",
@@ -126395,8 +126427,8 @@
     {
       "season_id": 40776,
       "media_id": 28236482,
-      "title": "新网球王子 冰帝 vs 立海 Game of Future",
-      "is_vip": false,
+      "title": "新网球王子 冰帝 vs 立海 未来之战",
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -126535,6 +126567,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 40794,
+      "media_id": 28236500,
+      "title": "007：无暇赴死",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40795,
@@ -126801,6 +126841,14 @@
       "type": 5
     },
     {
+      "season_id": 40829,
+      "media_id": 28236535,
+      "title": "时尚烟云 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40830,
       "media_id": 28236536,
       "title": "火枪手 第二季",
@@ -127009,6 +127057,22 @@
       "type": 5
     },
     {
+      "season_id": 40857,
+      "media_id": 28236563,
+      "title": "急诊室故事 第一季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40858,
+      "media_id": 28236564,
+      "title": "百年巨匠·马识途（废弃）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 40859,
       "media_id": 28236565,
       "title": "公爵夫人",
@@ -127121,6 +127185,14 @@
       "type": 5
     },
     {
+      "season_id": 40873,
+      "media_id": 28236579,
+      "title": "川尻小玉的懒散生活",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40874,
       "media_id": 28236580,
       "title": "小两口",
@@ -127159,6 +127231,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40879,
+      "media_id": 28236585,
+      "title": "百年巨匠·吴冠中",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
     },
     {
       "season_id": 40880,
@@ -127529,6 +127609,14 @@
       "type": 5
     },
     {
+      "season_id": 40926,
+      "media_id": 28236632,
+      "title": "绿色星球（中配版）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 40927,
       "media_id": 28236633,
       "title": "拯救",
@@ -127633,6 +127721,14 @@
       "type": 5
     },
     {
+      "season_id": 40940,
+      "media_id": 28236646,
+      "title": "闪闪发光的少年",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 40941,
       "media_id": 28236647,
       "title": "李春天的春天",
@@ -127684,7 +127780,7 @@
       "season_id": 40948,
       "media_id": 28236654,
       "title": "亂來！我居然會成為社長（僅限台灣地區）",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 5
     },
@@ -127975,6 +128071,486 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40985,
+      "media_id": 28236691,
+      "title": "埃及艳后的任务",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 40986,
+      "media_id": 28236692,
+      "title": "心愛的謊言~溫柔的黑暗~（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40987,
+      "media_id": 28236693,
+      "title": "三进山城",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40988,
+      "media_id": 28236694,
+      "title": "手枪队",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40989,
+      "media_id": 28236695,
+      "title": "生死大营救",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40990,
+      "media_id": 28236696,
+      "title": "同门兄弟",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40991,
+      "media_id": 28236697,
+      "title": "寻找手艺4",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40992,
+      "media_id": 28236698,
+      "title": "蓝海中国",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 40993,
+      "media_id": 28236699,
+      "title": "特务037",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40994,
+      "media_id": 28236700,
+      "title": "我和我的鬼室友 Something in my room（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 40995,
+      "media_id": 28236701,
+      "title": "爱的契约",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40996,
+      "media_id": 28236702,
+      "title": "大冒险家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40997,
+      "media_id": 28236703,
+      "title": "郎心如铁",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40998,
+      "media_id": 28236704,
+      "title": "那年来了鬼子兵",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 40999,
+      "media_id": 28236705,
+      "title": "无名卫士",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41000,
+      "media_id": 28236706,
+      "title": "駛入心途 My Ride（僅台灣地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41001,
+      "media_id": 28236707,
+      "title": "绿绿星球之绿绿家族",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41002,
+      "media_id": 28236708,
+      "title": "超速",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41003,
+      "media_id": 28236709,
+      "title": "隔壁的阿力（僅限台灣地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41004,
+      "media_id": 28236710,
+      "title": "猫和老鼠：迷失之龙",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41006,
+      "media_id": 28236712,
+      "title": "在下坂本，有何贵干？ 中配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41007,
+      "media_id": 28236713,
+      "title": "三只松鼠和它的小伙伴们",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41008,
+      "media_id": 28236714,
+      "title": "乐儿和果果",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41010,
+      "media_id": 28236716,
+      "title": "百年巨匠·马识途",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41014,
+      "media_id": 28236720,
+      "title": "这么远，那么近",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41015,
+      "media_id": 28236721,
+      "title": "咖宝车神之巨兽时代",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41016,
+      "media_id": 28236722,
+      "title": "半澤直樹（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41017,
+      "media_id": 28236723,
+      "title": "半澤直樹2 (僅限台灣地區)",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41018,
+      "media_id": 28236724,
+      "title": "庞贝末日 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41019,
+      "media_id": 28236725,
+      "title": "康苑巷33号",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41020,
+      "media_id": 28236726,
+      "title": "想咬一口的嘴唇（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41021,
+      "media_id": 28236727,
+      "title": "超级汽车的秘密",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41022,
+      "media_id": 28236728,
+      "title": "出生在奥斯维辛",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41023,
+      "media_id": 28236729,
+      "title": "Color Rush 2（僅限港澳地區） ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41024,
+      "media_id": 28236730,
+      "title": "附属美丽",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41025,
+      "media_id": 28236731,
+      "title": "锡尔斯玛利亚",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41026,
+      "media_id": 28236732,
+      "title": "苗苗",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41027,
+      "media_id": 28236733,
+      "title": "否认",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41040,
+      "media_id": 28236746,
+      "title": "半澤直樹年紀念 第0章 (僅限台灣地區)",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41041,
+      "media_id": 28236747,
+      "title": "飞狗MOCO之星球计划",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41042,
+      "media_id": 28236748,
+      "title": "干物妹！小埋 粵配版（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41043,
+      "media_id": 28236749,
+      "title": "短暂停留",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41044,
+      "media_id": 28236750,
+      "title": "干物妹！小埋 S2 粵配版（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41046,
+      "media_id": 28236752,
+      "title": "万水千山",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41048,
+      "media_id": 28236754,
+      "title": "Ｄｒ．ＳＴＯＮＥ（新石紀）粵配版（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41050,
+      "media_id": 28236756,
+      "title": "太空星征途",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41051,
+      "media_id": 28236757,
+      "title": "約定的夢幻島 粵配版（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41053,
+      "media_id": 28236759,
+      "title": "世界上最疼我的那个人去了",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41054,
+      "media_id": 28236760,
+      "title": "月薪嬌妻 新春特别篇（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41055,
+      "media_id": 28236761,
+      "title": "余暮之歌",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41056,
+      "media_id": 28236762,
+      "title": "天國與地獄（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41057,
+      "media_id": 28236763,
+      "title": "孔雀公主",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41061,
+      "media_id": 28236767,
+      "title": "危險維納斯（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41063,
+      "media_id": 28236769,
+      "title": "TOKYO MER:Mobile Emergency Room行動急診室（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41065,
+      "media_id": 28236771,
+      "title": "复仇：爱的故事",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41066,
+      "media_id": 28236772,
+      "title": "四个小伙伴",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41067,
+      "media_id": 28236773,
+      "title": "动物农场2022",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41068,
+      "media_id": 28236774,
+      "title": "非常小特工之时间大盗 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41070,
+      "media_id": 28236776,
+      "title": "独立之日",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41071,
+      "media_id": 28236777,
+      "title": "情感的哺乳动物",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
