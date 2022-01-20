@@ -1231,6 +1231,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 63283,
+      "anime_sn": 63283,
+      "title": "精靈使的劍舞",
+      "dc_c1": 10401,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 63284,
       "anime_sn": 63284,
       "title": "NO GAME NO LIFE 遊戲人生",
@@ -1746,6 +1756,16 @@
       "title": "白箱 SHIROBAKO",
       "dc_c1": 22854,
       "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 72190,
+      "anime_sn": 72190,
+      "title": "魔法少女奈葉 ViVid",
+      "dc_c1": 5178,
+      "dc_c2": 6,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -12151,6 +12171,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 108080,
+      "anime_sn": 112957,
+      "title": "平凡職業造就世界最強 第二季",
+      "dc_c1": 25676,
+      "dc_c2": 4,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 115286,
       "anime_sn": 112958,
       "title": "最遊記 RELOAD -ZEROIN-",
@@ -12281,6 +12311,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 118590,
+      "anime_sn": 112972,
+      "title": "相愛相殺",
+      "dc_c1": 31334,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 117557,
       "anime_sn": 112973,
       "title": "與變成了異世界美少女的大叔一起冒險",
@@ -12336,6 +12376,56 @@
       "title": "銀河騎士傳 織愛之星",
       "dc_c1": 12114,
       "dc_c2": 11,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 16521,
+      "anime_sn": 112979,
+      "title": "勇者王",
+      "dc_c1": 4499,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 16526,
+      "anime_sn": 112980,
+      "title": "勇者王 FINAL",
+      "dc_c1": 4499,
+      "dc_c2": 3,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121549,
+      "anime_sn": 112981,
+      "title": "烏龍派出所特別篇：最危險的生存遊戲",
+      "dc_c1": 4397,
+      "dc_c2": 31,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121550,
+      "anime_sn": 112982,
+      "title": "烏龍派出所特別篇：終極烏龍警探 兩津勘吉二度逃離鬼門關",
+      "dc_c1": 4397,
+      "dc_c2": 32,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 522,
+      "anime_sn": 112983,
+      "title": "DARKER THAN BLACK -黑之契約者-",
+      "dc_c1": 5472,
+      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
