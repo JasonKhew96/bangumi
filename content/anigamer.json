@@ -12311,6 +12311,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 120235,
+      "anime_sn": 112971,
+      "title": "白領羽球部",
+      "dc_c1": 40637,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 118590,
       "anime_sn": 112972,
       "title": "相愛相殺",
@@ -12427,6 +12437,56 @@
       "dc_c1": 5472,
       "dc_c2": 1,
       "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121949,
+      "anime_sn": 112984,
+      "title": "新 忍者哈特利 第三季",
+      "dc_c1": 3463,
+      "dc_c2": 4,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121552,
+      "anime_sn": 112985,
+      "title": "烏龍派出所特別篇：阿兩的美國行",
+      "dc_c1": 4397,
+      "dc_c2": 33,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 121555,
+      "anime_sn": 112986,
+      "title": "烏龍派出所特別篇：阿兩最大的危機！對手是純正的江戶姑娘",
+      "dc_c1": 4397,
+      "dc_c2": 34,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 122320,
+      "anime_sn": 112987,
+      "title": "烏龍派出所特別篇：我和我自己！？～淺草少年偵探團！～",
+      "dc_c1": 4397,
+      "dc_c2": 35,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 122321,
+      "anime_sn": 112988,
+      "title": "烏龍派出所特別篇：目標！龜有超級巨星！！兩津式偶像之路！",
+      "dc_c1": 4397,
+      "dc_c2": 36,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     }
