@@ -121001,14 +121001,6 @@
       "type": 2
     },
     {
-      "season_id": 40049,
-      "media_id": 28235749,
-      "title": "冰是睡着的水",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 5
-    },
-    {
       "season_id": 40050,
       "media_id": 28235750,
       "title": "无穷之路",
@@ -121159,6 +121151,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 40070,
+      "media_id": 28235770,
+      "title": "乌鸦谋杀案",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 40071,
@@ -122457,6 +122457,14 @@
       "type": 5
     },
     {
+      "season_id": 40237,
+      "media_id": 28235941,
+      "title": "传奇英雄",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 40238,
       "media_id": 28235942,
       "title": "大漠情怨",
@@ -122708,6 +122716,14 @@
       "season_id": 40272,
       "media_id": 28235976,
       "title": "室内足球少年!!!!!",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40273,
+      "media_id": 28235977,
+      "title": "一杆青空",
       "is_vip": true,
       "is_exclusive": false,
       "type": 1
@@ -124433,6 +124449,14 @@
       "type": 3
     },
     {
+      "season_id": 40493,
+      "media_id": 28236198,
+      "title": "爱的成人式",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 40494,
       "media_id": 28236199,
       "title": "爱情碎片",
@@ -125529,12 +125553,28 @@
       "type": 5
     },
     {
+      "season_id": 40656,
+      "media_id": 28236362,
+      "title": "流言终结者（中配版）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 40657,
       "media_id": 28236363,
       "title": "警方110",
       "is_vip": false,
       "is_exclusive": false,
       "type": 5
+    },
+    {
+      "season_id": 40658,
+      "media_id": 28236364,
+      "title": "富豪谷底求翻身 第二季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
     },
     {
       "season_id": 40659,
@@ -126289,6 +126329,30 @@
       "type": 1
     },
     {
+      "season_id": 40754,
+      "media_id": 28236460,
+      "title": "干物妹！小埋R 粤配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40755,
+      "media_id": 28236461,
+      "title": "约定的梦幻岛 粤配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 40756,
+      "media_id": 28236462,
+      "title": "愤怒的小鸟 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40757,
       "media_id": 28236463,
       "title": "愤怒的小鸟 第二季",
@@ -126305,9 +126369,25 @@
       "type": 1
     },
     {
+      "season_id": 40759,
+      "media_id": 28236465,
+      "title": "愤怒的小鸟：猪猪传 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 40760,
       "media_id": 28236466,
       "title": "愤怒的小鸟：猪猪传 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 40761,
+      "media_id": 28236467,
+      "title": "愤怒的小鸟：史黛拉 第一季",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
@@ -126599,6 +126679,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 40798,
+      "media_id": 28236504,
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 粤配版",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 40799,
@@ -127061,14 +127149,6 @@
       "media_id": 28236563,
       "title": "急诊室故事 第一季",
       "is_vip": true,
-      "is_exclusive": false,
-      "type": 3
-    },
-    {
-      "season_id": 40858,
-      "media_id": 28236564,
-      "title": "百年巨匠·马识途（废弃）",
-      "is_vip": false,
       "is_exclusive": false,
       "type": 3
     },
@@ -127769,6 +127849,14 @@
       "type": 5
     },
     {
+      "season_id": 40946,
+      "media_id": 28236652,
+      "title": "龙腾虎跃大湾区-2022广东卫视春节晚会",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 40947,
       "media_id": 28236653,
       "title": "浴血十四年",
@@ -128233,6 +128321,14 @@
       "type": 2
     },
     {
+      "season_id": 41005,
+      "media_id": 28236711,
+      "title": "鬼灭之刃 无限列车篇 中配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 41006,
       "media_id": 28236712,
       "title": "在下坂本，有何贵干？ 中配版",
@@ -128257,12 +128353,44 @@
       "type": 4
     },
     {
+      "season_id": 41009,
+      "media_id": 28236715,
+      "title": "小林家的龙女仆 中配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 41010,
       "media_id": 28236716,
       "title": "百年巨匠·马识途",
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41011,
+      "media_id": 28236717,
+      "title": "pop子和pipi美的日常 中配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41012,
+      "media_id": 28236718,
+      "title": "海绵宝宝",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41013,
+      "media_id": 28236719,
+      "title": "海绵宝宝 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 41014,
@@ -128489,10 +128617,34 @@
       "type": 2
     },
     {
+      "season_id": 41059,
+      "media_id": 28236765,
+      "title": "三十而已（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41060,
+      "media_id": 28236766,
+      "title": "長歌行（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 41061,
       "media_id": 28236767,
       "title": "危險維納斯（僅限台灣地區）",
       "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41062,
+      "media_id": 28236768,
+      "title": "火枪手 第三季",
+      "is_vip": true,
       "is_exclusive": false,
       "type": 5
     },
@@ -128521,20 +128673,20 @@
       "type": 2
     },
     {
-      "season_id": 41067,
-      "media_id": 28236773,
-      "title": "动物农场2022",
-      "is_vip": false,
-      "is_exclusive": true,
-      "type": 3
-    },
-    {
       "season_id": 41068,
       "media_id": 28236774,
       "title": "非常小特工之时间大盗 ",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41069,
+      "media_id": 28236775,
+      "title": "#家族募集中（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 41070,
@@ -128551,6 +128703,574 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41072,
+      "media_id": 28236778,
+      "title": "结局",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41073,
+      "media_id": 28236779,
+      "title": "减肥之外",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41074,
+      "media_id": 28236780,
+      "title": "寻找亚特兰蒂斯",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41075,
+      "media_id": 28236781,
+      "title": "生日快乐",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41076,
+      "media_id": 28236782,
+      "title": "老师与流浪猫",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41077,
+      "media_id": 28236783,
+      "title": "川味之乡厨",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41078,
+      "media_id": 28236784,
+      "title": "流星之绊",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41079,
+      "media_id": 28236785,
+      "title": "汪汪队立大功 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41080,
+      "media_id": 28236786,
+      "title": "汪汪队立大功 第二季 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41081,
+      "media_id": 28236787,
+      "title": "川味之乡厨（四川话配音）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41082,
+      "media_id": 28236788,
+      "title": "向前一步",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41083,
+      "media_id": 28236789,
+      "title": "我先说句公道话",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41084,
+      "media_id": 28236790,
+      "title": "不安之书",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41085,
+      "media_id": 28236791,
+      "title": "枝蔓交错的季节",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41087,
+      "media_id": 28236793,
+      "title": "潜行天下",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41088,
+      "media_id": 28236794,
+      "title": "无忧无虑 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41089,
+      "media_id": 28236795,
+      "title": "王子与我 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41090,
+      "media_id": 28236796,
+      "title": "无名小卒 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41091,
+      "media_id": 28236797,
+      "title": "征服暴风浪",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41092,
+      "media_id": 28236798,
+      "title": "黑店狂想曲",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41093,
+      "media_id": 28236799,
+      "title": "西安人的歌",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41094,
+      "media_id": 28236800,
+      "title": "2022山东春节联欢晚会",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41095,
+      "media_id": 28236801,
+      "title": "虎年福见欢喜就好2022福建新春欢喜夜",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41096,
+      "media_id": 28236802,
+      "title": "变形联盟",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41097,
+      "media_id": 28236803,
+      "title": "稍息立正我愛你（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41098,
+      "media_id": 28236804,
+      "title": "偷星九月天·异世界 动态漫",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41099,
+      "media_id": 28236805,
+      "title": "小品一家人之篮球小将",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41100,
+      "media_id": 28236806,
+      "title": "小品一家人之奇幻世界",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41101,
+      "media_id": 28236807,
+      "title": "红圈 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41102,
+      "media_id": 28236808,
+      "title": "三三的冰雪世界",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41103,
+      "media_id": 28236809,
+      "title": "重逢",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41104,
+      "media_id": 28236810,
+      "title": "白鸽",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41105,
+      "media_id": 28236811,
+      "title": "厨房里有哲学家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41115,
+      "media_id": 28236821,
+      "title": "之一",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41116,
+      "media_id": 28236822,
+      "title": "必娶女人（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41117,
+      "media_id": 28236823,
+      "title": "宴",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41118,
+      "media_id": 28236824,
+      "title": "奇趣美术馆3",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41119,
+      "media_id": 28236825,
+      "title": "琅琊榜（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41121,
+      "media_id": 28236827,
+      "title": "过年",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41122,
+      "media_id": 28236828,
+      "title": "驶离长夜",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41123,
+      "media_id": 28236829,
+      "title": "爱情傻瓜",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41124,
+      "media_id": 28236830,
+      "title": "不平凡的年味",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41125,
+      "media_id": 28236831,
+      "title": "你是我的氧氣（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41126,
+      "media_id": 28236832,
+      "title": "在魔鬼知道你死前",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41127,
+      "media_id": 28236833,
+      "title": "赛尔号 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41128,
+      "media_id": 28236834,
+      "title": "百年巨匠·饶宗颐",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41131,
+      "media_id": 28236837,
+      "title": "明亮的心",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41132,
+      "media_id": 28236838,
+      "title": "赛尔号 ",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41138,
+      "media_id": 28236844,
+      "title": "銀魂 THE FINAL（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41139,
+      "media_id": 28236845,
+      "title": "一百样东西 ",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41140,
+      "media_id": 28236846,
+      "title": "2022川渝春节联欢晚会",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41141,
+      "media_id": 28236847,
+      "title": "野林",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41143,
+      "media_id": 28236849,
+      "title": "纪录片2月新片",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41144,
+      "media_id": 28236850,
+      "title": "盗火线 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41145,
+      "media_id": 28236851,
+      "title": "珍妮花",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41146,
+      "media_id": 28236852,
+      "title": "打出众",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41148,
+      "media_id": 28236854,
+      "title": "盐的奥秘",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41149,
+      "media_id": 28236855,
+      "title": "天井里的年",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41152,
+      "media_id": 28236858,
+      "title": "銀魂 THE FINAL（僅限港澳地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41153,
+      "media_id": 28236859,
+      "title": "在京都小住 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41154,
+      "media_id": 28236860,
+      "title": "春雨过境",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41156,
+      "media_id": 28236862,
+      "title": "丝路筑梦 和美与共 2022丝路嘉年华暨丝路春晚",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41162,
+      "media_id": 28236868,
+      "title": "决胜21点",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41163,
+      "media_id": 28236869,
+      "title": "椿",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41164,
+      "media_id": 28236870,
+      "title": "举目凝望",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41165,
+      "media_id": 28236871,
+      "title": "小树和她的影子",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41166,
+      "media_id": 28236872,
+      "title": "姐姐·弟弟",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41172,
+      "media_id": 28236878,
+      "title": "孔子之道",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41184,
+      "media_id": 28236891,
+      "title": "年画·画年 第2季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41185,
+      "media_id": 28236892,
+      "title": "曾经",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41187,
+      "media_id": 28236894,
+      "title": "小小朱历史课",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     }
   ]
 }
