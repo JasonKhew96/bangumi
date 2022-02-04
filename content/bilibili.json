@@ -122481,6 +122481,14 @@
       "type": 5
     },
     {
+      "season_id": 40241,
+      "media_id": 28235945,
+      "title": "东京24区",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 40242,
       "media_id": 28235946,
       "title": "女孩的钓鱼慢活",
@@ -128505,6 +128513,102 @@
       "type": 2
     },
     {
+      "season_id": 41028,
+      "media_id": 28236734,
+      "title": "奥特银河格斗 巨大阴谋",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41029,
+      "media_id": 28236735,
+      "title": "奥特银河格斗 巨大阴谋（中配）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41030,
+      "media_id": 28236736,
+      "title": "奥特英雄传 赛罗与捷德",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41031,
+      "media_id": 28236737,
+      "title": "奥特英雄传 赛罗与捷德（中配）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41032,
+      "media_id": 28236738,
+      "title": "泰迦奥特曼剧场版 新生代之巅",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41033,
+      "media_id": 28236739,
+      "title": "泰迦奥特曼剧场版 新生代之巅（中配）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41034,
+      "media_id": 28236740,
+      "title": "小怪兽成长日记 蹒跚学步 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41035,
+      "media_id": 28236741,
+      "title": "小怪兽成长日记 蹒跚学步 第二季（中配）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41036,
+      "media_id": 28236742,
+      "title": "银河奥特曼S",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41037,
+      "media_id": 28236743,
+      "title": "银河奥特曼S（中配）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41038,
+      "media_id": 28236744,
+      "title": "奥特银河格斗 新生代英雄",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41039,
+      "media_id": 28236745,
+      "title": "奥特银河格斗 新生代英雄（中配）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41040,
       "media_id": 28236746,
       "title": "半澤直樹年紀念 第0章 (僅限台灣地區)",
@@ -129009,6 +129113,14 @@
       "type": 5
     },
     {
+      "season_id": 41120,
+      "media_id": 28236826,
+      "title": "老广的味道 第七季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41121,
       "media_id": 28236827,
       "title": "过年",
@@ -129089,6 +129201,22 @@
       "type": 4
     },
     {
+      "season_id": 41136,
+      "media_id": 28236842,
+      "title": "《长城长》第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41137,
+      "media_id": 28236843,
+      "title": "快乐站你这边",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
       "season_id": 41138,
       "media_id": 28236844,
       "title": "銀魂 THE FINAL（僅限台灣地區）",
@@ -129121,9 +129249,17 @@
       "type": 2
     },
     {
+      "season_id": 41142,
+      "media_id": 28236848,
+      "title": "堀与宫村",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 2
+    },
+    {
       "season_id": 41143,
       "media_id": 28236849,
-      "title": "纪录片2月新片",
+      "title": "盛会",
       "is_vip": true,
       "is_exclusive": true,
       "type": 3
@@ -129169,6 +129305,14 @@
       "type": 2
     },
     {
+      "season_id": 41150,
+      "media_id": 28236856,
+      "title": "家在时光深处",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41152,
       "media_id": 28236858,
       "title": "銀魂 THE FINAL（僅限港澳地區）",
@@ -129199,6 +129343,30 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 7
+    },
+    {
+      "season_id": 41159,
+      "media_id": 28236865,
+      "title": "环游地球八十天",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41160,
+      "media_id": 28236866,
+      "title": "波西米亚狂想曲 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41161,
+      "media_id": 28236867,
+      "title": "了不起的狐狸爸爸 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     },
     {
       "season_id": 41162,
@@ -129241,12 +129409,92 @@
       "type": 2
     },
     {
+      "season_id": 41167,
+      "media_id": 28236873,
+      "title": "捉鬼敢死队",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41168,
+      "media_id": 28236874,
+      "title": "龙纹身的女孩 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41169,
+      "media_id": 28236875,
+      "title": "精英部队2：大敌当前 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41170,
+      "media_id": 28236876,
+      "title": "咒怨",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41171,
+      "media_id": 28236877,
+      "title": "深红累之渊",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 2
+    },
+    {
       "season_id": 41172,
       "media_id": 28236878,
       "title": "孔子之道",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 41173,
+      "media_id": 28236880,
+      "title": "比得兔",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41176,
+      "media_id": 28236883,
+      "title": "洛奇",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41177,
+      "media_id": 28236884,
+      "title": "洛奇3",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41182,
+      "media_id": 28236889,
+      "title": "洛奇2",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41183,
+      "media_id": 28236890,
+      "title": "剑心之路",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
     },
     {
       "season_id": 41184,
@@ -129265,12 +129513,76 @@
       "type": 2
     },
     {
+      "season_id": 41186,
+      "media_id": 28236893,
+      "title": "亲密关系",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41187,
       "media_id": 28236894,
       "title": "小小朱历史课",
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 41188,
+      "media_id": 28236895,
+      "title": "门开九重",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41189,
+      "media_id": 28236896,
+      "title": "Evelyn",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41190,
+      "media_id": 28236897,
+      "title": "台江味",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41191,
+      "media_id": 28236899,
+      "title": "中国梦•我的梦 2022中国网络视听年度盛典",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41192,
+      "media_id": 28236900,
+      "title": "国宝里的新疆",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41194,
+      "media_id": 28236902,
+      "title": "在人间",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41195,
+      "media_id": 28236903,
+      "title": "忏悔",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
