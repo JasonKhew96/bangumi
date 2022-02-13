@@ -2831,6 +2831,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 82121,
+      "anime_sn": 82121,
+      "title": "喵阿楞！",
+      "dc_c1": 5200,
+      "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 82251,
       "anime_sn": 82251,
       "title": "無畏魔女",
@@ -12467,6 +12477,36 @@
       "dc_c1": 4397,
       "dc_c2": 36,
       "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 71892,
+      "anime_sn": 112989,
+      "title": "元氣少女緣結神 第二季",
+      "dc_c1": 6037,
+      "dc_c2": 5,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 27298,
+      "anime_sn": 112990,
+      "title": "抓狂一族",
+      "dc_c1": 5203,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 122499,
+      "anime_sn": 112991,
+      "title": "天裝戰隊護星者 VS 真劍者 Epic on 銀幕",
+      "dc_c1": 5172,
+      "dc_c2": 131,
+      "is_bilingual": false,
       "edition": "",
       "is_vip": false
     }
