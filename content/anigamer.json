@@ -8761,16 +8761,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 115165,
-      "anime_sn": 112590,
-      "title": "劇場版 假面騎士 Build Be The One",
-      "dc_c1": 2562,
-      "dc_c2": 86,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 38943,
       "anime_sn": 112591,
       "title": "傷物語 I 鐵血篇",
@@ -8846,16 +8836,6 @@
       "title": "無頭騎士異聞錄 DuRaRaRa!!",
       "dc_c1": 6786,
       "dc_c2": 1,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
-      "acg_sn": 102349,
-      "anime_sn": 112599,
-      "title": "假面騎士 平成世代 Forever",
-      "dc_c1": 2562,
-      "dc_c2": 75,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -12506,6 +12486,16 @@
       "title": "天裝戰隊護星者 VS 真劍者 Epic on 銀幕",
       "dc_c1": 5172,
       "dc_c2": 131,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 122748,
+      "anime_sn": 112994,
+      "title": "川尻小玉的懶散生活",
+      "dc_c1": 42210,
+      "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
