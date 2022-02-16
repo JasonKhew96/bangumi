@@ -129929,6 +129929,14 @@
       "type": 2
     },
     {
+      "season_id": 41227,
+      "media_id": 28236935,
+      "title": "2022 B站元宵晚会《上元千灯会》",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
       "season_id": 41228,
       "media_id": 28236936,
       "title": "思维空间",
@@ -129953,12 +129961,44 @@
       "type": 2
     },
     {
+      "season_id": 41231,
+      "media_id": 28236939,
+      "title": "菜菜子职场大作战",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41232,
+      "media_id": 28236940,
+      "title": "乡村爱情 第1季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41233,
+      "media_id": 28236941,
+      "title": "2022山东卫视欢乐元宵夜",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 41234,
       "media_id": 28236942,
       "title": "崛與宮村（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": true,
       "type": 2
+    },
+    {
+      "season_id": 41236,
+      "media_id": 28236944,
+      "title": "大唐女法醫（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
     },
     {
       "season_id": 41239,
@@ -129999,6 +130039,150 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41244,
+      "media_id": 28236952,
+      "title": "离婚大战",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41245,
+      "media_id": 28236953,
+      "title": "能量战士 中文配音",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41246,
+      "media_id": 28236954,
+      "title": "2022广东卫视元宵节特别节目《龙腾虎跃闹元宵》",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41247,
+      "media_id": 28236955,
+      "title": "不期而愛 Love By Chance (僅限港澳台地區)",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41248,
+      "media_id": 28236956,
+      "title": "两天一夜",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41249,
+      "media_id": 28236957,
+      "title": "大豆田永久子与三名前夫",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41250,
+      "media_id": 28236958,
+      "title": "武林志",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41251,
+      "media_id": 28236959,
+      "title": "山友都市女人們",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41252,
+      "media_id": 28236960,
+      "title": "孤独星球",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41253,
+      "media_id": 28236961,
+      "title": "青春須早為（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41254,
+      "media_id": 28236962,
+      "title": "偶然成為社長 第二季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41255,
+      "media_id": 28236963,
+      "title": "菲利普船长",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41256,
+      "media_id": 28236964,
+      "title": "2021 B站中秋晚会《花好月圆会》",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
+      "season_id": 41257,
+      "media_id": 28236965,
+      "title": "五號男子宿舍（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41258,
+      "media_id": 28236966,
+      "title": "生命如歌",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41261,
+      "media_id": 28236969,
+      "title": "失业皇帝",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41262,
+      "media_id": 28236970,
+      "title": "甜心派 Cutie Pie (僅限港澳台地區)",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41263,
+      "media_id": 28236971,
+      "title": "小车神",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
     }
   ]
 }
