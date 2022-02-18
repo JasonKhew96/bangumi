@@ -301,16 +301,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 30088,
-      "anime_sn": 30088,
-      "title": "劇場版 命運 / 停駐之夜 UNLIMITED BLADE WORKS",
-      "dc_c1": 4267,
-      "dc_c2": 16,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": true
-    },
-    {
       "acg_sn": 30499,
       "anime_sn": 30499,
       "title": "城市獵人 2",
@@ -12491,10 +12481,40 @@
       "is_vip": false
     },
     {
+      "acg_sn": 18168,
+      "anime_sn": 112992,
+      "title": "魔動王",
+      "dc_c1": 6750,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 526,
+      "anime_sn": 112993,
+      "title": "閃電霹靂車",
+      "dc_c1": 2979,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 122748,
       "anime_sn": 112994,
       "title": "川尻小玉的懶散生活",
       "dc_c1": 42210,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 176,
+      "anime_sn": 112995,
+      "title": "零之使魔",
+      "dc_c1": 5192,
       "dc_c2": 1,
       "is_bilingual": false,
       "edition": "",
