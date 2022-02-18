@@ -129425,6 +129425,14 @@
       "type": 2
     },
     {
+      "season_id": 41151,
+      "media_id": 28236857,
+      "title": "朱妮托尼儿歌",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41152,
       "media_id": 28236858,
       "title": "銀魂 THE FINAL（僅限港澳地區）",
@@ -129849,6 +129857,14 @@
       "type": 2
     },
     {
+      "season_id": 41214,
+      "media_id": 28236922,
+      "title": "朱妮托尼儿歌 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41215,
       "media_id": 28236923,
       "title": "聚离",
@@ -129909,6 +129925,14 @@
       "media_id": 28236931,
       "title": "少年志",
       "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41224,
+      "media_id": 28236932,
+      "title": "急诊室故事 第二季",
+      "is_vip": true,
       "is_exclusive": false,
       "type": 3
     },
@@ -130161,6 +130185,14 @@
       "type": 2
     },
     {
+      "season_id": 41259,
+      "media_id": 28236967,
+      "title": "太阳底下",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41261,
       "media_id": 28236969,
       "title": "失业皇帝",
@@ -130183,6 +130215,46 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 41265,
+      "media_id": 28236973,
+      "title": "普通人家",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41266,
+      "media_id": 28236974,
+      "title": "寂静",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41267,
+      "media_id": 28236975,
+      "title": "超级整蛊霸王",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41268,
+      "media_id": 28236976,
+      "title": "王牌辯護人（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41269,
+      "media_id": 28236977,
+      "title": "侠女十三妹",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
