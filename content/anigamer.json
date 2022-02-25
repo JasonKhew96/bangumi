@@ -7536,7 +7536,7 @@
       "title": "咒術迴戰",
       "dc_c1": 33699,
       "dc_c2": 1,
-      "is_bilingual": false,
+      "is_bilingual": true,
       "edition": "",
       "is_vip": false
     },
@@ -12516,6 +12516,16 @@
       "title": "零之使魔",
       "dc_c1": 5192,
       "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119155,
+      "anime_sn": 112996,
+      "title": "Fate/Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram",
+      "dc_c1": 22734,
+      "dc_c2": 13,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
