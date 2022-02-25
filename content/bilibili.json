@@ -129265,6 +129265,14 @@
       "type": 5
     },
     {
+      "season_id": 41130,
+      "media_id": 28236836,
+      "title": "精装难兄难弟",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41131,
       "media_id": 28236837,
       "title": "明亮的心",
@@ -130011,7 +130019,7 @@
     {
       "season_id": 41234,
       "media_id": 28236942,
-      "title": "崛與宮村（僅限港澳台地區）",
+      "title": "堀與宮村（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": true,
       "type": 2
@@ -130172,7 +130180,7 @@
       "season_id": 41257,
       "media_id": 28236965,
       "title": "五號男子宿舍（僅限港澳台地區）",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 5
     },
@@ -130217,6 +130225,14 @@
       "type": 4
     },
     {
+      "season_id": 41264,
+      "media_id": 28236972,
+      "title": "待到重逢時 Untill We Meet Again（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 41265,
       "media_id": 28236973,
       "title": "普通人家",
@@ -130252,6 +130268,246 @@
       "season_id": 41269,
       "media_id": 28236977,
       "title": "侠女十三妹",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41270,
+      "media_id": 28236978,
+      "title": "今生，请多指教",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41271,
+      "media_id": 28236979,
+      "title": "今生，请多指教2",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41272,
+      "media_id": 28236980,
+      "title": "琉璃（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41273,
+      "media_id": 28236981,
+      "title": "怪兽屋",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41274,
+      "media_id": 28236982,
+      "title": "夕照街",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41275,
+      "media_id": 28236983,
+      "title": "外事警察：不要被那个男人骗了 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41276,
+      "media_id": 28236984,
+      "title": "第三类接触",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41277,
+      "media_id": 28236985,
+      "title": "朱诺",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41278,
+      "media_id": 28236986,
+      "title": "一天",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41279,
+      "media_id": 28236987,
+      "title": "太祐",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41280,
+      "media_id": 28236988,
+      "title": "妙探",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41281,
+      "media_id": 28236989,
+      "title": "小凉帽之魔法凉帽",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41282,
+      "media_id": 28236990,
+      "title": "Doctor X 第七季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41283,
+      "media_id": 28236991,
+      "title": "小凉帽3之白豚湾奇遇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41284,
+      "media_id": 28236992,
+      "title": "探索中国奶粉新高度",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41285,
+      "media_id": 28236993,
+      "title": "送你一片温柔",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41287,
+      "media_id": 28236995,
+      "title": "迷你天线宝宝",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41288,
+      "media_id": 28236996,
+      "title": "失意者联盟",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
+      "season_id": 41290,
+      "media_id": 28236998,
+      "title": "美食、祈祷和恋爱",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41292,
+      "media_id": 28237000,
+      "title": "冷库",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41293,
+      "media_id": 28237001,
+      "title": "十二譚（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41294,
+      "media_id": 28237002,
+      "title": "女人国的污染报告",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41295,
+      "media_id": 28237003,
+      "title": "碑",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41298,
+      "media_id": 28237006,
+      "title": "司藤（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41299,
+      "media_id": 28237007,
+      "title": "千金",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41300,
+      "media_id": 28237008,
+      "title": "一千零一夜（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41301,
+      "media_id": 28237009,
+      "title": "一个烂赌的传说",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41302,
+      "media_id": 28237010,
+      "title": "新西遊記8",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41303,
+      "media_id": 28237011,
+      "title": "无人看护",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41304,
+      "media_id": 28237012,
+      "title": "捉鬼敢死队2",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
