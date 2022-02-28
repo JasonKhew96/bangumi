@@ -130457,6 +130457,14 @@
       "type": 2
     },
     {
+      "season_id": 41296,
+      "media_id": 28237004,
+      "title": "板上传奇",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41298,
       "media_id": 28237006,
       "title": "司藤（僅限台灣地區）",
@@ -130511,6 +130519,78 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41305,
+      "media_id": 28237013,
+      "title": "蜡笔小新：梦境世界大突击",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41306,
+      "media_id": 28237014,
+      "title": "马大帅2",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41307,
+      "media_id": 28237015,
+      "title": "香奈儿秘密情史",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41308,
+      "media_id": 28237016,
+      "title": "美国往事",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41309,
+      "media_id": 28237017,
+      "title": "天使图书馆",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41310,
+      "media_id": 28237018,
+      "title": "诗歌天使",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41311,
+      "media_id": 28237019,
+      "title": "再造战士",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41313,
+      "media_id": 28237021,
+      "title": "工程大麻烦",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41316,
+      "media_id": 28237024,
+      "title": "司法科技 守护安全",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
