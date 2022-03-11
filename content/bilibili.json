@@ -128721,6 +128721,14 @@
       "type": 2
     },
     {
+      "season_id": 41058,
+      "media_id": 28236764,
+      "title": "仁显王后的男人 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 41059,
       "media_id": 28236765,
       "title": "三十而已（僅限台灣地區）",
@@ -130025,6 +130033,14 @@
       "type": 2
     },
     {
+      "season_id": 41235,
+      "media_id": 28236943,
+      "title": "哆啦A梦：伴我同行",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41236,
       "media_id": 28236944,
       "title": "大唐女法醫（僅限台灣地區）",
@@ -130465,6 +130481,14 @@
       "type": 3
     },
     {
+      "season_id": 41297,
+      "media_id": 28237005,
+      "title": "海岬的迷途之家 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 2
+    },
+    {
       "season_id": 41298,
       "media_id": 28237006,
       "title": "司藤（僅限台灣地區）",
@@ -130577,6 +130601,14 @@
       "type": 2
     },
     {
+      "season_id": 41312,
+      "media_id": 28237020,
+      "title": "勇闯无人之境",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 41313,
       "media_id": 28237021,
       "title": "工程大麻烦",
@@ -130585,12 +130617,420 @@
       "type": 3
     },
     {
+      "season_id": 41314,
+      "media_id": 28237022,
+      "title": "谷粒",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41315,
+      "media_id": 28237023,
+      "title": "偷猎者",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41316,
       "media_id": 28237024,
       "title": "司法科技 守护安全",
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41317,
+      "media_id": 28237025,
+      "title": "鳄鱼波鞋走天涯",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41318,
+      "media_id": 28237026,
+      "title": "新西遊記7",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41319,
+      "media_id": 28237027,
+      "title": "一叶小舟",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41320,
+      "media_id": 28237028,
+      "title": "变形金刚：救援汽车人 第三季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41321,
+      "media_id": 28237029,
+      "title": "变形金刚：救援汽车人 第三季 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41322,
+      "media_id": 28237030,
+      "title": "小恐龙可可奈 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41323,
+      "media_id": 28237031,
+      "title": "洛克人：全面充能 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41324,
+      "media_id": 28237032,
+      "title": "洛克人：全面充能 第一季 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41326,
+      "media_id": 28237034,
+      "title": "狙击手：特别行动",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41327,
+      "media_id": 28237035,
+      "title": "天堂回信",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41328,
+      "media_id": 28237036,
+      "title": "东归英雄传",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41329,
+      "media_id": 28237037,
+      "title": "宠物",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41330,
+      "media_id": 28237038,
+      "title": "伞",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41331,
+      "media_id": 28237039,
+      "title": "烈火如歌（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41332,
+      "media_id": 28237040,
+      "title": "天使与魔鬼",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41335,
+      "media_id": 28237043,
+      "title": "神秘博士 第十三季 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41336,
+      "media_id": 28237044,
+      "title": "碧血宝刀",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41337,
+      "media_id": 28237045,
+      "title": "一不小心撿到愛（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41338,
+      "media_id": 28237046,
+      "title": "界",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41339,
+      "media_id": 28237047,
+      "title": "机智的监狱生活",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41340,
+      "media_id": 28237048,
+      "title": "历史小胶囊",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41341,
+      "media_id": 28237049,
+      "title": "音乐僵尸",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41343,
+      "media_id": 28237051,
+      "title": "生和活",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41344,
+      "media_id": 28237052,
+      "title": "今夜今夜多烦忧",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41345,
+      "media_id": 28237053,
+      "title": "大丈夫",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41346,
+      "media_id": 28237054,
+      "title": "勇敢者游戏：决战丛林",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41347,
+      "media_id": 28237055,
+      "title": "疯狂的乔治王",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41348,
+      "media_id": 28237056,
+      "title": "综艺哔哔姬",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 7
+    },
+    {
+      "season_id": 41351,
+      "media_id": 28237059,
+      "title": "姑苏一怪",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41352,
+      "media_id": 28237060,
+      "title": "结婚大作战",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41353,
+      "media_id": 28237061,
+      "title": "须臾",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41354,
+      "media_id": 28237062,
+      "title": "我的母亲",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41355,
+      "media_id": 28237063,
+      "title": "神秘博士：戴立克的前夜 ",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41358,
+      "media_id": 28237066,
+      "title": "西雅图未眠夜",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41359,
+      "media_id": 28237067,
+      "title": "无名三侠客",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41360,
+      "media_id": 28237068,
+      "title": "爱乐之都",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41361,
+      "media_id": 28237069,
+      "title": "格拉汉姆·诺顿秀 第二十八季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41362,
+      "media_id": 28237070,
+      "title": "余健的想法",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41363,
+      "media_id": 28237071,
+      "title": "卧底肥妈",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41365,
+      "media_id": 28237073,
+      "title": "英雄劫",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41366,
+      "media_id": 28237074,
+      "title": "是王者啊？",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41367,
+      "media_id": 28237075,
+      "title": "热浴盆时光机2",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41369,
+      "media_id": 28237077,
+      "title": "嶏漬䎴2嶏漬䎴䎴嶏漬",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41370,
+      "media_id": 28237078,
+      "title": "我身体里有棵玉米",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41371,
+      "media_id": 28237079,
+      "title": "花千骨（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41372,
+      "media_id": 28237080,
+      "title": "血案疑踪",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41374,
+      "media_id": 28237082,
+      "title": "疾风劲射第一季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41375,
+      "media_id": 28237083,
+      "title": "斗破苍穹之大主宰 动态漫 第四季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41377,
+      "media_id": 28237085,
+      "title": "鲨滩",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
