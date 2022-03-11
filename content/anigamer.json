@@ -181,6 +181,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 20024,
+      "anime_sn": 20024,
+      "title": "蒸汽男孩",
+      "dc_c1": 4211,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 20488,
       "anime_sn": 20488,
       "title": "五星物語 劇場版",
@@ -586,6 +596,16 @@
       "title": "花開物語",
       "dc_c1": 12224,
       "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 40552,
+      "anime_sn": 40552,
+      "title": "電影 K-ON！輕音部",
+      "dc_c1": 7705,
+      "dc_c2": 4,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -3905,7 +3925,7 @@
       "anime_sn": 90639,
       "title": "Aikatsu! 偶像學園！第4季",
       "dc_c1": 17710,
-      "dc_c2": 0,
+      "dc_c2": 20,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -10431,6 +10451,56 @@
       "is_vip": false
     },
     {
+      "acg_sn": 32238,
+      "anime_sn": 112761,
+      "title": "電影 哆啦A夢 大雄的宇宙漂流記",
+      "dc_c1": 1017,
+      "dc_c2": 39,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32234,
+      "anime_sn": 112762,
+      "title": "電影 哆啦A夢 大雄的太陽王傳說",
+      "dc_c1": 1017,
+      "dc_c2": 36,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32240,
+      "anime_sn": 112763,
+      "title": "電影 哆啦A夢 大雄與翼之勇者",
+      "dc_c1": 1017,
+      "dc_c2": 41,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32224,
+      "anime_sn": 112764,
+      "title": "電影 哆啦A夢 大雄與機器人王國",
+      "dc_c1": 1017,
+      "dc_c2": 35,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32223,
+      "anime_sn": 112765,
+      "title": "電影 哆啦A夢 大雄與風之使者",
+      "dc_c1": 1017,
+      "dc_c2": 34,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 86468,
       "anime_sn": 112766,
       "title": "櫻花任務",
@@ -10486,6 +10556,26 @@
       "title": "為美好的世界獻上祝福！紅傳說",
       "dc_c1": 22775,
       "dc_c2": 6,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 26577,
+      "anime_sn": 112772,
+      "title": "電影 哆啦A夢 大雄的貓狗時空傳",
+      "dc_c1": 1017,
+      "dc_c2": 18,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 26582,
+      "anime_sn": 112773,
+      "title": "電影 哆啦A夢 新大雄的恐龍",
+      "dc_c1": 1017,
+      "dc_c2": 12,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -10611,6 +10701,36 @@
       "is_vip": false
     },
     {
+      "acg_sn": 26581,
+      "anime_sn": 112788,
+      "title": "電影 哆啦A夢 大雄的新魔界大冒險～7人魔法使～",
+      "dc_c1": 1017,
+      "dc_c2": 19,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 26522,
+      "anime_sn": 112789,
+      "title": "電影 哆啦A夢 大雄與綠之巨人傳",
+      "dc_c1": 1017,
+      "dc_c2": 15,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 22460,
+      "anime_sn": 112790,
+      "title": "電影 哆啦A夢 新大雄的宇宙開拓史",
+      "dc_c1": 1017,
+      "dc_c2": 16,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 17745,
       "anime_sn": 112791,
       "title": "MAR 魔兵傳奇",
@@ -10731,6 +10851,26 @@
       "is_vip": false
     },
     {
+      "acg_sn": 29590,
+      "anime_sn": 112803,
+      "title": "電影 哆啦A夢 大雄的人魚大海戰",
+      "dc_c1": 1017,
+      "dc_c2": 24,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 38398,
+      "anime_sn": 112804,
+      "title": "電影 哆啦A夢 新大雄與鐵人兵團～振翅吧 天使們～",
+      "dc_c1": 1017,
+      "dc_c2": 50,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 135,
       "anime_sn": 112805,
       "title": "Fate/stay night",
@@ -10746,6 +10886,16 @@
       "title": "妙手小廚師",
       "dc_c1": 6462,
       "dc_c2": 3,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 49904,
+      "anime_sn": 112807,
+      "title": "電影 哆啦A夢：大雄與奇跡之島～Animal adventure",
+      "dc_c1": 1017,
+      "dc_c2": 51,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -10776,6 +10926,26 @@
       "title": "火影忍者劇場版9：忍者之路",
       "dc_c1": 2716,
       "dc_c2": 63,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 56916,
+      "anime_sn": 112811,
+      "title": "電影 哆啦A夢 大雄的祕密道具博物館",
+      "dc_c1": 1017,
+      "dc_c2": 68,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 62967,
+      "anime_sn": 112812,
+      "title": "電影 哆啦A夢 新大雄的大魔境～扁扁與五人之探險隊～",
+      "dc_c1": 1017,
+      "dc_c2": 70,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -10851,6 +11021,16 @@
       "is_vip": false
     },
     {
+      "acg_sn": 71562,
+      "anime_sn": 112820,
+      "title": "電影 哆啦A夢 大雄之宇宙英雄記",
+      "dc_c1": 1017,
+      "dc_c2": 73,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 84408,
       "anime_sn": 112821,
       "title": "電影 哆啦A夢 大雄的南極冰天雪地大冒險",
@@ -10901,11 +11081,61 @@
       "is_vip": false
     },
     {
+      "acg_sn": 32675,
+      "anime_sn": 112826,
+      "title": "電影 哆啦A夢 大雄與惑星之迷",
+      "dc_c1": 1017,
+      "dc_c2": 47,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32237,
+      "anime_sn": 112827,
+      "title": "電影 哆啦A夢 大雄的天方夜譚",
+      "dc_c1": 1017,
+      "dc_c2": 38,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32674,
+      "anime_sn": 112828,
+      "title": "電影 哆啦A夢 大雄與雲之王國",
+      "dc_c1": 1017,
+      "dc_c2": 46,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 92691,
       "anime_sn": 112829,
       "title": "劇場版 來自深淵 深沉靈魂的黎明",
       "dc_c1": 28524,
       "dc_c2": 2,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32673,
+      "anime_sn": 112830,
+      "title": "電影 哆啦A夢 大雄與迷宮之旅",
+      "dc_c1": 1017,
+      "dc_c2": 45,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 32236,
+      "anime_sn": 112831,
+      "title": "電影 哆啦A夢 大雄與夢幻三劍士",
+      "dc_c1": 1017,
+      "dc_c2": 37,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
@@ -12526,6 +12756,76 @@
       "title": "Fate/Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram",
       "dc_c1": 22734,
       "dc_c2": 13,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 87677,
+      "anime_sn": 112997,
+      "title": "地獄少女 宵伽",
+      "dc_c1": 5193,
+      "dc_c2": 10,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 122880,
+      "anime_sn": 112998,
+      "title": "新 忍者哈特利 第四季",
+      "dc_c1": 3463,
+      "dc_c2": 5,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 16585,
+      "anime_sn": 112999,
+      "title": "零之使魔 雙月的騎士",
+      "dc_c1": 5192,
+      "dc_c2": 6,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 117115,
+      "anime_sn": 113000,
+      "title": "我的泰山爸爸",
+      "dc_c1": 39068,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 115438,
+      "anime_sn": 113001,
+      "title": "名偵探柯南：緋色的不在場證明",
+      "dc_c1": 3123,
+      "dc_c2": 66,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 38847,
+      "anime_sn": 113002,
+      "title": "棒球大聯盟 第三季",
+      "dc_c1": 5223,
+      "dc_c2": 10,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 17083,
+      "anime_sn": 113003,
+      "title": "零之使魔 三美姬的輪舞",
+      "dc_c1": 5192,
+      "dc_c2": 7,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
