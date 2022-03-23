@@ -130705,6 +130705,14 @@
       "type": 1
     },
     {
+      "season_id": 41325,
+      "media_id": 28237033,
+      "title": "與君歌（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 41326,
       "media_id": 28237034,
       "title": "狙击手：特别行动",
@@ -130817,6 +130825,14 @@
       "type": 2
     },
     {
+      "season_id": 41342,
+      "media_id": 28237050,
+      "title": "入殓师",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41343,
       "media_id": 28237051,
       "title": "生和活",
@@ -130905,6 +130921,14 @@
       "type": 5
     },
     {
+      "season_id": 41356,
+      "media_id": 28237064,
+      "title": "九号秘事 第六季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 41358,
       "media_id": 28237066,
       "title": "西雅图未眠夜",
@@ -130953,6 +130977,14 @@
       "type": 2
     },
     {
+      "season_id": 41364,
+      "media_id": 28237072,
+      "title": "浪漫街头",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41365,
       "media_id": 28237073,
       "title": "英雄劫",
@@ -130975,14 +131007,6 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
-    },
-    {
-      "season_id": 41369,
-      "media_id": 28237077,
-      "title": "嶏漬䎴2嶏漬䎴䎴嶏漬",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 1
     },
     {
       "season_id": 41370,
@@ -131031,6 +131055,374 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41378,
+      "media_id": 28237086,
+      "title": "瑞奇宝宝 第一季 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41379,
+      "media_id": 28237087,
+      "title": "过年的画",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41380,
+      "media_id": 28237088,
+      "title": "时间规划局",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41381,
+      "media_id": 28237089,
+      "title": "小扬纪年",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41382,
+      "media_id": 28237090,
+      "title": "於我归兮",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41383,
+      "media_id": 28237091,
+      "title": "珍爱泉源",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41384,
+      "media_id": 28237092,
+      "title": "邦尼和琼",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41385,
+      "media_id": 28237093,
+      "title": "机甲大师 第三季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41386,
+      "media_id": 28237094,
+      "title": "瑞奇宝宝 第二季 中文配音",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41387,
+      "media_id": 28237095,
+      "title": "高达创造者 战斗部落",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41388,
+      "media_id": 28237096,
+      "title": "闭环下的五环",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41389,
+      "media_id": 28237097,
+      "title": "金陵之夜",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41390,
+      "media_id": 28237098,
+      "title": "地中海",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41393,
+      "media_id": 28237101,
+      "title": "凹凸世界 第四季",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 4
+    },
+    {
+      "season_id": 41394,
+      "media_id": 28237102,
+      "title": "不狂想曲",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41395,
+      "media_id": 28237103,
+      "title": "第六感3",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41396,
+      "media_id": 28237104,
+      "title": "銀河英雄傳說 Die Neue These 激突（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41397,
+      "media_id": 28237105,
+      "title": "自由的幻影",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41398,
+      "media_id": 28237106,
+      "title": "爱拼会赢",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41399,
+      "media_id": 28237107,
+      "title": "窈窕淑男",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41400,
+      "media_id": 28237108,
+      "title": "弟弟",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41401,
+      "media_id": 28237109,
+      "title": "“宝贝”小偷与大盗",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41402,
+      "media_id": 28237111,
+      "title": "投靠女与出走男 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41403,
+      "media_id": 28237112,
+      "title": "案件聚焦",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41405,
+      "media_id": 28237114,
+      "title": "哦！我的皇帝陛下（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41406,
+      "media_id": 28237115,
+      "title": "未来中国",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41407,
+      "media_id": 28237116,
+      "title": "一面之词",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41408,
+      "media_id": 28237117,
+      "title": "星际一游",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 4
+    },
+    {
+      "season_id": 41409,
+      "media_id": 28237118,
+      "title": "太空旅客",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41412,
+      "media_id": 28237121,
+      "title": "不列颠之战",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41425,
+      "media_id": 28237134,
+      "title": "神鬼愿望",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41427,
+      "media_id": 28237136,
+      "title": "危情谍战",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41428,
+      "media_id": 28237137,
+      "title": "查理布朗男孩",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41429,
+      "media_id": 28237138,
+      "title": "鼠来宝",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41430,
+      "media_id": 28237139,
+      "title": "中国节气—春分奇遇记 ",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41431,
+      "media_id": 28237140,
+      "title": "中国好时节-春分篇",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41433,
+      "media_id": 28237142,
+      "title": "兹心",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41434,
+      "media_id": 28237143,
+      "title": "醉鬼张三",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41435,
+      "media_id": 28237144,
+      "title": "琥珀，在清澈与温柔中宿醉",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41436,
+      "media_id": 28237145,
+      "title": "再会长江",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41438,
+      "media_id": 28237147,
+      "title": "逆转王牌",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41440,
+      "media_id": 28237149,
+      "title": "我心依旧",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41441,
+      "media_id": 28237150,
+      "title": "漫画一生",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41443,
+      "media_id": 28237152,
+      "title": "武当",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41444,
+      "media_id": 28237153,
+      "title": "机器管家",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41446,
+      "media_id": 28237155,
+      "title": "凝固的诗·探秘中国民居之美",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
