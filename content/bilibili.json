@@ -128913,14 +128913,6 @@
       "type": 2
     },
     {
-      "season_id": 41084,
-      "media_id": 28236790,
-      "title": "不安之书",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 2
-    },
-    {
       "season_id": 41085,
       "media_id": 28236791,
       "title": "枝蔓交错的季节",
@@ -129812,6 +129804,14 @@
       "season_id": 41197,
       "media_id": 28236905,
       "title": "鬼灭之刃 粤配版",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41198,
+      "media_id": 28236906,
+      "title": "疯狂兔子入侵：火星任务",
       "is_vip": true,
       "is_exclusive": true,
       "type": 1
@@ -130897,14 +130897,6 @@
       "type": 2
     },
     {
-      "season_id": 41353,
-      "media_id": 28237061,
-      "title": "须臾",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 2
-    },
-    {
       "season_id": 41354,
       "media_id": 28237062,
       "title": "我的母亲",
@@ -131161,10 +131153,18 @@
       "type": 3
     },
     {
+      "season_id": 41391,
+      "media_id": 28237099,
+      "title": "地中海（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41393,
       "media_id": 28237101,
       "title": "凹凸世界 第四季",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 4
     },
@@ -131249,6 +131249,14 @@
       "type": 3
     },
     {
+      "season_id": 41404,
+      "media_id": 28237113,
+      "title": "报社 Press",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 41405,
       "media_id": 28237114,
       "title": "哦！我的皇帝陛下（僅限台灣地區）",
@@ -131294,6 +131302,30 @@
       "title": "不列颠之战",
       "is_vip": true,
       "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41414,
+      "media_id": 28237123,
+      "title": "狙击手",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41423,
+      "media_id": 28237132,
+      "title": "如果历史是一群喵 第八季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41424,
+      "media_id": 28237133,
+      "title": "辉夜大小姐想让我告白：天才们的恋爱头脑战 完结篇",
+      "is_vip": true,
+      "is_exclusive": true,
       "type": 2
     },
     {
@@ -131343,6 +131375,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 7
+    },
+    {
+      "season_id": 41432,
+      "media_id": 28237141,
+      "title": "约会大作战 第四季",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 41433,
@@ -131417,12 +131457,164 @@
       "type": 2
     },
     {
+      "season_id": 41445,
+      "media_id": 28237154,
+      "title": "小狮子赛几 第2季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 41446,
       "media_id": 28237155,
       "title": "凝固的诗·探秘中国民居之美",
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41447,
+      "media_id": 28237156,
+      "title": "团子们的使命",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 4
+    },
+    {
+      "season_id": 41448,
+      "media_id": 28237157,
+      "title": "我家浴缸的二三事（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41451,
+      "media_id": 28237160,
+      "title": "完美盗贼",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41452,
+      "media_id": 28237161,
+      "title": "鸳鸯腿",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41454,
+      "media_id": 28237163,
+      "title": "暴走《大事件》第八季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
+      "season_id": 41455,
+      "media_id": 28237164,
+      "title": "逐影猎手",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41456,
+      "media_id": 28237165,
+      "title": "小書痴的下剋上:為了成為圖書管理員不擇手段! 第三部（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41457,
+      "media_id": 28237166,
+      "title": "日出后日落",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41458,
+      "media_id": 28237167,
+      "title": "不會拿捏距離的阿波連同學（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41459,
+      "media_id": 28237168,
+      "title": "派對咖孔明（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41460,
+      "media_id": 28237169,
+      "title": "式守同學不只可愛而已（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41461,
+      "media_id": 28237170,
+      "title": "史上最強大魔王轉生為村民A（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41462,
+      "media_id": 28237171,
+      "title": "危險的二人-K2-池袋署刑事課神崎·黑木（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41463,
+      "media_id": 28237172,
+      "title": "骸骨騎士大人異世界冒險中（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41464,
+      "media_id": 28237173,
+      "title": "鼠来宝2：明星俱乐部",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41466,
+      "media_id": 28237175,
+      "title": "追凶五十年",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41473,
+      "media_id": 28237182,
+      "title": "女孩的战地滑板课",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41479,
+      "media_id": 28237188,
+      "title": "科学怪人",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
