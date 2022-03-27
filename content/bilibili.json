@@ -131251,7 +131251,7 @@
     {
       "season_id": 41404,
       "media_id": 28237113,
-      "title": "报社 Press",
+      "title": "报社",
       "is_vip": true,
       "is_exclusive": false,
       "type": 5
@@ -131308,7 +131308,7 @@
       "season_id": 41414,
       "media_id": 28237123,
       "title": "狙击手",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -131423,6 +131423,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41439,
+      "media_id": 28237148,
+      "title": "四色战记 / RWBY 第四季",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 41440,
@@ -131601,6 +131609,14 @@
       "type": 2
     },
     {
+      "season_id": 41468,
+      "media_id": 28237177,
+      "title": "阿芙洛狄忒",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41473,
       "media_id": 28237182,
       "title": "女孩的战地滑板课",
@@ -131609,12 +131625,52 @@
       "type": 3
     },
     {
+      "season_id": 41474,
+      "media_id": 28237183,
+      "title": "如果我留下",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41479,
       "media_id": 28237188,
       "title": "科学怪人",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41484,
+      "media_id": 28237193,
+      "title": "夏日幻魂",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41488,
+      "media_id": 28237197,
+      "title": "女孩的戰地滑板課（僅限港澳臺地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41492,
+      "media_id": 28237201,
+      "title": "Love Live！虹咲學園學園偶像同好會 第二季（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41496,
+      "media_id": 28237205,
+      "title": "女性向遊戲世界對路人角色很不友好（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     }
   ]
 }
