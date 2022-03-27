@@ -131305,6 +131305,14 @@
       "type": 2
     },
     {
+      "season_id": 41413,
+      "media_id": 28237122,
+      "title": "盾之勇者成名录 第二季",
+      "is_vip": false,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 41414,
       "media_id": 28237123,
       "title": "狙击手",
@@ -131671,6 +131679,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
+    },
+    {
+      "season_id": 41504,
+      "media_id": 28237213,
+      "title": "拆散的花瓣",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
