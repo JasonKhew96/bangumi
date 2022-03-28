@@ -131652,7 +131652,7 @@
       "season_id": 41484,
       "media_id": 28237193,
       "title": "夏日幻魂",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -131684,6 +131684,30 @@
       "season_id": 41504,
       "media_id": 28237213,
       "title": "拆散的花瓣",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41505,
+      "media_id": 28237214,
+      "title": "鼠来宝3",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41512,
+      "media_id": 28237221,
+      "title": "金镖黄天霸",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41513,
+      "media_id": 28237222,
+      "title": "快了",
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
