@@ -46,22 +46,33 @@ const BangumiList = ({ columns, data, type }: any) => {
         const acg_sn = i.acg_sn ? i.acg_sn.toString() : ""
         const anime_sn = i.anime_sn ? i.anime_sn.toString() : ""
 
-        return (
-          (title.includes(traditionalized(valueSearch)) ||
-            title.includes(valueSearch) ||
-            (season_id != "" && season_id.includes(valueSearch)) ||
-            (media_id != "" && media_id.includes(valueSearch)) ||
-            (acg_sn != "" && acg_sn.includes(valueSearch)) ||
-            (anime_sn != "" && anime_sn.includes(valueSearch)) ||
-            (i.is_exclusive && valueSearch.includes("独家")) ||
-            valueSearch.includes("獨家") ||
-            (i.is_vip && valueSearch.includes("会员")) ||
-            valueSearch.includes("會員") ||
-            (i.is_bilingual && valueSearch.includes("双语")) ||
-            valueSearch.includes("雙語")) &&
-          (state.filterType == 0 ||
-            (i.type && state.filterType != 0 && i.type == state.filterType))
-        )
+        const splits = valueSearch.split(" ")
+
+        let found = true
+
+        splits.forEach(split => {
+          if (
+            !(
+              (title.includes(traditionalized(split)) ||
+                title.includes(split) ||
+                (season_id != "" && season_id.includes(split)) ||
+                (media_id != "" && media_id.includes(split)) ||
+                (acg_sn != "" && acg_sn.includes(split)) ||
+                (anime_sn != "" && anime_sn.includes(split)) ||
+                (i.is_exclusive && split.includes("独家")) ||
+                split.includes("獨家") ||
+                (i.is_vip && split.includes("会员")) ||
+                split.includes("會員") ||
+                (i.is_bilingual && split.includes("双语")) ||
+                split.includes("雙語")) &&
+              (state.filterType == 0 ||
+                (i.type && state.filterType != 0 && i.type == state.filterType))
+            )
+          ) {
+            found = false
+          }
+        })
+        return found
       }),
     })
   }
