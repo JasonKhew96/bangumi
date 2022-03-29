@@ -131449,14 +131449,6 @@
       "type": 2
     },
     {
-      "season_id": 41441,
-      "media_id": 28237150,
-      "title": "漫画一生",
-      "is_vip": false,
-      "is_exclusive": false,
-      "type": 3
-    },
-    {
       "season_id": 41443,
       "media_id": 28237152,
       "title": "武当",
@@ -131756,6 +131748,14 @@
       "season_id": 41492,
       "media_id": 28237201,
       "title": "Love Live！虹咲學園學園偶像同好會 第二季（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41493,
+      "media_id": 28237202,
+      "title": "女忍者椿的心事（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
