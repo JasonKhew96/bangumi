@@ -1,9 +1,7 @@
-/**
- * A better abstraction over CSS.
+/** @license MUI v5.5.2
  *
- * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
- * @website https://github.com/cssinjs/jss
- * @license MIT
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
  */
 
 /** @license React v16.13.1
