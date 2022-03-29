@@ -38,7 +38,8 @@ export default function Header({ siteTitle }: any): React.ReactElement {
           <IconButton
             color="inherit"
             href="https://github.com/JasonKhew96/bangumi"
-            size="large">
+            size="large"
+          >
             <GitHub />
           </IconButton>
         </Toolbar>
@@ -88,7 +89,7 @@ export default function Header({ siteTitle }: any): React.ReactElement {
         </List>
       </SwipeableDrawer>
     </header>
-  );
+  )
 }
 
 // Header.propTypes = {
