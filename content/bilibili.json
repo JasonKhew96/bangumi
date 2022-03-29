@@ -131308,7 +131308,7 @@
       "season_id": 41413,
       "media_id": 28237122,
       "title": "盾之勇者成名录 第二季",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -131667,10 +131667,18 @@
     {
       "season_id": 41475,
       "media_id": 28237184,
-      "title": "談戀愛要在征服世界後（僅限港澳台地區）",
+      "title": "愛在征服世界後（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
+    },
+    {
+      "season_id": 41478,
+      "media_id": 28237187,
+      "title": "地平线系列 冥王星：死而复生",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
     },
     {
       "season_id": 41479,
@@ -131679,6 +131687,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41480,
+      "media_id": 28237189,
+      "title": "地平线系列 冥王星：死而复生（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
     },
     {
       "season_id": 41482,
@@ -131779,7 +131795,15 @@
     {
       "season_id": 41502,
       "media_id": 28237211,
-      "title": "键等 第二季（僅限港澳台地區）",
+      "title": "鍵等 第二季（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41503,
+      "media_id": 28237212,
+      "title": "魔法紀錄 魔法少女小圓外傳 FINAL SEASON - 淺夢的黎明 -（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
@@ -131799,6 +131823,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41506,
+      "media_id": 28237215,
+      "title": "处刑少女的生存之道",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 41512,
@@ -131839,6 +131871,30 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41518,
+      "media_id": 28237227,
+      "title": "钟鸣寒山寺",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41526,
+      "media_id": 28237235,
+      "title": "我的超级前女友",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41529,
+      "media_id": 28237238,
+      "title": "QUEENDOM 2",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 7
     }
   ]
 }
