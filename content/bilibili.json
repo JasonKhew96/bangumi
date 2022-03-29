@@ -131609,6 +131609,14 @@
       "type": 2
     },
     {
+      "season_id": 41465,
+      "media_id": 28237174,
+      "title": "原始生活40天 第五季",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41466,
       "media_id": 28237175,
       "title": "追凶五十年",
@@ -131623,6 +131631,22 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41471,
+      "media_id": 28237180,
+      "title": "盾之勇者成名錄 第二季（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41472,
+      "media_id": 28237181,
+      "title": "辭職不做勇者了～下個職場是魔王城～（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 41473,
@@ -131641,12 +131665,36 @@
       "type": 2
     },
     {
+      "season_id": 41475,
+      "media_id": 28237184,
+      "title": "談戀愛要在征服世界後（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41479,
       "media_id": 28237188,
       "title": "科学怪人",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41482,
+      "media_id": 28237191,
+      "title": "RPG 不動產（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41483,
+      "media_id": 28237192,
+      "title": "街角的魔族女孩 第二季（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     },
     {
       "season_id": 41484,
@@ -131657,12 +131705,36 @@
       "type": 1
     },
     {
+      "season_id": 41485,
+      "media_id": 28237194,
+      "title": "這個補師有夠麻煩（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41487,
+      "media_id": 28237196,
+      "title": "處刑少女的生存之道（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41488,
       "media_id": 28237197,
       "title": "女孩的戰地滑板課（僅限港澳臺地區）",
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41489,
+      "media_id": 28237198,
+      "title": "社畜想被幼女幽靈療癒。（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 41492,
@@ -131676,6 +131748,38 @@
       "season_id": 41496,
       "media_id": 28237205,
       "title": "女性向遊戲世界對路人角色很不友好（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41497,
+      "media_id": 28237206,
+      "title": "Onipan！（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
+      "season_id": 41498,
+      "media_id": 28237207,
+      "title": "相合之物（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41500,
+      "media_id": 28237209,
+      "title": "Love all play（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41502,
+      "media_id": 28237211,
+      "title": "键等 第二季（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
@@ -131711,6 +131815,30 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41514,
+      "media_id": 28237223,
+      "title": "2049",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
+      "season_id": 41515,
+      "media_id": 28237224,
+      "title": "七磅",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41517,
+      "media_id": 28237226,
+      "title": "今生，请多指教3",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
