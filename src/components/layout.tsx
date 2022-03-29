@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
-import { Container } from "@material-ui/core"
+import { Container } from "@mui/material"
 
 const Layout = ({ children }: any) => {
   const data = useStaticQuery(graphql`

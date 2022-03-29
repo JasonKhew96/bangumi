@@ -3,9 +3,9 @@ import BangumiList from "../components/bangumiList"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import JSONData from "../../content/anigamer.json"
-import { GridCellParams, GridColDef } from "@material-ui/data-grid"
-import { Chip } from "@material-ui/core"
-import FolderSpecialIcon from "@material-ui/icons/FolderSpecial"
+import { GridCellParams, GridColDef } from "@mui/x-data-grid"
+import { Chip } from "@mui/material"
+import FolderSpecialIcon from "@mui/icons-material/FolderSpecial"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 const columns: GridColDef[] = [

@@ -10,13 +10,13 @@ import {
   ListItem,
   ListItemIcon,
   ListItemText,
-} from "@material-ui/core"
-import MenuIcon from "@material-ui/icons/Menu"
-import DirectionsBoatIcon from "@material-ui/icons/DirectionsBoat"
-import FlightIcon from "@material-ui/icons/Flight"
-import VpnLockIcon from "@material-ui/icons/VpnLock"
-import HomeIcon from "@material-ui/icons/Home"
-import { GitHub } from "@material-ui/icons"
+} from "@mui/material"
+import MenuIcon from "@mui/icons-material/Menu"
+import DirectionsBoatIcon from "@mui/icons-material/DirectionsBoat"
+import FlightIcon from "@mui/icons-material/Flight"
+import VpnLockIcon from "@mui/icons-material/VpnLock"
+import HomeIcon from "@mui/icons-material/Home"
+import { GitHub } from "@mui/icons-material"
 
 export default function Header({ siteTitle }: any): React.ReactElement {
   const [state, setState] = React.useState({
@@ -31,14 +31,14 @@ export default function Header({ siteTitle }: any): React.ReactElement {
     <header>
       <AppBar position="static">
         <Toolbar>
-          <IconButton color="inherit" onClick={toggleDrawer(true)}>
+          <IconButton color="inherit" onClick={toggleDrawer(true)} size="large">
             <MenuIcon />
           </IconButton>
           <Typography style={{ flexGrow: 1 }}>{siteTitle}</Typography>
           <IconButton
             color="inherit"
             href="https://github.com/JasonKhew96/bangumi"
-          >
+            size="large">
             <GitHub />
           </IconButton>
         </Toolbar>
@@ -88,7 +88,7 @@ export default function Header({ siteTitle }: any): React.ReactElement {
         </List>
       </SwipeableDrawer>
     </header>
-  )
+  );
 }
 
 // Header.propTypes = {

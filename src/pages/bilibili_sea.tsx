@@ -7,9 +7,9 @@ import {
   GridCellParams,
   GridColDef,
   GridValueGetterParams,
-} from "@material-ui/data-grid"
-import { Chip } from "@material-ui/core"
-import LockOpenIcon from "@material-ui/icons/LockOpen"
+} from "@mui/x-data-grid"
+import { Chip } from "@mui/material"
+import LockOpenIcon from "@mui/icons-material/LockOpen"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 const columns: GridColDef[] = [

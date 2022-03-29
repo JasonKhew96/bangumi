@@ -1,5 +1,5 @@
 import * as React from "react"
-import { DataGrid } from "@material-ui/data-grid"
+import { DataGrid } from "@mui/x-data-grid"
 import {
   Button,
   FormControl,
@@ -8,7 +8,7 @@ import {
   Radio,
   RadioGroup,
   TextField,
-} from "@material-ui/core"
+} from "@mui/material"
 
 const BangumiList = ({ columns, data, type }: any) => {
   const zhSimp =
