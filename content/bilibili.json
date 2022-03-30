@@ -130828,7 +130828,7 @@
       "season_id": 41342,
       "media_id": 28237050,
       "title": "入殓师",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 2
     },
@@ -131700,7 +131700,7 @@
       "season_id": 41480,
       "media_id": 28237189,
       "title": "地平线系列 冥王星：死而复生（僅限港澳台地區）",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 3
     },
@@ -131911,6 +131911,22 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 7
+    },
+    {
+      "season_id": 41530,
+      "media_id": 28237239,
+      "title": "民警故事",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41532,
+      "media_id": 28237241,
+      "title": "家在顺德",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
