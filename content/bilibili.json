@@ -131329,6 +131329,14 @@
       "type": 2
     },
     {
+      "season_id": 41418,
+      "media_id": 28237127,
+      "title": "恋爱要在世界征服后",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41423,
       "media_id": 28237132,
       "title": "如果历史是一群喵 第八季",
@@ -131703,6 +131711,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41481,
+      "media_id": 28237190,
+      "title": "約會大作戰 DATE A LIVE 第四季（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
     },
     {
       "season_id": 41482,
