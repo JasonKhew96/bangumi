@@ -131716,7 +131716,7 @@
       "season_id": 41481,
       "media_id": 28237190,
       "title": "約會大作戰 DATE A LIVE 第四季（僅限港澳台地區）",
-      "is_vip": true,
+      "is_vip": false,
       "is_exclusive": true,
       "type": 1
     },
@@ -131943,6 +131943,30 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41533,
+      "media_id": 28237242,
+      "title": "舞动不止",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41535,
+      "media_id": 28237244,
+      "title": "Love All Play热血羽毛球",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41537,
+      "media_id": 28237246,
+      "title": "刺杀肯尼迪",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
