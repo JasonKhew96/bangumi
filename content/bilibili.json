@@ -131529,6 +131529,14 @@
       "type": 5
     },
     {
+      "season_id": 41449,
+      "media_id": 28237158,
+      "title": "古宅老友记 第二季 ",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 5
+    },
+    {
       "season_id": 41451,
       "media_id": 28237160,
       "title": "完美盗贼",
@@ -131793,6 +131801,14 @@
       "type": 1
     },
     {
+      "season_id": 41491,
+      "media_id": 28237200,
+      "title": "成為女主角！~被討厭的女主角和秘密的工作~（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41492,
       "media_id": 28237201,
       "title": "Love Live！虹咲學園學園偶像同好會 第二季（僅限港澳台地區）",
@@ -131953,6 +131969,14 @@
       "type": 2
     },
     {
+      "season_id": 41519,
+      "media_id": 28237228,
+      "title": "婚礼进行时：传统婚礼还是旅行结婚",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
       "season_id": 41524,
       "media_id": 28237233,
       "title": "婚礼进行时：传统婚礼还是旅行结婚（僅限港澳台地區）",
@@ -132039,6 +132063,30 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41545,
+      "media_id": 28237254,
+      "title": "正直不動產（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
+      "season_id": 41546,
+      "media_id": 28237255,
+      "title": "生化危机：复仇",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41548,
+      "media_id": 28237257,
+      "title": "小品一家人之神喵天降",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     }
   ]
 }
