@@ -131725,7 +131725,7 @@
       "media_id": 28237190,
       "title": "約會大作戰 DATE A LIVE 第四季（僅限港澳台地區）",
       "is_vip": false,
-      "is_exclusive": true,
+      "is_exclusive": false,
       "type": 1
     },
     {
@@ -131755,7 +131755,7 @@
     {
       "season_id": 41485,
       "media_id": 28237194,
-      "title": "這個補師有夠麻煩（僅限港澳台地區）",
+      "title": "這個僧侶有夠煩（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
@@ -131828,6 +131828,14 @@
       "season_id": 41498,
       "media_id": 28237207,
       "title": "相合之物（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41499,
+      "media_id": 28237208,
+      "title": "BIRDIE WING -Golf Girls’Story-（僅限港澳台地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
@@ -131945,6 +131953,14 @@
       "type": 2
     },
     {
+      "season_id": 41524,
+      "media_id": 28237233,
+      "title": "婚礼进行时：传统婚礼还是旅行结婚（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41526,
       "media_id": 28237235,
       "title": "我的超级前女友",
@@ -132001,9 +132017,25 @@
       "type": 1
     },
     {
+      "season_id": 41536,
+      "media_id": 28237245,
+      "title": "三个少年",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 41537,
       "media_id": 28237246,
       "title": "刺杀肯尼迪",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41538,
+      "media_id": 28237247,
+      "title": "歪打正着",
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
