@@ -131305,6 +131305,14 @@
       "type": 2
     },
     {
+      "season_id": 41410,
+      "media_id": 28237119,
+      "title": "间谍过家家",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41412,
       "media_id": 28237121,
       "title": "不列颠之战",
@@ -131753,6 +131761,14 @@
       "type": 1
     },
     {
+      "season_id": 41486,
+      "media_id": 28237195,
+      "title": "理科生墜入情網，故嘗試證明。r=1-sinθ（僅限港澳台地區）",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 1
+    },
+    {
       "season_id": 41487,
       "media_id": 28237196,
       "title": "處刑少女的生存之道（僅限港澳台地區）",
@@ -131825,6 +131841,14 @@
       "type": 1
     },
     {
+      "season_id": 41501,
+      "media_id": 28237210,
+      "title": " Healer Girls 歌愈少女（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41502,
       "media_id": 28237211,
       "title": "鍵等 第二季（僅限港澳台地區）",
@@ -131862,6 +131886,14 @@
       "title": "处刑少女的生存之道",
       "is_vip": true,
       "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41508,
+      "media_id": 28237217,
+      "title": "环太平洋：黑色禁区 第二季",
+      "is_vip": false,
+      "is_exclusive": true,
       "type": 1
     },
     {
@@ -131950,6 +131982,14 @@
       "title": "舞动不止",
       "is_vip": false,
       "is_exclusive": false,
+      "type": 1
+    },
+    {
+      "season_id": 41534,
+      "media_id": 28237243,
+      "title": "银河英雄传说：全新命题 激战",
+      "is_vip": false,
+      "is_exclusive": true,
       "type": 1
     },
     {
