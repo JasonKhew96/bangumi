@@ -131665,6 +131665,14 @@
       "type": 2
     },
     {
+      "season_id": 41470,
+      "media_id": 28237179,
+      "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限台灣地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41471,
       "media_id": 28237180,
       "title": "盾之勇者成名錄 第二季（僅限港澳台地區）",
@@ -131993,6 +132001,22 @@
       "type": 2
     },
     {
+      "season_id": 41527,
+      "media_id": 28237236,
+      "title": "叽歪老表",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41528,
+      "media_id": 28237237,
+      "title": "叽歪老表 第二季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
       "season_id": 41529,
       "media_id": 28237238,
       "title": "QUEENDOM 2",
@@ -132087,6 +132111,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 41550,
+      "media_id": 28237259,
+      "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限港澳地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
     }
   ]
 }
