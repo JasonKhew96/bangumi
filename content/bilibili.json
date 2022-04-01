@@ -130829,7 +130829,7 @@
       "media_id": 28237050,
       "title": "入殓师",
       "is_vip": true,
-      "is_exclusive": false,
+      "is_exclusive": true,
       "type": 2
     },
     {
@@ -132113,12 +132113,36 @@
       "type": 4
     },
     {
+      "season_id": 41549,
+      "media_id": 28237258,
+      "title": "烈火青春",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41550,
       "media_id": 28237259,
       "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限港澳地區）",
       "is_vip": false,
       "is_exclusive": false,
       "type": 1
+    },
+    {
+      "season_id": 41553,
+      "media_id": 28237262,
+      "title": "无限王者小队",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
+    },
+    {
+      "season_id": 41554,
+      "media_id": 28237263,
+      "title": "无限吃鸡小队 第一季",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 4
     }
   ]
 }
