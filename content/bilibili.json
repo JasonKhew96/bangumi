@@ -130739,7 +130739,7 @@
     {
       "season_id": 41329,
       "media_id": 28237037,
-      "title": "宠物",
+      "title": "宠物情人",
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
@@ -131356,7 +131356,7 @@
       "season_id": 41418,
       "media_id": 28237127,
       "title": "恋爱要在世界征服后",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": false,
       "type": 1
     },
@@ -131428,7 +131428,7 @@
       "season_id": 41432,
       "media_id": 28237141,
       "title": "约会大作战 第四季",
-      "is_vip": false,
+      "is_vip": true,
       "is_exclusive": true,
       "type": 1
     },
@@ -131567,6 +131567,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41453,
+      "media_id": 28237162,
+      "title": "珍馐记",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
     },
     {
       "season_id": 41454,
@@ -132183,6 +132191,14 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41560,
+      "media_id": 28237269,
+      "title": "人生七年（美国版）",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
     }
   ]
 }
