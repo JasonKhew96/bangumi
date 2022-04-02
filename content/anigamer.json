@@ -12531,11 +12531,71 @@
       "is_vip": false
     },
     {
+      "acg_sn": 38848,
+      "anime_sn": 113005,
+      "title": "棒球大聯盟 第四季",
+      "dc_c1": 5223,
+      "dc_c2": 11,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 30106,
+      "anime_sn": 113006,
+      "title": "DARKER THAN BLACK 黑之契約者 -流星的雙子-",
+      "dc_c1": 5472,
+      "dc_c2": 3,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 123423,
+      "anime_sn": 113007,
+      "title": "有貓注意！",
+      "dc_c1": 42623,
+      "dc_c2": 1,
+      "is_bilingual": true,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 112447,
       "anime_sn": 113021,
       "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！第三季",
       "dc_c1": 28342,
       "dc_c2": 3,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 113584,
+      "anime_sn": 113022,
+      "title": "讓我聽見愛的歌聲",
+      "dc_c1": 37656,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": true
+    },
+    {
+      "acg_sn": 115710,
+      "anime_sn": 113026,
+      "title": "處刑少女的生存之道",
+      "dc_c1": 38512,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 56394,
+      "anime_sn": 113029,
+      "title": "女神異聞錄 3 劇場版 第一章 Spring of Birth",
+      "dc_c1": 359,
+      "dc_c2": 51,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
