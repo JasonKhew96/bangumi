@@ -130769,6 +130769,22 @@
       "type": 2
     },
     {
+      "season_id": 41333,
+      "media_id": 28237041,
+      "title": "精灵旅社2",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41334,
+      "media_id": 28237042,
+      "title": "精灵旅社3：疯狂假期",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
       "season_id": 41335,
       "media_id": 28237043,
       "title": "神秘博士 第十三季 ",
@@ -131713,6 +131729,14 @@
       "type": 1
     },
     {
+      "season_id": 41476,
+      "media_id": 28237185,
+      "title": "魔法使黎明期（僅限港澳台地區）",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 1
+    },
+    {
       "season_id": 41478,
       "media_id": 28237187,
       "title": "地平线系列 冥王星：死而复生",
@@ -132129,6 +132153,14 @@
       "type": 1
     },
     {
+      "season_id": 41551,
+      "media_id": 28237260,
+      "title": "DV计划",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 7
+    },
+    {
       "season_id": 41553,
       "media_id": 28237262,
       "title": "无限王者小队",
@@ -132143,6 +132175,14 @@
       "is_vip": false,
       "is_exclusive": false,
       "type": 4
+    },
+    {
+      "season_id": 41555,
+      "media_id": 28237264,
+      "title": "精灵旅社",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
