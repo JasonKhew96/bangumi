@@ -132025,6 +132025,14 @@
       "type": 3
     },
     {
+      "season_id": 41525,
+      "media_id": 28237234,
+      "title": "孤独的美食家 2021除夕特别篇",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 5
+    },
+    {
       "season_id": 41526,
       "media_id": 28237235,
       "title": "我的超级前女友",
@@ -132121,6 +132129,22 @@
       "type": 2
     },
     {
+      "season_id": 41542,
+      "media_id": 28237251,
+      "title": "神秘海域",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 2
+    },
+    {
+      "season_id": 41544,
+      "media_id": 28237253,
+      "title": "舟山群岛",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41545,
       "media_id": 28237254,
       "title": "正直不動產（僅限港澳台地區）",
@@ -132193,12 +132217,44 @@
       "type": 2
     },
     {
+      "season_id": 41559,
+      "media_id": 28237268,
+      "title": "mandarin 普通人巡演纪录片《回声之旅》B版",
+      "is_vip": false,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
       "season_id": 41560,
       "media_id": 28237269,
       "title": "人生七年（美国版）",
       "is_vip": true,
       "is_exclusive": false,
       "type": 3
+    },
+    {
+      "season_id": 41561,
+      "media_id": 28237270,
+      "title": "萌宝出生第一年",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 3
+    },
+    {
+      "season_id": 41562,
+      "media_id": 28237271,
+      "title": "11:14",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 2
+    },
+    {
+      "season_id": 41563,
+      "media_id": 28237272,
+      "title": "失控陪审团",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
