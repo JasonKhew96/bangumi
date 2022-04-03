@@ -1751,16 +1751,6 @@
       "is_vip": false
     },
     {
-      "acg_sn": 72190,
-      "anime_sn": 72190,
-      "title": "魔法少女奈葉 ViVid",
-      "dc_c1": 5178,
-      "dc_c2": 6,
-      "is_bilingual": false,
-      "edition": "",
-      "is_vip": false
-    },
-    {
       "acg_sn": 72362,
       "anime_sn": 72362,
       "title": "百合熊風暴",
@@ -12561,6 +12551,26 @@
       "is_vip": false
     },
     {
+      "acg_sn": 117465,
+      "anime_sn": 113012,
+      "title": "Love Live！虹咲學園 學園偶像同好會 第二季",
+      "dc_c1": 30393,
+      "dc_c2": 3,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 119425,
+      "anime_sn": 113013,
+      "title": "群青的開幕曲",
+      "dc_c1": 40001,
+      "dc_c2": 1,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
       "acg_sn": 112447,
       "anime_sn": 113021,
       "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！第三季",
@@ -12606,6 +12616,16 @@
       "title": "女神異聞錄 3 劇場版 第一章 Spring of Birth",
       "dc_c1": 359,
       "dc_c2": 51,
+      "is_bilingual": false,
+      "edition": "",
+      "is_vip": false
+    },
+    {
+      "acg_sn": 123480,
+      "anime_sn": 113031,
+      "title": "BUILD-DIVIDE -#FFFFFF- CODE WHITE",
+      "dc_c1": 40369,
+      "dc_c2": 2,
       "is_bilingual": false,
       "edition": "",
       "is_vip": false
