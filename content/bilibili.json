@@ -132255,6 +132255,22 @@
       "is_vip": true,
       "is_exclusive": false,
       "type": 2
+    },
+    {
+      "season_id": 41567,
+      "media_id": 28237276,
+      "title": "幸免于难",
+      "is_vip": true,
+      "is_exclusive": true,
+      "type": 3
+    },
+    {
+      "season_id": 41568,
+      "media_id": 28237277,
+      "title": "卡蜜儿·克劳岱尔",
+      "is_vip": true,
+      "is_exclusive": false,
+      "type": 2
     }
   ]
 }
