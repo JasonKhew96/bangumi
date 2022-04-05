@@ -1,3 +1,5 @@
+name: Daily update
+
 on:
   workflow_dispatch:
   schedule:
