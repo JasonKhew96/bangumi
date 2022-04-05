@@ -1,0 +1,22 @@
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC 0600
+    - cron:  '0 22 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Scraping
+        run: |
+          cd tools && ./scraper && mv anigamer.json ../content/ && mv bilibili.json ../content/ && cd ..
+          git config --global user.name 'Js0n'
+          git config --global user.email '29531167+JasonKhew96@users.noreply.github.com'
+          git commit -am "Automated update"
+          git push
