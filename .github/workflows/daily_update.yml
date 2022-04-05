@@ -13,9 +13,9 @@ jobs:
     steps:
       - name: "Checkout"
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Scraping
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           cd tools && go run . && mv anigamer.json ../content/ && mv bilibili.json ../content/ && cd ..
           git config --global user.name 'Js0n'
