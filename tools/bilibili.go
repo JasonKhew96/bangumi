@@ -180,7 +180,7 @@ func (s *Scraper) scrapeBilibili() error {
 func (s *Scraper) generateBilibiliJson() error {
 	log.Println("Generating bilibili json file")
 
-	all, err := models.Bilibilis().All(context.Background(), s.db)
+	all, err := models.Bilibilis(qm.OrderBy("season_id asc")).All(context.Background(), s.db)
 	if err != nil {
 		return err
 	}

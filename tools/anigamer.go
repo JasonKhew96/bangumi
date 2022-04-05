@@ -21,6 +21,7 @@ import (
 	"github.com/r3labs/diff/v2"
 	"github.com/volatiletech/null/v8"
 	"github.com/volatiletech/sqlboiler/v4/boil"
+	"github.com/volatiletech/sqlboiler/v4/queries/qm"
 )
 
 type ByAnimeSn []anigamer.List
@@ -157,7 +158,7 @@ func (s *Scraper) scrapeAnigamer() error {
 func (s *Scraper) generateAnigamerJson() error {
 	log.Println("Generating anigamer json file")
 
-	all, err := models.Anigamers().All(context.Background(), s.db)
+	all, err := models.Anigamers(qm.OrderBy("anime_sn asc")).All(context.Background(), s.db)
 	if err != nil {
 		return err
 	}
