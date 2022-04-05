@@ -36,8 +36,7 @@ const columns: GridColDef[] = [
     type: "string",
     align: "center",
     width: 32,
-    valueGetter: (params: GridValueGetterParams) =>
-      `${params.getValue(params.id, "season_id")}`,
+    valueGetter: (params: GridValueGetterParams) => `${params.row.season_id}`,
     renderCell: (params: GridCellParams) => (
       <OutboundLink
         href={"https://www.bilibili.com/bangumi/play/ss" + params.value}
@@ -57,12 +56,12 @@ const columns: GridColDef[] = [
       <div>
         {params.value}
         {` `}
-        {params.getValue(params.id, "is_new") ? (
+        {params.row.is_new ? (
           <Chip size="small" label="新上架" color="primary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_exclusive") ? (
+        {params.row.is_exclusive ? (
           <Chip size="small" label="独家" color="secondary" />
         ) : (
           ""

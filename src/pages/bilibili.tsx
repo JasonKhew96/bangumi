@@ -49,17 +49,17 @@ const columns: GridColDef[] = [
       <div>
         {params.value}
         {` `}
-        {params.getValue(params.id, "is_new") ? (
+        {params.row.is_new ? (
           <Chip size="small" label="新上架" color="primary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_exclusive") ? (
+        {params.row.is_exclusive ? (
           <Chip size="small" label="独家" color="secondary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_vip") ? (
+        {params.row.is_vip ? (
           <Chip size="small" label="会员" color="secondary" />
         ) : (
           ""

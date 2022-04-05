@@ -50,9 +50,9 @@ const columns: GridColDef[] = [
       <OutboundLink
         href={
           "https://forum.gamer.com.tw/searchb.php?dc_c1=" +
-          params.getValue(params.id, "dc_c1") +
+          params.row.dc_c1 +
           "&dc_c2=" +
-          params.getValue(params.id, "dc_c2")
+          params.row.dc_c2
         }
         target="_blank"
         rel="noreferrer"
@@ -70,31 +70,27 @@ const columns: GridColDef[] = [
       <div>
         {params.value}
         {` `}
-        {params.getValue(params.id, "is_new") ? (
+        {params.row.is_new ? (
           <Chip size="small" label="新上架" color="primary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_exclusive") ? (
+        {params.row.is_exclusive ? (
           <Chip size="small" label="獨家" color="secondary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_vip") ? (
+        {params.row.is_vip ? (
           <Chip size="small" label="會員" color="secondary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "edition") ? (
-          <Chip
-            size="small"
-            label={params.getValue(params.id, "edition")}
-            color="secondary"
-          />
+        {params.row.edition ? (
+          <Chip size="small" label={params.row.edition} color="secondary" />
         ) : (
           ""
         )}
-        {params.getValue(params.id, "is_bilingual") ? (
+        {params.row.is_bilingual ? (
           <Chip size="small" label="雙語" color="primary" />
         ) : (
           ""
