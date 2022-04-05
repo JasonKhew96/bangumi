@@ -124,7 +124,6 @@ const BangumiList = ({ columns, data, type }: any) => {
             columns={columns}
             pageSize={50}
             autoHeight
-            sortModel={[{ field: "anime_sn", sort: "desc" }]}
           />
         </div>
       </div>
@@ -156,7 +155,6 @@ const BangumiList = ({ columns, data, type }: any) => {
             columns={columns}
             pageSize={50}
             autoHeight
-            sortModel={[{ field: "season_id", sort: "desc" }]}
           />
         </div>
       </div>
@@ -207,7 +205,6 @@ const BangumiList = ({ columns, data, type }: any) => {
             columns={columns}
             pageSize={50}
             autoHeight
-            sortModel={[{ field: "season_id", sort: "desc" }]}
           />
         </div>
       </div>

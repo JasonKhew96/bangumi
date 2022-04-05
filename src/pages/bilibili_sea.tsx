@@ -75,7 +75,19 @@ const BilibiliSEA = () => (
   <Layout>
     <Seo title="哔哩哔哩（东南亚）" />
     <h2>哔哩哔哩（东南亚）</h2>
-    <BangumiList columns={columns} data={JSONData.data} type="bilibili_sea" />
+    <BangumiList
+      columns={columns}
+      data={JSONData.data.sort((a, b) => {
+        if (a.season_id > b.season_id) {
+          return -1
+        }
+        if (a.season_id < b.season_id) {
+          return 1
+        }
+        return 0
+      })}
+      type="bilibili_sea"
+    />
   </Layout>
 )
 

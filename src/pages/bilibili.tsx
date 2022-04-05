@@ -73,7 +73,18 @@ const Bilibili = () => (
   <Layout>
     <Seo title="哔哩哔哩" />
     <h2>哔哩哔哩</h2>
-    <BangumiList columns={columns} data={JSONData.data} />
+    <BangumiList
+      columns={columns}
+      data={JSONData.data.sort((a, b) => {
+        if (a.season_id > b.season_id) {
+          return -1
+        }
+        if (a.season_id < b.season_id) {
+          return 1
+        }
+        return 0
+      })}
+    />
   </Layout>
 )
 

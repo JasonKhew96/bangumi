@@ -104,7 +104,19 @@ const AniGamer = () => (
   <Layout>
     <Seo title="巴哈姆特動畫瘋" />
     <h2>巴哈姆特動畫瘋</h2>
-    <BangumiList columns={columns} data={JSONData.data} type="anigamer" />
+    <BangumiList
+      columns={columns}
+      data={JSONData.data.sort((a, b) => {
+        if (a.anime_sn > b.anime_sn) {
+          return -1
+        }
+        if (a.anime_sn < b.anime_sn) {
+          return 1
+        }
+        return 0
+      })}
+      type="anigamer"
+    />
   </Layout>
 )
 
