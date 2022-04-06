@@ -26,14 +26,13 @@ const Layout = ({ children }: any) => {
   `)
 
   return (
-    <div style={{ height: `100vh` }}>
+    <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <Container>
         <main>{children}</main>
         <footer
           style={{
-            position: `fixed`,
-            bottom: 0,
+            marginTop: `2rem`,
           }}
         >
           © {new Date().getFullYear()}, Built with
@@ -44,7 +43,7 @@ const Layout = ({ children }: any) => {
           {` (Build time: ` + data.site.buildTime + `)`}
         </footer>
       </Container>
-    </div>
+    </>
   )
 }
 
