@@ -26,24 +26,27 @@ const Layout = ({ children }: any) => {
   `)
 
   return (
-    <>
+    <div style={{ height: `100vh`, display: `flex`, flexDirection: `column` }}>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <Container>
         <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
-          {` & `}
-          <a href="https://material-ui.com">Material-UI</a>
-          {` (Build time: ` + data.site.buildTime + `)`}
-        </footer>
       </Container>
-    </>
+      <footer
+        style={{
+          marginTop: `auto`,
+          marginLeft: `32px`,
+          marginRight: `32px`,
+          marginBottom: `16px`,
+        }}
+      >
+        © {new Date().getFullYear()}, Built with
+        {` `}
+        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        {` & `}
+        <a href="https://material-ui.com">Material-UI</a>
+        {` (Build time: ` + data.site.buildTime + `)`}
+      </footer>
+    </div>
   )
 }
 
