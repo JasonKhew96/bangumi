@@ -13,16 +13,35 @@ import "./layout.css"
 import { Container } from "@mui/material"
 
 const Layout = ({ children }: any) => {
-  const { site } = useStaticQuery(graphql`
-    query SiteTitleQuery {
+  const { site, allFile } = useStaticQuery(graphql`
+    query {
       site {
         buildTime(formatString: "YYYY-MM-DD hh:mm a z")
         siteMetadata {
           title
         }
       }
+      allFile(filter: { sourceInstanceName: { eq: "background" } }) {
+        edges {
+          node {
+            childImageSharp {
+              fluid(quality: 90, maxHeight: 1920) {
+                srcWebp
+              }
+              gatsbyImageData(
+                placeholder: BLURRED
+                quality: 100
+              )
+            }
+          }
+        }
+        totalCount
+      }
     }
   `)
+
+  const r = Math.floor(Math.random() * allFile.totalCount)
+  const pick = allFile.edges[r]
 
   return (
     <div
@@ -30,10 +49,13 @@ const Layout = ({ children }: any) => {
         height: `100vh`,
         display: `flex`,
         flexDirection: `column`,
+        background: `url(${pick.node.childImageSharp.fluid.srcWebp}) center no-repeat, url(${pick.node.childImageSharp.gatsbyImageData.placeholder.fallback}) center no-repeat`,
+        backgroundSize: `contain, cover`,
+        overflowY: `scroll`,
       }}
     >
       <Header siteTitle={site.siteMetadata?.title || `Title`} />
-      <Container>
+      <Container style={{ background: `#FFFFFFCC` }}>
         <main>{children}</main>
       </Container>
       <footer
