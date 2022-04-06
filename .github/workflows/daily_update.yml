@@ -14,11 +14,11 @@ jobs:
       - name: "Checkout"
         uses: actions/checkout@v2
       - name: Scraping
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           cd tools && go run . && mv anigamer.json ../content/ && mv bilibili.json ../content/ && cd ..
           git config --global user.name 'Js0n'
           git config --global user.email '29531167+JasonKhew96@users.noreply.github.com'
           git commit -am "Automated update"
           git push
+  deploy:
+    uses: ./.github/workflows/deploy.yml
