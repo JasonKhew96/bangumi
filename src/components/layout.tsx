@@ -43,7 +43,7 @@ const Layout = ({ children }: any) => {
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
         {` & `}
-        <a href="https://material-ui.com">Material-UI</a>
+        <a href="https://mui.com/">Material-UI</a>
         {` (Build time: ` + data.site.buildTime + `)`}
       </footer>
     </div>
