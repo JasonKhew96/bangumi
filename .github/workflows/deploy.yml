@@ -4,8 +4,8 @@ on:
   push:
     branches: [master]
     paths-ignore:
-      - 'tools/**'
-      - '.github/**'
+      - "tools/**"
+      - ".github/**"
   workflow_dispatch:
   workflow_call:
 
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: "Checkout"
+      - name: Checkout
         uses: actions/checkout@v2
 
       - name: Setup Node.js environment
@@ -24,7 +24,8 @@ jobs:
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
 
-      - uses: actions/cache@v2
+      - name: Caching yarn
+        uses: actions/cache@v2
         id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
         with:
           path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
@@ -33,10 +34,21 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Install dependencies
-        run: yarn
+        run: yarn --frozen-lockfile
+
+      - name: Caching Gatsby
+        id: gatsby-cache-build
+        uses: actions/cache@v2
+        with:
+          path: |
+            public
+            .cache
+          key: ${{ runner.os }}-gatsby-build-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-gatsby-build-
 
       - name: Build
-        run: yarn build
+        run: GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true GATSBY_CPU_COUNT=2 yarn build --log-pages
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
