@@ -21,4 +21,5 @@ jobs:
           git commit -am "Automated update"
           git push
   deploy:
+    needs: build
     uses: ./.github/workflows/deploy.yml
