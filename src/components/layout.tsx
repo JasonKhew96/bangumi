@@ -25,12 +25,13 @@ const Layout = ({ children }: any) => {
         edges {
           node {
             childImageSharp {
-              fluid(quality: 90, maxHeight: 1920) {
+              fluid(quality: 90, maxHeight: 1920, maxWidth: 1920) {
                 srcWebp
               }
               gatsbyImageData(
                 placeholder: BLURRED
                 quality: 100
+                blurredOptions: { toFormat: WEBP }
               )
             }
           }
