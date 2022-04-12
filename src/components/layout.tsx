@@ -50,21 +50,27 @@ const Layout = ({ children }: any) => {
         height: `100vh`,
         display: `flex`,
         flexDirection: `column`,
-        background: `url(${pick.node.childImageSharp.fluid.srcWebp}) center no-repeat, url(${pick.node.childImageSharp.gatsbyImageData.placeholder.fallback}) center no-repeat`,
-        backgroundSize: `contain, cover`,
         overflowY: `scroll`,
       }}
     >
       <Header siteTitle={site.siteMetadata?.title || `Title`} />
-      <Container style={{ background: `#FFFFFFCC` }}>
-        <main>{children}</main>
-      </Container>
+      <div
+        style={{
+          flexGrow: `1`,
+          background: `url(${pick.node.childImageSharp.fluid.srcWebp}) center no-repeat, url(${pick.node.childImageSharp.gatsbyImageData.placeholder.fallback}) center no-repeat`,
+          backgroundSize: `contain, cover`,
+          backgroundAttachment: `fixed, fixed`,
+        }}
+      >
+        <Container style={{ background: `#FFFFFFCC`, borderRadius: `4px` }}>
+          <main>{children}</main>
+        </Container>
+      </div>
       <footer
         style={{
-          marginTop: `auto`,
-          marginLeft: `32px`,
-          marginRight: `32px`,
-          marginBottom: `16px`,
+          margin: `4px`,
+          textAlign: `center`,
+          background: `white`,
         }}
       >
         © {new Date().getFullYear()}, Built with
