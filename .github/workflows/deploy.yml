@@ -7,7 +7,6 @@ on:
       - "tools/**"
       - ".github/**"
   workflow_dispatch:
-  workflow_call:
 
 jobs:
   build:

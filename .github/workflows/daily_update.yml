@@ -3,8 +3,8 @@ name: Daily update
 on:
   workflow_dispatch:
   schedule:
-    # UTC 0600
-    - cron:  '0 22 * * *'
+    # UTC+8 0600
+    - cron: "0 22 * * *"
 
 jobs:
   build:
@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: "Checkout"
         uses: actions/checkout@v2
+        with:
+          token: ${{secrets.PAT}}
       - name: Scraping
         run: |
           cd tools && go run . && mv anigamer.json ../content/ && mv bilibili.json ../content/ && cd ..
@@ -20,6 +22,3 @@ jobs:
           git config --global user.email '29531167+JasonKhew96@users.noreply.github.com'
           git commit -am "Automated update"
           git push
-  deploy:
-    needs: build
-    uses: ./.github/workflows/deploy.yml
