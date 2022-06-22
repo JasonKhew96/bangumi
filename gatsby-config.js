@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `@isamrish/gatsby-plugin-google-adsense`,
       options: {
-        googleAdClientId: "ca-pub-2550705817763949",
+        googleAdClientId: "pub-2550705817763949",
         head: false, // Optional
       },
     },
