@@ -183,7 +183,7 @@ func (s *Scraper) generateAnigamerJson() error {
 		return err
 	}
 
-	if err := ioutil.WriteFile("anigamer.json", data, 0644); err != nil {
+	if err := ioutil.WriteFile("animad.json", data, 0644); err != nil {
 		return err
 	}
 

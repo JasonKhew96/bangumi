@@ -3,9 +3,11 @@ package main
 import (
 	"database/sql"
 	"io"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
+	"strconv"
 	"time"
 
 	_ "github.com/mattn/go-sqlite3"
@@ -15,6 +17,10 @@ import (
 type Scraper struct {
 	client *http.Client
 	db     *sql.DB
+}
+
+type Update struct {
+	Ts int64 `json:"ts"`
 }
 
 func NewScraper() (*Scraper, error) {
@@ -89,6 +95,10 @@ func main() {
 		log.Println(err)
 	}
 	if err := scraper.generateBilibiliJson(); err != nil {
+		log.Println(err)
+	}
+
+	if err := ioutil.WriteFile("update.json", []byte(`{"ts":`+strconv.FormatInt(time.Now().Unix(), 10)+`}`), 0644); err != nil {
 		log.Println(err)
 	}
 }

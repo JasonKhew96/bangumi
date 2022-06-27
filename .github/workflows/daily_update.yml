@@ -17,7 +17,7 @@ jobs:
           token: ${{secrets.PAT}}
       - name: Scraping
         run: |
-          cd tools && go run . && mv anigamer.json ../content/ && mv bilibili.json ../content/ && cd ..
+          cd tools && go run . && mv animad.json ../src/data/ && mv bilibili.json ../src/data/ && mv update.json ../src/data/ && cd ..
           git config --global user.name 'Js0n'
           git config --global user.email '29531167+JasonKhew96@users.noreply.github.com'
           git commit -am "Automated update"
