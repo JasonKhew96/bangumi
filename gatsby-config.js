@@ -54,13 +54,6 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `@isamrish/gatsby-plugin-google-adsense`,
-      options: {
-        googleAdClientId: "ca-pub-2550705817763949",
-        head: false, // Optional
-      },
-    },
     `gatsby-plugin-meta-redirect`, // make sure to put last in the array
   ],
 }
