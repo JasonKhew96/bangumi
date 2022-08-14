@@ -15,6 +15,8 @@ export class Navigator {
 
     const header = AppHeader.generate().build("Bangumi", () => {
       this._router.navigate("/");
+    }).addRightMenu("GitHub", () => {
+      document.location.href = "https://github.com/JasonKhew96/bangumi";
     });
 
     const homeCards = HomeCards.generate()
