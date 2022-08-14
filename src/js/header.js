@@ -27,6 +27,17 @@ export class AppHeader extends HTMLElement {
     return this;
   }
 
+  addRightMenu(text, callback) {
+    const item = Wrapper.generate("item")
+      .addClass("header-text")
+      .addClass("header-item")
+      .addClass("header-item-right");
+    item.html = text;
+    item.setOnClickListener(callback);
+    this.appendChild(item.element);
+    return this;
+  }
+
   static generate() {
     return new AppHeader();
   }
