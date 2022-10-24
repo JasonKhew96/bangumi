@@ -204,7 +204,7 @@ func (s *Scraper) scrapeBilibili() error {
 
 			seasonID++
 			errCount++
-			if errCount > 128 {
+			if errCount > 256 {
 				log.Println("bilibili no more seasons")
 				break
 			}
