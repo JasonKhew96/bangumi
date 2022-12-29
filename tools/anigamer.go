@@ -119,6 +119,15 @@ func (s *Scraper) scrapeAnigamer() error {
 				log.Printf(`  [%s][%s] "%v" -> "%v"`, change.Type, change.Path[0], change.From, change.To)
 			}
 		} else {
+			history := models.History{
+				AnimeID:  int64(anime.AnimeSn),
+				Platform: PLATFORM_ANIGAMER,
+				Type:     TYPE_NEW,
+				Title:    null.StringFrom(anime.Title),
+			}
+			if err := history.Insert(context.Background(), s.db, boil.Infer()); err != nil {
+				log.Println(err)
+			}
 			log.Printf("anigamer new [%d][%s]", anime.AnimeSn, anime.Title)
 		}
 
@@ -144,6 +153,15 @@ func (s *Scraper) scrapeAnigamer() error {
 			}
 		}
 		if !found {
+			history := models.History{
+				AnimeID:  int64(dbAnime.AnimeSN),
+				Platform: PLATFORM_ANIGAMER,
+				Type:     TYPE_DELETE,
+				Title:    dbAnime.Title,
+			}
+			if err := history.Insert(context.Background(), s.db, boil.Infer()); err != nil {
+				log.Println(err)
+			}
 			log.Printf("anigamer delete [%d][%s]\n", dbAnime.AnimeSN, dbAnime.Title.String)
 			if _, err := dbAnime.Delete(context.Background(), s.db); err != nil {
 				return err

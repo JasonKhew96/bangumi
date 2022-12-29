@@ -3,12 +3,11 @@ CREATE TABLE IF NOT EXISTS "bilibili_sea" (
 	"cover" VARCHAR(128),
 	"index_show" VARCHAR(16),
 	"is_finish" BOOLEAN,
-	"season_id" INTEGER NOT NULL UNIQUE,
+	"season_id" INTEGER NOT NULL PRIMARY KEY UNIQUE,
 	"season_type" INTEGER NOT NULL,
 	"title" VARCHAR(128),
 	"updated_at" DATETIME NOT NULL,
 	"created_at" DATETIME NOT NULL,
-	PRIMARY KEY("season_id")
 );
 CREATE TABLE IF NOT EXISTS "bilibili" (
 	"actors" VARCHAR(512),
@@ -23,7 +22,7 @@ CREATE TABLE IF NOT EXISTS "bilibili" (
 	"rating_count" INTEGER,
 	"rating_score" REAL,
 	"copyright" VARCHAR(16),
-	"season_id" INTEGER NOT NULL UNIQUE,
+	"season_id" INTEGER NOT NULL PRIMARY KEY UNIQUE,
 	"season_title" VARCHAR(128),
 	"season_type" INTEGER NOT NULL,
 	"series_title" VARCHAR(128),
@@ -36,11 +35,10 @@ CREATE TABLE IF NOT EXISTS "bilibili" (
 	"up_mid" INTEGER,
 	"updated_at" DATETIME NOT NULL,
 	"created_at" DATETIME NOT NULL,
-	PRIMARY KEY("season_id")
 );
 CREATE TABLE IF NOT EXISTS "anigamer" (
 	"acg_sn" INTEGER NOT NULL,
-	"anime_sn" INTEGER NOT NULL UNIQUE,
+	"anime_sn" INTEGER NOT NULL PRIMARY KEY UNIQUE,
 	"title" VARCHAR(128),
 	"dc_c1" INTEGER NOT NULL,
 	"dc_c2" INTEGER NOT NULL,
@@ -51,7 +49,24 @@ CREATE TABLE IF NOT EXISTS "anigamer" (
 	"vip_time" DATETIME,
 	"score" REAL,
 	"updated_at" DATETIME NOT NULL,
-	"created_at" DATETIME NOT NULL,
-	PRIMARY KEY("anime_sn")
+	"created_at" DATETIME NOT NULL
+);
+-- PLATFORM
+--   0 : UNKNOWN
+--   1 : BILIBILI SEA
+--   2 : BILIBILI
+--   3 : ANIGAMER
+-- TYPE
+--   0 : UNKNOWN
+--   1 : NEW
+--   2 : DELETE
+CREATE TABLE IF NOT EXISTS "history" (
+	"id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"anime_id" INTEGER NOT NULL,
+	"platform" INTEGER NOT NULL,
+	"type" INTEGER NOT NULL,
+	"title" VARCHAR(128),
+	"updated_at" DATETIME NOT NULL,
+	"created_at" DATETIME NOT NULL
 );
 COMMIT;

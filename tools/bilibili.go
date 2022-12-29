@@ -196,6 +196,15 @@ func (s *Scraper) scrapeBilibili() error {
 
 		if bilibiliRoot.Code != 0 {
 			if err != sql.ErrNoRows {
+				history := models.History{
+					AnimeID:  old.SeasonID,
+					Platform: PLATFORM_BILIBILI,
+					Type:     TYPE_DELETE,
+					Title:    old.Title,
+				}
+				if err := history.Insert(context.Background(), s.db, boil.Infer()); err != nil {
+					log.Println(err)
+				}
 				log.Printf("bilibili delete [%d][%s]", old.SeasonID, old.Title.String)
 				if _, err := old.Delete(context.Background(), s.db); err != nil {
 					return err
@@ -289,6 +298,15 @@ func (s *Scraper) scrapeBilibili() error {
 				log.Printf(`  [%s][%s] "%v" -> "%v"`, change.Type, change.Path[0], change.From, change.To)
 			}
 		} else {
+			history := models.History{
+				AnimeID:  new.SeasonID,
+				Platform: PLATFORM_BILIBILI,
+				Type:     TYPE_NEW,
+				Title:    new.Title,
+			}
+			if err := history.Insert(context.Background(), s.db, boil.Infer()); err != nil {
+				log.Println(err)
+			}
 			log.Printf("bilibili new [%d][%s]", new.SeasonID, new.Title.String)
 		}
 
