@@ -71,13 +71,13 @@ func (s *Scraper) do(method, url string, body io.Reader) (*http.Response, error)
 }
 
 func main() {
-	os.Remove("log.txt")
-	logFile, err := os.OpenFile("log.txt", os.O_CREATE|os.O_APPEND|os.O_RDWR, 0644)
-	if err != nil {
-		panic(err)
-	}
-	mw := io.MultiWriter(os.Stdout, logFile)
-	log.SetOutput(mw)
+	// os.Remove("log.txt")
+	// logFile, err := os.OpenFile("log.txt", os.O_CREATE|os.O_APPEND|os.O_RDWR, 0644)
+	// if err != nil {
+	// 	panic(err)
+	// }
+	// mw := io.MultiWriter(os.Stdout, logFile)
+	log.SetOutput(os.Stdout)
 
 	log.Println("Starting")
 	scraper, err := NewScraper()
