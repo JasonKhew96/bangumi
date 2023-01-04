@@ -37,7 +37,7 @@ export class BangumiList extends HTMLElement {
     this._page = new Observable(1);
     this._page.subscribe((val) => this.pageCallback(val));
 
-    this._itemPerPage = 15;
+    this._itemPerPage = 20;
 
     const name = "filterType";
     this.typeFilter = RadioButton.generate()
