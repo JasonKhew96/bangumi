@@ -6955,6 +6955,7 @@
       "title": "赘婿",
       "regions": "BN,ID,KH,LA,MM,MY,PH,SG,TH,VN"
     },
+    { "season_id": 2081531, "title": "鬼灭之刃 游郭决战篇 特別编集版" },
     {
       "season_id": 2081589,
       "title": "转生成为魔剑（泰配版）",
@@ -6963,12 +6964,27 @@
     {
       "season_id": 2081692,
       "title": "逃走中 THE GREAT MISSION",
-      "regions": "ID,PH,TH,VN"
+      "regions": "TH,PH,VN,ID"
     },
     {
       "season_id": 2081760,
       "title": "我家的英雄",
-      "regions": "BN,ID,KH,MY,PH,SG,TH,VN"
+      "regions": "TH,MY,SG,PH,VN,ID,KH,BN"
+    },
+    {
+      "season_id": 2081965,
+      "title": "机动战士高达 水星的魔女 第二季",
+      "regions": "TH,MY,SG,PH,VN,ID,KH,LA,MM,BN"
+    },
+    {
+      "season_id": 2082099,
+      "title": "小鸟之翼 高尔夫少女 第二季",
+      "regions": "TH,MY,SG,PH,VN,ID,KH,LA,MM,BN"
+    },
+    {
+      "season_id": 2082231,
+      "title": "伊甸星原 第二季",
+      "regions": "TH,MY,SG,PH,VN,ID,KH,BN"
     }
   ]
 }
