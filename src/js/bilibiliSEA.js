@@ -49,7 +49,9 @@ export class BilibiliSEATable extends BangumiList {
             .addClass("text-center")
             .addClass("td-fit")
         )
-        .appendChild(Wrapper.generate("td", title));
+        .appendChild(Wrapper.generate("td", title)
+            .setAttribute("title", element.regions)
+        );
       table.appendChild(tr);
     });
 
