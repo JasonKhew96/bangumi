@@ -1,6 +1,7 @@
 import { Wrapper } from "./wrapper.js";
 import { AnchorWrapper } from "./anchorWrapper.js";
 import { BangumiList } from "./bangumiList.js";
+import { ModalDialog } from "./dialog.js";
 
 export class BilibiliSEATable extends BangumiList {
   constructor() {
@@ -18,6 +19,8 @@ export class BilibiliSEATable extends BangumiList {
 
   buildTable() {
     const table = Wrapper.generate("table");
+    const dialog = ModalDialog.generate();
+    table.appendChild(dialog);
     const header = Wrapper.generate("tr")
       .createChild("th", "Season ID")
       .createChild("th")
@@ -51,6 +54,10 @@ export class BilibiliSEATable extends BangumiList {
         )
         .appendChild(Wrapper.generate("td", title)
             .setAttribute("title", element.regions)
+            .setOnClickListener(() => {
+              dialog.build(element.regions);
+              dialog.element.showModal();
+            })
         );
       table.appendChild(tr);
     });

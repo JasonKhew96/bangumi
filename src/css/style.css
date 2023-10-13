@@ -63,6 +63,15 @@ img {
   flex-shrink: 0;
 }
 
+.modal-dialog {
+  width: fit-content;
+  max-width: 50%;
+}
+
+.modal-dialog-content {
+  word-wrap: break-word;
+}
+
 home-cards {
   padding: 8px;
   display: flex;
