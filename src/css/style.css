@@ -207,8 +207,8 @@ span {
   home-cards {
     flex-direction: column;
   }
-  .inner-table {
-    width: auto;
+  .modal-dialog {
+    max-width: 80%;
   }
 }
 
