@@ -4,10 +4,11 @@ import (
 	"context"
 	"database/sql"
 	"errors"
-	"io/ioutil"
+	"io"
 	"log"
 	"net/http"
 	"net/url"
+	"os"
 	"sort"
 	"strconv"
 	"strings"
@@ -46,7 +47,7 @@ func (s *Scraper) scrapeAnigamer() error {
 		if resp.StatusCode != http.StatusOK {
 			return errors.New("status code error: " + resp.Status)
 		}
-		body, err := ioutil.ReadAll(resp.Body)
+		body, err := io.ReadAll(resp.Body)
 		if err != nil {
 			return err
 		}
@@ -201,7 +202,7 @@ func (s *Scraper) generateAnigamerJson() error {
 		return err
 	}
 
-	if err := ioutil.WriteFile("animad.json", data, 0644); err != nil {
+	if err := os.WriteFile("animad.json", data, 0644); err != nil {
 		return err
 	}
 
