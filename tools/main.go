@@ -93,9 +93,9 @@ func main() {
 	// if err := scraper.scrapeBilibili(); err != nil {
 	// 	log.Println(err)
 	// }
-	// if err := scraper.generateBilibiliJson(); err != nil {
-	// 	log.Println(err)
-	// }
+	if err := scraper.generateBilibiliJson(); err != nil {
+		log.Println(err)
+	}
 
 	if err := os.WriteFile("update.json", []byte(`{"ts":`+strconv.FormatInt(time.Now().Unix(), 10)+`}`), 0644); err != nil {
 		log.Println(err)
