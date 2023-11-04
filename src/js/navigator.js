@@ -20,7 +20,7 @@ export class Navigator {
     });
 
     const homeCards = HomeCards.generate()
-      .addCard("./image/bilibili.png", "哔哩哔哩(停更)", () => {
+      .addCard("./image/bilibili.png", "哔哩哔哩", () => {
         this._router.navigate("/bilibili");
       })
       .addCard("./image/bilibili_sea.webp", "哔哩哔哩(东南亚)", () => {
