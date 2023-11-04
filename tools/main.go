@@ -90,9 +90,9 @@ func main() {
 	if err := scraper.generateAnigamerJson(); err != nil {
 		log.Println(err)
 	}
-	// if err := scraper.scrapeBilibili(); err != nil {
-	// 	log.Println(err)
-	// }
+	if err := scraper.scrapeBilibili(); err != nil {
+		log.Println(err)
+	}
 	if err := scraper.generateBilibiliJson(); err != nil {
 		log.Println(err)
 	}
