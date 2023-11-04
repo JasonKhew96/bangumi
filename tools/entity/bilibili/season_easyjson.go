@@ -17,7 +17,7 @@ var (
 	_ easyjson.Marshaler
 )
 
-func easyjsonA209d07bDecodeBangumiEntityBilibili(in *jlexer.Lexer, out *UpInfo) {
+func easyjsonA209d07bDecodeScraperEntityBilibili(in *jlexer.Lexer, out *UpInfo) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -60,7 +60,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili(in *jlexer.Lexer, out *UpInfo) 
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili(out *jwriter.Writer, in UpInfo) {
+func easyjsonA209d07bEncodeScraperEntityBilibili(out *jwriter.Writer, in UpInfo) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -105,27 +105,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili(out *jwriter.Writer, in UpInfo)
 // MarshalJSON supports json.Marshaler interface
 func (v UpInfo) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v UpInfo) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *UpInfo) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *UpInfo) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili1(in *jlexer.Lexer, out *Stat) {
+func easyjsonA209d07bDecodeScraperEntityBilibili1(in *jlexer.Lexer, out *Stat) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -166,7 +166,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili1(in *jlexer.Lexer, out *Stat) {
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili1(out *jwriter.Writer, in Stat) {
+func easyjsonA209d07bEncodeScraperEntityBilibili1(out *jwriter.Writer, in Stat) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -206,27 +206,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili1(out *jwriter.Writer, in Stat) 
 // MarshalJSON supports json.Marshaler interface
 func (v Stat) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili1(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili1(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Stat) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili1(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili1(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Stat) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili1(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili1(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Stat) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili1(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili1(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili2(in *jlexer.Lexer, out *Seasons) {
+func easyjsonA209d07bDecodeScraperEntityBilibili2(in *jlexer.Lexer, out *Seasons) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -275,7 +275,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili2(in *jlexer.Lexer, out *Seasons
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili2(out *jwriter.Writer, in Seasons) {
+func easyjsonA209d07bEncodeScraperEntityBilibili2(out *jwriter.Writer, in Seasons) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -335,27 +335,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili2(out *jwriter.Writer, in Season
 // MarshalJSON supports json.Marshaler interface
 func (v Seasons) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili2(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili2(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Seasons) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili2(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili2(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Seasons) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili2(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili2(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Seasons) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili2(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili2(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili3(in *jlexer.Lexer, out *SeasonResult) {
+func easyjsonA209d07bDecodeScraperEntityBilibili3(in *jlexer.Lexer, out *SeasonResult) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -390,7 +390,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili3(in *jlexer.Lexer, out *SeasonR
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili3(out *jwriter.Writer, in SeasonResult) {
+func easyjsonA209d07bEncodeScraperEntityBilibili3(out *jwriter.Writer, in SeasonResult) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -415,27 +415,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili3(out *jwriter.Writer, in Season
 // MarshalJSON supports json.Marshaler interface
 func (v SeasonResult) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili3(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili3(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v SeasonResult) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili3(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili3(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *SeasonResult) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili3(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili3(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *SeasonResult) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili3(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili3(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili4(in *jlexer.Lexer, out *Rights) {
+func easyjsonA209d07bDecodeScraperEntityBilibili4(in *jlexer.Lexer, out *Rights) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -480,7 +480,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili4(in *jlexer.Lexer, out *Rights)
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili4(out *jwriter.Writer, in Rights) {
+func easyjsonA209d07bEncodeScraperEntityBilibili4(out *jwriter.Writer, in Rights) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -530,27 +530,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili4(out *jwriter.Writer, in Rights
 // MarshalJSON supports json.Marshaler interface
 func (v Rights) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili4(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili4(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Rights) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili4(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili4(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Rights) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili4(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili4(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Rights) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili4(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili4(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili5(in *jlexer.Lexer, out *Result) {
+func easyjsonA209d07bDecodeScraperEntityBilibili5(in *jlexer.Lexer, out *Result) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -661,6 +661,8 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili5(in *jlexer.Lexer, out *Result)
 			out.SeasonTitle = string(in.String())
 		case "season_type":
 			out.SeasonType = int(in.Int())
+		case "show_season_type":
+			out.ShowSeasonType = int(in.Int())
 		case "seasons":
 			if in.IsNull() {
 				in.Skip()
@@ -686,6 +688,8 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili5(in *jlexer.Lexer, out *Result)
 			}
 		case "series_title":
 			out.SeriesTitle = string(in.String())
+		case "series":
+			easyjsonA209d07bDecode(in, &out.Series)
 		case "square_cover":
 			out.SquareCover = string(in.String())
 		case "staff":
@@ -715,6 +719,29 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili5(in *jlexer.Lexer, out *Result)
 				}
 				in.Delim(']')
 			}
+		case "styles":
+			if in.IsNull() {
+				in.Skip()
+				out.Styles = nil
+			} else {
+				in.Delim('[')
+				if out.Styles == nil {
+					if !in.IsDelim(']') {
+						out.Styles = make([]string, 0, 4)
+					} else {
+						out.Styles = []string{}
+					}
+				} else {
+					out.Styles = (out.Styles)[:0]
+				}
+				for !in.IsDelim(']') {
+					var v5 string
+					v5 = string(in.String())
+					out.Styles = append(out.Styles, v5)
+					in.WantComma()
+				}
+				in.Delim(']')
+			}
 		case "title":
 			out.Title = string(in.String())
 		case "total_ep":
@@ -731,7 +758,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili5(in *jlexer.Lexer, out *Result)
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result) {
+func easyjsonA209d07bEncodeScraperEntityBilibili5(out *jwriter.Writer, in Result) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -752,11 +779,11 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result
 			out.RawString("null")
 		} else {
 			out.RawByte('[')
-			for v5, v6 := range in.Areas {
-				if v5 > 0 {
+			for v6, v7 := range in.Areas {
+				if v6 > 0 {
 					out.RawByte(',')
 				}
-				(v6).MarshalEasyJSON(out)
+				(v7).MarshalEasyJSON(out)
 			}
 			out.RawByte(']')
 		}
@@ -773,11 +800,11 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result
 			out.RawString("null")
 		} else {
 			out.RawByte('[')
-			for v7, v8 := range in.Episodes {
-				if v7 > 0 {
+			for v8, v9 := range in.Episodes {
+				if v8 > 0 {
 					out.RawByte(',')
 				}
-				(v8).MarshalEasyJSON(out)
+				(v9).MarshalEasyJSON(out)
 			}
 			out.RawByte(']')
 		}
@@ -863,17 +890,22 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result
 		out.Int(int(in.SeasonType))
 	}
 	{
+		const prefix string = ",\"show_season_type\":"
+		out.RawString(prefix)
+		out.Int(int(in.ShowSeasonType))
+	}
+	{
 		const prefix string = ",\"seasons\":"
 		out.RawString(prefix)
 		if in.Seasons == nil && (out.Flags&jwriter.NilSliceAsEmpty) == 0 {
 			out.RawString("null")
 		} else {
 			out.RawByte('[')
-			for v9, v10 := range in.Seasons {
-				if v9 > 0 {
+			for v10, v11 := range in.Seasons {
+				if v10 > 0 {
 					out.RawByte(',')
 				}
-				(v10).MarshalEasyJSON(out)
+				(v11).MarshalEasyJSON(out)
 			}
 			out.RawByte(']')
 		}
@@ -882,6 +914,11 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result
 		const prefix string = ",\"series_title\":"
 		out.RawString(prefix)
 		out.String(string(in.SeriesTitle))
+	}
+	{
+		const prefix string = ",\"series\":"
+		out.RawString(prefix)
+		easyjsonA209d07bEncode(out, in.Series)
 	}
 	{
 		const prefix string = ",\"square_cover\":"
@@ -905,11 +942,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result
 			out.RawString("null")
 		} else {
 			out.RawByte('[')
-			for v11, v12 := range in.Style {
-				if v11 > 0 {
+			for v12, v13 := range in.Style {
+				if v12 > 0 {
 					out.RawByte(',')
 				}
-				out.String(string(v12))
+				out.String(string(v13))
+			}
+			out.RawByte(']')
+		}
+	}
+	{
+		const prefix string = ",\"styles\":"
+		out.RawString(prefix)
+		if in.Styles == nil && (out.Flags&jwriter.NilSliceAsEmpty) == 0 {
+			out.RawString("null")
+		} else {
+			out.RawByte('[')
+			for v14, v15 := range in.Styles {
+				if v14 > 0 {
+					out.RawByte(',')
+				}
+				out.String(string(v15))
 			}
 			out.RawByte(']')
 		}
@@ -935,27 +988,73 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili5(out *jwriter.Writer, in Result
 // MarshalJSON supports json.Marshaler interface
 func (v Result) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili5(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili5(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Result) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili5(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili5(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Result) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili5(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili5(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Result) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili5(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili5(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili6(in *jlexer.Lexer, out *Rating) {
+func easyjsonA209d07bDecode(in *jlexer.Lexer, out *struct {
+	SeriesTitle string `json:"series_title"`
+}) {
+	isTopLevel := in.IsStart()
+	if in.IsNull() {
+		if isTopLevel {
+			in.Consumed()
+		}
+		in.Skip()
+		return
+	}
+	in.Delim('{')
+	for !in.IsDelim('}') {
+		key := in.UnsafeFieldName(false)
+		in.WantColon()
+		if in.IsNull() {
+			in.Skip()
+			in.WantComma()
+			continue
+		}
+		switch key {
+		case "series_title":
+			out.SeriesTitle = string(in.String())
+		default:
+			in.SkipRecursive()
+		}
+		in.WantComma()
+	}
+	in.Delim('}')
+	if isTopLevel {
+		in.Consumed()
+	}
+}
+func easyjsonA209d07bEncode(out *jwriter.Writer, in struct {
+	SeriesTitle string `json:"series_title"`
+}) {
+	out.RawByte('{')
+	first := true
+	_ = first
+	{
+		const prefix string = ",\"series_title\":"
+		out.RawString(prefix[1:])
+		out.String(string(in.SeriesTitle))
+	}
+	out.RawByte('}')
+}
+func easyjsonA209d07bDecodeScraperEntityBilibili6(in *jlexer.Lexer, out *Rating) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -988,7 +1087,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili6(in *jlexer.Lexer, out *Rating)
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili6(out *jwriter.Writer, in Rating) {
+func easyjsonA209d07bEncodeScraperEntityBilibili6(out *jwriter.Writer, in Rating) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1008,27 +1107,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili6(out *jwriter.Writer, in Rating
 // MarshalJSON supports json.Marshaler interface
 func (v Rating) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili6(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili6(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Rating) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili6(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili6(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Rating) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili6(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili6(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Rating) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili6(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili6(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili7(in *jlexer.Lexer, out *Publish) {
+func easyjsonA209d07bDecodeScraperEntityBilibili7(in *jlexer.Lexer, out *Publish) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1067,7 +1166,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili7(in *jlexer.Lexer, out *Publish
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili7(out *jwriter.Writer, in Publish) {
+func easyjsonA209d07bEncodeScraperEntityBilibili7(out *jwriter.Writer, in Publish) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1102,27 +1201,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili7(out *jwriter.Writer, in Publis
 // MarshalJSON supports json.Marshaler interface
 func (v Publish) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili7(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili7(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Publish) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili7(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili7(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Publish) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili7(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili7(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Publish) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili7(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili7(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili8(in *jlexer.Lexer, out *Pendant) {
+func easyjsonA209d07bDecodeScraperEntityBilibili8(in *jlexer.Lexer, out *Pendant) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1157,7 +1256,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili8(in *jlexer.Lexer, out *Pendant
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili8(out *jwriter.Writer, in Pendant) {
+func easyjsonA209d07bEncodeScraperEntityBilibili8(out *jwriter.Writer, in Pendant) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1182,27 +1281,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili8(out *jwriter.Writer, in Pendan
 // MarshalJSON supports json.Marshaler interface
 func (v Pendant) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili8(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili8(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Pendant) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili8(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili8(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Pendant) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili8(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili8(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Pendant) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili8(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili8(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili9(in *jlexer.Lexer, out *Payment) {
+func easyjsonA209d07bDecodeScraperEntityBilibili9(in *jlexer.Lexer, out *Payment) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1247,7 +1346,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili9(in *jlexer.Lexer, out *Payment
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili9(out *jwriter.Writer, in Payment) {
+func easyjsonA209d07bEncodeScraperEntityBilibili9(out *jwriter.Writer, in Payment) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1297,27 +1396,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili9(out *jwriter.Writer, in Paymen
 // MarshalJSON supports json.Marshaler interface
 func (v Payment) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili9(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili9(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Payment) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili9(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili9(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Payment) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili9(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili9(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Payment) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili9(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili9(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili10(in *jlexer.Lexer, out *PayType) {
+func easyjsonA209d07bDecodeScraperEntityBilibili10(in *jlexer.Lexer, out *PayType) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1358,7 +1457,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili10(in *jlexer.Lexer, out *PayTyp
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili10(out *jwriter.Writer, in PayType) {
+func easyjsonA209d07bEncodeScraperEntityBilibili10(out *jwriter.Writer, in PayType) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1398,27 +1497,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili10(out *jwriter.Writer, in PayTy
 // MarshalJSON supports json.Marshaler interface
 func (v PayType) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili10(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili10(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v PayType) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili10(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili10(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *PayType) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili10(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili10(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *PayType) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili10(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili10(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili11(in *jlexer.Lexer, out *NewestEp) {
+func easyjsonA209d07bDecodeScraperEntityBilibili11(in *jlexer.Lexer, out *NewestEp) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1457,7 +1556,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili11(in *jlexer.Lexer, out *Newest
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili11(out *jwriter.Writer, in NewestEp) {
+func easyjsonA209d07bEncodeScraperEntityBilibili11(out *jwriter.Writer, in NewestEp) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1492,27 +1591,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili11(out *jwriter.Writer, in Newes
 // MarshalJSON supports json.Marshaler interface
 func (v NewestEp) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili11(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili11(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v NewestEp) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili11(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili11(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *NewestEp) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili11(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili11(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *NewestEp) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili11(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili11(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili12(in *jlexer.Lexer, out *NewEp) {
+func easyjsonA209d07bDecodeScraperEntityBilibili12(in *jlexer.Lexer, out *NewEp) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1547,7 +1646,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili12(in *jlexer.Lexer, out *NewEp)
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili12(out *jwriter.Writer, in NewEp) {
+func easyjsonA209d07bEncodeScraperEntityBilibili12(out *jwriter.Writer, in NewEp) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1572,27 +1671,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili12(out *jwriter.Writer, in NewEp
 // MarshalJSON supports json.Marshaler interface
 func (v NewEp) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili12(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili12(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v NewEp) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili12(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili12(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *NewEp) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili12(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili12(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *NewEp) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili12(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili12(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili13(in *jlexer.Lexer, out *Episodes) {
+func easyjsonA209d07bDecodeScraperEntityBilibili13(in *jlexer.Lexer, out *Episodes) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1661,7 +1760,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili13(in *jlexer.Lexer, out *Episod
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili13(out *jwriter.Writer, in Episodes) {
+func easyjsonA209d07bEncodeScraperEntityBilibili13(out *jwriter.Writer, in Episodes) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1771,27 +1870,27 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili13(out *jwriter.Writer, in Episo
 // MarshalJSON supports json.Marshaler interface
 func (v Episodes) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili13(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili13(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Episodes) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili13(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili13(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Episodes) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili13(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili13(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Episodes) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili13(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili13(l, v)
 }
-func easyjsonA209d07bDecodeBangumiEntityBilibili14(in *jlexer.Lexer, out *Areas) {
+func easyjsonA209d07bDecodeScraperEntityBilibili14(in *jlexer.Lexer, out *Areas) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -1824,7 +1923,7 @@ func easyjsonA209d07bDecodeBangumiEntityBilibili14(in *jlexer.Lexer, out *Areas)
 		in.Consumed()
 	}
 }
-func easyjsonA209d07bEncodeBangumiEntityBilibili14(out *jwriter.Writer, in Areas) {
+func easyjsonA209d07bEncodeScraperEntityBilibili14(out *jwriter.Writer, in Areas) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -1844,23 +1943,23 @@ func easyjsonA209d07bEncodeBangumiEntityBilibili14(out *jwriter.Writer, in Areas
 // MarshalJSON supports json.Marshaler interface
 func (v Areas) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjsonA209d07bEncodeBangumiEntityBilibili14(&w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili14(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Areas) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjsonA209d07bEncodeBangumiEntityBilibili14(w, v)
+	easyjsonA209d07bEncodeScraperEntityBilibili14(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Areas) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjsonA209d07bDecodeBangumiEntityBilibili14(&r, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili14(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Areas) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjsonA209d07bDecodeBangumiEntityBilibili14(l, v)
+	easyjsonA209d07bDecodeScraperEntityBilibili14(l, v)
 }
