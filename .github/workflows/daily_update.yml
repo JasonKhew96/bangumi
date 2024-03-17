@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     # UTC+8 0000
-    - cron: "0 16 * * *"
+    # - cron: "0 16 * * *"
     # UTC+8 0600
     - cron: "0 22 * * *"
     # UTC+8 1200
-    - cron: "0 04 * * *"
+    # - cron: "0 04 * * *"
     # UTC+8 1800
     - cron: "0 10 * * *"
 
