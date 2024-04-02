@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS "bilibili" (
 	"cover" VARCHAR(128),
 	"evaluate" VARCHAR(512),
 	"jp_title" VARCHAR(128),
-	"media_id" INTEGER NOT NULL UNIQUE,
+	"media_id" INTEGER NOT NULL,
 	"is_vip" BOOLEAN NOT NULL,
 	"pub_time" DATETIME,
 	"rating_count" INTEGER,

@@ -1,2 +1,3 @@
+wipe = true
 [sqlite3]
 dbname = "bangumi.db"
