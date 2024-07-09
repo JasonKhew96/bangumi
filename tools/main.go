@@ -43,6 +43,11 @@ func NewScraper() (*Scraper, error) {
 	}, nil
 }
 
+func (s *Scraper) Close() {
+	s.db.Exec("VACUUM;")
+	s.db.Close()
+}
+
 func (s *Scraper) do(method, url string, body io.Reader) (*http.Response, error) {
 	req, err := http.NewRequest(method, url, body)
 	if err != nil {
@@ -83,7 +88,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	defer scraper.db.Close()
+	defer scraper.Close()
 	if err := scraper.scrapeAnigamer(); err != nil {
 		log.Println(err)
 	}
