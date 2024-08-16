@@ -71,7 +71,7 @@ func (s *Scraper) scrapeAnigamer() error {
 
 	log.Println("Updating anigamer...")
 	for _, anime := range l {
-		popular, _ := strconv.ParseInt(anime.Popular, 10, 64)
+		popular := int64(anime.Popular)
 		vipTime, _ := time.Parse(TIMESTAMP_FORMAT, anime.HighlightTag.VipTime)
 
 		old, err := models.Anigamers(models.AnigamerWhere.AnimeSN.EQ(int64(anime.AnimeSn))).One(context.Background(), s.db)
