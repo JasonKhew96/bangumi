@@ -29,7 +29,7 @@ type List struct {
 	Flag         int          `json:"flag"`
 	Cover        string       `json:"cover"`
 	Info         string       `json:"info"`
-	Popular      string       `json:"popular"`
+	Popular      int          `json:"popular"`
 	HighlightTag HighlightTag `json:"highlightTag"`
 	Score        float64      `json:"score"`
 }

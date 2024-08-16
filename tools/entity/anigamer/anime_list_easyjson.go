@@ -121,7 +121,7 @@ func easyjson923a13afDecodeScraperEntityAnigamer1(in *jlexer.Lexer, out *List) {
 		case "info":
 			out.Info = string(in.String())
 		case "popular":
-			out.Popular = string(in.String())
+			out.Popular = int(in.Int())
 		case "highlightTag":
 			(out.HighlightTag).UnmarshalEasyJSON(in)
 		case "score":
@@ -188,7 +188,7 @@ func easyjson923a13afEncodeScraperEntityAnigamer1(out *jwriter.Writer, in List) 
 	{
 		const prefix string = ",\"popular\":"
 		out.RawString(prefix)
-		out.String(string(in.Popular))
+		out.Int(int(in.Popular))
 	}
 	{
 		const prefix string = ",\"highlightTag\":"
