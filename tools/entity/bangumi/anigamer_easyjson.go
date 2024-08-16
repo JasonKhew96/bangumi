@@ -17,7 +17,7 @@ var (
 	_ easyjson.Marshaler
 )
 
-func easyjson26239f76DecodeBangumiEntityBangumi(in *jlexer.Lexer, out *AnigamerData) {
+func easyjson26239f76DecodeScraperEntityBangumi(in *jlexer.Lexer, out *AnigamerData) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -62,7 +62,7 @@ func easyjson26239f76DecodeBangumiEntityBangumi(in *jlexer.Lexer, out *AnigamerD
 		in.Consumed()
 	}
 }
-func easyjson26239f76EncodeBangumiEntityBangumi(out *jwriter.Writer, in AnigamerData) {
+func easyjson26239f76EncodeScraperEntityBangumi(out *jwriter.Writer, in AnigamerData) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -112,27 +112,27 @@ func easyjson26239f76EncodeBangumiEntityBangumi(out *jwriter.Writer, in Anigamer
 // MarshalJSON supports json.Marshaler interface
 func (v AnigamerData) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjson26239f76EncodeBangumiEntityBangumi(&w, v)
+	easyjson26239f76EncodeScraperEntityBangumi(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v AnigamerData) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjson26239f76EncodeBangumiEntityBangumi(w, v)
+	easyjson26239f76EncodeScraperEntityBangumi(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *AnigamerData) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjson26239f76DecodeBangumiEntityBangumi(&r, v)
+	easyjson26239f76DecodeScraperEntityBangumi(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *AnigamerData) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjson26239f76DecodeBangumiEntityBangumi(l, v)
+	easyjson26239f76DecodeScraperEntityBangumi(l, v)
 }
-func easyjson26239f76DecodeBangumiEntityBangumi1(in *jlexer.Lexer, out *Anigamer) {
+func easyjson26239f76DecodeScraperEntityBangumi1(in *jlexer.Lexer, out *Anigamer) {
 	isTopLevel := in.IsStart()
 	if in.IsNull() {
 		if isTopLevel {
@@ -184,7 +184,7 @@ func easyjson26239f76DecodeBangumiEntityBangumi1(in *jlexer.Lexer, out *Anigamer
 		in.Consumed()
 	}
 }
-func easyjson26239f76EncodeBangumiEntityBangumi1(out *jwriter.Writer, in Anigamer) {
+func easyjson26239f76EncodeScraperEntityBangumi1(out *jwriter.Writer, in Anigamer) {
 	out.RawByte('{')
 	first := true
 	_ = first
@@ -210,23 +210,23 @@ func easyjson26239f76EncodeBangumiEntityBangumi1(out *jwriter.Writer, in Anigame
 // MarshalJSON supports json.Marshaler interface
 func (v Anigamer) MarshalJSON() ([]byte, error) {
 	w := jwriter.Writer{}
-	easyjson26239f76EncodeBangumiEntityBangumi1(&w, v)
+	easyjson26239f76EncodeScraperEntityBangumi1(&w, v)
 	return w.Buffer.BuildBytes(), w.Error
 }
 
 // MarshalEasyJSON supports easyjson.Marshaler interface
 func (v Anigamer) MarshalEasyJSON(w *jwriter.Writer) {
-	easyjson26239f76EncodeBangumiEntityBangumi1(w, v)
+	easyjson26239f76EncodeScraperEntityBangumi1(w, v)
 }
 
 // UnmarshalJSON supports json.Unmarshaler interface
 func (v *Anigamer) UnmarshalJSON(data []byte) error {
 	r := jlexer.Lexer{Data: data}
-	easyjson26239f76DecodeBangumiEntityBangumi1(&r, v)
+	easyjson26239f76DecodeScraperEntityBangumi1(&r, v)
 	return r.Error()
 }
 
 // UnmarshalEasyJSON supports easyjson.Unmarshaler interface
 func (v *Anigamer) UnmarshalEasyJSON(l *jlexer.Lexer) {
-	easyjson26239f76DecodeBangumiEntityBangumi1(l, v)
+	easyjson26239f76DecodeScraperEntityBangumi1(l, v)
 }

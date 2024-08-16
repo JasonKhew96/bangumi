@@ -26,7 +26,7 @@ type List struct {
 	DcC1         int          `json:"dc_c1"`
 	DcC2         int          `json:"dc_c2"`
 	Favorite     bool         `json:"favorite"`
-	Flag         string       `json:"flag"`
+	Flag         int          `json:"flag"`
 	Cover        string       `json:"cover"`
 	Info         string       `json:"info"`
 	Popular      string       `json:"popular"`
