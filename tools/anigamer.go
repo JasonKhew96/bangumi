@@ -25,7 +25,7 @@ import (
 	"github.com/volatiletech/sqlboiler/v4/queries/qm"
 )
 
-type ByAnimeSn []anigamer.List
+type ByAnimeSn []anigamer.Anime
 
 func (a ByAnimeSn) Len() int           { return len(a) }
 func (a ByAnimeSn) Less(i, j int) bool { return a[i].AnimeSn < a[j].AnimeSn }
@@ -35,7 +35,8 @@ func (s *Scraper) scrapeAnigamer() error {
 	log.Println("Scraping anigamer...")
 	values := url.Values{}
 	page := 1
-	var l []anigamer.List
+	totalPage := -1
+	var l []anigamer.Anime
 	for {
 		values.Set("page", strconv.Itoa(page))
 		apiUrl := API_ANIGAMER_LIST + "?" + values.Encode()
@@ -51,18 +52,22 @@ func (s *Scraper) scrapeAnigamer() error {
 		if err != nil {
 			return err
 		}
-		anigamerRoot := &anigamer.Lists{}
+		anigamerRoot := &anigamer.List{}
 		err = easyjson.Unmarshal(body, anigamerRoot)
 		if err != nil {
 			return err
 		}
-		if anigamerRoot.Length() == 0 {
+		totalPage = anigamerRoot.Data.TotalPage
+		animeList := anigamerRoot.Data.AnimeList
+		if animeList.Length() == 0 {
 			break
 		}
-		for anime := range anigamerRoot.Iterate() {
+		for anime := range animeList.Iterate() {
 			l = append(l, anime)
 		}
-
+		if page >= totalPage {
+			break
+		}
 		page++
 		time.Sleep(time.Second * 1)
 	}
@@ -83,8 +88,6 @@ func (s *Scraper) scrapeAnigamer() error {
 			AcgSN:     int64(anime.AcgSn),
 			AnimeSN:   int64(anime.AnimeSn),
 			Title:     null.StringFrom(strings.TrimSpace(anime.Title)),
-			DCC1:      int64(anime.DcC1),
-			DCC2:      int64(anime.DcC2),
 			Cover:     null.StringFrom(anime.Cover),
 			Popular:   null.Int64From(popular),
 			Bilingual: null.BoolFrom(anime.HighlightTag.Bilingual),
@@ -96,8 +99,6 @@ func (s *Scraper) scrapeAnigamer() error {
 		if err != sql.ErrNoRows &&
 			old.AcgSN == new.AcgSN &&
 			old.Title == new.Title &&
-			old.DCC1 == new.DCC1 &&
-			old.DCC2 == new.DCC2 &&
 			old.Cover == new.Cover &&
 			old.Popular == new.Popular &&
 			old.Bilingual == new.Bilingual &&
@@ -189,8 +190,6 @@ func (s *Scraper) generateAnigamerJson() error {
 			AcgSn:       int(b.AcgSN),
 			AnimeSn:     int(b.AnimeSN),
 			Title:       b.Title.String,
-			DcC1:        int(b.DCC1),
-			DcC2:        int(b.DCC2),
 			IsBilingual: b.Bilingual.Bool,
 			Edition:     b.Edition.String,
 			IsVip:       b.VipTime.Time.After(time.Now()),

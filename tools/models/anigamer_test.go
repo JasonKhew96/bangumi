@@ -568,7 +568,7 @@ func testAnigamersSelect(t *testing.T) {
 }
 
 var (
-	anigamerDBTypes = map[string]string{`AcgSN`: `INTEGER`, `AnimeSN`: `INTEGER`, `Title`: `VARCHAR(128)`, `DCC1`: `INTEGER`, `DCC2`: `INTEGER`, `Cover`: `VARCHAR(128)`, `Popular`: `INTEGER`, `Bilingual`: `BOOLEAN`, `Edition`: `VARCHAR(16)`, `VipTime`: `DATETIME`, `Score`: `REAL`, `UpdatedAt`: `DATETIME`, `CreatedAt`: `DATETIME`}
+	anigamerDBTypes = map[string]string{`AcgSN`: `INTEGER`, `AnimeSN`: `INTEGER`, `Title`: `VARCHAR(128)`, `Cover`: `VARCHAR(128)`, `Popular`: `INTEGER`, `Bilingual`: `BOOLEAN`, `Edition`: `VARCHAR(16)`, `VipTime`: `DATETIME`, `Score`: `REAL`, `UpdatedAt`: `DATETIME`, `CreatedAt`: `DATETIME`}
 	_               = bytes.MinRead
 )
 

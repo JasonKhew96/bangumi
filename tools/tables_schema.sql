@@ -40,8 +40,6 @@ CREATE TABLE IF NOT EXISTS "anigamer" (
 	"acg_sn" INTEGER NOT NULL,
 	"anime_sn" INTEGER NOT NULL PRIMARY KEY UNIQUE,
 	"title" VARCHAR(128),
-	"dc_c1" INTEGER NOT NULL,
-	"dc_c2" INTEGER NOT NULL,
 	"cover" VARCHAR(128),
 	"popular" INTEGER,
 	"bilingual" BOOLEAN,

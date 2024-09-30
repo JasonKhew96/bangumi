@@ -1,11 +1,11 @@
 package anigamer
 
-func (lists Lists) Length() int {
+func (lists AnimeLists) Length() int {
 	return len(lists)
 }
 
-func (lists Lists) Iterate() <-chan List {
-	ch := make(chan List)
+func (lists AnimeLists) Iterate() <-chan Anime {
+	ch := make(chan Anime)
 	go func() {
 		for _, anime := range lists {
 			ch <- anime
@@ -15,20 +15,29 @@ func (lists Lists) Iterate() <-chan List {
 	return ch
 }
 
-//easyjson:json
-type Lists []List
+type List struct {
+	Data Data `json:"data"`
+}
+
+type Data struct {
+	AnimeList AnimeLists `json:"animeList"`
+	TotalPage int        `json:"totalPage"`
+}
 
 //easyjson:json
-type List struct {
-	AcgSn        int          `json:"acg_sn"`
-	AnimeSn      int          `json:"anime_sn"`
+type AnimeLists []Anime
+
+//easyjson:json
+type Anime struct {
+	AcgSn        int          `json:"acgSn"`
+	AnimeSn      int          `json:"animeSn"`
+	VideoSn      int          `json:"videoSn"`
 	Title        string       `json:"title"`
-	DcC1         int          `json:"dc_c1"`
-	DcC2         int          `json:"dc_c2"`
 	Favorite     bool         `json:"favorite"`
 	Flag         int          `json:"flag"`
 	Cover        string       `json:"cover"`
-	Info         string       `json:"info"`
+	DateInfo     string       `json:"dateInfo"`
+	TotalEpisode int          `json:"totalEpisode"`
 	Popular      int          `json:"popular"`
 	HighlightTag HighlightTag `json:"highlightTag"`
 	Score        float64      `json:"score"`
@@ -36,7 +45,8 @@ type List struct {
 
 //easyjson:json
 type HighlightTag struct {
-	Bilingual bool   `json:"bilingual"`
-	Edition   string `json:"edition"`
-	VipTime   string `json:"vipTime"`
+	Bilingual  bool   `json:"bilingual"`
+	Edition    string `json:"edition"`
+	VipTime    string `json:"vipTime"`
+	NewArrival bool   `json:"newArrival"`
 }

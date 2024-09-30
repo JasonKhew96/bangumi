@@ -42,10 +42,6 @@ func easyjson26239f76DecodeScraperEntityBangumi(in *jlexer.Lexer, out *AnigamerD
 			out.AnimeSn = int(in.Int())
 		case "title":
 			out.Title = string(in.String())
-		case "dc_c1":
-			out.DcC1 = int(in.Int())
-		case "dc_c2":
-			out.DcC2 = int(in.Int())
 		case "is_bilingual":
 			out.IsBilingual = bool(in.Bool())
 		case "edition":
@@ -80,16 +76,6 @@ func easyjson26239f76EncodeScraperEntityBangumi(out *jwriter.Writer, in Anigamer
 		const prefix string = ",\"title\":"
 		out.RawString(prefix)
 		out.String(string(in.Title))
-	}
-	{
-		const prefix string = ",\"dc_c1\":"
-		out.RawString(prefix)
-		out.Int(int(in.DcC1))
-	}
-	{
-		const prefix string = ",\"dc_c2\":"
-		out.RawString(prefix)
-		out.Int(int(in.DcC2))
 	}
 	{
 		const prefix string = ",\"is_bilingual\":"
@@ -159,7 +145,7 @@ func easyjson26239f76DecodeScraperEntityBangumi1(in *jlexer.Lexer, out *Anigamer
 				in.Delim('[')
 				if out.Data == nil {
 					if !in.IsDelim(']') {
-						out.Data = make([]AnigamerData, 0, 0)
+						out.Data = make([]AnigamerData, 0, 1)
 					} else {
 						out.Data = []AnigamerData{}
 					}

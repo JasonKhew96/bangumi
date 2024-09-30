@@ -27,8 +27,6 @@ type Anigamer struct {
 	AcgSN     int64        `boil:"acg_sn" json:"acg_sn" toml:"acg_sn" yaml:"acg_sn"`
 	AnimeSN   int64        `boil:"anime_sn" json:"anime_sn" toml:"anime_sn" yaml:"anime_sn"`
 	Title     null.String  `boil:"title" json:"title,omitempty" toml:"title" yaml:"title,omitempty"`
-	DCC1      int64        `boil:"dc_c1" json:"dc_c1" toml:"dc_c1" yaml:"dc_c1"`
-	DCC2      int64        `boil:"dc_c2" json:"dc_c2" toml:"dc_c2" yaml:"dc_c2"`
 	Cover     null.String  `boil:"cover" json:"cover,omitempty" toml:"cover" yaml:"cover,omitempty"`
 	Popular   null.Int64   `boil:"popular" json:"popular,omitempty" toml:"popular" yaml:"popular,omitempty"`
 	Bilingual null.Bool    `boil:"bilingual" json:"bilingual,omitempty" toml:"bilingual" yaml:"bilingual,omitempty"`
@@ -46,8 +44,6 @@ var AnigamerColumns = struct {
 	AcgSN     string
 	AnimeSN   string
 	Title     string
-	DCC1      string
-	DCC2      string
 	Cover     string
 	Popular   string
 	Bilingual string
@@ -60,8 +56,6 @@ var AnigamerColumns = struct {
 	AcgSN:     "acg_sn",
 	AnimeSN:   "anime_sn",
 	Title:     "title",
-	DCC1:      "dc_c1",
-	DCC2:      "dc_c2",
 	Cover:     "cover",
 	Popular:   "popular",
 	Bilingual: "bilingual",
@@ -76,8 +70,6 @@ var AnigamerTableColumns = struct {
 	AcgSN     string
 	AnimeSN   string
 	Title     string
-	DCC1      string
-	DCC2      string
 	Cover     string
 	Popular   string
 	Bilingual string
@@ -90,8 +82,6 @@ var AnigamerTableColumns = struct {
 	AcgSN:     "anigamer.acg_sn",
 	AnimeSN:   "anigamer.anime_sn",
 	Title:     "anigamer.title",
-	DCC1:      "anigamer.dc_c1",
-	DCC2:      "anigamer.dc_c2",
 	Cover:     "anigamer.cover",
 	Popular:   "anigamer.popular",
 	Bilingual: "anigamer.bilingual",
@@ -320,8 +310,6 @@ var AnigamerWhere = struct {
 	AcgSN     whereHelperint64
 	AnimeSN   whereHelperint64
 	Title     whereHelpernull_String
-	DCC1      whereHelperint64
-	DCC2      whereHelperint64
 	Cover     whereHelpernull_String
 	Popular   whereHelpernull_Int64
 	Bilingual whereHelpernull_Bool
@@ -334,8 +322,6 @@ var AnigamerWhere = struct {
 	AcgSN:     whereHelperint64{field: "\"anigamer\".\"acg_sn\""},
 	AnimeSN:   whereHelperint64{field: "\"anigamer\".\"anime_sn\""},
 	Title:     whereHelpernull_String{field: "\"anigamer\".\"title\""},
-	DCC1:      whereHelperint64{field: "\"anigamer\".\"dc_c1\""},
-	DCC2:      whereHelperint64{field: "\"anigamer\".\"dc_c2\""},
 	Cover:     whereHelpernull_String{field: "\"anigamer\".\"cover\""},
 	Popular:   whereHelpernull_Int64{field: "\"anigamer\".\"popular\""},
 	Bilingual: whereHelpernull_Bool{field: "\"anigamer\".\"bilingual\""},
@@ -363,8 +349,8 @@ func (*anigamerR) NewStruct() *anigamerR {
 type anigamerL struct{}
 
 var (
-	anigamerAllColumns            = []string{"acg_sn", "anime_sn", "title", "dc_c1", "dc_c2", "cover", "popular", "bilingual", "edition", "vip_time", "score", "updated_at", "created_at"}
-	anigamerColumnsWithoutDefault = []string{"acg_sn", "dc_c1", "dc_c2", "updated_at", "created_at"}
+	anigamerAllColumns            = []string{"acg_sn", "anime_sn", "title", "cover", "popular", "bilingual", "edition", "vip_time", "score", "updated_at", "created_at"}
+	anigamerColumnsWithoutDefault = []string{"acg_sn", "updated_at", "created_at"}
 	anigamerColumnsWithDefault    = []string{"anime_sn", "title", "cover", "popular", "bilingual", "edition", "vip_time", "score"}
 	anigamerPrimaryKeyColumns     = []string{"anime_sn"}
 	anigamerGeneratedColumns      = []string{"anime_sn"}

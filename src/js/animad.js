@@ -21,7 +21,6 @@ export class AnimadTable extends BangumiList {
     const header = Wrapper.generate("tr")
       .createChild("th", "詳情")
       .createChild("th", "播放")
-      .createChild("th", "專區")
       .createChild("th", "標題");
     table.appendChild(header);
 
@@ -59,20 +58,6 @@ export class AnimadTable extends BangumiList {
             )
             .addClass("text-right")
             .addClass("td-fit")
-        )
-        .appendChild(
-          Wrapper.generate("td")
-            .addClass("td-fit")
-            .addClass("text-center")
-            .appendChild(
-              AnchorWrapper.generate(
-                "https://forum.gamer.com.tw/searchb.php?dc_c1=" +
-                  element.dc_c1 +
-                  "&dc_c2=" +
-                  element.dc_c2,
-                "📁"
-              )
-            )
         )
         .appendChild(Wrapper.generate("td", title));
       table.appendChild(tr);
